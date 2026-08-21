@@ -10,8 +10,18 @@
 3. [`030-concepts/`](./030-concepts/)에서 Git/GitHub와 협업 흐름을 연결합니다.
 4. [`040-official-docs/`](./040-official-docs/)를 기준 자료로 사용합니다.
 5. [`060-labs/`](./060-labs/)에서 직접 Repository, Branch, Issue, Pull Request를 다룹니다.
-6. [`070-exercises/`](./070-exercises/)와 [`080-question-bank/`](./080-question-bank/)로 문제 해결력을 확인합니다.
-7. [`110-mock-exams/`](./110-mock-exams/)에서 2회 연속 85% 이상이면 시험 응시를 권장합니다.
+6. [`070-exercises/`](./070-exercises/)와 [`080-question-bank/`](./080-question-bank/) Q001–Q100으로 문제 해결력을 확인합니다.
+7. [`110-mock-exams/`](./110-mock-exams/)의 Mock 01, Mock 02, Final Mock으로 시험 준비도를 검증합니다.
+8. [`130-progress/`](./130-progress/)와 [`150-evidence/`](./150-evidence/)에 실제 학습 결과를 기록합니다.
+
+## Status
+
+| 구분 | 상태 | 의미 |
+|---|---|---|
+| Content Status | **CONTENT-READY** | 1차 학습 콘텐츠 구축·검증 완료 |
+| Learning Status | **READY** | 실제 학습 시작 전 |
+
+콘텐츠 검증 기록: [`150-evidence/090-content-verification.md`](./150-evidence/090-content-verification.md)
 
 ## Exam Snapshot
 
@@ -58,13 +68,15 @@
   ↓
 연습문제
   ↓
-문제은행
+문제은행 Q001–Q100
   ↓
 최종 복습
   ↓
-모의고사
+Mock 01 → Mock 02 → Final Mock
   ↓
-오답 분석
+오답 분석 / Retry
+  ↓
+Exam Readiness Gate
   ↓
 시험
   ↓
@@ -82,16 +94,16 @@ CLEAR
 | 030 | [`030-concepts`](./030-concepts/) | 핵심 개념·비교·흐름 |
 | 040 | [`040-official-docs`](./040-official-docs/) | 공식 문서·Study Guide |
 | 050 | [`050-guides`](./050-guides/) | 입문자 설명·시험 접근법 |
-| 060 | [`060-labs`](./060-labs/) | 단계별 실습 |
+| 060 | [`060-labs`](./060-labs/) | Lab 010–100 |
 | 070 | [`070-exercises`](./070-exercises/) | 수행형 연습 |
-| 080 | [`080-question-bank`](./080-question-bank/) | 자체 제작 문제은행 |
-| 090 | [`090-final-review`](./090-final-review/) | 시험 직전 압축 복습 |
-| 100 | [`100-projects`](./100-projects/) | 통합 미니 프로젝트 |
-| 110 | [`110-mock-exams`](./110-mock-exams/) | 모의고사 |
-| 120 | [`120-wrong-answers`](./120-wrong-answers/) | 오답 분류·재학습 |
-| 130 | [`130-progress`](./130-progress/) | 진행률·Gate 관리 |
+| 080 | [`080-question-bank`](./080-question-bank/) | 자체 문제 Q001–Q100 |
+| 090 | [`090-final-review`](./090-final-review/) | Checklist·Confusion Matrix·시험전략 |
+| 100 | [`100-projects`](./100-projects/) | 통합 미니 프로젝트·Rubric |
+| 110 | [`110-mock-exams`](./110-mock-exams/) | Mock 01·02·Final |
+| 120 | [`120-wrong-answers`](./120-wrong-answers/) | 오답 분류·Retry Queue |
+| 130 | [`130-progress`](./130-progress/) | Daily Tracker·Readiness Gate·Score Log |
 | 140 | [`140-resources`](./140-resources/) | 추가 학습자료 |
-| 150 | [`150-evidence`](./150-evidence/) | 실습 증거·취득 기록 |
+| 150 | [`150-evidence`](./150-evidence/) | Lab·시험·회고·검증 Evidence |
 
 ## 7-Day Fast Track
 
@@ -102,23 +114,24 @@ CLEAR
 | 3 | Issue / Pull Request / Discussion / Notification |
 | 4 | Actions / Copilot / Codespaces / Projects |
 | 5 | Privacy / Security / Administration / Community |
-| 6 | 문제풀이 + 약점 실습 + Mock 1 |
-| 7 | Mock 2 + 오답 압축 복습 + Exam Gate |
+| 6 | Q001–Q100 + 약점 Lab + Mock 01 |
+| 7 | Mock 02 + Final Mock + 오답 압축 복습 + Exam Gate |
 
 ## Exam Readiness Gate
+
+상세 기준: [`130-progress/020-readiness-gate.md`](./130-progress/020-readiness-gate.md)
 
 - [ ] 공식 Study Guide 최신 범위 확인
 - [ ] 필수 용어 90% 이상 설명 가능
 - [ ] 핵심 Lab 80% 이상 직접 수행 가능
-- [ ] 자체 문제은행 80% 이상
-- [ ] Mock Exam 2회 연속 85% 이상
+- [ ] Q001–Q100 2회차 85% 이상
+- [ ] Mock Exam 최근 2회 연속 85% 이상
+- [ ] Final Mock 90% 이상 권장
 - [ ] 최근 오답 재시험 90% 이상
 
-## Status
+## Learning Status Flow
 
 **READY → LEARNING → PRACTICING → REVIEWING → EXAM-READY → PASSED → CLEAR**
-
-현재 상태: **READY**
 
 ## Official Baseline
 
@@ -131,4 +144,4 @@ CLEAR
 
 ---
 
-[← 통합 학습 시스템으로 돌아가기](../README.md)
+[← 통합 학습 시스템으로 돌아가기](../README.md) · [다음 과정: 002 GitHub Actions →](../002-actions/README.md)
