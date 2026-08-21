@@ -4,20 +4,22 @@
 
 시험 합격만을 위해 화면을 외우지 않습니다. 실제 Repository를 직접 다루면서 기능의 목적을 확인합니다.
 
+> 아래 `READY`는 **학습 콘텐츠가 준비됨**을 뜻합니다. 실제 학습 완료 여부는 [`130-progress`](../130-progress/README.md)에서 별도로 기록합니다.
+
 ## Lab Roadmap
 
-| Level | Lab | 핵심 기술 | 상태 |
+| Level | Lab | 핵심 기술 | 콘텐츠 상태 |
 |---:|---|---|---|
-| 010 | Git Basics | init, add, commit, status, log | READY |
-| 020 | Remote Repository | clone, remote, push, pull | READY |
-| 030 | Branch Workflow | branch, switch, merge | READY |
-| 040 | GitHub Flow | Issue → Branch → PR → Review → Merge | PLANNED |
-| 050 | Repository Documentation | README, LICENSE, CONTRIBUTING, SECURITY | PLANNED |
-| 060 | Collaboration | Labels, Assignee, Milestone, Discussions | PLANNED |
-| 070 | Projects | Views, Fields, Filters | PLANNED |
-| 080 | Modern Development | Actions, Copilot, Codespaces 관찰 | PLANNED |
-| 090 | Security Basics | 2FA, Permissions, Visibility, Branch Protection | PLANNED |
-| 100 | Community Contribution | Fork → PR → Open Source 흐름 | PLANNED |
+| 010 | [Git Basics](./010-git-basics/README.md) | init, add, commit, status, log | READY |
+| 020 | [Remote Repository](./020-remote-repository/README.md) | clone, remote, push, pull | READY |
+| 030 | [Branch Workflow](./030-branch-workflow/README.md) | branch, switch, merge | READY |
+| 040 | [GitHub Flow](./040-github-flow/README.md) | Issue → Branch → PR → Review → Merge | READY |
+| 050 | [Repository Documentation](./050-repository-documentation/README.md) | README, LICENSE, CONTRIBUTING, SECURITY, CODEOWNERS | READY |
+| 060 | [Collaboration](./060-collaboration/README.md) | Labels, Assignee, Milestone, Discussions, Notifications | READY |
+| 070 | [GitHub Projects](./070-projects/README.md) | Views, Fields, Filters, Issue/PR 연결 | READY |
+| 080 | [Modern Development](./080-modern-development/README.md) | Actions, Copilot, Codespaces 역할 구분 | READY |
+| 090 | [Security Basics](./090-security-basics/README.md) | 2FA, Permissions, Visibility, Rulesets/Branch Protection, Secrets | READY |
+| 100 | [Community Contribution](./100-community-contribution/README.md) | Fork → Clone → Branch → PR → Upstream | READY |
 
 ## 공통 Lab 구조
 
@@ -45,7 +47,31 @@ Foundations용 별도 연습 Repository를 만들 경우 예시:
 github-foundations-lab
 ```
 
-통합 Repository 자체를 사용해도 되지만, Branch·PR·Issue 실습은 별도 Sandbox Repository가 더 안전합니다.
+통합 Repository 자체를 사용해도 되지만, Branch·PR·Issue·Fork 실습은 별도 Sandbox Repository가 더 안전합니다.
+
+## 10-Lab Learning Path
+
+```text
+010 Git Basics
+ ↓
+020 Remote Repository
+ ↓
+030 Branch Workflow
+ ↓
+040 GitHub Flow
+ ↓
+050 Repository Documentation
+ ↓
+060 Collaboration
+ ↓
+070 GitHub Projects
+ ↓
+080 Modern Development
+ ↓
+090 Security Basics
+ ↓
+100 Community Contribution
+```
 
 ## 최소 완료 기준
 
@@ -53,8 +79,22 @@ github-foundations-lab
 - [ ] Remote Repository 연결과 Push/Pull 수행
 - [ ] Branch 생성·전환·병합 수행
 - [ ] Issue에서 시작해 PR과 Merge까지 완료
-- [ ] README / CONTRIBUTING / SECURITY 역할 설명
-- [ ] Fork 기반 기여 흐름 설명
+- [ ] README / LICENSE / CONTRIBUTING / SECURITY / CODEOWNERS 역할 설명
+- [ ] Label / Assignee / Milestone / Discussion을 상황별로 구분
+- [ ] GitHub Projects의 Field / View / Filter 설명
+- [ ] Actions / Copilot / Codespaces 역할 구분
+- [ ] 2FA / Visibility / Permission / Branch 보호 / Secret 기본 설명
+- [ ] Fork / Clone / origin / upstream 기반 기여 흐름 설명
+
+## 완료 후 다음 단계
+
+10개 Lab을 직접 수행했다면:
+
+1. [`070-exercises`](../070-exercises/README.md) 수행
+2. [`080-question-bank`](../080-question-bank/README.md) 문제풀이
+3. [`090-final-review`](../090-final-review/README.md) 압축 복습
+4. [`110-mock-exams`](../110-mock-exams/README.md) 모의고사
+5. [`120-wrong-answers`](../120-wrong-answers/README.md) 오답 재학습
 
 ---
 
