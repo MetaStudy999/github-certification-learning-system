@@ -1,127 +1,70 @@
-# 070 Exercises — 수행형 연습문제
+# 070 Exercises — 수행형 연습
 
-> 실제 GH-900 문항 복제가 아닌 **학습목표 기반 자체 연습**입니다.
+> 실제 GH-900 시험 문항이나 Brain Dump를 복제하지 않습니다. **공식 학습목표를 바탕으로 직접 수행·설명·판단하는 자체 연습**만 사용합니다.
 
 ## Quick Start
 
-정답을 보기 전에 GitHub 화면 또는 Local Git에서 직접 해결합니다.
+1. 문제를 읽고 정답부터 찾지 않습니다.
+2. 가능한 항목은 GitHub 화면 또는 Local Git에서 직접 수행합니다.
+3. 답을 말할 때는 **무엇인가 → 왜 쓰는가 → 언제 쓰는가**까지 설명합니다.
+4. 막히면 관련 Lab을 다시 수행한 뒤 같은 Exercise를 재도전합니다.
 
-## Exercise 01 — Git vs GitHub
+## Exercise Roadmap
 
-다음 두 문장을 각각 Git 또는 GitHub와 연결하고 이유를 설명하세요.
+| 코드 | 영역 | 핵심 내용 | 권장 선행 Lab |
+|---:|---|---|---|
+| 010 | [Git & GitHub Basics](./010-git-github-basics/README.md) | Git, GitHub, Commit, Branch, Remote | Lab 010~030 |
+| 020 | [Repositories](./020-repositories/README.md) | Repository, 문서, Clone/Fork, Visibility | Lab 020, 050 |
+| 030 | [Collaboration](./030-collaboration/README.md) | Issue, PR, Review, Discussion, GitHub Flow | Lab 040, 060 |
+| 040 | [Modern Development & Projects](./040-modern-development-projects/README.md) | Actions, Copilot, Codespaces, Projects | Lab 070~080 |
+| 050 | [Security, Administration & Community](./050-security-admin-community/README.md) | 2FA, 권한, 보호 규칙, InnerSource, Open Source | Lab 090~100 |
 
-1. 인터넷 연결 없이 Local에서 Commit 이력을 관리한다.
-2. Pull Request에서 Review와 Discussion을 진행한다.
-
-**완료 기준:** 기술과 플랫폼의 차이를 2문장으로 설명.
-
-## Exercise 02 — Repository 핵심 문서
-
-아래 상황에 가장 적합한 파일을 선택하세요.
-
-- 신규 기여자에게 PR 작성 규칙을 설명하고 싶다.
-- 보안 취약점 신고 방법을 공개하고 싶다.
-- 특정 디렉터리 변경 시 자동으로 Review 책임자를 지정하고 싶다.
-- 오픈소스 사용·수정·배포 조건을 명확히 하고 싶다.
-
-후보: `README`, `LICENSE`, `CONTRIBUTING`, `CODEOWNERS`, `SECURITY`
-
-## Exercise 03 — Clone vs Fork
-
-두 상황을 비교하세요.
-
-A. 내가 Write 권한을 가진 팀 Repository를 Local에서 개발한다.  
-B. Write 권한이 없는 공개 프로젝트에 변경을 제안한다.
-
-각각 `Clone`과 `Fork`를 어떻게 활용할지 설명하세요.
-
-## Exercise 04 — GitHub Flow 순서
-
-아래 항목을 일반적인 흐름으로 정렬하세요.
+## 권장 학습 방식
 
 ```text
-Review
-Branch
-Merge
-Issue
-Pull Request
-Commit
+Exercise 읽기
+   ↓
+내 답 먼저 작성
+   ↓
+GitHub / Git에서 직접 확인
+   ↓
+관련 Lab 재수행
+   ↓
+한 문장으로 핵심 정리
+   ↓
+Question Bank로 이동
 ```
 
-그리고 각 단계의 목적을 한 줄씩 적습니다.
+## 완료 기준
 
-## Exercise 05 — Issue vs Discussion
+각 Exercise Set에서 다음 기준을 적용합니다.
 
-다음 상황에서 더 적절한 기능을 고르세요.
+- **90~100%**: 다음 영역으로 진행
+- **80~89%**: 틀린 항목만 관련 Lab 재수행
+- **70~79%**: Terms + Concepts + Lab 복습
+- **70% 미만**: 해당 Domain을 처음부터 다시 학습
 
-1. 재현 가능한 로그인 오류를 추적한다.
-2. 다음 버전의 방향에 대해 커뮤니티 의견을 수집한다.
-3. 특정 기능 구현 담당자를 지정한다.
-4. 사용자 Q&A 공간을 운영한다.
+## 최종 수행 과제
 
-## Exercise 06 — Modern Development Tools
+자료를 보지 않고 다음 흐름을 설명하고 직접 재현합니다.
 
-다음 문제를 해결할 GitHub 기능을 고르세요.
+```text
+Issue
+→ Branch
+→ Commit
+→ Push
+→ Pull Request
+→ Review
+→ Merge
+```
 
-- Push할 때마다 Test를 자동 실행한다.
-- 브라우저에서 즉시 개발환경을 띄운다.
-- AI로 코드 설명과 수정 아이디어를 얻는다.
-- Issue와 PR 진행 상황을 Board 형태로 관리한다.
+그리고 다음 다섯 쌍의 차이를 설명합니다.
 
-후보: Actions, Codespaces, Copilot, Projects
-
-## Exercise 07 — 보안과 접근
-
-아래 목표에 가장 직접적으로 대응하는 기능이나 개념을 적습니다.
-
-1. 계정 로그인 보안을 강화한다.
-2. `main` Branch에 직접 Push하는 것을 제한한다.
-3. Organization 구성원을 그룹으로 관리한다.
-4. Repository를 공개 또는 비공개로 설정한다.
-
-## Exercise 08 — Open Source vs InnerSource
-
-다음 두 모델을 비교표로 작성하세요.
-
-- 외부 공개 프로젝트에 다양한 조직의 사용자가 기여
-- 회사 내부 여러 팀이 오픈소스 방식으로 공통 프로젝트에 기여
-
-## Exercise 09 — 명령어 연결
-
-각 목적에 맞는 명령을 적습니다.
-
-- 상태 확인
-- 변경 Stage
-- Commit
-- 새 Branch 생성과 전환
-- Remote 변경 정보만 가져오기
-- Remote 변경 가져와 통합
-- Local Commit을 Remote로 보내기
-
-## Exercise 10 — Mini Scenario
-
-상황:
-
-> 팀이 `main`을 안정적으로 유지하면서 새로운 문서 기능을 개발하고, 동료 Review를 받은 뒤 반영하고 싶다.
-
-다음을 포함한 전체 절차를 작성하세요.
-
-- Issue
-- Branch
-- Commit
-- Push
-- Pull Request
-- Review
-- Merge
-
-## 자가 평가
-
-| 점수 | 의미 |
-|---:|---|
-| 9–10 | 다음 단계 진행 |
-| 7–8 | 틀린 영역 Lab 재수행 |
-| 5–6 | Terms + Concepts 복습 |
-| 0–4 | Overview부터 다시 연결 |
+1. Git vs GitHub
+2. Clone vs Fork
+3. Fetch vs Pull
+4. Issue vs Discussion
+5. Public vs Private Repository
 
 ---
 
