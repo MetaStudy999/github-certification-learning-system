@@ -16,9 +16,9 @@
 → 다시 풀기
 ```
 
-## 50-Question Phase
+## 100-Question Phase
 
-현재 1차 목표는 **50문제**입니다.
+현재 문제은행은 **Q001–Q100**까지 구축되었습니다.
 
 | 코드 | Set | 문제 | 핵심 영역 |
 |---:|---|---:|---|
@@ -27,21 +27,27 @@
 | 030 | [Collaboration & Scenario](./030-collaboration-scenario/README.md) | Q021–Q030 | Issue, PR, Review, GitHub Flow |
 | 040 | [Modern Development & Projects](./040-modern-development-projects/README.md) | Q031–Q040 | Actions, Copilot, Codespaces, Projects |
 | 050 | [Security, Admin & Community](./050-security-admin-community/README.md) | Q041–Q050 | 2FA, 권한, 보호, Open Source |
+| 060 | [Git Workflow](./060-git-workflow/README.md) | Q051–Q060 | Git 명령·Branch·Remote |
+| 070 | [Repository Governance](./070-repository-governance/README.md) | Q061–Q070 | 문서·권한·Ruleset·조직 |
+| 080 | [Collaboration Scenarios](./080-collaboration-scenarios/README.md) | Q071–Q080 | Issue·PR·Review·Checks |
+| 090 | [Products & Community](./090-products-community/README.md) | Q081–Q090 | Actions·Copilot·Codespaces·Community |
+| 100 | [Mixed Gate](./100-mixed-gate/README.md) | Q091–Q100 | 전 범위 혼합 |
 
 ## 점수 기준
 
 | 정답률 | 조치 |
 |---:|---|
-| 90–100% | 다음 Set 진행 |
-| 80–89% | 오답만 재학습 후 진행 |
+| 90–100% | Mock Exam 진행 |
+| 80–89% | 오답만 재학습 후 Mock 진행 |
 | 70–79% | 관련 Exercise + Lab 재수행 |
 | 70% 미만 | Terms + Concepts부터 복습 |
 
-### 50문제 Gate
+### 100문제 Gate
 
-- 1회차 목표: **40/50 이상 (80%)**
-- 2회차 목표: **43/50 이상 (86%)**
-- 오답 재시험: **90% 이상**
+- 1회차 목표: **80/100 이상**
+- 2회차 목표: **85/100 이상**
+- 최근 오답 재시험: **90% 이상**
+- Compare 반복 오류: Confusion Matrix에 반영
 
 ## 문제 설계 원칙
 
@@ -51,29 +57,45 @@
 - 보안 설정을 약화시키는 실습은 요구하지 않습니다.
 - 실제 시험 문항을 수집하거나 재현하지 않습니다.
 
+## Mock 연계
+
+100문제 Gate를 통과하면 다음으로 이동합니다.
+
+```text
+Q001–Q100
+  ↓
+Mock 01 (40)
+  ↓
+Mock 02 (40)
+  ↓
+Final Mock (40)
+  ↓
+오답 재시험
+  ↓
+EXAM-READY
+```
+
+모의고사는 [`../110-mock-exams/`](../110-mock-exams/)에 구축되어 있습니다.
+
 ## 다음 확장
 
 ```text
-50문제
-  ↓
-100문제
+100문제 [CURRENT]
   ↓
 150문제
   ↓
 200문제
-  ↓
-Mock Exam 01 / 02 / Final
 ```
 
-최종 목표: **200문제 자체 문제은행 + Domain-balanced Mock Exam**
+단, 문제 수를 늘리기 전에 **100문제 + Mock 3회 + 오답 Cycle**을 먼저 수행합니다.
 
 ## 점수 기록
 
 | 회차 | 정답 | 전체 | 정답률 | 약점 Domain | 다음 행동 |
 |---:|---:|---:|---:|---|---|
-| 1 |  | 50 |  |  |  |
-| 2 |  | 50 |  |  |  |
+| 1 |  | 100 |  |  |  |
+| 2 |  | 100 |  |  |  |
 
 ---
 
-[← 070 Exercises](../070-exercises/README.md) · [010 Basics 시작 →](./010-basics/README.md)
+[← 070 Exercises](../070-exercises/README.md) · [Q001 시작 →](./010-basics/README.md)
