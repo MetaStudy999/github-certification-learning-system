@@ -16,8 +16,8 @@ GitHub 공식 자격증 6종을 **기초 → 자동화 → AI 활용 → 운영 
 |---:|---|---|---|---|
 | 001 | [GitHub Foundations](./001-foundations/) | GH-900 | **CONTENT-READY** | READY |
 | 002 | [GitHub Actions](./002-actions/) | GH-200 | **CONTENT-READY** | PLANNED |
-| 003 | [GitHub Copilot](./003-copilot/) | GH-300 | **BUILDING** | PLANNED |
-| 004 | [GitHub Administration](./004-administration/) | GH-100 | BOOTSTRAPPED | PLANNED |
+| 003 | [GitHub Copilot](./003-copilot/) | GH-300 | **CONTENT-READY** | PLANNED |
+| 004 | [GitHub Administration](./004-administration/) | GH-100 | **BUILDING** | PLANNED |
 | 005 | [GitHub Advanced Security](./005-advanced-security/) | GH-500 | BOOTSTRAPPED | PLANNED |
 | 006 | [GitHub Agentic AI Developer](./006-agentic-ai-developer/) | GH-600 | BOOTSTRAPPED | PLANNED |
 
@@ -157,4 +157,4 @@ github-certification-learning-system/
 
 ---
 
-**Current Phase:** `001 Foundations = CONTENT-READY` / `002 Actions = CONTENT-READY` / `003 Copilot = BUILDING`
+**Current Phase:** `001 Foundations = CONTENT-READY` / `002 Actions = CONTENT-READY` / `003 Copilot = CONTENT-READY` / `004 Administration = BUILDING`
