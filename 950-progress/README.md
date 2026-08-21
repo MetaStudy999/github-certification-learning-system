@@ -5,11 +5,12 @@
 ## Quick Start
 
 1. 이 Dashboard에서 전체 상태를 확인합니다.
-2. 실제 학습을 시작한 과정만 `Learning Status`를 변경합니다.
-3. 상세 점수와 일일 기록은 각 과정의 `130-progress/`에서 관리합니다.
-4. [`020-fast-track-dashboard.md`](./020-fast-track-dashboard.md)에서 6주 Fast Track을 추적합니다.
-5. [`030-exam-plan.md`](./030-exam-plan.md)에 실제 시험 예약일을 기록합니다.
-6. [`090-status-policy.md`](./090-status-policy.md)의 상태 정의를 기준으로 변경합니다.
+2. 실제 학습 세션은 [`010-study-session-template.md`](./010-study-session-template.md) 형식으로 기록합니다.
+3. 실제 학습을 시작한 과정만 `Learning Status`를 변경합니다.
+4. 상세 점수와 일일 기록은 각 과정의 `130-progress/`에서 관리합니다.
+5. [`020-fast-track-dashboard.md`](./020-fast-track-dashboard.md)에서 6주 Fast Track을 추적합니다.
+6. [`030-exam-plan.md`](./030-exam-plan.md)에 실제 시험 예약일을 기록합니다.
+7. [`090-status-policy.md`](./090-status-policy.md)의 상태 정의를 기준으로 변경합니다.
 
 ## Master Dashboard
 
