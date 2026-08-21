@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - '**/*.md'
       - '.github/workflows/normalize-language-notation.yml'
       - 'scripts/normalize-language-notation.py'
       - 'scripts/finalize-language-notation.py'
@@ -41,6 +42,9 @@ jobs:
 
       - name: 최종 점검 보고서 갱신 (Final Audit Refresh, FAR)
         run: python scripts/normalize-language-notation.py
+
+      - name: 표준 원본 보존 (Preserve Standard Source, PSS)
+        run: git checkout -- 000-start-here/060-language-notation-standard.md
 
       - name: 변경 검증 (Validate Changes, VC)
         run: git diff --check
