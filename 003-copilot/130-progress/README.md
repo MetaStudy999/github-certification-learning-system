@@ -2,7 +2,7 @@
 
 ## Status
 
-- Content Status: **BUILDING**
+- Content Status: **CONTENT-READY**
 - Learning Status: **PLANNED**
 
 > 콘텐츠 구축 상태와 실제 학습 상태를 분리합니다. 문서가 완성되어도 실제로 공부하지 않았다면 Learning Status는 `PLANNED` 또는 `READY`입니다.
