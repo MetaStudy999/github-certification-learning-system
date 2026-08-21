@@ -1,8 +1,23 @@
 # 130 Progress — 진행률 Dashboard
 
+> 이 디렉터리는 **콘텐츠 구축 상태(Content Status)** 와 **실제 학습 상태(Learning Status)** 를 분리해서 관리합니다.
+
+## Quick Start
+
+1. [`010-daily-tracker.md`](./010-daily-tracker.md)에서 매일 학습량을 기록합니다.
+2. [`020-readiness-gate.md`](./020-readiness-gate.md)에서 시험 응시 조건을 확인합니다.
+3. [`030-score-log.md`](./030-score-log.md)에 문제은행과 Mock 점수를 누적합니다.
+4. 실제 학습을 시작하기 전 상태는 `READY`로 유지합니다.
+
 ## Status
 
-현재 과정 상태: **READY**
+### Content Status
+
+**CONTENT-READY** — Foundations 학습 콘텐츠의 1차 구축이 완료된 상태입니다.
+
+### Learning Status
+
+현재 실제 학습 상태: **READY**
 
 ```text
 READY
@@ -45,35 +60,25 @@ READY
 | 공식 학습자료 | 100% | 0% |
 | 필수 용어 | 90%+ | 0% |
 | 핵심 Lab | 80%+ | 0% |
-| 문제은행 | 80%+ | - |
+| 문제은행 Q001–Q100 | 80%+ | - |
 | Mock 최근 2회 | 85%+ | - |
+| Final Mock | 90%+ 권장 | - |
 | 오답 재시험 | 90%+ | - |
 
-## Weekly Log
-
-```text
-Date:
-Study time:
-Completed domains:
-Labs completed:
-Question score:
-Mock score:
-Top weakness:
-Next action:
-```
+> 위의 `0%`와 `-`는 **콘텐츠가 없다는 뜻이 아니라 아직 실제 학습 결과를 입력하지 않았다는 뜻**입니다.
 
 ## CLEAR 기준
 
-`PASSED`는 자격증 시험 합격 상태입니다.
-
-`CLEAR`는 다음을 모두 충족한 상태로 관리합니다.
+`PASSED`는 GH-900 시험 합격 상태입니다. `CLEAR`는 다음을 모두 만족할 때 사용합니다.
 
 - [ ] GH-900 합격
 - [ ] 핵심 Lab 완료
-- [ ] Foundations 통합 Project 완료
+- [ ] Foundations 통합 Project 80점 이상
 - [ ] Evidence 정리
+- [ ] 문제은행 및 Mock 기록 보존
 - [ ] 핵심 개념을 다른 사람에게 설명 가능
+- [ ] 다음 과정(002 Actions)으로 전달할 선수지식 정리
 
 ---
 
-[← 120 Wrong Answers](../120-wrong-answers/README.md) · [다음: 140 Resources →](../140-resources/README.md)
+[← 120 Wrong Answers](../120-wrong-answers/README.md) · [Daily Tracker →](./010-daily-tracker.md) · [다음: 140 Resources →](../140-resources/README.md)
