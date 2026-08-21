@@ -2,8 +2,16 @@
 
 ## Status
 
-- Content Status: **BUILDING**
+- Content Status: **CONTENT-READY**
 - Learning Status: **PLANNED**
+
+> `CONTENT-READY`는 학습 자료 구축이 완료되었다는 뜻이며, 실제 학습 완료를 의미하지 않습니다.
+
+## Progress Files
+
+- [010 Daily Tracker](./010-daily-tracker.md)
+- [020 Readiness Gate](./020-readiness-gate.md)
+- [030 Score Log](./030-score-log.md)
 
 ## Domain Progress
 
@@ -31,7 +39,17 @@
 
 - [ ] 공식 Study Guide 최신 확인
 - [ ] Lab 010–100 중 핵심 80% 이상 완료
+- [ ] Exercise 6개 영역 80% 이상 설명
+- [ ] Question Bank 1회차 80% 이상
 - [ ] Question Bank 2회차 85% 이상
 - [ ] 최근 Mock 2회 연속 85% 이상
 - [ ] Final Mock 90% 이상 권장
 - [ ] 오답 재시험 90% 이상
+
+## Status Flow
+
+`PLANNED → READY → LEARNING → PRACTICING → REVIEWING → EXAM-READY → PASSED → CLEAR`
+
+---
+
+[← 120 Wrong Answers](../120-wrong-answers/README.md) · [다음: 140 Resources →](../140-resources/README.md)
