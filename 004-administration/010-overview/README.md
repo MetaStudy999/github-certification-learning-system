@@ -1,0 +1,118 @@
+# 010 Overview — GH-100 GitHub Administration
+
+## Quick Start
+
+2026년 7월 GH-100은 크게 개정되었습니다. 이 과정은 오래된 관리자 기능 목록이 아니라 **현재 5개 Skill Area**를 기준으로 학습합니다.
+
+## Skills Measured — July 2026
+
+| # | Skill Area | 비중 |
+|---:|---|---:|
+| 1 | Manage GitHub identities and access | 15–20% |
+| 2 | Administer GitHub Enterprise environment | 10–15% |
+| 3 | Implement secure software development and compliance | 25–30% |
+| 4 | Manage GitHub Actions | 20–25% |
+| 5 | Monitor and optimize GitHub usage | 10–15% |
+
+## 1. Identities and Access
+
+반드시 이해할 내용:
+
+- Managed Users vs Personal Accounts
+- SAML SSO / 2FA
+- SCIM / Team Synchronization
+- Identity Provider (IdP)
+- Authentication vs Authorization
+- Organization / Repository Roles
+- Enterprise Teams
+- Access Audit
+- Policies / Rulesets / Roles
+
+## 2. Enterprise Environment
+
+- Admin이 해결할 문제 vs GitHub Support가 필요한 문제
+- Support Bundle / Diagnostics
+- Workflow / Branch / Review / Release Standards
+- GHEC + EMU
+- GHEC + Data Residency + EMU
+- GHEC + Personal Accounts
+- GHES
+- Licensing / Billing / Consumption
+
+## 3. Secure Software Development and Compliance
+
+현재 가장 높은 비중입니다.
+
+- Enterprise / Organization Policies
+- Rulesets
+- Security Posture / Data Protection
+- Audit Logging / Reporting
+- Vulnerability Alerts
+- Secret Scanning
+- CodeQL
+- Dependabot
+- Security Advisories
+- Security Response Plan
+- Personal Access Token (PAT)
+- GitHub Apps / OAuth Apps
+- API Rate Limits
+- App Approval Policy
+
+## 4. GitHub Actions
+
+- Reuse of Actions / Workflows
+- Organization Policies
+- Runner Groups
+- GitHub-hosted vs Self-hosted Runner
+- IP Allow Lists
+- Azure Private Networking
+- Runner Performance
+- Organization / Repository Secrets
+- Third-party Vaults
+
+## 5. Monitor and Optimize
+
+- Audit Logs
+- API Usage
+- Diagnostics
+- Adoption / Activity / Underused Features
+- Metered Product Usage Reports
+- License Optimization
+- Resource / Cost Optimization
+
+## Enterprise Admin Thinking Model
+
+```text
+Requirement
+→ Deployment Model
+→ Identity
+→ Access
+→ Governance
+→ Security
+→ Automation
+→ Operations
+→ Audit / Cost
+```
+
+시험에서는 특정 기능의 존재 여부보다 **어떤 관리 문제에 어떤 Enterprise 기능과 정책을 적용하는가**가 중요합니다.
+
+## 7-Day Fast Track
+
+| Day | 핵심 학습 | 결과물 |
+|---:|---|---|
+| 1 | Identity / SSO / SCIM / IdP | Identity 비교표 |
+| 2 | Roles / Teams / Policies / Rulesets | Access Matrix |
+| 3 | Deployment / Licensing / Support | Deployment Decision Table |
+| 4 | Security / Apps / PAT | Security Governance Map |
+| 5 | Actions / Runners / Network / Secrets | Actions Admin Blueprint |
+| 6 | Audit / Usage / Cost + QBank | Weakness Report |
+| 7 | Mock / Final Review | Exam Gate |
+
+## Version Rule
+
+- 시험 시작 전 Microsoft Learn GH-100 Study Guide의 `Skills measured as of`를 확인합니다.
+- 2026년 7월 이전 자료는 **현재 범위와 대조한 뒤** 사용합니다.
+- Preview 기능은 공식 Study Guide에 포함될 수 있으므로 시험 직전 공식 Docs를 확인합니다.
+
+---
+[← Administration 홈](../README.md) · [다음: 020 Terms →](../020-terms/README.md)
