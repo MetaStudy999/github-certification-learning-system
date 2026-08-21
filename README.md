@@ -15,8 +15,8 @@ GitHub 공식 자격증 6종을 **기초 → 자동화 → AI 활용 → 운영 
 | 코드 | 자격증 | 시험 코드 | Content Status | Learning Status |
 |---:|---|---|---|---|
 | 001 | [GitHub Foundations](./001-foundations/) | GH-900 | **CONTENT-READY** | READY |
-| 002 | [GitHub Actions](./002-actions/) | GH-200 | **BUILDING** | PLANNED |
-| 003 | [GitHub Copilot](./003-copilot/) | GH-300 | BOOTSTRAPPED | PLANNED |
+| 002 | [GitHub Actions](./002-actions/) | GH-200 | **CONTENT-READY** | PLANNED |
+| 003 | [GitHub Copilot](./003-copilot/) | GH-300 | **BUILDING** | PLANNED |
 | 004 | [GitHub Administration](./004-administration/) | GH-100 | BOOTSTRAPPED | PLANNED |
 | 005 | [GitHub Advanced Security](./005-advanced-security/) | GH-500 | BOOTSTRAPPED | PLANNED |
 | 006 | [GitHub Agentic AI Developer](./006-agentic-ai-developer/) | GH-600 | BOOTSTRAPPED | PLANNED |
@@ -50,8 +50,6 @@ PLANNED
 → PASSED
 → CLEAR
 ```
-
-이 분리 덕분에 문서가 완성되어 있어도 실제 학습을 하지 않았다면 `READY` 또는 `PLANNED`로 정확히 표시할 수 있습니다.
 
 ## Learning Cycle
 
@@ -106,8 +104,6 @@ github-certification-learning-system/
 
 ## Standard Internal Course Structure
 
-각 자격증 과정은 가능한 한 동일한 구조를 유지합니다.
-
 ```text
 010 Overview
 020 Terms
@@ -161,4 +157,4 @@ github-certification-learning-system/
 
 ---
 
-**Current Phase:** `001 Foundations = CONTENT-READY` / `002 Actions = BUILDING`
+**Current Phase:** `001 Foundations = CONTENT-READY` / `002 Actions = CONTENT-READY` / `003 Copilot = BUILDING`
