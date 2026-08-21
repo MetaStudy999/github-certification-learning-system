@@ -278,14 +278,16 @@ github-certification-learning-system/
 
 # Portfolio Growth Path
 
+단계가 많아져도 글자가 작아지지 않도록 **세로형(Top → Down)**으로 구성했습니다.
+
 ```mermaid
-flowchart LR
-    A[Foundations<br/>Repository & Collaboration]
-    --> B[Actions<br/>CI/CD Automation]
-    --> C[Copilot<br/>AI-Assisted Development]
-    --> D[Administration<br/>Enterprise Governance]
-    --> E[Advanced Security<br/>Secure SDLC]
-    --> F[Agentic AI<br/>Agent · MCP · Evaluation · Guardrails]
+flowchart TD
+    A[001 GitHub Foundations<br/>Repository / Collaboration]
+    --> B[002 GitHub Actions<br/>Workflow / CI/CD / Automation]
+    --> C[003 GitHub Copilot<br/>AI-Assisted Development]
+    --> D[004 GitHub Administration<br/>Enterprise Governance]
+    --> E[005 GitHub Advanced Security<br/>Secure SDLC / DevSecOps]
+    --> F[006 GitHub Agentic AI Developer<br/>Agent / MCP / Evaluation / Guardrails]
     --> G[Final Capstone<br/>AI-Native Secure Software Development Platform]
 ```
 
