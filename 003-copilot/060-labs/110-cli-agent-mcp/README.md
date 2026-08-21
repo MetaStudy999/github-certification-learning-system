@@ -85,7 +85,7 @@ MCP Server를 연결한다고 가정하고 다음을 표로 작성합니다.
 - [ ] Agent Tool 권한에 최소 권한 원칙을 적용함
 - [ ] Agent 결과를 Test / Review로 검증하는 절차를 작성함
 
-## Evidence
+## 증빙 (Evidence, EVD)
 
 ```text
 Date:

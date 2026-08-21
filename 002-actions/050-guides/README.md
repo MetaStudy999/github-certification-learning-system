@@ -1,4 +1,4 @@
-# 050 Guides — 입문자용 GitHub Actions 가이드
+# 050 Guides — 입문자용 GitHub 액션 (GitHub Actions, GHACT / GH-200) 가이드
 
 ## 가장 먼저 이해할 문장
 

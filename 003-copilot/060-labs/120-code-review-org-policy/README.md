@@ -87,7 +87,7 @@ Instructions File을 사용할 수 있는 환경이라면 어떤 지침을 넣�
 - [ ] Audit Log의 목적 설명
 - [ ] REST API를 통한 Subscription 관리가 어떤 관리 시나리오에 쓰이는지 설명
 
-## Evidence
+## 증빙 (Evidence, EVD)
 
 ```text
 Date:

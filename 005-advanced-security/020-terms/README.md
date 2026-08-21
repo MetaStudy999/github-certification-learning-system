@@ -1,4 +1,4 @@
-# 020 Terms — GitHub Advanced Security 핵심 용어
+# 020 Terms — GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) 핵심 용어
 
 | English | 약어 | 한국어/핵심 의미 |
 |---|---|---|

@@ -1,6 +1,6 @@
 # 090 Final Review — GH-200 시험 직전 복습
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 시험 직전에는 새로운 기능을 크게 추가하지 않고 **비교 → 보안 → Troubleshooting → 최근 오답** 순서로 압축합니다.
 

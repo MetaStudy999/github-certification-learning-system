@@ -4,7 +4,7 @@
 
 Copilot을 Code Generation에만 한정하지 않고 **Refactoring, Documentation, Testing, Debugging, Security, Performance**까지 SDLC 전반에 적용하되 결과를 검증합니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 ### E050-01 — Code Generation
 작은 기능 요구사항을 작성하고 Copilot에 구현을 요청합니다. 생성 코드에서 `요구사항 충족 / Error Handling / Testability / Security`를 각각 확인하세요.

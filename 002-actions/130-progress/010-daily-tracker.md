@@ -1,6 +1,6 @@
 # 010 Daily Tracker — GH-200
 
-| Day | Theory | Lab | Exercises | Questions | Score | Status |
+| Day | Theory | Lab | 연습문제 (Exercises, EXR) | Questions | Score | Status |
 |---:|---|---|---|---|---:|---|
 | 1 | Workflow/Event/Job/Step | Lab 010–020 | 010 | Q001–Q020 |  | ⬜ |
 | 2 | Context/Expression | Lab 030 | 020 | Q011–Q020 |  | ⬜ |

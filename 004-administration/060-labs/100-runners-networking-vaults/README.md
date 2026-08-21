@@ -75,7 +75,7 @@ Workflow authentication:
 Failure handling:
 ```
 
-## Troubleshooting
+## 문제 해결 (Troubleshooting, TS)
 
 Runner가 느릴 때:
 

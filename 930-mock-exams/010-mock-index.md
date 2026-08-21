@@ -1,6 +1,6 @@
 # 010 Mock Index — 6개 자격증 모의고사
 
-| 코드 | 자격증 | Mock 01 | Mock 02 | Final Mock | 총 문항 |
+| 코드 | 자격증 | Mock 01 | Mock 02 | 최종 모의고사 (Final Mock, FM) | 총 문항 |
 |---:|---|---|---|---|---:|
 | 001 | Foundations | [`010`](../001-foundations/110-mock-exams/010-mock-01/) | [`020`](../001-foundations/110-mock-exams/020-mock-02/) | [`030`](../001-foundations/110-mock-exams/030-final-mock/) | 120 |
 | 002 | Actions | [`010`](../002-actions/110-mock-exams/010-mock-01/) | [`020`](../002-actions/110-mock-exams/020-mock-02/) | [`030`](../002-actions/110-mock-exams/030-final-mock/) | 120 |

@@ -1,9 +1,9 @@
-# 003 GitHub Copilot
+# 003 GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300)
 
 > **GitHub Copilot · GH-300**  
 > GitHub 자격증 학습 시스템의 세 번째 과정이며, AI 개발 지원 기능을 **책임감 있게 이해하고 실제 개발 Workflow에 적용**하는 과정입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-overview/`](./010-overview/)에서 **2026-08-07 적용 시험 범위**를 먼저 확인합니다.
 2. [`020-terms/`](./020-terms/)에서 Generative AI, LLM, Prompt, Context, Agent Mode, MCP, CLI 등 핵심 용어를 학습합니다.
@@ -18,16 +18,16 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **CONTENT-READY** | 2026-08 개정 범위·Lab·100문제·Mock·Evidence 구축 완료 |
-| Learning Status | **PLANNED** | 실제 학습 시작 전 |
+| 콘텐츠 상태 (Content Status, CS) | **CONTENT-READY** | 2026-08 개정 범위·Lab·100문제·Mock·Evidence 구축 완료 |
+| 학습 상태 (Learning Status, LS) | **PLANNED** | 실제 학습 시작 전 |
 
 콘텐츠 구축 검증: [`150-evidence/090-content-verification.md`](./150-evidence/090-content-verification.md)
 
-## Exam Snapshot
+## 시험 개요 (Exam Snapshot, ES)
 
 | 항목 | 내용 |
 |---|---|
-| 자격증 | GitHub Copilot |
+| 자격증 | GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) |
 | 시험 | GH-300 |
 | 수준 | Intermediate (중급) |
 | 시험 시간 | 100분 |
@@ -155,7 +155,7 @@ Human Review / Verification
 Privacy / Security Check
 ```
 
-## Exam Readiness Gate
+## 시험 준비도 통과 기준 (Exam Readiness Gate, ERG)
 
 - [ ] 최신 Microsoft Learn GH-300 Study Guide 확인
 - [ ] 6개 Skill Area를 비중과 함께 설명 가능

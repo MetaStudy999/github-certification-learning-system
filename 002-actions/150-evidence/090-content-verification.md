@@ -18,13 +18,13 @@
 - [x] 140 Resources
 - [x] 150 Evidence Templates
 
-## Content Status
+## 콘텐츠 상태 (Content Status, CS)
 
 **CONTENT-READY**
 
 이 상태는 학습 콘텐츠와 학습 관리 구조가 준비되었다는 뜻입니다. 실제 시험 준비 상태는 `130-progress/`의 Gate로 별도 판단합니다.
 
-## Learning Status
+## 학습 상태 (Learning Status, LS)
 
 **PLANNED**
 

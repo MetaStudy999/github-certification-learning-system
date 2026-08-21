@@ -2,7 +2,7 @@
 
 > 실제 시험 문항을 재현하지 않습니다. **2026-08-07 GH-300 Skills Measured**를 기반으로 직접 설명·판단·검증하는 과제입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 각 과제 답에는 가능하면 다음 네 요소를 포함합니다.
 
@@ -39,7 +39,7 @@
         ↓
 060 Privacy / Safeguards
         ↓
-080 Question Bank
+080 문제은행 (Question Bank, QB)
 ```
 
 ## 완료 기준

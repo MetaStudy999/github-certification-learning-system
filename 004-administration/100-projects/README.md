@@ -1,4 +1,4 @@
-# 100 Projects — GitHub Administration 통합 프로젝트
+# 100 Projects — GitHub 관리 (GitHub Administration, GHADM / GH-100) 통합 프로젝트
 
 ## Project 001 — Enterprise Administration Blueprint
 
@@ -50,7 +50,7 @@ Evidence + Review
 - [ ] GitHub App / OAuth App / PAT Governance
 - [ ] Break-glass / Exception Policy
 
-## Phase 4 — GitHub Actions Administration
+## Phase 4 — GitHub 액션 (GitHub Actions, GHACT / GH-200) Administration
 
 - [ ] Allowed Actions 정책
 - [ ] Runner Group 설계

@@ -1,4 +1,4 @@
-# 004 GitHub Administration — Content Verification
+# 004 GitHub 관리 (GitHub Administration, GHADM / GH-100) — Content Verification
 
 ## Structure Verification
 

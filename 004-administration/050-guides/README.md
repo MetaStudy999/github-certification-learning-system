@@ -1,6 +1,6 @@
-# 050 Guides — GitHub Administration 입문자 가이드
+# 050 Guides — GitHub 관리 (GitHub Administration, GHADM / GH-100) 입문자 가이드
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 Enterprise Administration은 화면 메뉴를 외우는 과정이 아니라 다음 질문에 답하는 과정입니다.
 

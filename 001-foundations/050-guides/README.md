@@ -1,6 +1,6 @@
 # 050 Guides — 입문자 학습 가이드
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 각 개념을 다음 순서로 이해합니다.
 
@@ -111,11 +111,11 @@ PR에서 할 수 있는 일:
 
 ## 8. Actions / Copilot / Codespaces 구분
 
-### GitHub Actions
+### GitHub 액션 (GitHub Actions, GHACT / GH-200)
 
 > 사람이 반복하던 Build, Test, Deploy 등을 자동화
 
-### GitHub Copilot
+### GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300)
 
 > 개발자가 코드를 이해·작성·수정하는 과정을 AI로 보조
 

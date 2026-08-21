@@ -1,6 +1,6 @@
 # 010 Overview — GH-900 시험 개요
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 이 문서는 GitHub Foundations 시험에서 **무엇을, 어느 비중으로, 어떤 순서로 공부할지** 정리합니다.
 

@@ -4,7 +4,7 @@
 
 Prompt를 명확하게 작성하고, 필요한 Context를 선택하며, Zero-shot / Few-shot / Chat History / Instructions를 상황에 맞게 활용합니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 ### E040-01 — 모호한 Prompt 개선
 다음 Prompt를 개선하세요.

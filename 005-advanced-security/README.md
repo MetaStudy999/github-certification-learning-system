@@ -1,9 +1,9 @@
-# 005 GitHub Advanced Security
+# 005 GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500)
 
 > **GitHub Advanced Security · GH-500**  
 > GitHub Security Suites를 활용해 코드·자격증명·의존성 위험을 **예방 → 탐지 → 우선순위화 → 수정 → Governance**까지 관리하는 중급 보안 과정입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-overview/`](./010-overview/)에서 **2026년 7월 크게 개정된 GH-500 시험 범위**를 확인합니다.
 2. [`020-terms/`](./020-terms/)에서 Code Security, Secret Protection, Supply Chain Security, CodeQL, SARIF, SBOM 등 핵심 용어를 학습합니다.
@@ -19,14 +19,14 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **CONTENT-READY** | July 2026 범위 기반 학습·실습·평가 체계 구축 완료 |
-| Learning Status | **PLANNED** | 실제 개인 학습 시작 전 |
+| 콘텐츠 상태 (Content Status, CS) | **CONTENT-READY** | July 2026 범위 기반 학습·실습·평가 체계 구축 완료 |
+| 학습 상태 (Learning Status, LS) | **PLANNED** | 실제 개인 학습 시작 전 |
 
-## Exam Snapshot
+## 시험 개요 (Exam Snapshot, ES)
 
 | 항목 | 내용 |
 |---|---|
-| 자격증 | GitHub Advanced Security |
+| 자격증 | GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) |
 | 시험 | GH-500 |
 | 수준 | Intermediate (중급) |
 | 시험 시간 | 100분 |
@@ -48,7 +48,7 @@
 
 > 2026년 7월에 시험 목표가 크게 개정되었으므로 오래된 `secret scanning / Dependabot / code scanning` 중심 자료만 사용하지 않습니다.
 
-## Learning Architecture
+## 학습 아키텍처 (Learning Architecture, LA)
 
 ```text
 Secure SDLC
@@ -126,7 +126,7 @@ Repository
 → Enterprise Policy / Evidence
 ```
 
-## Exam Readiness Gate
+## 시험 준비도 통과 기준 (Exam Readiness Gate, ERG)
 
 - [ ] 최신 GH-500 Study Guide 확인
 - [ ] 6개 Domain과 비중 설명 가능

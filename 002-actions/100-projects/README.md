@@ -1,4 +1,4 @@
-# 100 Projects — GitHub Actions 통합 프로젝트
+# 100 Projects — GitHub 액션 (GitHub Actions, GHACT / GH-200) 통합 프로젝트
 
 ## Project 001 — CI/CD Automation Project
 

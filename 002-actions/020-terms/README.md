@@ -1,6 +1,6 @@
-# 020 Terms — GitHub Actions 핵심 용어
+# 020 Terms — GitHub 액션 (GitHub Actions, GHACT / GH-200) 핵심 용어
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 용어는 영어 원문 + 한국어 뜻 + 한 문장 역할로 익힙니다.
 

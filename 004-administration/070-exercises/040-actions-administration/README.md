@@ -2,7 +2,7 @@
 
 > GitHub Actions를 Enterprise 관리자 관점에서 **정책·Runner·Network·Credential·Cost**로 관리하는 연습입니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 1. Enterprise 전체에서 허용할 Action Source 정책을 설계하세요. GitHub 작성 Action, Marketplace, 내부 Action을 어떻게 구분할지 설명합니다.
 2. 외부 Action을 태그가 아니라 Full Commit SHA로 고정하는 이유와 운영 부담을 설명하세요.

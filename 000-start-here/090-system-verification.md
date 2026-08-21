@@ -6,35 +6,35 @@
 
 ## Course Status
 
-| 코드 | 과정 | 시험 | Content Status | Learning Status |
+| 코드 | 과정 | 시험 | 콘텐츠 상태 (Content Status, CS) | 학습 상태 (Learning Status, LS) |
 |---:|---|---|---|---|
-| 001 | GitHub Foundations | GH-900 | CONTENT-READY | READY |
-| 002 | GitHub Actions | GH-200 | CONTENT-READY | PLANNED |
-| 003 | GitHub Copilot | GH-300 | CONTENT-READY | PLANNED |
-| 004 | GitHub Administration | GH-100 | CONTENT-READY | PLANNED |
-| 005 | GitHub Advanced Security | GH-500 | CONTENT-READY | PLANNED |
-| 006 | GitHub Agentic AI Developer | GH-600 | CONTENT-READY | PLANNED |
+| 001 | GitHub 기초 (GitHub Foundations, GHF / GH-900) | GH-900 | CONTENT-READY | READY |
+| 002 | GitHub 액션 (GitHub Actions, GHACT / GH-200) | GH-200 | CONTENT-READY | PLANNED |
+| 003 | GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) | GH-300 | CONTENT-READY | PLANNED |
+| 004 | GitHub 관리 (GitHub Administration, GHADM / GH-100) | GH-100 | CONTENT-READY | PLANNED |
+| 005 | GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) | GH-500 | CONTENT-READY | PLANNED |
+| 006 | GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) | GH-600 | CONTENT-READY | PLANNED |
 
 ## Standard Structure Verification
 
 각 과정은 다음 공통 구조를 사용합니다.
 
 ```text
-010 Overview
-020 Terms
-030 Concepts
-040 Official Docs
-050 Guides
-060 Labs
-070 Exercises
-080 Question Bank
-090 Final Review
-100 Projects
-110 Mock Exams
-120 Wrong Answers
-130 Progress
-140 Resources
-150 Evidence
+010 개요 (Overview, OVW)
+020 용어 (Terms, TRM)
+030 개념 (Concepts, CPT)
+040 공식 문서 (Official Docs, ODC)
+050 가이드 (Guides, GDE)
+060 실습 (Labs, LAB)
+070 연습문제 (Exercises, EXR)
+080 문제은행 (Question Bank, QB)
+090 최종 복습 (Final Review, FR)
+100 프로젝트 (Projects, PRJ)
+110 모의고사 (Mock Exams, ME)
+120 오답 관리 (Wrong Answers, WA)
+130 진행 현황 (Progress, PRG)
+140 자료 (Resources, RES)
+150 증빙 (Evidence, EVD)
 ```
 
 ## System-Level PASS Criteria

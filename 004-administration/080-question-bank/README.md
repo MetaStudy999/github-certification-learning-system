@@ -12,8 +12,8 @@
 | 040 | Support, Licensing, Standards | Q031–Q040 | Enterprise Environment |
 | 050 | Security Policies | Q041–Q050 | Security / Compliance |
 | 060 | Security Features & Integrations | Q051–Q060 | Security / Compliance |
-| 070 | Actions Governance | Q061–Q070 | GitHub Actions |
-| 080 | Runners, Network, Credentials | Q071–Q080 | GitHub Actions |
+| 070 | Actions Governance | Q061–Q070 | GitHub 액션 (GitHub Actions, GHACT / GH-200) |
+| 080 | Runners, Network, Credentials | Q071–Q080 | GitHub 액션 (GitHub Actions, GHACT / GH-200) |
 | 090 | Audit, Usage, Cost | Q081–Q090 | Monitoring / Optimization |
 | 100 | Mixed Gate | Q091–Q100 | 전 영역 혼합 |
 

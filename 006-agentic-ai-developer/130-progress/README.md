@@ -2,8 +2,8 @@
 
 ## Status
 
-- Content Status: **CONTENT-READY**
-- Learning Status: **PLANNED**
+- 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
+- 학습 상태 (Learning Status, LS): **PLANNED**
 
 > 콘텐츠 구축 상태와 실제 개인 학습 상태를 분리합니다. Repository가 완성되어도 실제 학습을 시작하지 않았다면 Learning Status는 `PLANNED`입니다.
 
@@ -55,13 +55,13 @@ PLANNED
 |---|---:|---:|
 | 최신 공식 Study Guide 확인 | 100% | ⬜ |
 | 핵심 용어 설명 | 90%+ | - |
-| Labs | 80%+ | - |
-| Exercises | 80%+ | - |
+| 실습 (Labs, LAB) | 80%+ | - |
+| 연습문제 (Exercises, EXR) | 80%+ | - |
 | QBank 1회차 | 80%+ | - |
 | QBank 2회차 | 85%+ | - |
 | Mock 01 | 85%+ | - |
 | Mock 02 | 85%+ | - |
-| Final Mock | 90%+ 권장 | - |
+| 최종 모의고사 (Final Mock, FM) | 90%+ 권장 | - |
 | 최근 오답 재시험 | 90%+ | - |
 | Agentic SDLC Project | 80점+ | - |
 

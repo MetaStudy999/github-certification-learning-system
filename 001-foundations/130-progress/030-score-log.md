@@ -1,19 +1,19 @@
 # 030 Score Log — 문제은행·모의고사 점수 기록
 
-## Question Bank
+## 문제은행 (Question Bank, QB)
 
 | 회차 | 범위 | 정답/전체 | 정답률 | 약점 Domain | 재학습 | 재시험 |
 |---:|---|---:|---:|---|---|---|
 | 1 | Q001–Q100 |  /100 |  |  |  |  |
 | 2 | Q001–Q100 |  /100 |  |  |  |  |
 
-## Mock Exams
+## 모의고사 (Mock Exams, ME)
 
 | 회차 | 정답/전체 | 정답률 | 판정 | 약점 Domain | 관련 Lab 재수행 |
 |---|---:|---:|---|---|---|
 | Mock 01 | /40 |  |  |  |  |
 | Mock 02 | /40 |  |  |  |  |
-| Final Mock | /40 |  |  |  |  |
+| 최종 모의고사 (Final Mock, FM) | /40 |  |  |  |  |
 
 ## Wrong Answer Retry
 
@@ -27,5 +27,5 @@
 - Question Bank 1회차: **80% 이상**
 - Question Bank 2회차: **85% 이상**
 - 최근 Mock 2회: **연속 85% 이상**
-- Final Mock: **90% 이상 권장**
+- 최종 모의고사 (Final Mock, FM): **90% 이상 권장**
 - 오답 재시험: **90% 이상**

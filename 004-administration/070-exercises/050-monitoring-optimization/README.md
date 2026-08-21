@@ -2,7 +2,7 @@
 
 > GH-100의 **Monitor and optimize GitHub usage** 영역을 운영·감사·비용 관점에서 연습합니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 1. Audit Log에서 SSO 설정 변경과 Team 권한 변경을 추적하는 조사 절차를 작성하세요.
 2. Enterprise 사용량 보고에서 Actions, Packages, Codespaces 등 Metered Product 비용을 분리해서 분석하는 방법을 설명하세요.

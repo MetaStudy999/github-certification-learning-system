@@ -2,7 +2,7 @@
 
 6개 자격증의 Mock Exam을 한 곳에서 추적하고 **시험 응시 판단을 점수 기반 Gate**로 관리합니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-mock-index.md`](./010-mock-index.md)에서 과정별 Mock으로 이동합니다.
 2. QBank 2회차 85% 이상 후 Mock을 시작합니다.
@@ -37,7 +37,7 @@ QBank Gate
 
 - Mock 01: 85% 이상
 - Mock 02: 85% 이상
-- Final Mock: 90% 이상 권장
+- 최종 모의고사 (Final Mock, FM): 90% 이상 권장
 - 최근 오답 재시험: 90% 이상
 - 공식 Study Guide 최신 범위 재확인
 

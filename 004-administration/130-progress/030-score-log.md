@@ -1,19 +1,19 @@
 # GH-100 Score Log
 
-## Question Bank
+## 문제은행 (Question Bank, QB)
 
 | Attempt | Score | Percent | Weak Skill Area | Top Error Code | Next Action |
 |---:|---:|---:|---|---|---|
 | 1 | /100 |  |  |  |  |
 | 2 | /100 |  |  |  |  |
 
-## Mock Exams
+## 모의고사 (Mock Exams, ME)
 
 | Mock | Score | Percent | Weak Skill Area | Retry Complete | Result |
 |---|---:|---:|---|---|---|
 | Mock 01 | /40 |  |  | ⬜ |  |
 | Mock 02 | /40 |  |  | ⬜ |  |
-| Final Mock | /40 |  |  | ⬜ |  |
+| 최종 모의고사 (Final Mock, FM) | /40 |  |  | ⬜ |  |
 
 ## Retry
 
@@ -23,7 +23,7 @@
 
 ## Project
 
-| Project | Score | Evidence | Status |
+| Project | Score | 증빙 (Evidence, EVD) | Status |
 |---|---:|---|---|
 | Enterprise Administration Blueprint | /100 | ⬜ | PLANNED |
 

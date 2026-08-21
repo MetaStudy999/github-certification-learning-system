@@ -1,6 +1,6 @@
 # 110 Mock Exams — GH-200 모의고사
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 실제 시험 문항을 복제하지 않고 공식 Domain 비중을 참고한 **자체 모의고사 3회**를 사용합니다.
 

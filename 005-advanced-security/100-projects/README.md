@@ -1,4 +1,4 @@
-# 100 Projects — GitHub Advanced Security 통합 프로젝트
+# 100 Projects — GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) 통합 프로젝트
 
 ## Project 001 — Secure SDLC Integration Project
 

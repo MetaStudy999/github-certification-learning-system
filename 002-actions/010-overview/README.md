@@ -1,6 +1,6 @@
 # 010 Overview — GH-200 시험 구조
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 GH-200은 단순 YAML 문법 시험이 아니라 **Workflow 설계·사용·문제해결·Action 개발·Enterprise 운영·보안 최적화**를 함께 평가합니다.
 

@@ -4,7 +4,7 @@
 
 Content Exclusion, Public Code Matching Filter, Editor Settings, Output Ownership, Troubleshooting을 **보호장치의 목적과 한계** 관점에서 이해합니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 ### E060-01 — Content Exclusion 목적
 Content Exclusion이 해결하려는 문제를 한 문장으로 설명하고, `파일 삭제`와 다른 점을 적으세요.

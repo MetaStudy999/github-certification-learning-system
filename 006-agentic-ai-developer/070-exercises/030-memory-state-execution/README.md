@@ -1,4 +1,4 @@
-# 030 Memory / State / Execution — Exercises
+# 030 Memory / State / Execution — 연습문제 (Exercises, EXR)
 
 1. Memory와 State의 차이를 예시와 함께 설명하세요.
 2. Checkpoint가 필요한 장시간 Agent 작업 Scenario를 설계하세요.

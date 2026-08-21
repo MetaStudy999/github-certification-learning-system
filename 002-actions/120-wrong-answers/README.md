@@ -1,6 +1,6 @@
 # 120 Wrong Answers — GH-200 오답 시스템
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 오답을 정답 암기로 끝내지 않고 **원인 → 개념 → 공식문서 → Lab → 재시험**으로 연결합니다.
 

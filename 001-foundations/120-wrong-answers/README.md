@@ -4,7 +4,7 @@
 
 오답을 정답 암기로 끝내지 않고 **왜 틀렸는지 → 어떤 개념을 다시 배워야 하는지 → 어떤 실습으로 확인할지 → 언제 다시 풀지**까지 연결합니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-error-log-template.md`](./010-error-log-template.md)로 오답을 기록합니다.
 2. [`020-retry-queue.md`](./020-retry-queue.md)에 재시험 일정을 등록합니다.

@@ -1,4 +1,4 @@
-# 030 Supply Chain Security — Exercises
+# 030 Supply Chain Security — 연습문제 (Exercises, EXR)
 
 1. Dependency Graph과 SBOM의 목적 차이를 설명하세요.
 2. Dependabot Alert와 Dependency Review의 차이를 비교하세요.

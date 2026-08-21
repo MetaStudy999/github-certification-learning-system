@@ -35,7 +35,7 @@ GH-600의 6개 Domain을 하나의 안전한 문서 기반 Agentic SDLC 설계�
 - [ ] Guardrail과 Human Review 존재
 - [ ] 모든 결과가 검토 가능한 Artifact로 남음
 
-## Evidence
+## 증빙 (Evidence, EVD)
 
 결과는 `150-evidence/` 템플릿에 정리합니다.
 

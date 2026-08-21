@@ -1,6 +1,6 @@
 # 010 Lab Index — 자격증별 실습 바로가기
 
-| 코드 | 자격증 | 시험 | Labs | 대표 실습 방향 |
+| 코드 | 자격증 | 시험 | 실습 (Labs, LAB) | 대표 실습 방향 |
 |---:|---|---|---|---|
 | 001 | Foundations | GH-900 | [`Labs`](../001-foundations/060-labs/) | Git / Repository / PR / Collaboration |
 | 002 | Actions | GH-200 | [`Labs`](../002-actions/060-labs/) | Workflow / Runner / Reuse / Security |

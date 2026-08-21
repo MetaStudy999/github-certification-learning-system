@@ -4,7 +4,7 @@
 
 Generative AI의 위험과 한계를 설명하고, Copilot Output을 책임감 있게 검증하는 판단력을 기릅니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 ### E010-01 — AI Output 검증
 Copilot이 생성한 함수가 읽기 쉽고 문법 오류도 없습니다. 바로 Production에 반영하면 안 되는 이유를 **정확성·보안·요구사항·Test** 관점에서 4가지 작성하세요.

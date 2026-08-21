@@ -1,4 +1,4 @@
-# 030 Concepts — GitHub Administration 핵심 개념
+# 030 Concepts — GitHub 관리 (GitHub Administration, GHADM / GH-100) 핵심 개념
 
 ## 1. Enterprise Hierarchy
 

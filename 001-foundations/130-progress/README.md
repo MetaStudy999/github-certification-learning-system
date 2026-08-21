@@ -2,7 +2,7 @@
 
 > 이 디렉터리는 **콘텐츠 구축 상태(Content Status)** 와 **실제 학습 상태(Learning Status)** 를 분리해서 관리합니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-daily-tracker.md`](./010-daily-tracker.md)에서 매일 학습량을 기록합니다.
 2. [`020-readiness-gate.md`](./020-readiness-gate.md)에서 시험 응시 조건을 확인합니다.
@@ -11,11 +11,11 @@
 
 ## Status
 
-### Content Status
+### 콘텐츠 상태 (Content Status, CS)
 
 **CONTENT-READY** — Foundations 학습 콘텐츠의 1차 구축이 완료된 상태입니다.
 
-### Learning Status
+### 학습 상태 (Learning Status, LS)
 
 현재 실제 학습 상태: **READY**
 
@@ -62,7 +62,7 @@ READY
 | 핵심 Lab | 80%+ | 0% |
 | 문제은행 Q001–Q100 | 80%+ | - |
 | Mock 최근 2회 | 85%+ | - |
-| Final Mock | 90%+ 권장 | - |
+| 최종 모의고사 (Final Mock, FM) | 90%+ 권장 | - |
 | 오답 재시험 | 90%+ | - |
 
 > 위의 `0%`와 `-`는 **콘텐츠가 없다는 뜻이 아니라 아직 실제 학습 결과를 입력하지 않았다는 뜻**입니다.

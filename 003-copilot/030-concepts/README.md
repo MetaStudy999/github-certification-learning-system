@@ -1,6 +1,6 @@
-# 030 Concepts — GitHub Copilot 핵심 개념
+# 030 Concepts — GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) 핵심 개념
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 GH-300에서는 `기능 이름 → 정의`만 외우기보다 **입력 → Context → AI 처리 → Output → Human Verification**의 흐름으로 이해합니다.
 

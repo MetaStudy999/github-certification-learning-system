@@ -1,4 +1,4 @@
-# 010 Agent Architecture / SDLC — Exercises
+# 010 Agent Architecture / SDLC — 연습문제 (Exercises, EXR)
 
 다음 10개 과제를 `Requirement → Design choice → Why → Evaluation → Human Review` 구조로 답합니다.
 

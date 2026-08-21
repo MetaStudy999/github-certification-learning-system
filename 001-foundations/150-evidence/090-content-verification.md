@@ -83,8 +83,8 @@ READY → LEARNING → PRACTICING → REVIEWING → EXAM-READY → PASSED → CL
 
 따라서 현재 Foundations는:
 
-- Content Status: **CONTENT-READY**
-- Learning Status: **READY**
+- 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
+- 학습 상태 (Learning Status, LS): **READY**
 
 입니다.
 

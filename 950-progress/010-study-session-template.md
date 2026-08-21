@@ -5,7 +5,7 @@
 ```text
 Date:
 Certification / Exam:
-Learning Status:
+학습 상태 (Learning Status, LS):
 Start Point:
 
 Today's Goal:

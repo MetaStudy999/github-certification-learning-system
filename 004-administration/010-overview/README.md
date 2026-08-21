@@ -1,6 +1,6 @@
-# 010 Overview — GH-100 GitHub Administration
+# 010 Overview — GH-100 GitHub 관리 (GitHub Administration, GHADM / GH-100)
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 2026년 7월 GH-100은 크게 개정되었습니다. 이 과정은 오래된 관리자 기능 목록이 아니라 **현재 5개 Skill Area**를 기준으로 학습합니다.
 
@@ -58,7 +58,7 @@
 - API Rate Limits
 - App Approval Policy
 
-## 4. GitHub Actions
+## 4. GitHub 액션 (GitHub Actions, GHACT / GH-200)
 
 - Reuse of Actions / Workflows
 - Organization Policies

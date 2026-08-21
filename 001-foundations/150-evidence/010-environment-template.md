@@ -23,7 +23,7 @@ git config --global user.email
 
 민감정보는 기록하지 않습니다.
 
-## Verification
+## 검증 (Verification, VER)
 
 - [ ] Git 명령 실행 가능
 - [ ] GitHub 로그인 상태 확인

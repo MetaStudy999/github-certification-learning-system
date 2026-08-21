@@ -1,6 +1,6 @@
 # 020 Terms — 필수 용어
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 용어는 **영문 원문 → 약어 → 한국어 뜻 → 한 문장 설명** 순서로 학습합니다.
 
@@ -56,9 +56,9 @@
 
 | 용어 | 한국어 | 한 문장 설명 |
 |---|---|---|
-| GitHub Actions | 깃허브 액션 | Workflow 기반 CI/CD와 자동화 플랫폼 |
+| GitHub 액션 (GitHub Actions, GHACT / GH-200) | 깃허브 액션 | Workflow 기반 CI/CD와 자동화 플랫폼 |
 | Workflow | 워크플로 | Event에 의해 실행되는 자동화 정의 |
-| GitHub Copilot | 깃허브 코파일럿 | AI 기반 개발 보조 기능 |
+| GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) | 깃허브 코파일럿 | AI 기반 개발 보조 기능 |
 | GitHub Codespaces | 깃허브 코드스페이스 | 클라우드 기반 개발 환경 |
 | Dev Container | 개발 컨테이너 | 재현 가능한 개발환경을 코드로 정의하는 방식 |
 | GitHub Projects | 깃허브 프로젝트 | Issue·PR 중심의 프로젝트 관리 도구 |

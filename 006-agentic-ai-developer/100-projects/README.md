@@ -1,4 +1,4 @@
-# 100 Projects — GitHub Agentic AI Developer 통합 프로젝트
+# 100 Projects — GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) 통합 프로젝트
 
 ## Project 001 — Agentic SDLC Design Project
 

@@ -1,6 +1,6 @@
-# 020 Terms — GitHub Copilot 핵심 용어
+# 020 Terms — GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) 핵심 용어
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 용어는 정의만 외우지 않습니다. 각 용어를 다음 세 문장으로 설명할 수 있어야 합니다.
 

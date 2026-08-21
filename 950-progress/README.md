@@ -2,7 +2,7 @@
 
 6개 GitHub 자격증의 **Content Status와 실제 Learning Status를 분리**하여 관리하는 통합 Control Tower입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. 이 Dashboard에서 전체 상태를 확인합니다.
 2. 실제 학습 세션은 [`010-study-session-template.md`](./010-study-session-template.md) 형식으로 기록합니다.
@@ -14,14 +14,14 @@
 
 ## Master Dashboard
 
-| 코드 | 자격증 | Content | Study | Lab | QBank | Mock | Exam | Learning Status |
+| 코드 | 자격증 | Content | Study | Lab | QBank | Mock | Exam | 학습 상태 (Learning Status, LS) |
 |---:|---|---|---|---|---|---|---|---|
-| 001 | GitHub Foundations | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | READY |
-| 002 | GitHub Actions | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
-| 003 | GitHub Copilot | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
-| 004 | GitHub Administration | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
-| 005 | GitHub Advanced Security | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
-| 006 | GitHub Agentic AI Developer | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 001 | GitHub 기초 (GitHub Foundations, GHF / GH-900) | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | READY |
+| 002 | GitHub 액션 (GitHub Actions, GHACT / GH-200) | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 003 | GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 004 | GitHub 관리 (GitHub Administration, GHADM / GH-100) | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 005 | GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 006 | GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 
 ## Course Progress Links
 

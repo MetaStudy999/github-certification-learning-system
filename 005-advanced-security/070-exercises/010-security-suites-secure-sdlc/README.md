@@ -1,4 +1,4 @@
-# 010 Security Suites / Secure SDLC — Exercises
+# 010 Security Suites / Secure SDLC — 연습문제 (Exercises, EXR)
 
 > 자격증 학습용 고수준 과제입니다. 실제 운영 환경을 변경하거나 보안 통제를 약화시키는 절차는 포함하지 않습니다.
 

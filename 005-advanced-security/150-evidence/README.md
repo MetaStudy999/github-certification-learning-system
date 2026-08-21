@@ -2,7 +2,7 @@
 
 ## 기록 대상
 
-| 코드 | Evidence | 예시 |
+| 코드 | 증빙 (Evidence, EVD) | 예시 |
 |---:|---|---|
 | 010 | Secret Protection | Alert / Push Protection / Custom Pattern |
 | 020 | Supply Chain | Dependency Graph / Review / SBOM |

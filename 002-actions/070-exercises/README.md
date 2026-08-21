@@ -2,7 +2,7 @@
 
 > 단순 YAML 암기가 아니라 상황에 맞는 GitHub Actions 기능을 선택하고 설명하는 연습입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 각 Exercise는 **기능 이름 → 선택 이유 → 대안이 덜 적절한 이유 → 관련 Lab** 순서로 답합니다.
 
@@ -32,7 +32,7 @@
   ↓
 060 Troubleshooting
   ↓
-080 Question Bank
+080 문제은행 (Question Bank, QB)
 ```
 
 ## 완료 기준

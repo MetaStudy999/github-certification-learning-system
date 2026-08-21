@@ -32,7 +32,7 @@ Mock 01
 
 - Mock 01: 85% 이상 목표
 - Mock 02: 85% 이상 목표
-- Final Mock: 90% 이상 권장
+- 최종 모의고사 (Final Mock, FM): 90% 이상 권장
 - 최근 오답 재시험: 90% 이상
 
 ## Rules

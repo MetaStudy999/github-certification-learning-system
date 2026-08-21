@@ -2,7 +2,7 @@
 
 > 실제 시험 문항이나 Brain Dump를 복제하지 않습니다. **Microsoft Learn GH-300 Skills Measured as of 2026-08-07**을 바탕으로 독립 제작한 학습 문제만 사용합니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 문제를 먼저 풀고 `<details>`의 정답을 확인합니다.
 

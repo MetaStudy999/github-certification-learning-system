@@ -1,9 +1,9 @@
-# 004 GitHub Administration
+# 004 GitHub 관리 (GitHub Administration, GHADM / GH-100)
 
 > **GitHub Administration · GH-100**  
 > GitHub Enterprise 환경의 **Identity, Governance, Secure Software Development, Actions, Usage/Cost**를 관리하는 중급 과정입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-overview/`](./010-overview/)에서 **2026년 7월 크게 개정된 GH-100 시험 범위**를 확인합니다.
 2. [`020-terms/`](./020-terms/)에서 GHEC, GHES, EMU, SAML SSO, SCIM, IdP 등 핵심 용어를 학습합니다.
@@ -18,14 +18,14 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **CONTENT-READY** | 최신 범위 기반 1차 학습·실습·문제·Mock 체계 구축 완료 |
-| Learning Status | **PLANNED** | 실제 학습 시작 전 |
+| 콘텐츠 상태 (Content Status, CS) | **CONTENT-READY** | 최신 범위 기반 1차 학습·실습·문제·Mock 체계 구축 완료 |
+| 학습 상태 (Learning Status, LS) | **PLANNED** | 실제 학습 시작 전 |
 
-## Exam Snapshot
+## 시험 개요 (Exam Snapshot, ES)
 
 | 항목 | 내용 |
 |---|---|
-| 자격증 | GitHub Administration |
+| 자격증 | GitHub 관리 (GitHub Administration, GHADM / GH-100) |
 | 시험 | GH-100 |
 | 수준 | Intermediate (중급) |
 | 시험 시간 | 100분 |
@@ -127,16 +127,16 @@ GitHub Enterprise Server (GHES)
 
 | 항목 | 구축 상태 |
 |---|---:|
-| Labs | 12개 |
-| Exercises | 50개 |
-| Question Bank | 100문제 |
-| Mock Exams | 3회 × 40문항 |
+| 실습 (Labs, LAB) | 12개 |
+| 연습문제 (Exercises, EXR) | 50개 |
+| 문제은행 (Question Bank, QB) | 100문제 |
+| 모의고사 (Mock Exams, ME) | 3회 × 40문항 |
 | 자체 문제 총계 | **220문항** |
 | Final Review | 완료 |
 | Enterprise Blueprint | 완료 |
 | Wrong Answer / Retry | 완료 |
 | Progress / Gate | 완료 |
-| Evidence | 완료 |
+| 증빙 (Evidence, EVD) | 완료 |
 
 ## 7-Day Fast Track
 
@@ -174,7 +174,7 @@ Audit / Support / Usage / Cost
 Operational Runbook
 ```
 
-## Exam Readiness Gate
+## 시험 준비도 통과 기준 (Exam Readiness Gate, ERG)
 
 - [ ] 최신 GH-100 Study Guide 확인
 - [ ] 5개 Skill Area와 비중 설명 가능

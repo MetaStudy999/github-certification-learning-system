@@ -2,8 +2,8 @@
 
 ## Status
 
-- Content Status: **CONTENT-READY**
-- Learning Status: **PLANNED**
+- 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
+- 학습 상태 (Learning Status, LS): **PLANNED**
 
 > 콘텐츠 구축 상태와 실제 학습 상태를 분리합니다. 문서가 완성되어도 실제로 공부하지 않았다면 Learning Status는 `PLANNED` 또는 `READY`입니다.
 
@@ -51,12 +51,12 @@ PLANNED
 |---|---:|---:|
 | 최신 Study Guide 확인 | 100% | ⬜ |
 | 핵심 용어 설명 | 90%+ | - |
-| Labs | 80%+ | - |
-| Exercises | 80%+ | - |
+| 실습 (Labs, LAB) | 80%+ | - |
+| 연습문제 (Exercises, EXR) | 80%+ | - |
 | QBank 1회차 | 80%+ | - |
 | QBank 2회차 | 85%+ | - |
 | 최근 Mock 2회 | 85%+ | - |
-| Final Mock | 90%+ 권장 | - |
+| 최종 모의고사 (Final Mock, FM) | 90%+ 권장 | - |
 | 오답 재시험 | 90%+ | - |
 
 상세 Gate: [`020-readiness-gate.md`](./020-readiness-gate.md)

@@ -26,7 +26,7 @@
 - [ ] Final Mock 90% 이상 권장
 - [ ] 최근 오답 재시험 90% 이상
 
-## Gate D — Evidence
+## Gate D — 증빙 (Evidence, EVD)
 
 - [ ] Lab Evidence 기록
 - [ ] 프로젝트 Evidence 기록

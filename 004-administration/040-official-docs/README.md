@@ -1,6 +1,6 @@
 # 040 Official Docs — GH-100 공식 기준 자료
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 GH-100은 2026년 7월 크게 변경되었습니다. 다음 우선순위로 자료를 봅니다.
 

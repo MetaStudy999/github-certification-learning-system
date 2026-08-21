@@ -4,7 +4,7 @@
 
 IDE, CLI, Agent Mode, MCP, Code Review, Spaces, Spark, Instructions 등 현재 GH-300 범위의 기능을 **상황에 맞게 선택**합니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 ### E020-01 — Inline Suggestion vs Chat
 A. 현재 함수의 다음 3줄을 빠르게 작성하고 싶다.  

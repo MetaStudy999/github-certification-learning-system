@@ -1,6 +1,6 @@
-# 050 Guides — GitHub Copilot 입문자 가이드
+# 050 Guides — GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) 입문자 가이드
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 Copilot을 처음 배울 때는 기능 이름부터 외우기보다 다음 순서로 이해합니다.
 

@@ -1,6 +1,6 @@
-# 020 Terms — GitHub Administration 핵심 용어
+# 020 Terms — GitHub 관리 (GitHub Administration, GHADM / GH-100) 핵심 용어
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 용어는 **영문 원문 + 약어 + 한국어 의미 + 관리 Scenario**로 학습합니다.
 
@@ -48,7 +48,7 @@
 
 | English | 약어 | 한국어 / 핵심 의미 |
 |---|---|---|
-| GitHub Advanced Security | GHAS | GitHub의 고급 보안 기능 묶음 |
+| GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) | GHAS | GitHub의 고급 보안 기능 묶음 |
 | Secret Scanning | - | 노출된 Secret 탐지 |
 | CodeQL | - | 코드 기반 보안 분석 기술 |
 | Dependabot | - | Dependency 업데이트·취약점 관리 기능 |
@@ -63,7 +63,7 @@
 
 | English | 약어 | 한국어 / 핵심 의미 |
 |---|---|---|
-| GitHub Actions | - | Workflow 자동화 플랫폼 |
+| GitHub 액션 (GitHub Actions, GHACT / GH-200) | - | Workflow 자동화 플랫폼 |
 | Reusable Workflow | - | 여러 Workflow에서 재사용 가능한 Workflow |
 | Runner Group | - | Self-hosted Runner 접근 범위를 관리하는 그룹 |
 | GitHub-hosted Runner | - | GitHub가 관리하는 Runner |

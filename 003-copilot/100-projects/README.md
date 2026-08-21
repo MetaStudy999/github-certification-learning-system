@@ -1,4 +1,4 @@
-# 100 Projects — GitHub Copilot 통합 프로젝트
+# 100 Projects — GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) 통합 프로젝트
 
 ## Project 001 — AI-Assisted Development Project
 

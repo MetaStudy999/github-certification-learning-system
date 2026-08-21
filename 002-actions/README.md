@@ -1,9 +1,9 @@
-# 002 GitHub Actions
+# 002 GitHub 액션 (GitHub Actions, GHACT / GH-200)
 
 > **GitHub Actions · GH-200**  
 > GitHub 자격증 학습 시스템의 두 번째 과정이며, Repository 이벤트를 **자동화 Workflow**로 연결하는 과정입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. `010-overview/`에서 GH-200의 5개 Domain을 확인합니다.
 2. `020-terms/`에서 Workflow, Event, Job, Step, Runner 등 핵심 용어를 익힙니다.
@@ -18,16 +18,16 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **CONTENT-READY** | 이론·실습·문제·Mock·Evidence 구조 구축 완료 |
-| Learning Status | **PLANNED** | 실제 학습 시작 전 |
+| 콘텐츠 상태 (Content Status, CS) | **CONTENT-READY** | 이론·실습·문제·Mock·Evidence 구조 구축 완료 |
+| 학습 상태 (Learning Status, LS) | **PLANNED** | 실제 학습 시작 전 |
 
 > `CONTENT-READY`와 실제 시험 준비 상태는 다릅니다. 실제 상태는 `130-progress/020-readiness-gate.md` 기준으로 판단합니다.
 
-## Exam Snapshot
+## 시험 개요 (Exam Snapshot, ES)
 
 | 항목 | 내용 |
 |---|---|
-| 자격증 | GitHub Actions |
+| 자격증 | GitHub 액션 (GitHub Actions, GHACT / GH-200) |
 | 시험 | GH-200 |
 | 수준 | Intermediate (중급) |
 | 시험 시간 | 100분 |
@@ -66,20 +66,20 @@ Action / run command
 Artifact / Deployment / Result
 ```
 
-## Content Inventory
+## 콘텐츠 구성 (Content Inventory, CI)
 
 | 구성 | 현재 콘텐츠 |
 |---|---:|
-| Labs | 10개 — 010~100 |
+| 실습 (Labs, LAB) | 10개 — 010~100 |
 | Exercise | 6개 영역 / 60개 수행형 과제 |
-| Question Bank | Q001–Q100 |
-| Mock Exam | 3회 × 40문항 = 120문항 |
+| 문제은행 (Question Bank, QB) | Q001–Q100 |
+| 모의고사 (Mock Exam, ME) | 3회 × 40문항 = 120문항 |
 | 자체 문제 총량 | **220문항** |
 | Final Review | Checklist / Confusion Matrix / Exam Strategy |
 | Project | CI/CD Automation Integration Project |
 | Wrong Answers | Error Log + Retry Queue |
-| Progress | Daily Tracker + Readiness Gate + Score Log |
-| Evidence | Environment / Workflow / Troubleshooting / Exam Reflection |
+| 진행 현황 (Progress, PRG) | Daily Tracker + Readiness Gate + Score Log |
+| 증빙 (Evidence, EVD) | Environment / Workflow / Troubleshooting / Exam Reflection |
 
 ## 핵심 학습 영역
 
@@ -133,7 +133,7 @@ Artifact / Deployment / Result
 | 6 | Troubleshooting + Question Bank + Mock 01 |
 | 7 | Mock 02 + Final Review + Exam Gate |
 
-## Exam Readiness Gate
+## 시험 준비도 통과 기준 (Exam Readiness Gate, ERG)
 
 - [ ] 공식 Study Guide 최신 확인
 - [ ] Lab 핵심 80% 이상 완료

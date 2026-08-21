@@ -2,8 +2,8 @@
 
 ## Status
 
-- Content Status: **CONTENT-READY**
-- Learning Status: **PLANNED**
+- 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
+- 학습 상태 (Learning Status, LS): **PLANNED**
 
 > `CONTENT-READY`는 학습 자료 구축이 완료되었다는 뜻이며, 실제 학습 완료를 의미하지 않습니다.
 

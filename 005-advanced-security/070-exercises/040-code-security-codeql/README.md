@@ -1,4 +1,4 @@
-# 040 Code Security / CodeQL — Exercises
+# 040 Code Security / CodeQL — 연습문제 (Exercises, EXR)
 
 1. Code Security와 Secret Protection의 탐지 대상 차이를 설명하세요.
 2. CodeQL Default Setup과 Advanced Setup을 비교하세요.

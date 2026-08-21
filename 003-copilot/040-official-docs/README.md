@@ -1,6 +1,6 @@
 # 040 Official Docs — 공식 기준 자료
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 Copilot 제품 기능은 빠르게 바뀌므로 **시험 범위 문서와 제품 문서를 분리해서** 봅니다.
 

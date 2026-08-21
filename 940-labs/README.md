@@ -2,7 +2,7 @@
 
 6개 자격증의 실습을 **설명 → 실행 → 검증 → Evidence** 흐름으로 연결하는 공통 실습 인덱스입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-lab-index.md`](./010-lab-index.md)에서 과정별 Lab으로 이동합니다.
 2. 각 Lab은 [`020-lab-standard.md`](./020-lab-standard.md)의 공통 구조를 따릅니다.

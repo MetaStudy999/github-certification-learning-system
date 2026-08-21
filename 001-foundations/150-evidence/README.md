@@ -2,7 +2,7 @@
 
 > 자격증 합격 여부뿐 아니라 **무엇을 직접 수행했고, 검증했고, 설명할 수 있는지**를 재현 가능한 형태로 남깁니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-environment-template.md`](./010-environment-template.md) — 실습 환경 기록
 2. [`020-lab-evidence-template.md`](./020-lab-evidence-template.md) — Lab 수행 증거
@@ -12,13 +12,13 @@
 
 ## Evidence 종류
 
-| 코드 | Evidence | 예시 |
+| 코드 | 증빙 (Evidence, EVD) | 예시 |
 |---:|---|---|
 | 010 | Environment | OS, Git Version, 도구 |
 | 020 | Git Labs | `git log`, Branch 흐름 |
 | 030 | GitHub Flow | Issue/PR/Merge 링크 |
 | 040 | Repository Docs | README, CONTRIBUTING 등 |
-| 050 | Projects | Project View·작업 흐름 |
+| 050 | 프로젝트 (Projects, PRJ) | Project View·작업 흐름 |
 | 060 | Practice Scores | 문제은행 점수 |
 | 070 | Mock Scores | 모의고사 결과 |
 | 080 | Exam | 응시일·결과 |

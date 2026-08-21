@@ -1,6 +1,6 @@
 # 000 Start Here — 시작 안내
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-learning-roadmap.md`](./010-learning-roadmap.md)에서 장기 학습 순서를 확인합니다.
 2. [`020-fast-track-6-weeks.md`](./020-fast-track-6-weeks.md)에서 6주 단기 취득 계획을 확인합니다.

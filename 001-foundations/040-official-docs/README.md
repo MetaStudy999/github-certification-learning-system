@@ -1,6 +1,6 @@
 # 040 Official Docs — 공식 문서 기준
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 GitHub Foundations는 **공식 Study Guide를 시험 범위의 기준선(Baseline)** 으로 사용합니다. 블로그·덤프·요약집보다 공식 문서를 우선합니다.
 
@@ -18,7 +18,7 @@ GitHub Foundations는 **공식 Study Guide를 시험 범위의 기준선(Baselin
 - Change log
 - 추천 Learning Path
 
-### B. GitHub Foundations Certification
+### B. GitHub 기초 (GitHub Foundations, GHF / GH-900) Certification
 
 - https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/
 

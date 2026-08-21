@@ -1,4 +1,4 @@
-# Lab 090 — GitHub Actions Governance
+# Lab 090 — GitHub 액션 (GitHub Actions, GHACT / GH-200) Governance
 
 ## Objective
 

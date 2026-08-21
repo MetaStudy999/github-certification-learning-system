@@ -6,7 +6,7 @@
 
 GitHub Foundations에서 학습한 Repository·Issue·Branch·Pull Request·Review·Documentation을 하나의 작은 프로젝트에서 연결합니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. 아래 Phase 1~6을 순서대로 수행합니다.
 2. [`010-project-rubric.md`](./010-project-rubric.md)로 100점 기준 평가를 진행합니다.

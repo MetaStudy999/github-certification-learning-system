@@ -9,12 +9,12 @@
 | 코드 | 시스템 | 핵심 기능 | 상태 |
 |---:|---|---|---|
 | 900 | Glossary | 과정별 용어 Map / Acronym / Review | PASS |
-| 910 | Question Bank | 6개 과정 600문항 Index / 작성 표준 | PASS |
+| 910 | 문제은행 (Question Bank, QB) | 6개 과정 600문항 Index / 작성 표준 | PASS |
 | 920 | Wrong Answers | 공통 Error Code / +1일·+7일 Retry | PASS |
-| 930 | Mock Exams | 18회 / 720문항 / Exam Gate | PASS |
-| 940 | Labs | 통합 Lab Index / 작성·Verify 표준 | PASS |
-| 950 | Progress | Master Dashboard / Fast Track / Exam Plan | PASS |
-| 960 | Resources | 공식 Source Map / Freshness Checklist | PASS |
+| 930 | 모의고사 (Mock Exams, ME) | 18회 / 720문항 / Exam Gate | PASS |
+| 940 | 실습 (Labs, LAB) | 통합 Lab Index / 작성·Verify 표준 | PASS |
+| 950 | 진행 현황 (Progress, PRG) | Master Dashboard / Fast Track / Exam Plan | PASS |
+| 960 | 자료 (Resources, RES) | 공식 Source Map / Freshness Checklist | PASS |
 | 970 | Certificates | 실제 Result / Credential 기록 정책 | PASS |
 | 980 | Portfolio | 과정별 Project / Evidence / Final Capstone | PASS |
 

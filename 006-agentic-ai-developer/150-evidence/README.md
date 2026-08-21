@@ -2,7 +2,7 @@
 
 ## Evidence Areas
 
-| 코드 | Evidence | 예시 |
+| 코드 | 증빙 (Evidence, EVD) | 예시 |
 |---:|---|---|
 | 010 | Architecture | Goal / Input / Output / Success Criteria |
 | 020 | Planning | Structured Plan / Review Gate |

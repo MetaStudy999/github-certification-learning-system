@@ -4,7 +4,7 @@
 
 실제 GH-900 문항을 복제하지 않고, 공식 Domain 범위를 참고해 **자체 모의고사**를 구성합니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 ```text
 Question Bank 50문제

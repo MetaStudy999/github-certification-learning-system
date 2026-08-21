@@ -17,7 +17,7 @@ QBank attempt 1:
 QBank attempt 2:
 Mock 01:
 Mock 02:
-Final Mock:
+최종 모의고사 (Final Mock, FM):
 Wrong-answer retry:
 
 Strong skill areas:

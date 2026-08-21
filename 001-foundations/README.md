@@ -1,9 +1,9 @@
-# 001 GitHub Foundations
+# 001 GitHub 기초 (GitHub Foundations, GHF / GH-900)
 
 > **GitHub Foundations (GitHub 기초) · GH-900**  
 > GitHub 자격증 학습 시스템의 첫 번째 과정입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-overview/`](./010-overview/)에서 시험 구조와 7개 Domain을 확인합니다.
 2. [`020-terms/`](./020-terms/)에서 핵심 용어를 먼저 익힙니다.
@@ -18,16 +18,16 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **CONTENT-READY** | 1차 학습 콘텐츠 구축·검증 완료 |
-| Learning Status | **READY** | 실제 학습 시작 전 |
+| 콘텐츠 상태 (Content Status, CS) | **CONTENT-READY** | 1차 학습 콘텐츠 구축·검증 완료 |
+| 학습 상태 (Learning Status, LS) | **READY** | 실제 학습 시작 전 |
 
 콘텐츠 검증 기록: [`150-evidence/090-content-verification.md`](./150-evidence/090-content-verification.md)
 
-## Exam Snapshot
+## 시험 개요 (Exam Snapshot, ES)
 
 | 항목 | 내용 |
 |---|---|
-| 자격증 | GitHub Foundations |
+| 자격증 | GitHub 기초 (GitHub Foundations, GHF / GH-900) |
 | 시험 | GH-900 |
 | 수준 | Beginner (입문) |
 | 시험 시간 | 100분 |
@@ -117,7 +117,7 @@ CLEAR
 | 6 | Q001–Q100 + 약점 Lab + Mock 01 |
 | 7 | Mock 02 + Final Mock + 오답 압축 복습 + Exam Gate |
 
-## Exam Readiness Gate
+## 시험 준비도 통과 기준 (Exam Readiness Gate, ERG)
 
 상세 기준: [`130-progress/020-readiness-gate.md`](./130-progress/020-readiness-gate.md)
 

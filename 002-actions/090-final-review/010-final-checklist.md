@@ -39,7 +39,7 @@
 - [ ] Cache / Artifact 보안
 - [ ] `concurrency` / Cache / Matrix 최적화
 
-## Readiness Gate
+## 준비도 통과 기준 (Readiness Gate, RG)
 
 - [ ] Question Bank 1회차 ≥ 80%
 - [ ] Question Bank 2회차 ≥ 85%

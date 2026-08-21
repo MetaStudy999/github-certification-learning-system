@@ -117,7 +117,7 @@ Spark
 - [ ] 민감정보를 Context 자산에 넣지 않아야 하는 이유 설명
 - [ ] 모든 AI-generated 결과에 Human Verification 적용
 
-## Evidence
+## 증빙 (Evidence, EVD)
 
 ```text
 Date:

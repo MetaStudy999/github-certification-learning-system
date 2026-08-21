@@ -25,7 +25,7 @@ NOT STARTED
 |---|---:|
 | Mock 01 | 85%+ |
 | Mock 02 | 85%+ |
-| Final Mock | 90%+ 권장 |
+| 최종 모의고사 (Final Mock, FM) | 90%+ 권장 |
 | 최근 오답 Retry | 90%+ |
 
 보수적 `EXAM-READY` 판정은 세 번의 Mock이 모두 85% 이상이고 Final Mock이 90% 이상인 상태를 권장합니다.

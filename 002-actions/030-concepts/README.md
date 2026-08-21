@@ -1,4 +1,4 @@
-# 030 Concepts — GitHub Actions 핵심 개념
+# 030 Concepts — GitHub 액션 (GitHub Actions, GHACT / GH-200) 핵심 개념
 
 ## 1. 실행 구조
 

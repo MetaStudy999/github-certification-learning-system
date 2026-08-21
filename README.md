@@ -30,7 +30,7 @@
 | System Verification | **PASS** | 과정 구조와 Control Tower 검증 완료 |
 | Actual Learning | **READY** | Foundations부터 실제 학습 시작 가능 |
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 | 단계 | 바로가기 | 수행 내용 |
 |---:|---|---|
@@ -66,16 +66,16 @@ CLEAR
 
 ---
 
-# Certification Roadmap
+# 자격증 로드맵 (Certification Roadmap, CR)
 
 | 코드 | 자격증 | 시험 | Content | Learning | 바로가기 |
 |---:|---|---|---|---|---|
-| **001** | GitHub Foundations | GH-900 | ✅ CONTENT-READY | **READY** | [과정 시작](./001-foundations/) |
-| **002** | GitHub Actions | GH-200 | ✅ CONTENT-READY | PLANNED | [과정 보기](./002-actions/) |
-| **003** | GitHub Copilot | GH-300 | ✅ CONTENT-READY | PLANNED | [과정 보기](./003-copilot/) |
-| **004** | GitHub Administration | GH-100 | ✅ CONTENT-READY | PLANNED | [과정 보기](./004-administration/) |
-| **005** | GitHub Advanced Security | GH-500 | ✅ CONTENT-READY | PLANNED | [과정 보기](./005-advanced-security/) |
-| **006** | GitHub Agentic AI Developer | GH-600 | ✅ CONTENT-READY | PLANNED | [과정 보기](./006-agentic-ai-developer/) |
+| **001** | GitHub 기초 (GitHub Foundations, GHF / GH-900) | GH-900 | ✅ CONTENT-READY | **READY** | [과정 시작](./001-foundations/) |
+| **002** | GitHub 액션 (GitHub Actions, GHACT / GH-200) | GH-200 | ✅ CONTENT-READY | PLANNED | [과정 보기](./002-actions/) |
+| **003** | GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) | GH-300 | ✅ CONTENT-READY | PLANNED | [과정 보기](./003-copilot/) |
+| **004** | GitHub 관리 (GitHub Administration, GHADM / GH-100) | GH-100 | ✅ CONTENT-READY | PLANNED | [과정 보기](./004-administration/) |
+| **005** | GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) | GH-500 | ✅ CONTENT-READY | PLANNED | [과정 보기](./005-advanced-security/) |
+| **006** | GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) | GH-600 | ✅ CONTENT-READY | PLANNED | [과정 보기](./006-agentic-ai-developer/) |
 
 ### 장기 역량 순서
 
@@ -113,39 +113,39 @@ Week 6  Agentic AI Developer
 
 ---
 
-# System Control Tower
+# 시스템 통합 관제 (System Control Tower, SCT)
 
 | 코드 | 시스템 | 핵심 역할 | 바로가기 |
 |---:|---|---|---|
 | **900** | Glossary | 6개 과정 통합 용어·약어·교차 개념 | [열기](./900-glossary/) |
-| **910** | Question Bank | **600문항** 통합 문제은행 Index | [열기](./910-question-bank/) |
+| **910** | 문제은행 (Question Bank, QB) | **600문항** 통합 문제은행 Index | [열기](./910-question-bank/) |
 | **920** | Wrong Answers | Error Code·+1일/+7일 Retry 관리 | [열기](./920-wrong-answers/) |
-| **930** | Mock Exams | **18회 / 720문항** Mock·Exam Gate | [열기](./930-mock-exams/) |
-| **940** | Labs | 과정별 Lab·Challenge·Verify 표준 | [열기](./940-labs/) |
-| **950** | Progress | Master Dashboard·Fast Track·시험 계획 | [열기](./950-progress/) |
-| **960** | Resources | 공식 자료·Source Map·Freshness 관리 | [열기](./960-resources/) |
+| **930** | 모의고사 (Mock Exams, ME) | **18회 / 720문항** Mock·Exam Gate | [열기](./930-mock-exams/) |
+| **940** | 실습 (Labs, LAB) | 과정별 Lab·Challenge·Verify 표준 | [열기](./940-labs/) |
+| **950** | 진행 현황 (Progress, PRG) | Master Dashboard·Fast Track·시험 계획 | [열기](./950-progress/) |
+| **960** | 자료 (Resources, RES) | 공식 자료·Source Map·Freshness 관리 | [열기](./960-resources/) |
 | **970** | Certificates | 실제 시험 결과·Credential 기록 | [열기](./970-certificates/) |
 | **980** | Portfolio | 과정별 프로젝트·Evidence·Final Capstone | [열기](./980-portfolio/) |
 
-## Current Learning Content Scale
+## 현재 학습 콘텐츠 규모 (Current Learning Content Scale, CLCS)
 
 | 유형 | 현재 규모 |
 |---|---:|
 | Certification Courses | **6** |
-| Question Bank | **600문항** |
+| 문제은행 (Question Bank, QB) | **600문항** |
 | Mock Exam Sets | **18회** |
 | Mock Questions | **720문항** |
 | 자체 시험형 학습 콘텐츠 | **1,320문항** |
 | Course Projects | **6개** |
-| Final Capstone | **1개** |
+| 최종 종합 프로젝트 (Final Capstone, FCAP) | **1개** |
 
 > 모든 문제는 학습용 자체 제작 콘텐츠이며 실제 시험 유출문제·복원문제·Brain Dump를 사용하지 않습니다.
 
 ---
 
-# Status Model
+# 상태 모델 (Status Model, SM)
 
-## Content Status
+## 콘텐츠 상태 (Content Status, CS)
 
 ```text
 BOOTSTRAPPED
@@ -157,7 +157,7 @@ CONTENT-READY
 MAINTENANCE
 ```
 
-## Learning Status
+## 학습 상태 (Learning Status, LS)
 
 ```text
 PLANNED
@@ -186,7 +186,7 @@ CLEAR
 
 ---
 
-# Learning Architecture
+# 학습 아키텍처 (Learning Architecture, LA)
 
 ```mermaid
 flowchart TD
@@ -204,31 +204,31 @@ flowchart TD
     K --> L[CLEAR]
 ```
 
-## Standard Internal Course Structure
+## 표준 과정 내부 구조 (Standard Internal Course Structure, SICS)
 
 각 자격증은 동일한 **3자리 번호 구조**를 사용합니다.
 
 ```text
-010 Overview
-020 Terms
-030 Concepts
-040 Official Docs
-050 Guides
-060 Labs
-070 Exercises
-080 Question Bank
-090 Final Review
-100 Projects
-110 Mock Exams
-120 Wrong Answers
-130 Progress
-140 Resources
-150 Evidence
+010 개요 (Overview, OVW)
+020 용어 (Terms, TRM)
+030 개념 (Concepts, CPT)
+040 공식 문서 (Official Docs, ODC)
+050 가이드 (Guides, GDE)
+060 실습 (Labs, LAB)
+070 연습문제 (Exercises, EXR)
+080 문제은행 (Question Bank, QB)
+090 최종 복습 (Final Review, FR)
+100 프로젝트 (Projects, PRJ)
+110 모의고사 (Mock Exams, ME)
+120 오답 관리 (Wrong Answers, WA)
+130 진행 현황 (Progress, PRG)
+140 자료 (Resources, RES)
+150 증빙 (Evidence, EVD)
 ```
 
 ---
 
-# Exam Readiness Gate
+# 시험 준비도 통과 기준 (Exam Readiness Gate, ERG)
 
 각 과정의 `130-progress/` 세부 기준이 최우선입니다. 통합 기준은 다음과 같습니다.
 
@@ -248,7 +248,7 @@ flowchart TD
 
 ---
 
-# Repository Map
+# 저장소 맵 (Repository Map, RM)
 
 ```text
 github-certification-learning-system/
@@ -276,7 +276,7 @@ github-certification-learning-system/
 
 ---
 
-# Portfolio Growth Path
+# 포트폴리오 성장 경로 (Portfolio Growth Path, PGP)
 
 단계가 많아져도 글자가 작아지지 않도록 **세로형(Top → Down)**으로 구성했습니다.
 
@@ -308,14 +308,14 @@ flowchart TD
 
 ---
 
-# Verification
+# 검증 (Verification, VER)
 
 | 검증 | 결과 | 문서 |
 |---|---|---|
 | 001–006 Course Content | **PASS** | [System Verification](./000-start-here/090-system-verification.md) |
 | 900–980 Control Tower | **PASS** | [Control Tower Verification](./000-start-here/095-control-tower-verification.md) |
 
-## Current Phase
+## 현재 단계 (Current Phase, CP)
 
 ```text
 001–006 Certification Content   COMPLETE
@@ -330,7 +330,7 @@ NEXT
 
 <div align="center">
 
-### Next: [001 GitHub Foundations 시작 →](./001-foundations/)
+### Next: [001 GitHub 기초 (GitHub Foundations, GHF / GH-900) 시작 →](./001-foundations/)
 
 [Start Here](./000-start-here/) · [Progress](./950-progress/) · [Fast Track](./950-progress/020-fast-track-dashboard.md) · [Portfolio](./980-portfolio/)
 

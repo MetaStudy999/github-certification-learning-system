@@ -1,6 +1,6 @@
-# 060 Labs — GitHub Administration 단계별 실습
+# 060 Labs — GitHub 관리 (GitHub Administration, GHADM / GH-100) 단계별 실습
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 Enterprise 기능 중에는 실제 Enterprise License, IdP, GHES 또는 관리자 권한이 필요한 항목이 있습니다. 그런 경우 **실제 운영환경을 임의 변경하지 않고 Scenario / Decision Table / Sandbox 중심**으로 학습합니다.
 

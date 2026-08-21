@@ -14,10 +14,10 @@
 | Git Workflow | Clone/Pull, Branch, Commit, Push | 15 |
 | Pull Request | PR 설명, Linked Issue, 변경 범위 확인 | 15 |
 | Review & Merge | Review, Check, Merge 흐름 설명 | 10 |
-| Projects | Item, Status, View를 활용한 추적 | 10 |
+| 프로젝트 (Projects, PRJ) | Item, Status, View를 활용한 추적 | 10 |
 | Modern Development | Actions, Copilot, Codespaces 목적 구분 | 5 |
 | Security | 2FA, Visibility, Branch 보호 개념 설명 | 5 |
-| Evidence | 화면/링크/Commit/PR 등 재현 가능한 기록 | 5 |
+| 증빙 (Evidence, EVD) | 화면/링크/Commit/PR 등 재현 가능한 기록 | 5 |
 | **합계** | | **100** |
 
 ## 판정

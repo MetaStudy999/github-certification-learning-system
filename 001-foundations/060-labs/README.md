@@ -1,6 +1,6 @@
 # 060 Labs — 단계별 실습
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 시험 합격만을 위해 화면을 외우지 않습니다. 실제 Repository를 직접 다루면서 기능의 목적을 확인합니다.
 

@@ -20,7 +20,7 @@ Score: (공개 가능한 경우)
 Question Bank score:
 Mock 01:
 Mock 02:
-Final Mock:
+최종 모의고사 (Final Mock, FM):
 Wrong-answer retry:
 Total preparation days:
 ```

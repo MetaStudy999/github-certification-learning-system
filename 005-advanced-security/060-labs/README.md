@@ -1,4 +1,4 @@
-# 060 Labs — GitHub Advanced Security 단계별 실습
+# 060 Labs — GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) 단계별 실습
 
 ## Lab Roadmap
 

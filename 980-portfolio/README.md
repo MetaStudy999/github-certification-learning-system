@@ -2,7 +2,7 @@
 
 6개 자격증의 학습 결과를 **자격증 배지 → 실습 → 프로젝트 → Evidence → 누적 Capstone**으로 연결합니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-portfolio-map.md`](./010-portfolio-map.md)에서 자격증별 대표 프로젝트를 확인합니다.
 2. [`020-evidence-matrix.md`](./020-evidence-matrix.md)에서 포트폴리오에 필요한 증거를 추적합니다.

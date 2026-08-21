@@ -1,6 +1,6 @@
 # 090 Status Policy — 상태 변경 정책
 
-## Content Status
+## 콘텐츠 상태 (Content Status, CS)
 
 | 상태 | 의미 |
 |---|---|
@@ -9,7 +9,7 @@
 | CONTENT-READY | 학습에 필요한 주요 콘텐츠 구축 완료 |
 | MAINTENANCE | 최신 시험범위와 제품 변경을 유지보수 중 |
 
-## Learning Status
+## 학습 상태 (Learning Status, LS)
 
 | 상태 | 의미 |
 |---|---|

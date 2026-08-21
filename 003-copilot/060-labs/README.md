@@ -1,6 +1,6 @@
-# 060 Labs — GitHub Copilot 단계별 실습
+# 060 Labs — GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) 단계별 실습
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 GH-300 실습은 **AI Output을 많이 만드는 것**보다 `적절한 기능 선택 → Context 설계 → 검증 → Evidence`를 반복하는 것이 핵심입니다.
 

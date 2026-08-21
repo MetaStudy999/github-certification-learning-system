@@ -1,4 +1,4 @@
-# 020 Tool Use / Environment / MCP — Exercises
+# 020 Tool Use / Environment / MCP — 연습문제 (Exercises, EXR)
 
 1. Agent 목표에 필요한 Tool과 불필요한 Tool을 구분하는 기준을 설명하세요.
 2. Read-only Scope로 충분한 Scenario와 더 높은 권한이 필요한 Scenario를 비교하세요.

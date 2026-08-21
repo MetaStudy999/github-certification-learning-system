@@ -18,8 +18,8 @@ Foundations 시험에서는 각 도구를 깊게 구현하는 것보다 **무엇
 
 | 기능 | 한 문장 설명 |
 |---|---|
-| GitHub Actions | Repository 이벤트를 기반으로 빌드·테스트·배포 등 Workflow를 자동화 |
-| GitHub Copilot | 코드 작성·설명·수정 등을 지원하는 AI 기반 개발 도구 |
+| GitHub 액션 (GitHub Actions, GHACT / GH-200) | Repository 이벤트를 기반으로 빌드·테스트·배포 등 Workflow를 자동화 |
+| GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) | 코드 작성·설명·수정 등을 지원하는 AI 기반 개발 도구 |
 | GitHub Codespaces | Repository와 연결된 클라우드 개발환경 |
 
 전체 흐름 예시:
@@ -34,7 +34,7 @@ Repository
 
 ## 030. Practice (따라하기)
 
-### 031. GitHub Actions 관찰
+### 031. GitHub 액션 (GitHub Actions, GHACT / GH-200) 관찰
 
 Repository의 **Actions** 탭을 확인합니다.
 
@@ -59,7 +59,7 @@ jobs:
 Event → Workflow → Job → Step
 ```
 
-### 032. GitHub Copilot 역할 정리
+### 032. GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) 역할 정리
 
 Copilot을 사용할 수 있는 환경이라면 다음 작업을 시험합니다.
 

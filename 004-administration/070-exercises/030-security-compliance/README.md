@@ -2,7 +2,7 @@
 
 > GH-100의 **Implement secure software development and compliance** 영역을 Enterprise 관리자 관점에서 연습합니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 1. 조직 전체에서 기본 브랜치 직접 Push를 제한하고 PR Review를 강제해야 합니다. Ruleset 또는 Branch Protection을 어떤 Scope에 적용할지 설계하세요.
 2. Secret Scanning, Push Protection, Code Scanning을 서로 구분하고 각각 어떤 위험을 줄이는지 설명하세요.

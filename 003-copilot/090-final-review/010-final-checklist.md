@@ -86,7 +86,7 @@ Input / Context
 | Question Bank 2회차 | 85%+ | |
 | Mock 01 | 85%+ | |
 | Mock 02 | 85%+ | |
-| Final Mock | 90%+ 권장 | |
+| 최종 모의고사 (Final Mock, FM) | 90%+ 권장 | |
 | Wrong Answer Retry | 90%+ | |
 
 ## 최종 판정

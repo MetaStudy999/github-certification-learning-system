@@ -28,12 +28,12 @@ GitHub 제품명·자격증명·시험 코드처럼 공식 영어 명칭이 중�
 
 | 한글 설명 | 공식 영어 명칭 | 시스템 약어 / 시험 코드 |
 |---|---|---|
-| GitHub 기초 | GitHub Foundations | GHF / GH-900 |
-| GitHub 액션 | GitHub Actions | GHACT / GH-200 |
-| GitHub 코파일럿 | GitHub Copilot | GHCOP / GH-300 |
-| GitHub 관리 | GitHub Administration | GHADM / GH-100 |
-| GitHub 고급 보안 | GitHub Advanced Security | GHAS / GH-500 |
-| GitHub 에이전틱 AI 개발자 | GitHub Agentic AI Developer | GHAI / GH-600 |
+| GitHub 기초 | GitHub 기초 (GitHub Foundations, GHF / GH-900) | GHF / GH-900 |
+| GitHub 액션 | GitHub 액션 (GitHub Actions, GHACT / GH-200) | GHACT / GH-200 |
+| GitHub 코파일럿 | GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) | GHCOP / GH-300 |
+| GitHub 관리 | GitHub 관리 (GitHub Administration, GHADM / GH-100) | GHADM / GH-100 |
+| GitHub 고급 보안 | GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) | GHAS / GH-500 |
+| GitHub 에이전틱 AI 개발자 | GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) | GHAI / GH-600 |
 
 `GHF`, `GHACT`, `GHCOP`, `GHADM`, `GHAS`, `GHAI`는 GCLS 내부에서 사용하는 과정 식별 약어이며, 시험 코드는 GitHub/Microsoft의 공식 코드와 구분합니다.
 
@@ -46,16 +46,16 @@ GitHub 제품명·자격증명·시험 코드처럼 공식 영어 명칭이 중�
 | 030 | 개념 | Concepts | CPT |
 | 040 | 공식 문서 | Official Docs | ODC |
 | 050 | 가이드 | Guides | GDE |
-| 060 | 실습 | Labs | LAB |
-| 070 | 연습문제 | Exercises | EXR |
-| 080 | 문제은행 | Question Bank | QB |
+| 060 | 실습 | 실습 (Labs, LAB) | LAB |
+| 070 | 연습문제 | 연습문제 (Exercises, EXR) | EXR |
+| 080 | 문제은행 | 문제은행 (Question Bank, QB) | QB |
 | 090 | 최종 복습 | Final Review | FR |
-| 100 | 프로젝트 | Projects | PRJ |
-| 110 | 모의고사 | Mock Exams | ME |
+| 100 | 프로젝트 | 프로젝트 (Projects, PRJ) | PRJ |
+| 110 | 모의고사 | 모의고사 (Mock Exams, ME) | ME |
 | 120 | 오답 관리 | Wrong Answers | WA |
-| 130 | 진행 현황 | Progress | PRG |
-| 140 | 자료 | Resources | RES |
-| 150 | 증빙 | Evidence | EVD |
+| 130 | 진행 현황 | 진행 현황 (Progress, PRG) | PRG |
+| 140 | 자료 | 자료 (Resources, RES) | RES |
+| 150 | 증빙 | 증빙 (Evidence, EVD) | EVD |
 
 위 약어 가운데 업계 표준 약어가 아닌 것은 **GCLS 내부 문서 탐색용 약어**입니다.
 
@@ -64,15 +64,15 @@ GitHub 제품명·자격증명·시험 코드처럼 공식 영어 명칭이 중�
 | 한글 | 영어 | 약어 |
 |---|---|---|
 | 빠른 시작 | Quick Start | QS |
-| 콘텐츠 상태 | Content Status | CS |
-| 학습 상태 | Learning Status | LS |
+| 콘텐츠 상태 | 콘텐츠 상태 (Content Status, CS) | CS |
+| 학습 상태 | 학습 상태 (Learning Status, LS) | LS |
 | 자격증 로드맵 | Certification Roadmap | CR |
 | 학습 아키텍처 | Learning Architecture | LA |
 | 시험 준비도 통과 기준 | Exam Readiness Gate | ERG |
 | 저장소 맵 | Repository Map | RM |
 | 시스템 통합 관제 | System Control Tower | SCT |
 | 검증 | Verification | VER |
-| 최종 종합 프로젝트 | Final Capstone | FC |
+| 최종 종합 프로젝트 | 최종 종합 프로젝트 (Final Capstone, FCAP) | FC |
 | 학습 세션 | Study Session | SS |
 | 점수 기록 | Score Log | SL |
 | 일일 추적 | Daily Tracker | DT |

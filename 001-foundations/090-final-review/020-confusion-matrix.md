@@ -19,7 +19,7 @@
 | SECURITY | CODEOWNERS | SECURITY는 취약점 신고 정책, CODEOWNERS는 변경 검토 책임자 지정 |
 | Actions | Codespaces | 자동화 실행 vs 개발환경 제공 |
 | Actions | Copilot | Workflow 자동화 vs AI 개발 보조 |
-| Projects | Issues | Projects는 여러 작업의 계획·보기, Issue는 개별 작업 추적 |
+| 프로젝트 (Projects, PRJ) | Issues | Projects는 여러 작업의 계획·보기, Issue는 개별 작업 추적 |
 | Open Source | InnerSource | 외부 공개 협업 vs 조직 내부 오픈소스 방식 |
 | Template Repository | Fork | 새 프로젝트 출발점 복제 vs 원본과 기여 관계가 있는 복제 |
 

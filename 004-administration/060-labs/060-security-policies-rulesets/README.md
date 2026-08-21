@@ -30,7 +30,7 @@ Audit / Report
 
 다음을 작성합니다.
 
-| Requirement | Scope | Control | Evidence |
+| Requirement | Scope | Control | 증빙 (Evidence, EVD) |
 |---|---|---|---|
 | Direct push 제한 | | | |
 | Review 필수 | | | |

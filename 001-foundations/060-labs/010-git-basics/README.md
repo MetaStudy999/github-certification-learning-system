@@ -109,7 +109,7 @@ git log --oneline --decorate -5
 - 최소 3개의 Commit이 존재한다.
 - 각 Commit Message가 작업 내용을 설명한다.
 
-## Evidence
+## 증빙 (Evidence, EVD)
 
 [`../../../150-evidence/`](../../../150-evidence/)에 다음을 기록할 수 있습니다.
 

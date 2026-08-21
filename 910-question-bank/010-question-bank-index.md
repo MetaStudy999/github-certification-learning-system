@@ -2,12 +2,12 @@
 
 | 코드 | 자격증 | 시험 | 문제은행 | 문항 |
 |---:|---|---|---|---:|
-| 001 | GitHub Foundations | GH-900 | [`Q001–Q100`](../001-foundations/080-question-bank/) | 100 |
-| 002 | GitHub Actions | GH-200 | [`Q001–Q100`](../002-actions/080-question-bank/) | 100 |
-| 003 | GitHub Copilot | GH-300 | [`Q001–Q100`](../003-copilot/080-question-bank/) | 100 |
-| 004 | GitHub Administration | GH-100 | [`Q001–Q100`](../004-administration/080-question-bank/) | 100 |
-| 005 | GitHub Advanced Security | GH-500 | [`Q001–Q100`](../005-advanced-security/080-question-bank/) | 100 |
-| 006 | GitHub Agentic AI Developer | GH-600 | [`Q001–Q100`](../006-agentic-ai-developer/080-question-bank/) | 100 |
+| 001 | GitHub 기초 (GitHub Foundations, GHF / GH-900) | GH-900 | [`Q001–Q100`](../001-foundations/080-question-bank/) | 100 |
+| 002 | GitHub 액션 (GitHub Actions, GHACT / GH-200) | GH-200 | [`Q001–Q100`](../002-actions/080-question-bank/) | 100 |
+| 003 | GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) | GH-300 | [`Q001–Q100`](../003-copilot/080-question-bank/) | 100 |
+| 004 | GitHub 관리 (GitHub Administration, GHADM / GH-100) | GH-100 | [`Q001–Q100`](../004-administration/080-question-bank/) | 100 |
+| 005 | GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) | GH-500 | [`Q001–Q100`](../005-advanced-security/080-question-bank/) | 100 |
+| 006 | GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) | GH-600 | [`Q001–Q100`](../006-agentic-ai-developer/080-question-bank/) | 100 |
 | **합계** |  |  |  | **600** |
 
 ## 권장 실행 순서

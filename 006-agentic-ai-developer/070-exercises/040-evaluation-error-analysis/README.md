@@ -1,4 +1,4 @@
-# 040 Evaluation / Error Analysis / Tuning — Exercises
+# 040 Evaluation / Error Analysis / Tuning — 연습문제 (Exercises, EXR)
 
 1. Agent Task Success를 측정할 Metric 5개를 설계하세요.
 2. Correctness와 Safety를 별도 Metric으로 관리해야 하는 이유를 설명하세요.

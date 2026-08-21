@@ -1,6 +1,6 @@
 # 040 Official Docs — 공식 기준 자료
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 시험 범위와 기능 동작은 항상 공식 자료를 우선합니다.
 

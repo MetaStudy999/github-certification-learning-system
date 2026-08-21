@@ -16,7 +16,7 @@ Study period:
 Final QBank score:
 Mock 01:
 Mock 02:
-Final Mock:
+최종 모의고사 (Final Mock, FM):
 Retry score:
 ```
 

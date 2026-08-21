@@ -19,7 +19,7 @@ Commands / GitHub actions:
 3.
 ```
 
-## Verification
+## 검증 (Verification, VER)
 
 ```text
 Expected result:
@@ -48,7 +48,7 @@ Related official documentation:
 Next review date:
 ```
 
-## Evidence Checklist
+## 증빙 점검표 (Evidence Checklist, EC)
 
 - [ ] 명령 또는 GitHub 작업을 직접 수행했다.
 - [ ] 결과를 확인했다.

@@ -2,7 +2,7 @@
 
 GitHub 자격증 학습에 사용하는 **공식 Source of Truth**와 보조 자료를 통합 관리합니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-official-source-map.md`](./010-official-source-map.md)에서 시험별 공식 Study Guide와 학습 페이지를 확인합니다.
 2. 시험 범위는 Microsoft Learn/GitHub Learn의 최신 공식 페이지를 우선합니다.

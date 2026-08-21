@@ -1,6 +1,6 @@
 # 090 Final Review — 시험 직전 압축 복습
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 시험 직전에는 새로운 내용을 크게 늘리지 않습니다. **헷갈리는 비교 + 최근 오답 + 공식 Domain** 중심으로 압축합니다.
 

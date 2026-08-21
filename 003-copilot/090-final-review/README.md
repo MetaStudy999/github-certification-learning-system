@@ -1,6 +1,6 @@
 # 090 Final Review — GH-300 시험 직전 복습
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 시험 직전에는 새 기능을 무작정 추가 학습하지 않습니다.
 

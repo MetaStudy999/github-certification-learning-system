@@ -1,4 +1,4 @@
-# 060 Guardrails / Accountability — Exercises
+# 060 Guardrails / Accountability — 연습문제 (Exercises, EXR)
 
 1. Agent Guardrail을 Input, Planning, Tool, Execution, Evaluation 단계로 나누어 설계하세요.
 2. 최소 권한이 Agentic System에서 중요한 이유를 설명하세요.

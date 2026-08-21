@@ -56,7 +56,7 @@ Identity
 - [ ] Enterprise 요구사항으로 Identity Model 선택 이유 설명
 - [ ] `기업 관리가 강할수록 무조건 EMU` 같은 단순화를 피함
 
-## Evidence
+## 증빙 (Evidence, EVD)
 
 ```text
 Date:

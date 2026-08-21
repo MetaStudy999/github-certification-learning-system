@@ -10,7 +10,7 @@
 
 **PASS 조건:** 전부 완료
 
-## Gate B — Concepts
+## Gate B — 개념 (Concepts, CPT)
 
 자료 없이 설명합니다.
 
@@ -27,7 +27,7 @@
 
 **PASS 조건:** 90% 이상 설명 가능
 
-## Gate C — Labs
+## Gate C — 실습 (Labs, LAB)
 
 - [ ] 핵심 Lab 80% 이상 완료
 - [ ] Lab 110 CLI/Agent/MCP 완료
@@ -37,7 +37,7 @@
 
 **PASS 조건:** 80% 이상 + 핵심 110–130 완료
 
-## Gate D — Question Bank
+## Gate D — 문제은행 (Question Bank, QB)
 
 | 회차 | 목표 | 결과 |
 |---|---:|---:|
@@ -52,11 +52,11 @@
 |---|---:|---:|
 | Mock 01 | 85%+ | |
 | Mock 02 | 85%+ | |
-| Final Mock | 90%+ 권장 | |
+| 최종 모의고사 (Final Mock, FM) | 90%+ 권장 | |
 
 **필수 PASS 조건:** 최근 2회 연속 85% 이상
 
-## Gate F — Wrong Answers
+## Gate F — 오답 관리 (Wrong Answers, WA)
 
 - [ ] +1일 Retry 90%+
 - [ ] +7일 Retry 90%+

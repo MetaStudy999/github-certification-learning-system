@@ -1,11 +1,11 @@
-# 006 GitHub Agentic AI Developer
+# 006 GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600)
 
 > **GitHub Agentic AI Developer · GH-600**  
 > GitHub 기반 SDLC에서 AI Agent의 아키텍처, 도구 상호작용, 상태 관리, 평가, 다중 Agent 조정, Guardrail과 Accountability를 학습하는 자격증 과정입니다.
 
 > 이 Repository의 내용은 자격증 학습용 고수준 설계·판단 연습을 중심으로 하며 실제 운영 환경의 권한을 확대하거나 안전 통제를 우회하는 절차를 다루지 않습니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-overview/`](./010-overview/)에서 6개 시험 Domain을 확인합니다.
 2. [`020-terms/`](./020-terms/)에서 Agent, Tool, MCP, Memory, State, Evaluation, Guardrail 등 핵심 용어를 익힙니다.
@@ -20,12 +20,12 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **CONTENT-READY** | GH-600 학습·실습·문제·Mock·Evidence 구축 완료 |
-| Learning Status | **PLANNED** | 실제 학습 시작 전 |
+| 콘텐츠 상태 (Content Status, CS) | **CONTENT-READY** | GH-600 학습·실습·문제·Mock·Evidence 구축 완료 |
+| 학습 상태 (Learning Status, LS) | **PLANNED** | 실제 학습 시작 전 |
 
 > 콘텐츠 구축 검증: [`150-evidence/090-content-verification.md`](./150-evidence/090-content-verification.md)
 
-## Exam Snapshot
+## 시험 개요 (Exam Snapshot, ES)
 
 | 항목 | 내용 |
 |---|---|
@@ -84,10 +84,10 @@ Requirement
 
 | 영역 | 구축 결과 |
 |---|---:|
-| Labs | 12개 |
-| Exercises | 60개 |
-| Question Bank | 100문제 |
-| Mock Exams | 3회 × 40문제 = 120문제 |
+| 실습 (Labs, LAB) | 12개 |
+| 연습문제 (Exercises, EXR) | 60개 |
+| 문제은행 (Question Bank, QB) | 100문제 |
+| 모의고사 (Mock Exams, ME) | 3회 × 40문제 = 120문제 |
 | 자체 시험형 문제 | **총 220문제** |
 | Final Review | 완료 |
 | Agentic SDLC Design Project | 완료 |
@@ -144,7 +144,7 @@ Guardrails / Accountability
 Human Review / Evidence
 ```
 
-## Exam Readiness Gate
+## 시험 준비도 통과 기준 (Exam Readiness Gate, ERG)
 
 - [ ] 최신 공식 GH-600 Study Guide 확인
 - [ ] 6개 Domain과 비중 설명 가능

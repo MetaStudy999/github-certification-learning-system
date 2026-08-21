@@ -4,7 +4,7 @@
 
 Copilot이 Context를 수집하고 Prompt를 구성한 뒤 모델 응답을 처리하는 **개념적 Data Flow**를 이해합니다.
 
-## Exercises
+## 연습문제 (Exercises, EXR)
 
 ### E030-01 — Data Flow 정렬
 다음 항목을 일반적인 개념 흐름으로 정렬하세요.

@@ -1,6 +1,6 @@
 # 020 Retry Dashboard — 통합 재시험 관리
 
-## Retry Queue
+## 재도전 대기열 (Retry Queue, RQ)
 
 | 날짜 | 과정 | 문제 ID | Error Code | +1일 | +7일 | 최근 결과 | 상태 |
 |---|---|---|---|---|---|---:|---|

@@ -1,13 +1,13 @@
 # 030 Score Log — GH-300
 
-## Question Bank
+## 문제은행 (Question Bank, QB)
 
 | Date | Attempt | Correct | Total | Score | Weak Skill Area | Next Action |
 |---|---:|---:|---:|---:|---|---|
 |  | 1 |  | 100 |  |  |  |
 |  | 2 |  | 100 |  |  |  |
 
-## Mock Exams
+## 모의고사 (Mock Exams, ME)
 
 | Date | Mock | Correct | Total | Score | Weak Skill Area | Gate |
 |---|---|---:|---:|---:|---|---|

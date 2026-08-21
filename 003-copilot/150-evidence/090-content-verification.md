@@ -1,4 +1,4 @@
-# 090 Content Verification — 003 GitHub Copilot
+# 090 Content Verification — 003 GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300)
 
 **Verification date:** 2026-08-21  
 **Course:** GH-300 GitHub Copilot
@@ -131,11 +131,11 @@ Wrong-answer system: PASS
 Progress / Evidence: PASS
 ```
 
-### Content Status
+### 콘텐츠 상태 (Content Status, CS)
 
 **CONTENT-READY**
 
-### Learning Status
+### 학습 상태 (Learning Status, LS)
 
 **PLANNED**
 

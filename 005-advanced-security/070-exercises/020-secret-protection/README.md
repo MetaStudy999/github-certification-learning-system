@@ -1,4 +1,4 @@
-# 020 Secret Protection — Exercises
+# 020 Secret Protection — 연습문제 (Exercises, EXR)
 
 > 자격증 학습용 과제이며 실제 민감정보나 운영 자격증명을 사용하지 않습니다.
 

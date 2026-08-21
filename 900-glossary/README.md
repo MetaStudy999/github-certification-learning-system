@@ -2,7 +2,7 @@
 
 GitHub 자격증 6종의 용어를 **중복 복제하지 않고 연결·비교·복습**하기 위한 통합 인덱스입니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-certification-term-map.md`](./010-certification-term-map.md)에서 자격증별 용어 영역을 확인합니다.
 2. [`020-acronym-index.md`](./020-acronym-index.md)에서 시험에 반복 등장하는 약어를 한 번에 복습합니다.
@@ -26,12 +26,12 @@ English Full Name (Acronym) — 한국어 뜻
 
 | 코드 | 과정 | 상세 용어 |
 |---:|---|---|
-| 001 | GitHub Foundations | [`020-terms`](../001-foundations/020-terms/) |
-| 002 | GitHub Actions | [`020-terms`](../002-actions/020-terms/) |
-| 003 | GitHub Copilot | [`020-terms`](../003-copilot/020-terms/) |
-| 004 | GitHub Administration | [`020-terms`](../004-administration/020-terms/) |
-| 005 | GitHub Advanced Security | [`020-terms`](../005-advanced-security/020-terms/) |
-| 006 | GitHub Agentic AI Developer | [`020-terms`](../006-agentic-ai-developer/020-terms/) |
+| 001 | GitHub 기초 (GitHub Foundations, GHF / GH-900) | [`020-terms`](../001-foundations/020-terms/) |
+| 002 | GitHub 액션 (GitHub Actions, GHACT / GH-200) | [`020-terms`](../002-actions/020-terms/) |
+| 003 | GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) | [`020-terms`](../003-copilot/020-terms/) |
+| 004 | GitHub 관리 (GitHub Administration, GHADM / GH-100) | [`020-terms`](../004-administration/020-terms/) |
+| 005 | GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) | [`020-terms`](../005-advanced-security/020-terms/) |
+| 006 | GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) | [`020-terms`](../006-agentic-ai-developer/020-terms/) |
 
 ## 통합 분류
 

@@ -1,4 +1,4 @@
-# 050 Multi-Agent Coordination — Exercises
+# 050 Multi-Agent Coordination — 연습문제 (Exercises, EXR)
 
 1. Single Agent로 충분한 작업과 Multi-Agent가 유리한 작업을 비교하세요.
 2. Planner와 Reviewer 역할을 분리하는 장단점을 설명하세요.

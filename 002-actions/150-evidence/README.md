@@ -1,6 +1,6 @@
 # 150 Evidence — GH-200 학습·실습 증거
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 실습과 시험 결과를 단순 체크가 아니라 **재현 가능한 Evidence**로 남깁니다.
 
@@ -14,7 +14,7 @@
 
 ## 기록 대상
 
-| 코드 | Evidence | 예시 |
+| 코드 | 증빙 (Evidence, EVD) | 예시 |
 |---:|---|---|
 | 010 | Workflow | Workflow URL / Run URL |
 | 020 | Trigger | Push / PR / Manual 실행 |

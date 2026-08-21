@@ -6,7 +6,7 @@
 - [ ] 6개 Domain과 비중 설명
 - [ ] GitHub Learn의 beta 표시와 실제 예약 상태 구분
 
-## Concepts
+## 개념 (Concepts, CPT)
 
 - [ ] Goal / Input / Output / Success Criteria
 - [ ] Planning / Execution / Human Review

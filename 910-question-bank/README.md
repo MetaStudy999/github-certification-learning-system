@@ -2,7 +2,7 @@
 
 6개 자격증의 자체 문제은행을 한 곳에서 탐색하고 점수 기준을 통일합니다. 실제 시험 문항·복원문제·Brain Dump는 사용하지 않습니다.
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 1. [`010-question-bank-index.md`](./010-question-bank-index.md)에서 과정별 문제은행으로 이동합니다.
 2. 각 과정의 100문제를 1회 풀고 80% 이상을 목표로 합니다.
@@ -12,7 +12,7 @@
 
 ## Current Scale
 
-| 과정 | 시험 | Question Bank |
+| 과정 | 시험 | 문제은행 (Question Bank, QB) |
 |---|---|---:|
 | 001 Foundations | GH-900 | 100 |
 | 002 Actions | GH-200 | 100 |

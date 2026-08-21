@@ -1,6 +1,6 @@
 # 030 Concepts — 핵심 개념
 
-## Quick Start
+## 빠른 시작 (Quick Start, QS)
 
 용어를 따로 암기하지 않고 **흐름과 관계**로 연결합니다.
 
@@ -113,7 +113,7 @@ SECURITY     → 보안 문제는 어떻게 제보하는가?
 | Actions | 반복 작업·CI/CD 자동화 |
 | Copilot | AI 기반 코드·개발 보조 |
 | Codespaces | 어디서나 재현 가능한 클라우드 개발환경 |
-| Projects | Issue·PR 기반 일정·업무 관리 |
+| 프로젝트 (Projects, PRJ) | Issue·PR 기반 일정·업무 관리 |
 | Pages | 정적 웹사이트 공개 |
 | Wiki | Repository 지식 문서화 |
 | Gist | 작은 코드·메모 공유 |

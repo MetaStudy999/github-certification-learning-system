@@ -1,4 +1,4 @@
-# 050 Security Operations / Administration — Exercises
+# 050 Security Operations / Administration — 연습문제 (Exercises, EXR)
 
 1. Security Overview와 Security Campaign의 목적 차이를 설명하세요.
 2. Alert Prioritization에서 심각도 외에 고려할 조직적 요소를 설명하세요.

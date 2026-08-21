@@ -116,7 +116,7 @@ Retry queue:
 
 ```text
 Mock 02:
-Final Mock:
+최종 모의고사 (Final Mock, FM):
 Wrong answer retry:
 Exam gate: PASS / REVIEW
 ```

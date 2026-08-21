@@ -6,7 +6,7 @@
 
 ## Evidence Map
 
-| 코드 | Evidence | 예시 |
+| 코드 | 증빙 (Evidence, EVD) | 예시 |
 |---:|---|---|
 | 010 | Prompt / Context | Goal·Context·Constraints·Verification |
 | 020 | Feature Selection | Suggestion / Chat / Edits / Agent / CLI 선택 근거 |

@@ -8,7 +8,7 @@ Agent 결과를 감으로 판단하지 않고 명시적인 Evaluation 기준으�
 
 다음 평가표를 설계합니다.
 
-| Metric | Definition | Pass threshold | Evidence |
+| Metric | Definition | Pass threshold | 증빙 (Evidence, EVD) |
 |---|---|---:|---|
 | Task success | | | |
 | Correctness | | | |
