@@ -1,4 +1,4 @@
-# 030 Question Set — Collaboration & Scenario (Q021–Q030)
+# 030 문제 세트 (Question Set, QS) — 협업 와 시나리오 (Collaboration & Scenario, CS) (Q021–Q030)
 
 ## Q021
 재현 가능한 버그를 담당자에게 배정하고 상태를 추적하려고 한다. 가장 적합한 기능은?
@@ -130,7 +130,7 @@ D. Discussion만 작성하고 코드 변경 없이 종료
 **정답: B** — Branch와 PR 중심 흐름은 변경을 분리하고 Review를 거쳐 기본 Branch에 통합하도록 돕습니다.
 </details>
 
-## Self Check
+## 자가 점검 (Self Check, SC)
 
 - 9–10: PASS
 - 8: 오답 복습

@@ -1,8 +1,8 @@
-# Lab 080 — Modern Development on GitHub
+# 실습 (Lab, LAB) 080 — GitHub 현대적 개발 (Modern Development on GitHub, MDG)
 
 > **GitHub Actions · GitHub Copilot · GitHub Codespaces 관찰과 역할 구분**
 
-## 000. Quick Start
+## 000. 빠른 시작 (Quick Start, QS)
 
 Foundations 시험에서는 각 도구를 깊게 구현하는 것보다 **무엇을 위해 사용하는지**를 구분하는 것이 우선입니다.
 

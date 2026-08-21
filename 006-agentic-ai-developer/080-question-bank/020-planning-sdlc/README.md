@@ -1,4 +1,4 @@
-# QBank 020 — Planning / SDLC
+# 문제은행 (Question Bank, QB) 020 — 계획 / SDLC (Planning / SDLC, PSDLC)
 
 ## Q011–Q020
 
@@ -13,7 +13,7 @@
 **Q019.** Agent가 성공 조건을 달성했는데 추가 작업을 계속하는 문제를 막는 것은? A Stop Condition B Star Rule C Fork Policy D Wiki  
 **Q020.** 안전한 SDLC Agent 흐름에 가장 가까운 것은? A Plan→Review→Controlled Execution→Evaluate B Execute→Ignore C Tool→Tool→Tool D Retry Forever
 
-## Answers
+## 정답 (Answers, ANS)
 
 011 B · 012 A · 013 A · 014 B · 015 A · 016 A · 017 A · 018 A · 019 A · 020 A
 

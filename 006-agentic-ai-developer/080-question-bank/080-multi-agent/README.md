@@ -1,4 +1,4 @@
-# QBank 080 — Multi-Agent Coordination
+# 문제은행 (Question Bank, QB) 080 — 멀티에이전트 조정 (Multi-Agent Coordination, MC)
 
 ## Q071–Q080
 
@@ -13,7 +13,7 @@
 **Q079.** Orchestration의 핵심은? A 순서·조건·상태·Handoff 조정 B Tool 수 증가 C 권한 확대 D 평가 제거  
 **Q080.** Multi-Agent 사용 여부의 가장 좋은 기준은? A 추가 복잡성보다 얻는 분리·검증·전문화 이점이 큰가 B Agent 수가 많을수록 좋음 C 항상 2개 이상 D 사람 없이 가능한가
 
-## Answers
+## 정답 (Answers, ANS)
 
 071 A · 072 A · 073 A · 074 A · 075 A · 076 A · 077 A · 078 A · 079 A · 080 A
 

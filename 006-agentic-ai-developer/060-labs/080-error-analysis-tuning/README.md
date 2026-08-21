@@ -1,10 +1,10 @@
-# Lab 080 — Error Analysis & Tuning
+# 실습 (Lab, LAB) 080 — 오류 분석과 조정 (Error Analysis & Tuning, EAT)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Agent 실패를 유형화하고 원인에 맞는 개선 방법을 선택합니다.
 
-## Failure Taxonomy
+## 실패 분류체계 (Failure Taxonomy, FT)
 
 | Error type | 예시 | 개선 후보 |
 |---|---|---|
@@ -16,11 +16,11 @@ Agent 실패를 유형화하고 원인에 맞는 개선 방법을 선택합니�
 | Evaluation | 잘못된 성공 판정 | Metric / Threshold 개선 |
 | Governance | 승인 조건 누락 | Guardrail / Review 강화 |
 
-## Practice
+## 실습 (Practice, PRAC)
 
 실패 Scenario 5개를 선택해 `증상 → 원인 → 수정 → 재평가`를 기록합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] 결과가 나쁘다고 무조건 Prompt만 수정하지 않음
 - [ ] 원인 유형별 개선 방법을 선택

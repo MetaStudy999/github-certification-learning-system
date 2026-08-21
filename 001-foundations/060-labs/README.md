@@ -6,7 +6,7 @@
 
 > 아래 `READY`는 **학습 콘텐츠가 준비됨**을 뜻합니다. 실제 학습 완료 여부는 [`130-progress`](../130-progress/README.md)에서 별도로 기록합니다.
 
-## Lab Roadmap
+## 실습 로드맵 (Lab Roadmap, LR)
 
 | Level | Lab | 핵심 기술 | 콘텐츠 상태 |
 |---:|---|---|---|
@@ -49,7 +49,7 @@ github-foundations-lab
 
 통합 Repository 자체를 사용해도 되지만, Branch·PR·Issue·Fork 실습은 별도 Sandbox Repository가 더 안전합니다.
 
-## 10-Lab Learning Path
+## 10개 실습 학습 경로 (10-Lab Learning Path, 10LP)
 
 ```text
 010 Git Basics

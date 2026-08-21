@@ -1,6 +1,6 @@
 # 060 Labs — GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) 단계별 실습
 
-## Lab Roadmap
+## 실습 로드맵 (Lab Roadmap, LR)
 
 | Level | Lab | 핵심 기술 |
 |---:|---|---|

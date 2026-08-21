@@ -145,7 +145,7 @@ Prompt에 다음을 불필요하게 넣지 않습니다.
 
 Content Exclusion은 중요한 관리 기능이지만 **Secret Management를 대체하지 않습니다.**
 
-## 9. Responsible AI Checklist
+## 9. 책임 있는 AI 점검표 (Responsible AI Checklist, RAIC)
 
 AI 결과를 사용할 때 묻습니다.
 

@@ -1,4 +1,4 @@
-# QBank 020 — Secret Protection Basics
+# 문제은행 (Question Bank, QB) 020 — 비밀 보호 기초 (Secret Protection Basics, SPB)
 
 ## Q011–Q020
 
@@ -13,7 +13,7 @@
 **Q019.** Alert를 단순히 Dismiss하는 것과 Remediate하는 것의 차이는? A. 위험 수용/오탐 처리 vs 실제 위험 제거 B. 동일 C. 둘 다 저장소 삭제 D. 둘 다 Branch 보호  
 **Q020.** Secret Protection 학습의 적절한 흐름은? A. Detection → Triage → Response → Verification B. Delete → Ignore C. Fork → Star D. Clone → Tag
 
-## Answers
+## 정답 (Answers, ANS)
 
 011 A · 012 A · 013 A · 014 A · 015 A · 016 A · 017 A · 018 A · 019 A · 020 A
 

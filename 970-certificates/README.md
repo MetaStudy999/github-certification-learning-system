@@ -8,7 +8,7 @@
 2. Credential 공개 전 [`020-publication-policy.md`](./020-publication-policy.md)를 확인합니다.
 3. 합격 후 각 과정의 `150-evidence/`와 `980-portfolio/`를 연결합니다.
 
-## Current Certification Record
+## 현재 Certification Record (Current Certification Record, CCR)
 
 | 코드 | 자격증 | 시험 | Result | Credential |
 |---:|---|---|---|---|

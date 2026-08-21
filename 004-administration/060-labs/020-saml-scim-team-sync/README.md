@@ -1,10 +1,10 @@
-# Lab 020 — SAML SSO / SCIM / Team Synchronization
+# 실습 (Lab, LAB) 020 — SAML SSO / SCIM / 팀 동기화 (SAML SSO / SCIM / Team Synchronization, SAMLSSOSCIMT)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 SAML SSO, 2FA, SCIM, Team Synchronization, IdP를 **하나의 Identity Lifecycle**로 연결합니다.
 
-## Concept Map
+## 개념 맵 (Concept Map, CM)
 
 ```text
 Identity Provider (IdP)
@@ -24,7 +24,7 @@ Identity Provider (IdP)
 
 후보: `SAML SSO`, `SCIM`, `Team Synchronization`, `2FA`
 
-## Practice 2 — Joiner / Mover / Leaver
+## 실습 (Practice, PRAC) 2 — Joiner / Mover / Leaver
 
 가상 직원 `Alice`의 수명주기를 설계합니다.
 
@@ -47,7 +47,7 @@ Leaver
 
 각 단계에서 GitHub와 IdP 중 누가 어떤 역할을 담당하는지 작성합니다.
 
-## Practice 3 — Failure Scenario
+## 실습 (Practice, PRAC) 3 — 실패 시나리오 (Failure Scenario, FS)
 
 사용자는 SAML 인증에 성공하지만 올바른 Team에 들어가지 못합니다.
 
@@ -60,11 +60,11 @@ Leaver
 5. Organization / Team 상태
 6. Audit / Log 확인
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `SAML SSO가 있으면 SCIM은 필요 없다`라는 주장에 반박하세요.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] SAML / SCIM / Team Sync의 목적 구분
 - [ ] IdP 역할 설명

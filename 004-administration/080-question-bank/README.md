@@ -2,7 +2,7 @@
 
 > 실제 시험 문항이나 Brain Dump를 복제하지 않습니다. **July 2026 GH-100 Skills Measured**를 기반으로 자체 제작합니다.
 
-## 100-Question Structure
+## 100-질문 Structure (100-Question Structure, QS)
 
 | 코드 | Set | 문제 | 주 영역 |
 |---:|---|---:|---|

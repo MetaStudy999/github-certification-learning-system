@@ -1,4 +1,4 @@
-# 060 Security Features & Integrations — Q051–Q060
+# 060 보안 기능 와 통합 — Q051–Q060 (060 Security Features & Integrations — Q051–Q060, SFIQ051Q060)
 
 ## Q051
 자동화 서비스가 여러 Repository에 접근해야 하고 권한을 세밀하게 제한해야 한다. 가장 적절한 통합 방식은?

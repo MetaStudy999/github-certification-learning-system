@@ -1,6 +1,6 @@
-# GH-600 Final Checklist
+# GH-600 Final 점검표 (GH-600 Final Checklist, GH-600FC)
 
-## Official Scope
+## Official 범위 (Official Scope, OS)
 
 - [ ] Microsoft Learn GH-600 Study Guide 최신 확인
 - [ ] 6개 Domain과 비중 설명
@@ -24,6 +24,6 @@
 - [ ] Final Mock 90%+ 권장
 - [ ] 최근 오답 재시험 90%+
 
-## Final Rule
+## Final 규칙 (Final Rule, FR)
 
 `시험 날짜가 왔다`보다 `Gate를 통과했다`를 응시 판단 기준으로 사용합니다.

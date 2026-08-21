@@ -1,4 +1,4 @@
-# 080 Security — Q071–Q080
+# 080 보안 — Q071–Q080 (080 Security — Q071–Q080, SQ071Q080)
 
 ## Q071
 Workflow의 `GITHUB_TOKEN` 권한은 어떻게 설계하는 것이 가장 바람직한가?

@@ -1,4 +1,4 @@
-# 010 Project Rubric — CI/CD Automation Project
+# 010 프로젝트 Rubric — CI/CD 자동화 프로젝트 (010 Project Rubric — CI/CD Automation Project, PRCICDAP)
 
 | 영역 | 평가 항목 | 배점 |
 |---|---|---:|

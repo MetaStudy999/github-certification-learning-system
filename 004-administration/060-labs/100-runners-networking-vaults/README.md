@@ -1,10 +1,10 @@
-# Lab 100 — Runners / Networking / Vaults
+# 실습 (Lab, LAB) 100 — 러너 / 네트워킹 / 볼트 (Runners / Networking / Vaults, RNV)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 GitHub-hosted / Self-hosted Runner, Runner Group, Network Boundary, Secret/Vault를 Enterprise 운영 관점에서 연결합니다.
 
-## Runner Comparison
+## 러너 비교 (Runner Comparison, RC)
 
 | 기준 | GitHub-hosted | Self-hosted |
 |---|---|---|
@@ -15,7 +15,7 @@ GitHub-hosted / Self-hosted Runner, Runner Group, Network Boundary, Secret/Vault
 | Isolation 책임 | GitHub 중심 | 조직 중심 |
 | Capacity 관리 | 상대적으로 단순 | 조직 관리 |
 
-## Practice 1 — Runner Selection
+## 실습 (Practice, PRAC) 1 — 러너 선택 (Runner Selection, RS)
 
 Scenario:
 
@@ -36,7 +36,7 @@ Monitoring:
 Cleanup:
 ```
 
-## Practice 2 — Runner Group
+## 실습 (Practice, PRAC) 2 — 러너 그룹 (Runner Group, RG)
 
 가상의 Runner Group을 설계합니다.
 
@@ -52,7 +52,7 @@ Monitoring:
 
 어떤 Repository라도 Production Runner를 사용할 수 있게 하지 않는 이유를 설명하세요.
 
-## Practice 3 — Networking
+## 실습 (Practice, PRAC) 3 — 네트워킹 (Networking, N)
 
 다음을 비교합니다.
 
@@ -62,7 +62,7 @@ Monitoring:
 
 각각 어떤 접근 문제를 해결하는지 작성합니다.
 
-## Practice 4 — Vault
+## 실습 (Practice, PRAC) 4 — 볼트 (Vault, V)
 
 고위험 Cloud Credential을 GitHub Secret에 장기 저장하는 대신 Third-party Vault Integration을 검토한다고 가정합니다.
 
@@ -90,7 +90,7 @@ Queue time
 → Scale / Optimize
 ```
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] GitHub-hosted / Self-hosted 차이 설명
 - [ ] Runner Group 접근 범위 설명

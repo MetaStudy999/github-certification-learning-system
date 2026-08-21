@@ -1,6 +1,6 @@
-# GH-300 Mock 01 — Answers
+# GH-300 Mock 01 — 정답 (GH-300 Mock 01 — Answers, GH-300MA)
 
-## Answer Key
+## 정답 Key (Answer Key, AK)
 
 | Q | Ans | 핵심 근거 |
 |---:|:---:|---|

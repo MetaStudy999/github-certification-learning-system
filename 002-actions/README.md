@@ -14,7 +14,7 @@
 7. `110-mock-exams/`과 `120-wrong-answers/`로 시험 준비도를 검증합니다.
 8. `130-progress/`와 `150-evidence/`에 실제 학습·실습 결과를 기록합니다.
 
-## Status
+## 상태 (Status, S)
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
@@ -36,7 +36,7 @@
 | 자격 유효기간 | 24개월 |
 | 현재 학습 기준 | 2026-08-21 |
 
-## Current Exam Domains
+## 현재 시험 Domains (Current Exam Domains, CED)
 
 | Domain | 시험 비중 |
 |---|---:|
@@ -77,7 +77,7 @@ Artifact / Deployment / Result
 | 자체 문제 총량 | **220문항** |
 | Final Review | Checklist / Confusion Matrix / Exam Strategy |
 | Project | CI/CD Automation Integration Project |
-| Wrong Answers | Error Log + Retry Queue |
+| 오답 관리 (Wrong Answers, WA) | Error Log + Retry Queue |
 | 진행 현황 (Progress, PRG) | Daily Tracker + Readiness Gate + Score Log |
 | 증빙 (Evidence, EVD) | Environment / Workflow / Troubleshooting / Exam Reflection |
 
@@ -100,7 +100,7 @@ Artifact / Deployment / Result
 - Artifact Attestation / Provenance
 - Workflow Troubleshooting / Logs
 
-## Directory Map
+## Directory 맵 (Directory Map, DM)
 
 ```text
 002-actions/
@@ -121,7 +121,7 @@ Artifact / Deployment / Result
 └── 150-evidence/
 ```
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 핵심 목표 |
 |---:|---|

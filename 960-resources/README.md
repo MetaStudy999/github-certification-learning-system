@@ -9,7 +9,7 @@ GitHub 자격증 학습에 사용하는 **공식 Source of Truth**와 보조 자
 3. 제품 동작은 GitHub Docs를 기준으로 확인합니다.
 4. [`090-freshness-checklist.md`](./090-freshness-checklist.md)를 학습 시작·예약 전·응시 직전에 수행합니다.
 
-## Source Priority
+## 출처 우선순위 (Source Priority, SP)
 
 ```text
 Exam Study Guide / Certification Page

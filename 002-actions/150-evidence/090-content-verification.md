@@ -1,6 +1,6 @@
-# 090 Content Verification — GH-200
+# 090 콘텐츠 검증 — GH-200 (090 Content Verification — GH-200, CVGH-200)
 
-## Structure Verification
+## Structure 검증 (Structure Verification, SV)
 
 - [x] 010 Overview
 - [x] 020 Terms

@@ -1,4 +1,4 @@
-# Agentic SDLC Project — Evidence Checklist
+# Agentic SDLC 프로젝트 — Evidence 점검표 (Agentic SDLC Project — Evidence Checklist, ASDLCPEC)
 
 - [ ] Agent Design Card
 - [ ] Architecture Diagram

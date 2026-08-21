@@ -4,7 +4,7 @@
 
 실습과 시험 결과를 단순 체크가 아니라 **재현 가능한 Evidence**로 남깁니다.
 
-## Evidence Files
+## Evidence 파일 (Evidence Files, EF)
 
 - [010 Environment Template](./010-environment-template.md)
 - [020 Workflow Evidence Template](./020-workflow-evidence-template.md)

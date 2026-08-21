@@ -21,7 +21,7 @@
 |---|---:|---:|---:|---|
 |  |  |  |  |  |
 
-## Project
+## 프로젝트 (Project, P)
 
 | Project | Score | 증빙 (Evidence, EVD) | Status |
 |---|---:|---|---|

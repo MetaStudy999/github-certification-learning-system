@@ -1,4 +1,4 @@
-# 010 Workflow Authoring Exercises
+# 010 워크플로 Authoring (Workflow Authoring, WA) — 연습문제 (Exercises, EXR)
 
 ## 목표
 

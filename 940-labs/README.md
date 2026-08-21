@@ -10,7 +10,7 @@
 4. 결과는 각 과정의 `150-evidence/`에 기록합니다.
 5. [`090-verification-standard.md`](./090-verification-standard.md)에서 PASS 기준을 확인합니다.
 
-## Course Labs
+## 과정 Labs (Course Labs, CL)
 
 | 코드 | 과정 | Lab |
 |---:|---|---|
@@ -21,7 +21,7 @@
 | 005 | Advanced Security | [`060-labs`](../005-advanced-security/060-labs/) |
 | 006 | Agentic AI Developer | [`060-labs`](../006-agentic-ai-developer/060-labs/) |
 
-## Standard Lab Flow
+## Standard Lab 흐름 (Standard Lab Flow, SLF)
 
 ```text
 Objective

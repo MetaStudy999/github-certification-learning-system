@@ -1,4 +1,4 @@
-# GH-600 Design Evidence Template
+# GH-600 설계 Evidence Template (GH-600 Design Evidence Template, GH-600DET)
 
 ```text
 Date:

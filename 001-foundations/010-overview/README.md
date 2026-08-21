@@ -47,7 +47,7 @@
 - Insights, Stars, Metrics, Dependency 관련 정보
 - Repository 유지관리 Best Practice
 
-## Domain 3 — Collaboration
+## 영역 (Domain, DOM) 3 — 협업 (Collaboration, C)
 
 - Issues
 - Pull Requests (PR)
@@ -57,7 +57,7 @@
 - Template / Filter / Assignment
 - Gists / Wikis / GitHub Pages
 
-## Domain 4 — Modern Development
+## 영역 (Domain, DOM) 4 — 현대적 개발 (Modern Development, MD)
 
 - GitHub Actions의 목적
 - GitHub Copilot의 역할
@@ -67,14 +67,14 @@
 - Dev Container
 - Project Insights
 
-## Domain 5 — Project Management
+## 영역 (Domain, DOM) 5 — 프로젝트 Management (Project Management, PM)
 
 - GitHub Projects
 - Issue와 PR을 이용한 작업 추적
 - Views / Fields / Filters
 - 진행 상태와 협업 가시성
 
-## Domain 6 — Privacy, Security, Administration
+## 영역 (Domain, DOM) 6 — Privacy, Security, 관리 (Privacy, Security, Administration, PSA)
 
 - Two-Factor Authentication, 2FA (2단계 인증)
 - Passkey (패스키)
@@ -84,7 +84,7 @@
 - Branch Protection
 - Organization / Team / Role 기본
 
-## Domain 7 — GitHub Community
+## 영역 (Domain, DOM) 7 — GitHub 커뮤니티 (GitHub Community, GC)
 
 - Open Source (오픈 소스)의 장점
 - GitHub Sponsors

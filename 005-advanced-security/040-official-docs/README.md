@@ -1,6 +1,6 @@
 # 040 Official Docs — GH-500 공식 기준 자료
 
-## Primary Sources
+## 주요 출처 (Primary Sources, PS)
 
 - Microsoft Learn — Study guide for Exam GH-500  
   https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-500
@@ -31,7 +31,7 @@ Official URL
 - Security Alerts / Dismissal / Remediation
 - Enterprise / Organization Security Configuration
 
-## Exam-Day Rule
+## 시험 당일 규칙 (Exam-Day Rule, EDR)
 
 GitHub Security 제품명·구성·정책은 변경될 수 있으므로 시험 예약 전, 시험 7일 전, 시험 전날 최신 Study Guide를 다시 확인합니다.
 

@@ -1,10 +1,10 @@
-# Lab 090 — Multi-Agent Coordination
+# 실습 (Lab, LAB) 090 — 멀티에이전트 조정 (Multi-Agent Coordination, MC)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 여러 Agent가 필요한 조건과 역할 분리·Delegation·Handoff를 설계합니다.
 
-## Scenario
+## 시나리오 (Scenario, SCN)
 
 다음 역할을 문서로 비교합니다.
 
@@ -13,7 +13,7 @@
 - Reviewer
 - Evaluator
 
-## Practice
+## 실습 (Practice, PRAC)
 
 ```text
 Shared goal:
@@ -33,7 +33,7 @@ Human review point:
 3. Handoff 시 어떤 Artifact가 필요한가?
 4. Agent 간 판단이 충돌하면 누가 최종 결정을 하는가?
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Single vs Multi-Agent 선택 이유 설명
 - [ ] 역할 중복 최소화

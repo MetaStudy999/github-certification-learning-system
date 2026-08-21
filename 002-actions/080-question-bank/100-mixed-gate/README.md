@@ -70,7 +70,7 @@ A. 공식 Domain → Lab → Scenario 문제 → 오답 → Mock 반복  B. YAML
 
 <details><summary>정답</summary>**A**</details>
 
-## 100-Question Gate
+## 100-질문 Gate (100-Question Gate, QG)
 
 - [ ] 1회차 80/100 이상
 - [ ] 2회차 85/100 이상

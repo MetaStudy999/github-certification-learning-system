@@ -1,4 +1,4 @@
-# 060 Prompt & Context — Q051–Q060
+# 060 프롬프트 와 컨텍스트 — Q051–Q060 (060 Prompt & Context — Q051–Q060, PCQ051Q060)
 
 > Skill Area: **Apply prompt engineering and context crafting**
 

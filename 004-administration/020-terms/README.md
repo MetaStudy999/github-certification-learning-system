@@ -4,7 +4,7 @@
 
 용어는 **영문 원문 + 약어 + 한국어 의미 + 관리 Scenario**로 학습합니다.
 
-## Enterprise / Deployment
+## 엔터프라이즈 / 배포 (Enterprise / Deployment, ED)
 
 | English | 약어 | 한국어 / 핵심 의미 |
 |---|---|---|
@@ -17,7 +17,7 @@
 | Organization | Org | Repository, Team, Member를 관리하는 조직 단위 |
 | Enterprise Team | - | Enterprise 수준에서 관리·활용하는 Team 개념 |
 
-## Identity / Authentication
+## 식별 / Authentication (Identity / Authentication, IA)
 
 | English | 약어 | 한국어 / 핵심 의미 |
 |---|---|---|
@@ -32,7 +32,7 @@
 | Provisioning | - | 사용자/계정을 생성·배정하는 과정 |
 | Deprovisioning | - | 접근 권한과 계정을 회수·비활성화하는 과정 |
 
-## Access / Governance
+## Access / 거버넌스 (Access / Governance, AG)
 
 | English | 약어 | 한국어 / 핵심 의미 |
 |---|---|---|
@@ -44,7 +44,7 @@
 | Audit | - | 접근·설정·행동을 점검하는 활동 |
 | Audit Log | - | 관리·사용 이벤트 기록 |
 
-## Security / Compliance
+## 보안 / Compliance (Security / Compliance, SC)
 
 | English | 약어 | 한국어 / 핵심 의미 |
 |---|---|---|
@@ -59,7 +59,7 @@
 | OAuth App | - | 사용자 위임 OAuth 인증 기반 애플리케이션 |
 | Rate Limit | - | API 호출량 제한 |
 
-## Actions / Runner / Network
+## 액션 / 러너 / Network (Actions / Runner / Network, ARN)
 
 | English | 약어 | 한국어 / 핵심 의미 |
 |---|---|---|
@@ -73,7 +73,7 @@
 | Encrypted Secret | - | Workflow에서 사용하는 암호화된 Secret |
 | Vault | - | Secret을 중앙 관리하는 외부 비밀 저장소 |
 
-## Operations / Cost
+## 운영 / 비용 (Operations / Cost, OC)
 
 | English | 약어 | 한국어 / 핵심 의미 |
 |---|---|---|

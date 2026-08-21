@@ -1,4 +1,4 @@
-# 020 Project Evidence Checklist — GH-300
+# 020 프로젝트 Evidence 점검표 — GH-300 (020 Project Evidence Checklist — GH-300, PECGH-300)
 
 ## 1. Requirement
 
@@ -8,7 +8,7 @@
 - [ ] Error Case
 - [ ] Definition of Done
 
-## 2. Prompt / Context
+## 2. 프롬프트 / 컨텍스트 (Prompt / Context, PC)
 
 - [ ] Prompt 5개 이상
 - [ ] Goal / Context / Constraints / Output / Verification 기록
@@ -17,14 +17,14 @@
 - [ ] Context 선택 근거
 - [ ] Prompt 개선 Before / After
 
-## 3. AI Decision Evidence
+## 3. AI 의사결정 Evidence (AI Decision Evidence, AIDE)
 
 - [ ] Accept 사례
 - [ ] Modify 사례
 - [ ] Reject 사례
 - [ ] 각 판단 이유
 
-## 4. Code / Test
+## 4. 코드 / Test (Code / Test, CT)
 
 - [ ] 구현 Commit 또는 Diff
 - [ ] Unit Test
@@ -42,7 +42,7 @@
 - [ ] 성공 Test
 - [ ] Refactor Before / After
 
-## 6. Current Copilot Features
+## 6. 현재 Copilot 기능 (Current Copilot Features, CCF)
 
 가능한 환경에서 최소 1개 이상 실제 수행하고, 나머지는 Scenario로 설명합니다.
 
@@ -56,7 +56,7 @@
 - [ ] Spaces
 - [ ] Spark
 
-## 7. Responsible AI / Privacy
+## 7. 책임 있는 AI / 개인정보 보호 (Responsible AI / Privacy, RAIP)
 
 - [ ] Secret 미노출 확인
 - [ ] PII / 민감 Data 미포함 확인

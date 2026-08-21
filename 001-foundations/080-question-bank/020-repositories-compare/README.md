@@ -1,4 +1,4 @@
-# 020 Question Set — Repositories & Compare (Q011–Q020)
+# 020 문제 세트 (Question Set, QS) — 저장소 와 비교 (Repositories & Compare, RC) (Q011–Q020)
 
 ## Q011
 Write 권한이 없는 공개 Repository에 일반적으로 기여하려고 한다. 가장 적절한 시작은?
@@ -130,7 +130,7 @@ D. Public Repository에는 Pull Request가 없다.
 **정답: B**
 </details>
 
-## Self Check
+## 자가 점검 (Self Check, SC)
 
 - 9–10: PASS
 - 8: 오답 복습

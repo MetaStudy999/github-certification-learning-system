@@ -1,8 +1,8 @@
-# GH-500 Mock Exam 01 — Questions
+# GH-500 Mock 시험 01 — 질문 (GH-500 Mock Exam 01 — Questions, GH-500MEQ)
 
 > 자체 제작 40문항. 실제 시험문제를 복제하지 않습니다. 먼저 정답 파일을 보지 않고 풉니다.
 
-## Questions
+## 질문 (Questions, Q)
 
 1. 여러 Repository의 보안 상태를 한 화면에서 비교하는 데 가장 적합한 기능은? A Codespaces B Security Overview C Pages D Wiki
 2. Code Security가 주로 다루는 위험은? A 코드 취약점 B 사용자 프로필 C Issue Label D Repository 이름

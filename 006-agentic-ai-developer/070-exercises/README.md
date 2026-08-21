@@ -1,6 +1,6 @@
 # 070 Exercises — GH-600 수행형 연습
 
-## Planned Areas
+## 계획 영역 (Planned Areas, PA)
 
 | 코드 | Domain | 목표 과제 수 |
 |---:|---|---:|
@@ -13,7 +13,7 @@
 
 **목표: 60개 수행형 Exercise**
 
-## Answer Pattern
+## 정답 패턴 (Answer Pattern, AP)
 
 ```text
 Requirement

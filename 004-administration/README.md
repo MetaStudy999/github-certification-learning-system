@@ -14,7 +14,7 @@
 7. [`110-mock-exams/`](./110-mock-exams/)과 [`120-wrong-answers/`](./120-wrong-answers/)로 시험 준비도를 검증합니다.
 8. [`130-progress/`](./130-progress/)와 [`150-evidence/`](./150-evidence/)에서 학습 결과를 관리합니다.
 
-## Status
+## 상태 (Status, S)
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
@@ -35,7 +35,7 @@
 
 > 언어 표시는 GitHub Learn과 Microsoft Learn 사이에 차이가 생길 수 있습니다. 실제 응시 가능 언어는 **시험 예약 시점의 Pearson VUE / Microsoft Learn 화면을 최종 기준**으로 확인합니다.
 
-## Current Skills Measured — July 2026
+## 현재 Skills Measured — July 2026 (Current Skills Measured — July 2026, CSMJ)
 
 | # | Skill Area | 시험 비중 |
 |---:|---|---:|
@@ -91,7 +91,7 @@ GitHub Enterprise
     └── License / Resource Optimization
 ```
 
-## Deployment Models to Distinguish
+## 배포 모델 to Distinguish (Deployment Models to Distinguish, DMD)
 
 ```text
 GitHub Enterprise Cloud + EMU
@@ -102,7 +102,7 @@ GitHub Enterprise Server (GHES)
 
 각 모델의 **Identity, Data Location, Administration, Support, Upgrade/Operations 책임** 차이를 비교합니다.
 
-## Directory Map
+## Directory 맵 (Directory Map, DM)
 
 ```text
 004-administration/
@@ -123,7 +123,7 @@ GitHub Enterprise Server (GHES)
 └── 150-evidence/
 ```
 
-## Content Build Summary
+## 콘텐츠 Build Summary (Content Build Summary, CBS)
 
 | 항목 | 구축 상태 |
 |---|---:|
@@ -138,7 +138,7 @@ GitHub Enterprise Server (GHES)
 | Progress / Gate | 완료 |
 | 증빙 (Evidence, EVD) | 완료 |
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 핵심 목표 |
 |---:|---|

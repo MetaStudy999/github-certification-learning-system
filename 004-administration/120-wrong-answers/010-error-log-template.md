@@ -1,4 +1,4 @@
-# GH-100 Error Log Template
+# GH-100 오류 Log Template (GH-100 Error Log Template, GH-100ELT)
 
 ```text
 Date:

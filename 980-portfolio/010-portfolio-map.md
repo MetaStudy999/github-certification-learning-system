@@ -9,7 +9,7 @@
 | 005 | Advanced Security | Secure SDLC Integration Project | Secret / Dependency / CodeQL / Campaign |
 | 006 | Agentic AI Developer | Agentic SDLC Design Project | Architecture / Tool / State / Eval / Guardrail |
 
-## Project Links
+## 프로젝트 Links (Project Links, PL)
 
 - [001 Foundations Project](../001-foundations/100-projects/)
 - [002 Actions Project](../002-actions/100-projects/)

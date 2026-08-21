@@ -1,13 +1,13 @@
 # 130 Progress — GH-600 진행률 Dashboard
 
-## Status
+## 상태 (Status, S)
 
 - 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
 - 학습 상태 (Learning Status, LS): **PLANNED**
 
 > 콘텐츠 구축 상태와 실제 개인 학습 상태를 분리합니다. Repository가 완성되어도 실제 학습을 시작하지 않았다면 Learning Status는 `PLANNED`입니다.
 
-## Learning Status Flow
+## 학습 상태 흐름 (Learning Status Flow, LSF)
 
 ```text
 PLANNED
@@ -20,7 +20,7 @@ PLANNED
 → CLEAR
 ```
 
-## Domain Progress
+## 영역 Progress (Domain Progress, DP)
 
 | Domain | Weight | Theory | Lab | QBank | Review | Status |
 |---|---:|---|---|---|---|---|
@@ -49,7 +49,7 @@ PLANNED
 - [`020-readiness-gate.md`](./020-readiness-gate.md)
 - [`030-score-log.md`](./030-score-log.md)
 
-## Exam Readiness Metrics
+## 시험 Readiness Metrics (Exam Readiness Metrics, ERM)
 
 | 지표 | 목표 | 현재 |
 |---|---:|---:|
@@ -65,7 +65,7 @@ PLANNED
 | 최근 오답 재시험 | 90%+ | - |
 | Agentic SDLC Project | 80점+ | - |
 
-## Content Gate vs Exam Gate
+## 콘텐츠 Gate 비교 시험 Gate (Content Gate vs Exam Gate, CGEG)
 
 ```text
 CONTENT-READY
@@ -77,7 +77,7 @@ EXAM-READY
 
 두 상태를 같은 의미로 사용하지 않습니다.
 
-## PASSED vs CLEAR
+## PASSED 비교 CLEAR (PASSED vs CLEAR, PASSEDCLEAR)
 
 `PASSED`: GH-600 자격시험 합격
 

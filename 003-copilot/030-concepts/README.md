@@ -91,7 +91,7 @@ Context = 모델이 답을 만들 때 참고하는 정보
 
 둘 다 일관성을 높이지만 **사용 목적과 적용 범위**가 다릅니다.
 
-## 6. Zero-shot vs Few-shot
+## 6. Zero-shot 비교 Few-shot (Zero-shot vs Few-shot, ZF)
 
 ```text
 Zero-shot
@@ -138,7 +138,7 @@ Copilot이 잘하는 영역:
 - 실제 실행 결과
 - Test Coverage와 Assertion 품질
 
-## 9. Responsible AI
+## 9. 책임 있는 AI (Responsible AI, RAI)
 
 ```text
 Risk 발견

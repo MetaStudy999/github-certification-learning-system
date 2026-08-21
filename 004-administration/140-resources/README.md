@@ -1,6 +1,6 @@
 # 140 Resources — GH-100 공식·보조 학습자료
 
-## Official First
+## Official 첫 (Official First, OF)
 
 1. Microsoft Learn — GitHub Administration Certification  
    https://learn.microsoft.com/en-us/credentials/certifications/github-administration/
@@ -24,7 +24,7 @@
 - OIDC / Secrets / Third-party vault integration
 - Audit Log / API / Usage / Billing / Metered Products
 
-## Resource Rule
+## Resource 규칙 (Resource Rule, RR)
 
 추가 자료는 다음 조건을 만족할 때만 사용합니다.
 

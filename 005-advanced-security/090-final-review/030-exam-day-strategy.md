@@ -1,4 +1,4 @@
-# GH-500 Exam-Day Strategy
+# GH-500 시험-Day 전략 (GH-500 Exam-Day Strategy, GH-500ES)
 
 ## 1. 문제 읽기
 

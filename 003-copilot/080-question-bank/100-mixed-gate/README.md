@@ -1,4 +1,4 @@
-# 100 Mixed Exam Gate — Q091–Q100
+# 100 Mixed 시험 Gate — Q091–Q100 (100 Mixed Exam Gate — Q091–Q100, MEGQ091Q100)
 
 > 전 범위 Scenario Gate. 각 문제에서 **목적·제약·검증 책임**을 먼저 찾습니다.
 

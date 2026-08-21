@@ -15,7 +15,7 @@
 8. [`110-mock-exams/`](./110-mock-exams/) 3회와 [`120-wrong-answers/`](./120-wrong-answers/) 재시험으로 준비도를 검증합니다.
 9. [`130-progress/`](./130-progress/)와 [`150-evidence/`](./150-evidence/)에 실제 학습 결과를 기록합니다.
 
-## Status
+## 상태 (Status, S)
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
@@ -35,7 +35,7 @@
 | 자격 유효기간 | 24개월 |
 | 현재 학습 기준 | **Skills measured as of July 2026** |
 
-## Current Skills Measured — July 2026
+## 현재 Skills Measured — July 2026 (Current Skills Measured — July 2026, CSMJ)
 
 | # | Domain | 시험 비중 |
 |---:|---|---:|
@@ -68,7 +68,7 @@ Administration / Governance
 Project + Mock + Evidence
 ```
 
-## Directory Map
+## Directory 맵 (Directory Map, DM)
 
 ```text
 005-advanced-security/
@@ -99,7 +99,7 @@ Mock Exams     120
 Exam-style self-authored questions: 220
 ```
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 핵심 목표 |
 |---:|---|
@@ -149,7 +149,7 @@ Repository
 - GitHub Docs — Security  
   https://docs.github.com/en/code-security
 
-## Content Verification
+## 콘텐츠 검증 (Content Verification, CV)
 
 [`150-evidence/090-content-verification.md`](./150-evidence/090-content-verification.md)에 구조·문항 수·범위 기준을 기록했습니다.
 

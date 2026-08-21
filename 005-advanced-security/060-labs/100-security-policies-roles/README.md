@@ -1,10 +1,10 @@
-# Lab 100 — Security Policies & Roles
+# 실습 (Lab, LAB) 100 — 보안 정책과 역할 (Security Policies & Roles, SPR)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Enterprise/Organization Scope에서 Security Policy, Role, Bypass, Alert Permission을 설계합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 1. Enterprise → Organization → Repository 보안 설정 상속 흐름을 작성합니다.
 2. Security Manager, Organization Owner, Developer의 책임을 구분합니다.
@@ -12,7 +12,7 @@ Enterprise/Organization Scope에서 Security Policy, Role, Bypass, Alert Permiss
 4. Push Protection Bypass와 Ruleset Exception의 승인·기간·Audit 정책을 작성합니다.
 5. Security Feature 기본 활성화 정책과 예외 Repository 관리 절차를 설계합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Scope와 Inheritance 설명 가능
 - [ ] Security Role 책임 구분 가능

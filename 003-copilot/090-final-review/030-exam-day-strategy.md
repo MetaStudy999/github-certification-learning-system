@@ -1,4 +1,4 @@
-# 030 Exam-Day Strategy — GH-300
+# 030 시험-Day 전략 — GH-300 (030 Exam-Day Strategy — GH-300, ESGH-300)
 
 ## 시험 전날
 

@@ -1,4 +1,4 @@
-# QBank 090 — Guardrails / Accountability
+# 문제은행 (Question Bank, QB) 090 — 가드레일 / 책임성 (Guardrails / Accountability, GA)
 
 ## Q081–Q090
 
@@ -13,7 +13,7 @@
 **Q089.** Policy 위반 가능성 탐지 시 적절한 것은? A Stop/Review/Escalation 규칙 적용 B 무조건 계속 C 권한 확대 D 로그 삭제  
 **Q090.** 좋은 Accountability 설계는? A 누가·무엇을·왜·어떤 결과로 수행했는지 추적 가능 B Agent 이름만 기록 C Tool 이름만 기록 D 결과만 기록
 
-## Answers
+## 정답 (Answers, ANS)
 
 081 A · 082 A · 083 A · 084 A · 085 A · 086 A · 087 A · 088 A · 089 A · 090 A
 

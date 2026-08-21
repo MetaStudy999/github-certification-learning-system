@@ -1,4 +1,4 @@
-# 010 Final Checklist — GH-300
+# 010 Final 점검표 — GH-300 (010 Final Checklist — GH-300, FCGH-300)
 
 ## 1. Official Baseline
 
@@ -7,7 +7,7 @@
 - [ ] Change Log에 새 변경이 없는지 확인했다.
 - [ ] 시험 언어·시간·예약 정보를 최신 Certification Page에서 확인했다.
 
-## 2. Responsible AI
+## 2. 책임 있는 AI (Responsible AI, RAI)
 
 - [ ] Hallucination을 설명한다.
 - [ ] Bias / Fairness / Privacy / Transparency 위험을 설명한다.
@@ -15,7 +15,7 @@
 - [ ] Human Accountability를 설명한다.
 - [ ] Potential Harm 완화 방법을 예시로 말한다.
 
-## 3. Copilot Features
+## 3. Copilot 기능 (Copilot Features, CF)
 
 - [ ] Inline Suggestion / Chat 차이
 - [ ] Chat / Edits 차이
@@ -28,7 +28,7 @@
 - [ ] Instructions / Prompt Files 차이
 - [ ] Organization Policy / Audit Log / REST API 목적
 
-## 4. Data / Architecture
+## 4. 데이터 / 아키텍처 (Data / Architecture, DA)
 
 자료 없이 다음을 그립니다.
 
@@ -46,7 +46,7 @@ Input / Context
 - [ ] 최신성·Bias·Hallucination 한계 설명
 - [ ] Public Code Matching 처리 개념 설명
 
-## 5. Prompt / Context
+## 5. 프롬프트 / 컨텍스트 (Prompt / Context, PC)
 
 - [ ] Goal
 - [ ] Context
@@ -57,7 +57,7 @@ Input / Context
 - [ ] Chat History 영향
 - [ ] Relevant Context 선택
 
-## 6. Productivity / Testing
+## 6. Productivity / 테스트 (Productivity / Testing, PT)
 
 - [ ] Code Generation
 - [ ] Refactoring
@@ -70,7 +70,7 @@ Input / Context
 - [ ] Security Suggestion 검증
 - [ ] Performance Benchmark
 
-## 7. Privacy / Safeguards
+## 7. 개인정보 보호 / Safeguards (Privacy / Safeguards, PS)
 
 - [ ] Content Exclusion 목적
 - [ ] Content Exclusion 한계

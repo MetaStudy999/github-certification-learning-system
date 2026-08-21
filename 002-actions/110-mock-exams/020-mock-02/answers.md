@@ -1,4 +1,4 @@
-# Mock Exam 02 — Answers
+# Mock 시험 02 — 정답 (Mock Exam 02 — Answers, MEA)
 
 | Q | Ans | 핵심 이유 |
 |---:|:---:|---|

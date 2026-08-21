@@ -17,7 +17,7 @@
 → 재시험
 ```
 
-## 100-Question Structure
+## 100-질문 Structure (100-Question Structure, QS)
 
 | 코드 | Set | 문제 | 중심 영역 |
 |---:|---|---:|---|

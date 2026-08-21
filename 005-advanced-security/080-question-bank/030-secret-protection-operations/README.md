@@ -1,4 +1,4 @@
-# QBank 030 — Secret Protection Operations
+# 문제은행 (Question Bank, QB) 030 — 비밀 보호 운영 (Secret Protection Operations, SPO)
 
 ## Q021–Q030
 
@@ -32,7 +32,7 @@ A. 노출 확인 → 영향 파악 → 자격증명 무효화/교체 → 검증 
 **Q030.** Secret Protection의 성공 여부를 평가할 가장 좋은 지표 조합은?  
 A. 예방된 노출 + Alert 처리 시간 + 반복 원인 감소  B. Star 수만  C. Fork 수만  D. README 조회수만
 
-## Answers
+## 정답 (Answers, ANS)
 
 021 A · 022 A · 023 A · 024 A · 025 A · 026 A · 027 A · 028 A · 029 A · 030 A
 

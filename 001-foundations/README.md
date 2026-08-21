@@ -14,7 +14,7 @@
 7. [`110-mock-exams/`](./110-mock-exams/)의 Mock 01, Mock 02, Final Mock으로 시험 준비도를 검증합니다.
 8. [`130-progress/`](./130-progress/)와 [`150-evidence/`](./150-evidence/)에 실제 학습 결과를 기록합니다.
 
-## Status
+## 상태 (Status, S)
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
@@ -35,7 +35,7 @@
 | 기준 응시료 | USD 99 (지역에 따라 달라질 수 있음) |
 | 현재 학습 기준 | 2026-08-21 |
 
-## 2026 Exam Domains
+## 2026 시험 Domains (2026 Exam Domains, ED)
 
 2026년 1월 개정 기준으로 다음 7개 Domain을 학습합니다.
 
@@ -51,7 +51,7 @@
 
 > 시험 범위는 변경될 수 있으므로 최종 응시 전 [`040-official-docs/`](./040-official-docs/)의 공식 Study Guide를 다시 확인합니다.
 
-## Learning Cycle
+## 학습 Cycle (Learning Cycle, LC)
 
 ```text
 시험 구조
@@ -85,7 +85,7 @@ Exam Readiness Gate
 CLEAR
 ```
 
-## Directory Map
+## Directory 맵 (Directory Map, DM)
 
 | 코드 | 디렉터리 | 역할 |
 |---:|---|---|
@@ -105,7 +105,7 @@ CLEAR
 | 140 | [`140-resources`](./140-resources/) | 추가 학습자료 |
 | 150 | [`150-evidence`](./150-evidence/) | Lab·시험·회고·검증 Evidence |
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 핵심 목표 |
 |---:|---|
@@ -129,7 +129,7 @@ CLEAR
 - [ ] Final Mock 90% 이상 권장
 - [ ] 최근 오답 재시험 90% 이상
 
-## Learning Status Flow
+## 학습 상태 흐름 (Learning Status Flow, LSF)
 
 **READY → LEARNING → PRACTICING → REVIEWING → EXAM-READY → PASSED → CLEAR**
 

@@ -1,4 +1,4 @@
-# 070 Repository Governance — Q061–Q070
+# 070 저장소 거버넌스 — Q061–Q070 (070 Repository Governance — Q061–Q070, RGQ061Q070)
 
 > GH-900 학습목표 기반 자체 제작 문제입니다.
 

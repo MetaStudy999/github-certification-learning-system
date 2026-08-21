@@ -1,4 +1,4 @@
-# 010 Question Set — Basics (Q001–Q010)
+# 010 문제 세트 (Question Set, QS) — 기초 (Basics, B) (Q001–Q010)
 
 > 자체 제작 학습문제입니다. 먼저 답을 고른 뒤 해설을 펼치세요.
 
@@ -140,7 +140,7 @@ D. Remote Repository Push
 **정답: A** — Git의 Local 작업은 네트워크 없이도 가능합니다. B/C/D는 GitHub 또는 Remote 연결이 필요합니다.
 </details>
 
-## Self Check
+## 자가 점검 (Self Check, SC)
 
 - 9–10: PASS
 - 8: 오답만 복습

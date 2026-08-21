@@ -15,13 +15,13 @@
 |  | Mock 02 |  | 40 |  |  |  |
 |  | 최종 모의고사 (Final Mock, FM) |  | 40 |  |  |  |
 
-## Wrong-Answer Retry
+## Wrong-정답 Retry (Wrong-Answer Retry, WR)
 
 | Date | Open Errors | Retried | Fixed | Retry Accuracy |
 |---|---:|---:|---:|---:|
 |  |  |  |  |  |
 
-## Exam Gate Summary
+## 시험 Gate Summary (Exam Gate Summary, EGS)
 
 ```text
 Question Bank attempt 1:

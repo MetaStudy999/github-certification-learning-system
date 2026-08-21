@@ -4,7 +4,7 @@
 
 시험 직전에는 새로운 기능을 크게 추가하지 않고 **비교 → 보안 → Troubleshooting → 최근 오답** 순서로 압축합니다.
 
-## Final Review Files
+## Final 리뷰 파일 (Final Review Files, FRF)
 
 | 코드 | 문서 | 목적 |
 |---:|---|---|

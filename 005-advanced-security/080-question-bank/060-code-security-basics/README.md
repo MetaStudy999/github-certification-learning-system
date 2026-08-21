@@ -1,4 +1,4 @@
-# QBank 060 — Code Security Basics
+# 문제은행 (Question Bank, QB) 060 — 코드 보안 기초 (Code Security Basics, CSB)
 
 ## Q051–Q060
 
@@ -13,7 +13,7 @@
 **Q059.** False Positive 가능성이 있을 때 적절한 조치는? A. 기술적 근거를 검토하고 기록 B. 근거 없이 Dismiss C. 모든 Alert 삭제 D. 분석 중단  
 **Q060.** Code Security를 Secure SDLC에 통합할 때 가장 적절한 원칙은? A. 개발 흐름에 조기 분석과 검증을 포함 B. Release 후에만 검사 C. 보안팀만 사용 D. 모든 결과를 무시
 
-## Answers
+## 정답 (Answers, ANS)
 
 051 A · 052 A · 053 A · 054 A · 055 A · 056 A · 057 A · 058 A · 059 A · 060 A
 

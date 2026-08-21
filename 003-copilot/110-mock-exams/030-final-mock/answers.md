@@ -1,6 +1,6 @@
-# GH-300 Final Mock — Answers
+# GH-300 Final Mock — 정답 (GH-300 Final Mock — Answers, GH-300FMA)
 
-## Answer Key
+## 정답 Key (Answer Key, AK)
 
 | Q | Ans | 핵심 근거 |
 |---:|:---:|---|

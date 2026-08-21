@@ -1,8 +1,8 @@
-# Lab 060 — Collaboration
+# 실습 (Lab, LAB) 060 — 협업 (Collaboration, C)
 
 > **Labels · Assignees · Milestones · Discussions · Notifications**
 
-## 000. Quick Start
+## 000. 빠른 시작 (Quick Start, QS)
 
 이 Lab에서는 여러 사람이 같은 Repository에서 작업할 때 Issue와 Discussion을 정리하고 담당자와 목표를 관리하는 방법을 익힙니다.
 

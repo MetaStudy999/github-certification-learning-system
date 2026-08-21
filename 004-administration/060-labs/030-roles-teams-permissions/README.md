@@ -1,10 +1,10 @@
-# Lab 030 — Roles / Teams / Permissions
+# 실습 (Lab, LAB) 030 — 역할 / 팀 / 권한 (Roles / Teams / Permissions, RTP)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Enterprise, Organization, Team, Repository 계층에서 **Role과 Permission을 최소 권한 원칙으로 설계**합니다.
 
-## Concept
+## 개념 (Concept, CPT)
 
 ```text
 User
@@ -18,7 +18,7 @@ Repository Role
 Effective Permission
 ```
 
-## Practice — Access Matrix
+## 실습 (Practice, PRAC) — Access 매트릭스 (Access Matrix, AM)
 
 가상 회사:
 
@@ -46,7 +46,7 @@ Repositories
 
 권한을 필요 이상으로 높이지 않습니다.
 
-## Practice — Access Review
+## 실습 (Practice, PRAC) — Access 리뷰 (Access Review, AR)
 
 정기 점검 Checklist:
 
@@ -58,11 +58,11 @@ Repositories
 - [ ] App access
 - [ ] Stale PAT / integration
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 개별 사용자에게 Repository 권한을 직접 반복 부여하는 방식과 Team 기반 부여 방식의 운영 차이를 설명하세요.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Role과 Permission 차이 설명
 - [ ] Team 기반 접근 관리의 장점 설명

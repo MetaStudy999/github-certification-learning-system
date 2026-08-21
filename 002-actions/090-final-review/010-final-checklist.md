@@ -1,6 +1,6 @@
-# 010 Final Checklist — GH-200
+# 010 Final 점검표 — GH-200 (010 Final Checklist — GH-200, FCGH-200)
 
-## Domain 1 — Author and Manage Workflows
+## 영역 (Domain, DOM) 1 — Author and Manage 워크플로 (Author and Manage Workflows, AMW)
 
 - [ ] Event / Trigger / Filter 구분
 - [ ] Job / Step / `needs` 설명
@@ -8,7 +8,7 @@
 - [ ] Context / Expression / Conditional 설명
 - [ ] `workflow_dispatch` Input 설명
 
-## Domain 2 — Consume and Troubleshoot Workflows
+## 영역 (Domain, DOM) 2 — Consume and Troubleshoot 워크플로 (Consume and Troubleshoot Workflows, CTW)
 
 - [ ] Workflow Log에서 실패 Job/Step 찾기
 - [ ] Skipped Step의 `if` 분석
@@ -16,21 +16,21 @@
 - [ ] Runner Queue 문제 분석
 - [ ] Cache/Artifact Path 문제 분석
 
-## Domain 3 — Author and Maintain Actions
+## 영역 (Domain, DOM) 3 — Author and Maintain 액션 (Author and Maintain Actions, AMA)
 
 - [ ] Composite / JavaScript / Docker Action 구분
 - [ ] `action.yml` 역할 설명
 - [ ] Input / Output 설계 설명
 - [ ] Versioning / Pinning 이유 설명
 
-## Domain 4 — Enterprise
+## 영역 (Domain, DOM) 4 — 엔터프라이즈 (Enterprise, E)
 
 - [ ] GitHub-hosted / Self-hosted 비교
 - [ ] Runner Label / Runner Group 설명
 - [ ] Organization / Enterprise 정책 역할 설명
 - [ ] 중앙 Reusable Workflow 운영 설명
 
-## Domain 5 — Secure and Optimize Automation
+## 영역 (Domain, DOM) 5 — 보안 and Optimize 자동화 (Secure and Optimize Automation, SOA)
 
 - [ ] `GITHUB_TOKEN` 최소 권한
 - [ ] Secret / Variable 구분

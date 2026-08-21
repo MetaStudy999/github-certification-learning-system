@@ -4,7 +4,7 @@
 
 GH-300 실습은 **AI Output을 많이 만드는 것**보다 `적절한 기능 선택 → Context 설계 → 검증 → Evidence`를 반복하는 것이 핵심입니다.
 
-## Lab Roadmap
+## 실습 로드맵 (Lab Roadmap, LR)
 
 | Level | Lab | 핵심 기술 |
 |---:|---|---|

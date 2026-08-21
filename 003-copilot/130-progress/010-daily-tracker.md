@@ -1,6 +1,6 @@
 # 010 Daily Tracker — GH-300 7-Day Fast Track
 
-## Day 1 — Responsible AI + Basic Features
+## Day 1 — 책임 있는 AI + 기초 기능 (Day 1 — Responsible AI + Basic Features, DRAIBF)
 
 - [ ] Responsible AI 개념
 - [ ] Hallucination / Bias / Privacy / Security 위험
@@ -16,7 +16,7 @@ Top confusion:
 Next action:
 ```
 
-## Day 2 — Advanced Features
+## Day 2 — 고급 기능 (Day 2 — Advanced Features, DAF)
 
 - [ ] Edits
 - [ ] Agent Mode
@@ -35,7 +35,7 @@ Top confusion:
 Next action:
 ```
 
-## Day 3 — Data / Architecture
+## Day 3 — 데이터 / 아키텍처 (Day 3 — Data / Architecture, DDA)
 
 - [ ] Context Gathering
 - [ ] Prompt Building
@@ -53,7 +53,7 @@ Top confusion:
 Next action:
 ```
 
-## Day 4 — Prompt / Context
+## Day 4 — 프롬프트 / 컨텍스트 (Day 4 — Prompt / Context, DPC)
 
 - [ ] Goal / Context / Constraints / Output / Verification
 - [ ] Zero-shot / Few-shot
@@ -70,7 +70,7 @@ Top confusion:
 Next action:
 ```
 
-## Day 5 — Productivity / Testing / Privacy
+## Day 5 — Productivity / 테스트 / 개인정보 보호 (Day 5 — Productivity / Testing / Privacy, DPTP)
 
 - [ ] Code Generation
 - [ ] Refactoring / Documentation

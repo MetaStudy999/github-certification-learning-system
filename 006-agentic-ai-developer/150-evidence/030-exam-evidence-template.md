@@ -1,8 +1,8 @@
-# 030 Exam Evidence Template — GH-600
+# 030 시험 Evidence Template — GH-600 (030 Exam Evidence Template — GH-600, EETGH-600)
 
 > 실제 시험 문항이나 복원 내용을 기록하지 않습니다. 시험 운영 정보와 결과, 준비 과정만 남깁니다.
 
-## Exam Record
+## 시험 Record (Exam Record, ER)
 
 ```text
 Exam: GH-600 GitHub Agentic AI Developer
@@ -20,7 +20,7 @@ Mock 02:
 Retry score:
 ```
 
-## Domain Reflection
+## 영역 Reflection (Domain Reflection, DR)
 
 | Domain | 시험 후 체감 | 추가 보완 필요 |
 |---|---|---|
@@ -31,7 +31,7 @@ Retry score:
 | Multi-Agent Coordination |  |  |
 | Guardrails / Accountability |  |  |
 
-## Rules
+## 규칙 (Rules, R)
 
 - 실제 시험 문제, 선택지, 정답을 기록하지 않습니다.
 - 시험 NDA 또는 자격시험 보안정책을 위반하는 내용을 저장하지 않습니다.

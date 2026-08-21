@@ -1,4 +1,4 @@
-# GH-100 Policy Evidence Template
+# GH-100 정책 Evidence Template (GH-100 Policy Evidence Template, GH-100PET)
 
 ```text
 Policy name:

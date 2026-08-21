@@ -1,4 +1,4 @@
-# GH-500 Mock Exam 01 — Answers
+# GH-500 Mock 시험 01 — 정답 (GH-500 Mock Exam 01 — Answers, GH-500MEA)
 
 | Q | Answer | 핵심 포인트 |
 |---:|:---:|---|

@@ -12,7 +12,7 @@
 → +1일 / +7일 재시험에서 다시 맞히는가?
 ```
 
-## Error Codes
+## 오류 Codes (Error Codes, EC)
 
 | 코드 | 의미 | 대표 예시 |
 |---|---|---|
@@ -73,7 +73,7 @@ Exercise 또는 Lab 재수행
 90%+ 유지
 ```
 
-## Priority Rule
+## Priority 규칙 (Priority Rule, PR)
 
 먼저 고칠 오답:
 
@@ -85,7 +85,7 @@ Exercise 또는 Lab 재수행
 6. `FIRST / BEST` Reading 오류
 7. 단순 Memory 오류
 
-## Confidence Error
+## Confidence 오류 (Confidence Error, CE)
 
 정답을 맞혔더라도 근거를 설명하지 못했다면 `UNCERTAIN`으로 기록합니다.
 
@@ -95,7 +95,7 @@ Correct + no reasoning
 → Retry Queue에 추가
 ```
 
-## Exam Gate
+## 시험 Gate (Exam Gate, EG)
 
 시험 전 최근 오답 재시험 **90% 이상**을 목표로 합니다.
 

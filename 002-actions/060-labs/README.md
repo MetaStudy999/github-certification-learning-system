@@ -1,6 +1,6 @@
 # 060 Labs — GitHub 액션 (GitHub Actions, GHACT / GH-200) 단계별 실습
 
-## Lab Roadmap
+## 실습 로드맵 (Lab Roadmap, LR)
 
 | 코드 | Lab | 핵심 기술 | 상태 |
 |---:|---|---|---|

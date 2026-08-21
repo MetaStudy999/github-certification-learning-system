@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | Example | Secret Protection | SECRET | ⬜ | ⬜ | ⬜ | OPEN |
 
-## Status
+## 상태 (Status, S)
 
 - `OPEN` — 복습 전
 - `REVIEWED` — 개념 복습 완료

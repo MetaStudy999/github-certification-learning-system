@@ -2,7 +2,7 @@
 
 > 실제 시험 문항이나 Brain Dump를 복제하지 않습니다. Microsoft Learn의 **July 2026 GH-500 Skills Measured**를 기준으로 자체 제작한 학습 문제입니다.
 
-## 100-Question Structure
+## 100-질문 Structure (100-Question Structure, QS)
 
 | Set | 문제 | 영역 |
 |---:|---|---|
@@ -46,7 +46,7 @@
 - 일부 Set은 빠른 개념 확인용이므로 선택지 위치 암기가 아니라 **왜 정답인지 말로 설명하는 것**을 완료 기준으로 합니다.
 - 실제 시험 시뮬레이션은 `110-mock-exams/`에서 선택지 위치와 Scenario를 다양화합니다.
 
-## Question Review Template
+## 질문 리뷰 Template (Question Review Template, QRT)
 
 ```text
 ID:

@@ -1,4 +1,4 @@
-# 010 Identity Models — Q001–Q010
+# 010 식별 모델 — Q001–Q010 (010 Identity Models — Q001–Q010, IMQ001Q010)
 
 ## Q001
 Enterprise에서 IdP가 사용자 계정 Lifecycle을 중앙 통제하고 개인 GitHub 계정과 분리하려면 가장 적합한 모델은?

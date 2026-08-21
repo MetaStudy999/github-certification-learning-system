@@ -16,7 +16,7 @@
 - GitHub Docs: https://docs.github.com/
 - Microsoft Learn Credentials: https://learn.microsoft.com/en-us/credentials/
 
-## Study Guide Pattern
+## Study Guide 패턴 (Study Guide Pattern, SGP)
 
 Microsoft Learn의 시험 Study Guide는 일반적으로 다음 패턴을 사용합니다.
 

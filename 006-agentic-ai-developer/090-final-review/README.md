@@ -15,7 +15,7 @@
 | Guardrail | Human Review | 자동/정책 제한 vs 사람 판단 |
 | HITL | HOTL | 실행 중 승인 참여 vs 감독·개입 가능 |
 
-## Exam Gate
+## 시험 Gate (Exam Gate, EG)
 
 - [ ] 6개 Domain과 비중 설명
 - [ ] Tool/MCP/Scope 구분

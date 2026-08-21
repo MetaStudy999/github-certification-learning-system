@@ -1,6 +1,6 @@
 # 020 Question Design Standard — 자체 문제 작성 표준
 
-## Required Metadata
+## 필수 Metadata (Required Metadata, RM)
 
 ```text
 Question ID:
@@ -13,7 +13,7 @@ Related Lab:
 Official Reference:
 ```
 
-## Required Learning Fields
+## 필수 학습 Fields (Required Learning Fields, RLF)
 
 ```text
 Question
@@ -27,7 +27,7 @@ Related Concept
 Retry Date
 ```
 
-## Difficulty Model
+## Difficulty 모델 (Difficulty Model, DM)
 
 | 등급 | 의미 |
 |---|---|
@@ -49,7 +49,7 @@ Retry Date
 - [ ] 기능명·정책명이 최신인지 확인했는가?
 - [ ] 위험한 운영 변경을 요구하지 않는가?
 
-## Naming
+## 명칭 (Naming, N)
 
 개별 파일형 문제를 추가할 경우 `Q-001-001.md`처럼 `과정-세트-문항`을 추적할 수 있는 ID를 사용합니다.
 

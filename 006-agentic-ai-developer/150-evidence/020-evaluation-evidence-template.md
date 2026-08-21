@@ -1,4 +1,4 @@
-# GH-600 Evaluation Evidence Template
+# GH-600 평가 Evidence Template (GH-600 Evaluation Evidence Template, GH-600EET)
 
 ```text
 Date:

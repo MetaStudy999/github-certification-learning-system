@@ -1,4 +1,4 @@
-# GH-500 Error Log Template
+# GH-500 오류 Log Template (GH-500 Error Log Template, GH-500ELT)
 
 ```text
 Date:

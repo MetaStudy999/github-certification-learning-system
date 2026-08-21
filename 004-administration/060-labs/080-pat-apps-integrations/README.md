@@ -1,10 +1,10 @@
-# Lab 080 — PAT / GitHub Apps / OAuth Apps / Integrations
+# 실습 (Lab, LAB) 080 — PAT / GitHub 앱 / OAuth 앱 / 통합 (PAT / GitHub Apps / OAuth Apps / Integrations, PATGAOAI)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 API와 Integration 접근 방식을 **사용자 Token, GitHub App, OAuth App** 관점에서 비교하고 최소 권한 Policy를 설계합니다.
 
-## Concept
+## 개념 (Concept, CPT)
 
 | 방식 | 중심 Identity | 관리 관점 |
 |---|---|---|
@@ -12,9 +12,9 @@ API와 Integration 접근 방식을 **사용자 Token, GitHub App, OAuth App** �
 | GitHub App | App Installation | 세밀한 Resource Permission, Installation Scope |
 | OAuth App | 사용자 위임 | User Authorization / OAuth Scope |
 
-## Practice 1 — Integration Decision
+## 실습 (Practice, PRAC) 1 — 통합 의사결정 (Integration Decision, ID)
 
-### Scenario A
+### 시나리오 A (Scenario A, SCN-A)
 
 CI 관리 서비스가 여러 Organization Repository의 Issue를 읽고 일부 PR Status를 관리합니다.
 
@@ -24,13 +24,13 @@ CI 관리 서비스가 여러 Organization Repository의 Issue를 읽고 일부 
 - 어떤 최소 Permission이 필요한가?
 - Installation Scope는 어디까지인가?
 
-### Scenario B
+### 시나리오 B (Scenario B, SCN-B)
 
 외부 웹 앱이 사용자의 GitHub Profile과 Repository 정보를 사용자 동의 하에 읽습니다.
 
 OAuth App Scenario와 비교합니다.
 
-## Practice 2 — PAT Governance
+## 실습 (Practice, PRAC) 2 — PAT 거버넌스 (PAT Governance, PATG)
 
 가상의 정책을 작성합니다.
 
@@ -44,7 +44,7 @@ Owner:
 Audit evidence:
 ```
 
-## Practice 3 — Rate Limits
+## 실습 (Practice, PRAC) 3 — 속도 제한 (Rate Limits, RL)
 
 PAT와 GitHub App이 API Rate Limit을 가질 수 있음을 전제로 다음을 설계합니다.
 
@@ -56,7 +56,7 @@ Retry/backoff:
 Monitoring:
 ```
 
-## Practice 4 — App Approval
+## 실습 (Practice, PRAC) 4 — App 승인 (App Approval, AA)
 
 외부 App 요청을 다음 기준으로 평가합니다.
 
@@ -69,11 +69,11 @@ Monitoring:
 - Secret/Key management
 - Revocation plan
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `자동화에는 PAT가 가장 간단하므로 항상 PAT가 최선이다`라는 주장에 반박하세요.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] PAT / GitHub App / OAuth App 차이 설명
 - [ ] GitHub App의 Installation/Permission 모델 설명

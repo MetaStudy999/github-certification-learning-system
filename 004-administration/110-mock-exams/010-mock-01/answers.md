@@ -1,4 +1,4 @@
-# GH-100 Mock Exam 01 — Answers
+# GH-100 Mock 시험 01 — 정답 (GH-100 Mock Exam 01 — Answers, GH-100MEA)
 
 | Q | 답 | 핵심 이유 |
 |---:|:---:|---|

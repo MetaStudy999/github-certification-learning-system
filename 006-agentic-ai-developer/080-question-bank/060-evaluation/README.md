@@ -1,4 +1,4 @@
-# QBank 060 — Evaluation
+# 문제은행 (Question Bank, QB) 060 — 평가 (Evaluation, E)
 
 ## Q051–Q060
 
@@ -13,7 +13,7 @@
 **Q059.** Evaluation 결과를 다음 개선에 연결하는 것은? A Tuning B Fork C Star D Wiki  
 **Q060.** 좋은 Evaluation 설계는? A Metric + Dataset + Threshold + Evidence B Score 하나만 C 사람 평가만 D 로그 없음
 
-## Answers
+## 정답 (Answers, ANS)
 
 051 A · 052 A · 053 A · 054 A · 055 A · 056 A · 057 A · 058 A · 059 A · 060 A
 

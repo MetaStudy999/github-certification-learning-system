@@ -57,6 +57,6 @@ Related skill area:
 Next review date:
 ```
 
-## Verify
+## 검증 (Verify, VER)
 
 Evidence만 보고 다른 사람이 **무엇을 했고 어떻게 검증했는지** 이해할 수 있어야 합니다.

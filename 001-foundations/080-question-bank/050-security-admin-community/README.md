@@ -1,4 +1,4 @@
-# 050 Question Set — Security, Admin & Community (Q041–Q050)
+# 050 문제 세트 (Question Set, QS) — Security, 관리 와 커뮤니티 (Security, Admin & Community, SAC) (Q041–Q050)
 
 ## Q041
 GitHub 계정 보안을 강화하기 위해 비밀번호 외에 추가 인증 요소를 요구하는 기능은?
@@ -130,7 +130,7 @@ D. 보안 취약점을 반드시 공개 Issue로만 게시한다.
 **정답: A** — 프로젝트별 기여 규칙과 라이선스, 보안 정책을 먼저 확인하는 것이 적절합니다.
 </details>
 
-## 50-Question Gate
+## 50-질문 Gate (50-Question Gate, QG)
 
 Q001–Q050을 모두 풀고 점수를 기록하세요.
 

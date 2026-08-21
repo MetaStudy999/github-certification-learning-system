@@ -1,4 +1,4 @@
-# 050 Security Policies — Q041–Q050
+# 050 보안 정책 — Q041–Q050 (050 Security Policies — Q041–Q050, SPQ041Q050)
 
 ## Q041
 기본 브랜치 직접 Push를 제한하고 PR Review를 강제하려면 가장 적절한 제어는?

@@ -1,8 +1,8 @@
-# 030 Exam Evidence Template
+# 030 시험 Evidence Template (030 Exam Evidence Template, EET)
 
 > 실제 시험 문항, 기억에 의존한 문제 재작성, 시험 보안상 제한되는 내용은 기록하지 않습니다.
 
-## Exam Record
+## 시험 Record (Exam Record, ER)
 
 ```text
 Certification: GitHub Foundations
@@ -25,7 +25,7 @@ Wrong-answer retry:
 Total preparation days:
 ```
 
-## Post-Exam Reflection
+## Post-시험 Reflection (Post-Exam Reflection, PR)
 
 ```text
 Strong domains:
@@ -35,7 +35,7 @@ What preparation method worked:
 What to change for the next certification:
 ```
 
-## Privacy Checklist
+## 개인정보 보호 점검표 (Privacy Checklist, PC)
 
 - [ ] Candidate ID 등 개인정보를 공개하지 않았다.
 - [ ] 실제 시험 문항을 기록하지 않았다.

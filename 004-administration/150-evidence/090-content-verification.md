@@ -1,6 +1,6 @@
 # 004 GitHub 관리 (GitHub Administration, GHADM / GH-100) — Content Verification
 
-## Structure Verification
+## Structure 검증 (Structure Verification, SV)
 
 - [x] 010 Overview
 - [x] 020 Terms
@@ -18,7 +18,7 @@
 - [x] 140 Resources
 - [x] 150 Evidence
 
-## Content Verification
+## 콘텐츠 검증 (Content Verification, CV)
 
 - [x] July 2026 GH-100 5개 Skill Area 반영
 - [x] Labs 010–120 구성
@@ -32,7 +32,7 @@
 - [x] Evidence Template 구축
 - [x] 실제 시험 문제·Brain Dump 미사용
 
-## Status Rule
+## 상태 규칙 (Status Rule, SR)
 
 ```text
 CONTENT-READY
@@ -44,7 +44,7 @@ EXAM-READY
 
 현재는 **Content Status만 CONTENT-READY 후보**이며, 실제 Learning Status는 `PLANNED`입니다.
 
-## Maintenance Rule
+## 유지관리 규칙 (Maintenance Rule, MR)
 
 시험 예약 전 최신 Microsoft Learn GH-100 Study Guide를 다시 확인하고 변경된 Skill Area가 있으면 관련 문서를 갱신합니다.
 

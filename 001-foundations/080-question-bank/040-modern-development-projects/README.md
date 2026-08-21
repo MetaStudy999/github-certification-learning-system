@@ -1,4 +1,4 @@
-# 040 Question Set — Modern Development & Projects (Q031–Q040)
+# 040 문제 세트 (Question Set, QS) — 현대적 개발 와 프로젝트 (Modern Development & Projects, MDP) (Q031–Q040)
 
 ## Q031
 Push 시마다 자동으로 Test를 실행하려고 한다. 가장 적합한 GitHub 기능은?
@@ -130,7 +130,7 @@ D. Releases + License + Fork만
 **정답: A** — Codespaces는 개발환경, Actions는 자동화, Projects는 작업 관리를 담당합니다.
 </details>
 
-## Self Check
+## 자가 점검 (Self Check, SC)
 
 - 9–10: PASS
 - 8: 오답 복습

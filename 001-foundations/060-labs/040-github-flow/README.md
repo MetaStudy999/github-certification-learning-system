@@ -1,8 +1,8 @@
-# Lab 040 — GitHub Flow
+# 실습 (Lab, LAB) 040 — GitHub 플로 (GitHub Flow, GF)
 
 > **Issue → Branch → Commit → Pull Request → Review → Merge**
 
-## 000. Quick Start
+## 000. 빠른 시작 (Quick Start, QS)
 
 이 Lab의 목적은 GitHub 협업의 핵심 흐름을 한 번 끝까지 수행하는 것입니다.
 
@@ -109,7 +109,7 @@ docs: add study goal
 Closes #<issue-number>
 ```
 
-### 036. Review
+### 036. 리뷰 (Review, R)
 
 PR에서 다음을 확인합니다.
 
@@ -120,7 +120,7 @@ PR에서 다음을 확인합니다.
 
 가능하다면 Review Comment를 하나 남기고 수정 후 다시 Push합니다.
 
-### 037. Merge
+### 037. 병합 (Merge, M)
 
 검토가 끝났다면 PR을 Merge합니다.
 

@@ -1,6 +1,6 @@
 # 140 Resources — GH-200 추가 학습자료
 
-## Official First
+## Official 첫 (Official First, OF)
 
 - GitHub Actions Certification  
   https://learn.microsoft.com/en-us/credentials/certifications/github-actions/
@@ -11,7 +11,7 @@
 - GitHub Docs — Actions  
   https://docs.github.com/en/actions
 
-## Topics to Bookmark
+## 주제 to Bookmark (Topics to Bookmark, TB)
 
 - Workflow syntax
 - Events that trigger workflows

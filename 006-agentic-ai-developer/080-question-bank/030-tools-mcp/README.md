@@ -1,4 +1,4 @@
-# QBank 030 — Tools / MCP
+# 문제은행 (Question Bank, QB) 030 — 도구 / MCP (Tools / MCP, TMCP)
 
 ## Q021–Q030
 
@@ -13,7 +13,7 @@
 **Q029.** Tool과 MCP의 차이는? A Tool은 기능 단위, MCP는 연결 표준/체계 B 동일 C Tool은 Memory D MCP는 Eval  
 **Q030.** Tool Governance에서 중요한 조합은? A Need + Scope + Trust + Evidence B Speed만 C Tool 개수만 D 자율성만
 
-## Answers
+## 정답 (Answers, ANS)
 
 021 A · 022 A · 023 A · 024 A · 025 A · 026 A · 027 A · 028 A · 029 A · 030 A
 

@@ -1,4 +1,4 @@
-# 950 Progress — Master Learning Dashboard
+# 950 Progress — Master 학습 Dashboard (950 Progress — Master Learning Dashboard, PMLD)
 
 6개 GitHub 자격증의 **Content Status와 실제 Learning Status를 분리**하여 관리하는 통합 Control Tower입니다.
 
@@ -23,7 +23,7 @@
 | 005 | GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 | 006 | GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 
-## Course Progress Links
+## 과정 Progress Links (Course Progress Links, CPL)
 
 | 코드 | 상세 Progress |
 |---:|---|
@@ -34,7 +34,7 @@
 | 005 | [`Advanced Security`](../005-advanced-security/130-progress/) |
 | 006 | [`Agentic AI Developer`](../006-agentic-ai-developer/130-progress/) |
 
-## Learning Status Flow
+## 학습 상태 흐름 (Learning Status Flow, LSF)
 
 ```text
 PLANNED

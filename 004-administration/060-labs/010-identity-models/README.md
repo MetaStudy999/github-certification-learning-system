@@ -1,10 +1,10 @@
-# Lab 010 — Identity Models
+# 실습 (Lab, LAB) 010 — 식별 모델 (Identity Models, IM)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 **Enterprise Managed Users (EMU)**와 **Personal Accounts** 기반 Enterprise 모델을 비교하고 Authentication / Authorization을 구분합니다.
 
-## Concept
+## 개념 (Concept, CPT)
 
 ```text
 Identity
@@ -14,17 +14,17 @@ Identity
 → Organization / Repository access
 ```
 
-## Practice — Decision Table
+## 실습 (Practice, PRAC) — 의사결정 표 (Decision Table, DT)
 
 다음 가상 요구사항을 비교합니다.
 
-### Scenario A
+### 시나리오 A (Scenario A, SCN-A)
 
 - 회사가 사용자 계정 수명주기를 중앙 통제
 - 입사/퇴사 시 기업 IdP 기준으로 계정 관리
 - 업무용 GitHub Identity를 기업이 통제
 
-### Scenario B
+### 시나리오 B (Scenario B, SCN-B)
 
 - 개발자가 기존 개인 GitHub 계정을 유지
 - 회사 Organization에 Member로 초대
@@ -40,7 +40,7 @@ Identity
 | 개인 GitHub 활동 | | |
 | 적합 Scenario | | |
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 다음 문장을 AuthN 또는 AuthZ로 분류합니다.
 
@@ -49,7 +49,7 @@ Identity
 3. SAML 로그인에 성공한다.
 4. Team의 Repository Role이 `read`인지 `write`인지 결정한다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] EMU와 Personal Account의 핵심 차이 설명
 - [ ] AuthN / AuthZ 구분

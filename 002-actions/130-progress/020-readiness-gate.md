@@ -6,13 +6,13 @@
 - [ ] 5개 Domain을 설명 가능
 - [ ] 핵심 용어 90% 이상 설명 가능
 
-## Gate B — Practice
+## Gate B — 실습 (Gate B — Practice, GBP)
 
 - [ ] Lab 010–100 중 핵심 80% 이상 완료
 - [ ] Exercise 6개 영역 80% 이상
 - [ ] CI/CD Integration Project 80점 이상
 
-## Gate C — Questions
+## Gate C — 질문 (Gate C — Questions, GCQ)
 
 - [ ] Question Bank 1회차 ≥ 80/100
 - [ ] Question Bank 2회차 ≥ 85/100
@@ -24,7 +24,7 @@
 - [ ] Mock 02 ≥ 85%
 - [ ] Final Mock ≥ 90% 권장
 
-## Gate E — Security
+## Gate E — 보안 (Gate E — Security, GES)
 
 - [ ] `GITHUB_TOKEN` 최소 권한 설명 가능
 - [ ] OIDC와 Long-lived Secret 차이 설명 가능

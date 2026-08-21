@@ -16,7 +16,7 @@
 7. [`130-progress/`](./130-progress/)의 Exam Readiness Gate를 통과한 뒤 실제 응시 상태를 `EXAM-READY`로 변경합니다.
 8. [`150-evidence/`](./150-evidence/)에서 설계·평가·시험·회고 Evidence를 관리합니다.
 
-## Status
+## 상태 (Status, S)
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
@@ -39,7 +39,7 @@
 
 > GitHub Learn은 자격증 이름이나 beta 상태 표기가 Microsoft Learn과 일시적으로 다를 수 있습니다. 실제 예약·점수 처리 상태는 시험 예약 시점의 공식 화면을 최종 기준으로 확인합니다.
 
-## Current Exam Domains
+## 현재 시험 Domains (Current Exam Domains, CED)
 
 | # | Domain | 비중 |
 |---:|---|---:|
@@ -50,7 +50,7 @@
 | 5 | Orchestrate Multi-Agent Coordination | 15–20% |
 | 6 | Implement Guardrails and Accountability | 10–15% |
 
-## Conceptual Learning Flow
+## Conceptual 학습 흐름 (Conceptual Learning Flow, CLF)
 
 ```text
 Requirement
@@ -80,7 +80,7 @@ Requirement
 - Human-in-the-loop / Human Oversight
 - Inspectable Artifacts / Auditability
 
-## Built Learning Assets
+## Built 학습 Assets (Built Learning Assets, BLA)
 
 | 영역 | 구축 결과 |
 |---|---:|
@@ -95,7 +95,7 @@ Requirement
 | Progress / Exam Gate | 완료 |
 | Evidence Templates | 완료 |
 
-## Directory Map
+## Directory 맵 (Directory Map, DM)
 
 ```text
 006-agentic-ai-developer/

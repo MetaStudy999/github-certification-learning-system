@@ -57,7 +57,7 @@ main
 
 Branch는 **작업 분리**, Pull Request는 **변경 제안·검토·논의·병합의 협업 단위**입니다.
 
-## 4. GitHub Flow
+## 4. GitHub 플로 (GitHub Flow, GF)
 
 ```text
 Issue / 작업 정의
@@ -79,7 +79,7 @@ Branch 정리
 
 시험에서는 각 단계의 목적을 상황형으로 구분할 수 있어야 합니다.
 
-## 5. Clone vs Fork
+## 5. Clone과 Fork 비교 (Clone vs Fork, CF)
 
 | 항목 | Clone | Fork |
 |---|---|---|
@@ -88,7 +88,7 @@ Branch 정리
 | 일반적 사용 | 직접 개발 | 외부 프로젝트 기여·독립 실험 |
 | 원본과의 관계 | 같은 Remote를 대상으로 작업 가능 | 원본(Upstream)과 별도 Repository |
 
-## 6. Issue vs Discussion vs Pull Request
+## 6. Issue / Discussion / Pull Request 비교 (Issue vs Discussion vs Pull Request, IDPR)
 
 | 기능 | 주된 목적 |
 |---|---|

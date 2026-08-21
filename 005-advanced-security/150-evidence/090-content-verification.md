@@ -1,6 +1,6 @@
-# GH-500 Content Verification
+# GH-500 콘텐츠 검증 (GH-500 Content Verification, GH-500CV)
 
-## Content Structure
+## 콘텐츠 Structure (Content Structure, CS)
 
 - [x] 010 Overview
 - [x] 020 Terms
@@ -33,7 +33,7 @@ Total          220 self-authored questions
 - Skills measured: July 2026
 - Actual exam questions / Brain Dumps: not used
 
-## Status Definition
+## 상태 Definition (Status Definition, SD)
 
 `CONTENT-READY` means the Repository learning content is prepared. It does **not** mean the learner has completed study or is `EXAM-READY`.
 

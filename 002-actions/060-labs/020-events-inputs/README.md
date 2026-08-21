@@ -1,10 +1,10 @@
-# Lab 020 — Events & Inputs
+# 실습 (Lab, LAB) 020 — 이벤트와 입력값 (Events & Inputs, EI)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 자동 이벤트와 수동 실행을 구분하고 `workflow_dispatch` 입력값을 사용합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 ```yaml
 name: manual-greeting
@@ -25,19 +25,19 @@ jobs:
       - run: echo "Hello ${{ inputs.name }}"
 ```
 
-## Learn
+## 학습 포인트 (Learn, LRN)
 
 - Repository Event
 - Manual Event (`workflow_dispatch`)
 - Reusable Workflow Event (`workflow_call`)
 - Input type / required / default
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Actions UI에서 Run workflow를 실행했다.
 - [ ] 입력값이 Log에 반영되었다.
 - [ ] `inputs` Context의 목적을 설명한다.
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `choice` 타입 입력을 추가하고 조건에 따라 다른 Step을 실행합니다.

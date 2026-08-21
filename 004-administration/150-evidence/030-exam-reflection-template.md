@@ -1,4 +1,4 @@
-# GH-100 Exam & Reflection Template
+# GH-100 시험 와 Reflection Template (GH-100 Exam & Reflection Template, GH-100ERT)
 
 ```text
 Exam: GH-100 GitHub Administration

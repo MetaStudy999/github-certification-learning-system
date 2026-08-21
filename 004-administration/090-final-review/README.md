@@ -24,7 +24,7 @@
 4. **GitHub Actions Administration** — Policy, Runner Group, Network, OIDC, Vault, Cost
 5. **Monitoring & Optimization** — Audit, API/Usage, License, Metered Product, Health, Cost
 
-## Exam Gate
+## 시험 Gate (Exam Gate, EG)
 
 - [ ] 5개 Skill Area와 비중 설명 가능
 - [ ] Enterprise / Organization / Repository Scope 구분 가능

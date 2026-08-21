@@ -6,7 +6,7 @@
 
 문제는 먼저 정답을 보지 않고 풉니다. 이후 **왜 정답인지 + 왜 다른 선택지는 덜 적절한지 + 관련 Lab**까지 확인합니다.
 
-## 100-Question Structure
+## 100-질문 Structure (100-Question Structure, QS)
 
 | 코드 | Set | 문제 | 핵심 영역 |
 |---:|---|---:|---|
@@ -27,7 +27,7 @@
 - 2회차: **85/100 이상**
 - 오답 재시험: **90% 이상**
 
-## Question Learning Cycle
+## 질문 학습 Cycle (Question Learning Cycle, QLC)
 
 ```text
 문제

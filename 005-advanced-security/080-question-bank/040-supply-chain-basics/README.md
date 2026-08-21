@@ -1,4 +1,4 @@
-# QBank 040 — Supply Chain Security Basics
+# 문제은행 (Question Bank, QB) 040 — Supply Chain 보안 기초 (Supply Chain Security Basics, SCSB)
 
 ## Q031–Q040
 
@@ -13,7 +13,7 @@
 **Q039.** Supply Chain Security의 핵심 질문은? A. 무엇을 의존하고 있으며 어떤 위험이 있는가 B. 누가 Star를 눌렀는가 C. Wiki가 몇 개인가 D. Issue 색상은 무엇인가  
 **Q040.** PR 단계에서 위험을 조기에 확인하는 전략은? A. Dependency Review를 검토 흐름에 포함 B. Merge 후에만 확인 C. 모든 의존성 경고 무시 D. README만 검토
 
-## Answers
+## 정답 (Answers, ANS)
 
 031 A · 032 A · 033 A · 034 A · 035 A · 036 A · 037 A · 038 A · 039 A · 040 A
 

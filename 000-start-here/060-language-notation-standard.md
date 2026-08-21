@@ -41,18 +41,18 @@ GitHub 제품명·자격증명·시험 코드처럼 공식 영어 명칭이 중�
 
 | 번호 | 한글 | 영어 | GCLS 약어 |
 |---:|---|---|---|
-| 010 | 개요 | Overview | OVW |
-| 020 | 용어 | Terms | TRM |
-| 030 | 개념 | Concepts | CPT |
-| 040 | 공식 문서 | Official Docs | ODC |
-| 050 | 가이드 | Guides | GDE |
+| 010 | 개요 | 개요 (Overview, OVW) | OVW |
+| 020 | 용어 | 용어 (Terms, TRM) | TRM |
+| 030 | 개념 | 개념 (Concepts, CPT) | CPT |
+| 040 | 공식 문서 | 공식 문서 (Official Docs, ODC) | ODC |
+| 050 | 가이드 | 가이드 (Guides, GDE) | GDE |
 | 060 | 실습 | 실습 (Labs, LAB) | LAB |
 | 070 | 연습문제 | 연습문제 (Exercises, EXR) | EXR |
 | 080 | 문제은행 | 문제은행 (Question Bank, QB) | QB |
 | 090 | 최종 복습 | Final Review | FR |
 | 100 | 프로젝트 | 프로젝트 (Projects, PRJ) | PRJ |
 | 110 | 모의고사 | 모의고사 (Mock Exams, ME) | ME |
-| 120 | 오답 관리 | Wrong Answers | WA |
+| 120 | 오답 관리 | 오답 관리 (Wrong Answers, WA) | WA |
 | 130 | 진행 현황 | 진행 현황 (Progress, PRG) | PRG |
 | 140 | 자료 | 자료 (Resources, RES) | RES |
 | 150 | 증빙 | 증빙 (Evidence, EVD) | EVD |

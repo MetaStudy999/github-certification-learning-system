@@ -1,10 +1,10 @@
-# Lab 090 — Security & OIDC
+# 실습 (Lab, LAB) 090 — 보안과 OIDC (Security & OIDC, SOIDC)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Workflow 권한과 자격 증명을 최소화하고 외부 Action 사용을 안전하게 설계합니다.
 
-## Core Security Rules
+## 핵심 보안 규칙 (Core Security Rules, CSR)
 
 ```text
 Least privilege
@@ -15,7 +15,7 @@ Least privilege
 + environment approval
 ```
 
-## Topics
+## 주제 (Topics, TOP)
 
 - `permissions`와 `GITHUB_TOKEN`
 - Repository / Organization Secret
@@ -26,7 +26,7 @@ Least privilege
 - 장기 Cloud Access Key 대신 단기 자격 증명
 - Artifact Attestation / Provenance 개념
 
-## Safe Example
+## 안전한 예제 (Safe Example, SE)
 
 ```yaml
 permissions:
@@ -35,7 +35,7 @@ permissions:
 
 필요한 권한만 추가합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] `GITHUB_TOKEN` 최소 권한 원칙을 설명한다.
 - [ ] Secret을 Log에 출력하면 안 되는 이유를 설명한다.

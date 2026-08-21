@@ -1,6 +1,6 @@
-# 040 Exam & Reflection Template — GH-200
+# 040 시험 와 Reflection Template — GH-200 (040 Exam & Reflection Template — GH-200, ERTGH-200)
 
-## Exam Evidence
+## 시험 Evidence (Exam Evidence, EE)
 
 ```text
 Exam: GH-200 GitHub Actions
@@ -28,7 +28,7 @@ Enterprise lesson:
 Next certification connection:
 ```
 
-## Next Connection
+## 다음 Connection (Next Connection, NC)
 
 ```text
 GitHub Actions

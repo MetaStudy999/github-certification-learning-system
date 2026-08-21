@@ -1,10 +1,10 @@
-# Lab 120 — Enterprise Administration Blueprint
+# 실습 (Lab, LAB) 120 — 엔터프라이즈 관리 청사진 (Enterprise Administration Blueprint, EAB)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 GH-100의 5개 Skill Area를 하나의 **Enterprise 운영 설계**로 통합합니다.
 
-## Scenario
+## 시나리오 (Scenario, SCN)
 
 가상 회사 `ACME Digital`:
 
@@ -19,7 +19,7 @@ GH-100의 5개 Skill Area를 하나의 **Enterprise 운영 설계**로 통합합
 - 외부 SaaS Integration 다수
 - 비용·License 사용량을 분기별 최적화
 
-## Phase 1 — Deployment
+## 단계 (Phase, PH) 1 — 배포 (Deployment, D)
 
 선택:
 
@@ -39,7 +39,7 @@ GHES
 - Compliance
 - Cost
 
-## Phase 2 — Identity
+## 단계 (Phase, PH) 2 — 식별 (Identity, I)
 
 ```text
 IdP:
@@ -50,7 +50,7 @@ Team synchronization:
 Joiner/Mover/Leaver:
 ```
 
-## Phase 3 — Access / Governance
+## 단계 (Phase, PH) 3 — Access / 거버넌스 (Access / Governance, AG)
 
 ```text
 Organizations:
@@ -62,7 +62,7 @@ Enterprise policies:
 Rulesets:
 ```
 
-## Phase 4 — Security
+## 단계 (Phase, PH) 4 — 보안 (Security, S)
 
 ```text
 Secret scanning:
@@ -75,7 +75,7 @@ Security response plan:
 Audit/reporting:
 ```
 
-## Phase 5 — Actions
+## 단계 (Phase, PH) 5 — 액션 (Actions, A)
 
 ```text
 Reusable workflows:
@@ -88,7 +88,7 @@ Secrets:
 Third-party vault:
 ```
 
-## Phase 6 — Operations
+## 단계 (Phase, PH) 6 — 운영 (Operations, O)
 
 ```text
 Admin triage:
@@ -102,7 +102,7 @@ Metered usage:
 Cost optimization:
 ```
 
-## Deliverables
+## 산출물 (Deliverables, DEL)
 
 - [ ] Deployment Decision Table
 - [ ] Identity Lifecycle Diagram
@@ -113,7 +113,7 @@ Cost optimization:
 - [ ] Support / Incident Runbook
 - [ ] Usage / Cost Dashboard Design
 
-## Verify
+## 검증 (Verify, VER)
 
 5분 안에 다음을 설명합니다.
 

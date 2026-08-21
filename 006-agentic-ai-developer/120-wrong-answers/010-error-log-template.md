@@ -1,4 +1,4 @@
-# GH-600 Error Log Template
+# GH-600 오류 Log Template (GH-600 Error Log Template, GH-600ELT)
 
 ```text
 Date:

@@ -10,7 +10,7 @@
 4. [`020-retry-dashboard.md`](./020-retry-dashboard.md)에 +1일 / +7일 재시험을 기록합니다.
 5. 최근 오답 재시험 **90% 이상**을 목표로 합니다.
 
-## Common Error Codes
+## Common 오류 Codes (Common Error Codes, CEC)
 
 | 코드 | 의미 |
 |---|---|
@@ -49,7 +49,7 @@ Related Lab
 90%+
 ```
 
-## Course Links
+## 과정 Links (Course Links, CL)
 
 | 코드 | 과정별 오답 시스템 |
 |---:|---|

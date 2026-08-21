@@ -10,7 +10,7 @@
 4. 틀린 문제는 [`../920-wrong-answers/`](../920-wrong-answers/)의 통합 오답 Cycle로 보냅니다.
 5. 이후 [`../930-mock-exams/`](../930-mock-exams/)로 이동합니다.
 
-## Current Scale
+## 현재 규모 (Current Scale, CS)
 
 | 과정 | 시험 | 문제은행 (Question Bank, QB) |
 |---|---|---:|
@@ -22,7 +22,7 @@
 | 006 Agentic AI Developer | GH-600 | 100 |
 | **합계** |  | **600** |
 
-## Standard Question Cycle
+## Standard 질문 Cycle (Standard Question Cycle, SQC)
 
 ```text
 Scenario / Question

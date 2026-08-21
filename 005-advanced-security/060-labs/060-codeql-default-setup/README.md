@@ -1,10 +1,10 @@
-# Lab 060 — CodeQL Default Setup
+# 실습 (Lab, LAB) 060 — CodeQL 기본 설정 (CodeQL Default Setup, CDS)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Code Security에서 CodeQL Default Setup을 활성화하고 분석 결과를 읽는 기본 흐름을 이해합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 1. CodeQL이 Source Code의 Data Flow와 취약 Pattern을 분석하는 방식을 개념적으로 설명합니다.
 2. Default Setup과 Advanced Setup의 차이를 정리합니다.
@@ -12,7 +12,7 @@ Code Security에서 CodeQL Default Setup을 활성화하고 분석 결과를 읽
 4. Alert의 Severity, Location, Data Flow 정보를 읽습니다.
 5. 실제 수정 후 재분석으로 Alert 상태가 어떻게 변하는지 설명합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] CodeQL 역할 설명 가능
 - [ ] Default vs Advanced Setup 구분 가능

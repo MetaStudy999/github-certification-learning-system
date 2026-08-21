@@ -1,4 +1,4 @@
-# GH-600 Mock Exam 01 — Answers
+# GH-600 Mock 시험 01 — 정답 (GH-600 Mock Exam 01 — Answers, GH-600MEA)
 
 | Q | Ans | Q | Ans | Q | Ans | Q | Ans |
 |---:|:---:|---:|:---:|---:|:---:|---:|:---:|

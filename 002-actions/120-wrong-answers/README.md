@@ -7,7 +7,7 @@
 - [010 Error Log Template](./010-error-log-template.md)
 - [020 Retry Queue](./020-retry-queue.md)
 
-## Error Codes
+## 오류 Codes (Error Codes, EC)
 
 | 코드 | 의미 |
 |---|---|
@@ -41,7 +41,7 @@
 4. Troubleshooting `FIRST` 오류
 5. 단순 YAML/기억 실수
 
-## Exam Gate
+## 시험 Gate (Exam Gate, EG)
 
 시험 전 최근 오답 재시험 **90% 이상**을 목표로 합니다.
 

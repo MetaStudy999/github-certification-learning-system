@@ -13,7 +13,7 @@
 + 검증 방법
 ```
 
-## Exercise Areas
+## 연습문제 영역 (Exercise Areas, EA)
 
 | 코드 | 영역 | 핵심 과제 |
 |---:|---|---|

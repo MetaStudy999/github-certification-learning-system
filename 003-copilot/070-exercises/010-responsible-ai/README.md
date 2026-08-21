@@ -9,22 +9,22 @@ Generative AI의 위험과 한계를 설명하고, Copilot Output을 책임감 �
 ### E010-01 — AI Output 검증
 Copilot이 생성한 함수가 읽기 쉽고 문법 오류도 없습니다. 바로 Production에 반영하면 안 되는 이유를 **정확성·보안·요구사항·Test** 관점에서 4가지 작성하세요.
 
-### E010-02 — Hallucination
+### E010-02 — 환각 (Hallucination, H)
 Copilot이 존재하지 않는 Python API를 제안했습니다. 이것을 어떤 AI 한계로 분류하고 어떻게 확인할지 작성하세요.
 
-### E010-03 — Bias
+### E010-03 — 편향 (Bias, B)
 사용자 위험 등급을 분류하는 코드/규칙을 AI가 제안했습니다. Bias와 Fairness를 확인하기 위한 최소 검토 항목 5개를 작성하세요.
 
-### E010-04 — Secure Code
+### E010-04 — 보안 코드 (Secure Code, SC)
 AI가 입력 검증 없이 SQL 문자열을 조합하는 코드를 제안했습니다. 사람 Reviewer가 해야 할 행동을 순서대로 작성하세요.
 
-### E010-05 — Privacy
+### E010-05 — 개인정보 보호 (Privacy, P)
 Debugging을 위해 실제 고객 데이터 전체를 Prompt에 넣으려 합니다. 문제점과 더 안전한 대안을 작성하세요.
 
-### E010-06 — Transparency
+### E010-06 — 투명성 (Transparency, T)
 AI가 왜 특정 구현을 선택했는지 설명하도록 요구하는 것이 어떤 장점이 있는지, 그리고 설명만으로 검증이 끝나지 않는 이유를 적으세요.
 
-### E010-07 — Human Accountability
+### E010-07 — Human 책임성 (Human Accountability, HA)
 `Copilot이 추천했기 때문에 책임은 AI에게 있다`는 주장에 반박하는 문장 3개를 작성하세요.
 
 ### E010-08 — Risk Mitigation
@@ -41,7 +41,7 @@ AI가 왜 특정 구현을 선택했는지 설명하도록 요구하는 것이 �
 ### E010-09 — Accept / Modify / Reject
 Copilot 제안을 각각 `Accept`, `Modify`, `Reject`해야 할 예시를 하나씩 작성하고 판단 근거를 설명하세요.
 
-### E010-10 — Responsible AI Checklist
+### E010-10 — 책임 있는 AI 점검표 (Responsible AI Checklist, RAIC)
 본인이 실제 개발에 사용할 **10항목 Responsible AI Checklist**를 작성하세요.
 
 ## 자가 검증

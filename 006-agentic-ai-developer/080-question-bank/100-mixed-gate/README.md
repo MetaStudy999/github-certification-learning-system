@@ -1,4 +1,4 @@
-# QBank 100 — Mixed Readiness Gate
+# 문제은행 (Question Bank, QB) 100 — Mixed Readiness Gate
 
 ## Q091–Q100
 
@@ -13,7 +13,7 @@
 **Q099.** GH-600의 핵심 사고방식은? A 자율성 + 검증 + 통제 + 책임성을 함께 설계 B 자율성만 최대화 C Tool 수 최대화 D Human Review 제거  
 **Q100.** 시험 준비 완료에 가장 가까운 상태는? A 공식 범위+Labs+QBank+Mock+오답 Gate 통과 B 용어만 읽음 C 시험문제 복원 D 실습 생략
 
-## Answers
+## 정답 (Answers, ANS)
 
 091 A · 092 A · 093 A · 094 A · 095 A · 096 A · 097 A · 098 A · 099 A · 100 A
 

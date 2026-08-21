@@ -15,14 +15,14 @@
 |  | Mock 02 |  | 40 |  |  |  |
 |  | Final |  | 40 |  |  |  |
 
-## Wrong Answer Retry
+## Wrong 정답 Retry (Wrong Answer Retry, WAR)
 
 | Date | Queue | Correct | Total | Score | Result |
 |---|---|---:|---:|---:|---|
 |  | +1 day |  |  |  |  |
 |  | +7 day |  |  |  |  |
 
-## Skill Area Snapshot
+## Skill 영역 Snapshot (Skill Area Snapshot, SAS)
 
 자가평가 또는 QBank/Mock 결과를 합산해 기록합니다.
 

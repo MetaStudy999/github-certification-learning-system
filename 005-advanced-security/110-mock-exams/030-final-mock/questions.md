@@ -1,4 +1,4 @@
-# GH-500 Final Mock — Questions
+# GH-500 Final Mock — 질문 (GH-500 Final Mock — Questions, GH-500FMQ)
 
 > 자체 제작 40문항. 목표 점수 **90%+**.
 

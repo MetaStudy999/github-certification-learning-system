@@ -1,8 +1,8 @@
-# Lab 050 — Repository Documentation
+# 실습 (Lab, LAB) 050 — 저장소 문서화 (Repository Documentation, RD)
 
 > **README · LICENSE · CONTRIBUTING · SECURITY · CODEOWNERS 이해와 구성**
 
-## 000. Quick Start
+## 000. 빠른 시작 (Quick Start, QS)
 
 Repository는 코드만 저장하는 공간이 아닙니다. 다른 사람이 프로젝트를 이해하고, 사용하고, 기여하고, 보안 문제를 신고할 수 있도록 문서 구조를 갖추는 것이 중요합니다.
 

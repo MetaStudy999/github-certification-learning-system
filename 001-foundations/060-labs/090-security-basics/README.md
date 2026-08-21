@@ -1,8 +1,8 @@
-# Lab 090 — Security Basics
+# 실습 (Lab, LAB) 090 — 보안 기초 (Security Basics, SB)
 
 > **2FA · Permissions · Visibility · Rulesets / Branch Protection · Secrets 기본 이해**
 
-## 000. Quick Start
+## 000. 빠른 시작 (Quick Start, QS)
 
 이 Lab에서는 GitHub 보안 기능을 깊게 설정하기보다 **계정 보안, 접근 권한, Repository 보호의 목적**을 구분합니다.
 

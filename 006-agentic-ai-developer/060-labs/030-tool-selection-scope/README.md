@@ -1,10 +1,10 @@
-# Lab 030 — Tool Selection & Scope
+# 실습 (Lab, LAB) 030 — 도구 선택과 범위 (Tool Selection & Scope, TSS)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Agent가 사용하는 Tool을 목적에 맞게 선택하고 접근 범위를 최소화하는 설계 원칙을 익힙니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 아래 표를 작성합니다.
 
@@ -22,7 +22,7 @@ Agent가 사용하는 Tool을 목적에 맞게 선택하고 접근 범위를 최
 4. Tool 결과를 어떻게 검증할 것인가?
 5. 실패 시 Agent가 중단해야 하는 조건은 무엇인가?
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Tool 필요성 설명
 - [ ] 최소 Scope 설명

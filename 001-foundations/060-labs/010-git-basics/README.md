@@ -1,6 +1,6 @@
-# Lab 010 — Git Basics
+# 실습 (Lab, LAB) 010 — Git 기초 (Git Basics, GB)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Local Repository를 만들고 **수정 → Stage → Commit → Log 확인** 흐름을 직접 수행합니다.
 
@@ -44,14 +44,14 @@ git status
 
 > Git이 파일을 알고는 있지만 아직 Commit에 포함하지 않은 상태는 무엇인가?
 
-## Practice 3 — Staging
+## 실습 (Practice, PRAC) 3 — 스테이징 (Staging, S)
 
 ```bash
 git add README.md
 git status
 ```
 
-## Practice 4 — Commit
+## 실습 (Practice, PRAC) 4 — 커밋 (Commit, C)
 
 ```bash
 git commit -m "docs: add initial README"
@@ -83,7 +83,7 @@ Staging Area
 Local Repository
 ```
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 자료를 보지 않고 다음을 수행합니다.
 
@@ -94,7 +94,7 @@ Local Repository
 5. Commit
 6. Commit 이력을 한 줄 형식으로 확인
 
-## Verify
+## 검증 (Verify, VER)
 
 다음 결과를 확인합니다.
 
@@ -120,7 +120,7 @@ git log --oneline --decorate -5
 - 어려웠던 점 1개
 - 다시 설명할 개념 1개
 
-## Exam Link
+## 시험 연계 (Exam Link, EL)
 
 이 Lab은 다음 시험영역과 연결됩니다.
 

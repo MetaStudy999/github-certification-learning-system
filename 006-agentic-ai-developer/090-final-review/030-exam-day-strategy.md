@@ -1,4 +1,4 @@
-# GH-600 Exam-Day Strategy
+# GH-600 시험-Day 전략 (GH-600 Exam-Day Strategy, GH-600ES)
 
 ## 문제 읽기 순서
 

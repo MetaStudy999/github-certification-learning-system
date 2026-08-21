@@ -14,7 +14,7 @@
 7. [`110-mock-exams/`](./110-mock-exams/)과 [`120-wrong-answers/`](./120-wrong-answers/)로 시험 준비도를 검증합니다.
 8. [`130-progress/`](./130-progress/)와 [`150-evidence/`](./150-evidence/)에서 실제 학습 결과를 별도로 관리합니다.
 
-## Status
+## 상태 (Status, S)
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
@@ -36,7 +36,7 @@
 | 자격 유효기간 | 24개월 |
 | 현재 학습 기준 | **Skills measured as of 2026-08-07** |
 
-## Current Skills Measured — 2026-08-07
+## 현재 Skills Measured — 2026-08-07 (Current Skills Measured — 2026-08-07, CSM)
 
 Microsoft Learn의 현재 GH-300 Study Guide 기준입니다.
 
@@ -86,7 +86,7 @@ Code / Test / Refactor / Documentation
 Run / Test / Security / Privacy Verification
 ```
 
-## Directory Map
+## Directory 맵 (Directory Map, DM)
 
 ```text
 003-copilot/
@@ -107,7 +107,7 @@ Run / Test / Security / Privacy Verification
 └── 150-evidence/
 ```
 
-## Content Snapshot
+## 콘텐츠 Snapshot (Content Snapshot, CS)
 
 ```text
 Labs               13개
@@ -119,7 +119,7 @@ Final Review        Checklist + Confusion Matrix + Exam Strategy
 Project             AI-Assisted Development Project + Rubric + Evidence
 ```
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 핵심 목표 |
 |---:|---|

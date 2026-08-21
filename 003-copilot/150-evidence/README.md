@@ -4,7 +4,7 @@
 
 자격증 합격 여부뿐 아니라 **Copilot을 어떤 Context와 제약으로 사용했고, AI Output을 어떻게 검증했는지** 재현 가능하게 남깁니다.
 
-## Evidence Map
+## Evidence 맵 (Evidence Map, EM)
 
 | 코드 | 증빙 (Evidence, EVD) | 예시 |
 |---:|---|---|
@@ -45,7 +45,7 @@ Tests / checks:
 Privacy / Security notes:
 ```
 
-## Agent / MCP Evidence
+## 에이전트 / MCP Evidence (Agent / MCP Evidence, AMCPE)
 
 실제 Agent/MCP 환경을 사용하는 경우 **Secret 값이나 Credential 자체는 기록하지 않습니다.**
 
@@ -62,7 +62,7 @@ Test / verification:
 Unexpected behavior:
 ```
 
-## Code Review Evidence
+## 코드 리뷰 Evidence (Code Review Evidence, CRE)
 
 ```text
 PR / sample diff:
@@ -83,7 +83,7 @@ Final decision:
 - AI 생성 코드가 정확하다고 가정하지 않습니다.
 - Public Repository Evidence에 내부 기밀 내용을 올리지 않습니다.
 
-## PASSED vs CLEAR
+## PASSED 비교 CLEAR (PASSED vs CLEAR, PASSEDCLEAR)
 
 ### PASSED
 

@@ -1,4 +1,4 @@
-# 070 Actions Governance — Q061–Q070
+# 070 액션 거버넌스 — Q061–Q070 (070 Actions Governance — Q061–Q070, AGQ061Q070)
 
 ## Q061
 Enterprise에서 허용 가능한 Actions Source를 제한하는 목적은?

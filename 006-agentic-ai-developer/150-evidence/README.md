@@ -1,6 +1,6 @@
 # 150 Evidence — GH-600 학습·실습 증거
 
-## Evidence Areas
+## Evidence 영역 (Evidence Areas, EA)
 
 | 코드 | 증빙 (Evidence, EVD) | 예시 |
 |---:|---|---|
@@ -38,7 +38,7 @@ Evidence reference:
 What I learned:
 ```
 
-## Safety Rule
+## Safety 규칙 (Safety Rule, SR)
 
 - 실제 운영 권한 확대를 Evidence 과제로 사용하지 않습니다.
 - 실제 Secret·Token·Password를 기록하지 않습니다.

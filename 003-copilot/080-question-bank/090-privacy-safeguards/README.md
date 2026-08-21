@@ -1,4 +1,4 @@
-# 090 Privacy & Safeguards — Q081–Q090
+# 090 개인정보 보호 와 Safeguards — Q081–Q090 (090 Privacy & Safeguards — Q081–Q090, PSQ081Q090)
 
 > Skill Area: **Configure privacy, content exclusions, and safeguards**
 

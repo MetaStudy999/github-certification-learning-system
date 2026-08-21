@@ -1,4 +1,4 @@
-# GH-600 Confusion Matrix
+# GH-600 Confusion 매트릭스 (GH-600 Confusion Matrix, GH-600CM)
 
 | A | B | 핵심 차이 |
 |---|---|---|

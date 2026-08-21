@@ -1,4 +1,4 @@
-# 060 Git Workflow — Q051–Q060
+# 060 Git 워크플로 — Q051–Q060 (060 Git Workflow — Q051–Q060, GWQ051Q060)
 
 > GH-900 학습목표 기반 자체 제작 문제입니다.
 

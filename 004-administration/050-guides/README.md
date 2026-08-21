@@ -39,7 +39,7 @@ Organization / Repository Access
 
 `입사·이동·퇴사에 맞춰 GitHub 계정을 어떻게 생성·회수할 것인가?`에 가깝습니다.
 
-### Team Sync
+### 팀 Sync (Team Sync, TS)
 
 `IdP 그룹의 구성원을 어떤 GitHub Team에 넣을 것인가?`에 가깝습니다.
 
@@ -99,15 +99,15 @@ Secret Scanning Alert
 
 ## 5. PAT / GitHub App / OAuth App 선택
 
-### PAT
+### 개인용 액세스 토큰 (Personal Access Token, PAT)
 
 개별 사용자/Automation이 사용자 권한으로 API 접근해야 하는 제한적 Scenario.
 
-### GitHub App
+### GitHub 앱 (GitHub App, GHA)
 
 조직적으로 관리하는 Integration에 우선 검토할 수 있는 방식. Resource 설치와 세밀한 Permission 관리에 유리합니다.
 
-### OAuth App
+### OAuth 앱 (OAuth App, OA)
 
 사용자가 애플리케이션에 자신의 GitHub 접근을 위임하는 Scenario.
 
@@ -146,7 +146,7 @@ Runner Capacity와 장애는 어떤가?
 
 따라서 `Self-hosted가 더 강력하니 항상 정답`이 아닙니다.
 
-## 8. Admin vs Support
+## 8. 관리와 지원 비교 (Admin vs Support, AS)
 
 문제 발생 시:
 
@@ -158,7 +158,7 @@ Runner Capacity와 장애는 어떤가?
 → GitHub Support + Support Bundle
 ```
 
-## 9. Cost Optimization
+## 9. 비용 최적화 (Cost Optimization, CO)
 
 비용 절감은 단순히 라이선스를 줄이는 것이 아닙니다.
 

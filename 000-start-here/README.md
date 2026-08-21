@@ -30,7 +30,7 @@ PLANNED → READY → LEARNING → PRACTICING → REVIEWING
 
 `CONTENT-READY`와 `EXAM-READY`를 구분합니다. 전자는 **학습 자료 구축 완료**, 후자는 **실제 학습자가 준비도 기준을 통과한 상태**입니다.
 
-## Control Tower
+## 통합 관제 (Control Tower, CT)
 
 ```text
 900 Glossary
@@ -74,7 +74,7 @@ PLANNED → READY → LEARNING → PRACTICING → REVIEWING
 - 실제 시험 유출문제나 Brain Dump를 사용하지 않습니다.
 - 제품과 시험 범위가 바뀔 수 있으므로 학습 시작·예약 전·응시 직전에 최신 공식 Study Guide를 다시 확인합니다.
 
-## Current System Status
+## 현재 시스템 상태 (Current System Status, CSS)
 
 ```text
 001–006 Certification Content   COMPLETE

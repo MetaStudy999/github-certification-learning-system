@@ -1,10 +1,10 @@
-# Lab 130 — Spaces / Spark / Instructions / Prompt Files
+# 실습 (Lab, LAB) 130 — Spaces / Spark / 지침 / 프롬프트 파일 (Spaces / Spark / Instructions / Prompt Files, SSIPF)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 2026 GH-300에서 중요해진 **Spaces, Spark, Instructions Files, Prompt Files**를 각각의 목적에 맞게 구분합니다.
 
-## Concept Map
+## 개념 맵 (Concept Map, CM)
 
 ```text
 Persistent guidance
@@ -20,7 +20,7 @@ Natural-language app creation
 → GitHub Spark
 ```
 
-## Practice 1 — Instruction vs Prompt File
+## 실습 (Practice, PRAC) 1 — 지침 비교 프롬프트 파일 (Instruction vs Prompt File, IPF)
 
 다음 두 요구를 분류합니다.
 
@@ -74,7 +74,7 @@ Output: findings ordered by severity.
 - Private access token
 - 불필요한 개인정보
 
-## Practice 3 — Spark Scenario
+## 실습 (Practice, PRAC) 3 — Spark 시나리오 (Spark Scenario, SS)
 
 다음 목표를 가정합니다.
 
@@ -96,7 +96,7 @@ Human verification:
 - Deployment configuration
 ```
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 다음 네 기능을 한 문장씩 비교하세요.
 
@@ -109,7 +109,7 @@ Spark
 
 그리고 `Context를 많이 제공하면 항상 좋다`라는 주장이 왜 틀릴 수 있는지 설명합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Instructions와 Prompt File 차이를 설명 가능
 - [ ] Space의 목적을 Context/Knowledge 관점에서 설명 가능

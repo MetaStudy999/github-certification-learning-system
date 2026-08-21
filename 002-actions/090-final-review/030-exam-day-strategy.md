@@ -1,4 +1,4 @@
-# 030 Exam-Day Strategy — GH-200
+# 030 시험-Day 전략 — GH-200 (030 Exam-Day Strategy — GH-200, ESGH-200)
 
 ## 1. 문제를 읽는 순서
 

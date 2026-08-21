@@ -1,6 +1,6 @@
 # 040 Official Docs — GH-600 공식 기준 자료
 
-## Primary Sources
+## 주요 출처 (Primary Sources, PS)
 
 - Microsoft Learn — GitHub Certified: Agentic AI Developer  
   https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/
@@ -13,7 +13,7 @@
 - GitHub Docs — GitHub Copilot  
   https://docs.github.com/en/copilot
 
-## Source Priority
+## 출처 우선순위 (Source Priority, SP)
 
 ```text
 Current Microsoft Learn GH-600 Study Guide
@@ -27,7 +27,7 @@ GitHub Docs feature documentation
 Secondary resources
 ```
 
-## Current Naming Note
+## 현재 명칭 참고 (Current Naming Note, CNN)
 
 GitHub Learn은 현재 `GitHub Agentic AI Developer (beta)`라는 이름을 표시하고, Microsoft Learn 자격증 페이지는 `GitHub Certified: Agentic AI Developer`로 표시합니다. 시험 예약·결과 처리와 같은 운영 정보는 응시 시점의 공식 예약 화면을 최종 기준으로 확인합니다.
 

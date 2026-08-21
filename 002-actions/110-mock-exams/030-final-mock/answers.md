@@ -1,4 +1,4 @@
-# Final Mock — Answers
+# Final Mock — 정답 (Final Mock — Answers, FMA)
 
 | Q | Ans | 핵심 이유 |
 |---:|:---:|---|

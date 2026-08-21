@@ -55,7 +55,7 @@ Developer Input / Context
 → Human Verification
 ```
 
-## Agentic Flow
+## Agentic 흐름 (Agentic Flow, AF)
 
 ```text
 Goal
@@ -68,13 +68,13 @@ Goal
 → Human Approval
 ```
 
-## Final Review Files
+## Final 리뷰 파일 (Final Review Files, FRF)
 
 - [`010-final-checklist.md`](./010-final-checklist.md) — 응시 전 체크
 - [`020-confusion-matrix.md`](./020-confusion-matrix.md) — 유사 개념 비교
 - [`030-exam-day-strategy.md`](./030-exam-day-strategy.md) — 시험 당일 전략
 
-## Exam Gate
+## 시험 Gate (Exam Gate, EG)
 
 - [ ] Microsoft Learn Study Guide의 최신 적용일 확인
 - [ ] 6개 Skill Area와 비중 설명

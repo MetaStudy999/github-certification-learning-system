@@ -1,4 +1,4 @@
-# Mock Exam 01 — Answers
+# Mock 시험 01 — 정답 (Mock Exam 01 — Answers, MEA)
 
 | Q | Ans | 핵심 이유 |
 |---:|:---:|---|

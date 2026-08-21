@@ -1,4 +1,4 @@
-# 070 Enterprise — Q061–Q070
+# 070 엔터프라이즈 — Q061–Q070 (070 Enterprise — Q061–Q070, EQ061Q070)
 
 ## Q061
 Enterprise에서 허용된 Action만 사용하도록 제한하는 목적은?

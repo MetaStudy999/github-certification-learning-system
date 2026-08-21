@@ -1,6 +1,6 @@
-# GH-300 Mock 02 — Answers
+# GH-300 Mock 02 — 정답 (GH-300 Mock 02 — Answers, GH-300MA)
 
-## Answer Key
+## 정답 Key (Answer Key, AK)
 
 | Q | Ans | 핵심 근거 |
 |---:|:---:|---|
@@ -61,7 +61,7 @@ Weak skill area:
 | 30–33 | 75–82.5% | REVIEW |
 | 0–29 | <75% | NOT READY |
 
-## Next Step
+## 다음 단계 (Next Step, NS)
 
 - 85% 미만: 약점 Exercise/Lab 재수행 후 다시 풉니다.
 - 85% 이상: 오답 재시험 후 [`030-final-mock`](../030-final-mock/questions.md)로 이동합니다.

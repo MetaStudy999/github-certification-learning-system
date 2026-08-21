@@ -2,7 +2,7 @@
 
 > 모든 Lab은 학습용 Sandbox 또는 문서 기반 Scenario를 사용합니다. 실제 운영 권한 확대·안전 통제 우회·무검증 자동 실행은 다루지 않습니다.
 
-## Lab Roadmap
+## 실습 로드맵 (Lab Roadmap, LR)
 
 | Level | Lab | 핵심 주제 |
 |---:|---|---|

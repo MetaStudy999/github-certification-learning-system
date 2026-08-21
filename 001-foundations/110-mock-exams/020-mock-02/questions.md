@@ -1,4 +1,4 @@
-# Mock Exam 02 — Questions
+# Mock 시험 02 — 질문 (Mock Exam 02 — Questions, MEQ)
 
 > GH-900 학습목표 기반 자체 제작 문항입니다. 실제 시험 문항을 복제하지 않습니다.
 

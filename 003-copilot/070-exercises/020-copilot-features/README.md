@@ -6,16 +6,16 @@ IDE, CLI, Agent Mode, MCP, Code Review, Spaces, Spark, Instructions 등 현재 G
 
 ## 연습문제 (Exercises, EXR)
 
-### E020-01 — Inline Suggestion vs Chat
+### E020-01 — Inline Suggestion 비교 Chat (Inline Suggestion vs Chat, ISC)
 A. 현재 함수의 다음 3줄을 빠르게 작성하고 싶다.  
 B. 이 함수가 왜 느린지 원인을 설명받고 싶다.
 
 각각 어떤 기능이 더 적합한지 설명하세요.
 
-### E020-02 — Chat vs Edits
+### E020-02 — Chat 비교 Edits (Chat vs Edits, CE)
 여러 파일의 동일한 API 호출 패턴을 새 방식으로 바꾸고 변경안을 검토하고 싶습니다. Chat과 Edits 중 어느 쪽을 우선 고려할지 이유를 적으세요.
 
-### E020-03 — Edits vs Agent Mode
+### E020-03 — Edits 비교 에이전트 모드 (Edits vs Agent Mode, EAM)
 다음 두 작업을 분류하세요.
 
 1. 여러 파일에 정해진 Rename을 적용한다.
@@ -24,19 +24,19 @@ B. 이 함수가 왜 느린지 원인을 설명받고 싶다.
 ### E020-04 — Copilot CLI
 Terminal에서 반복되는 Git 명령을 설명받고 안전한 Shell Script 초안을 만들고 싶습니다. CLI가 적합한 이유와 실행 전 검증할 항목을 작성하세요.
 
-### E020-05 — Agent Mode
+### E020-05 — 에이전트 모드 (Agent Mode, AM)
 Agent에게 `버그를 고쳐`라고만 지시하는 Prompt의 문제점을 찾고 Goal/Constraints/Verification을 추가해 개선하세요.
 
 ### E020-06 — MCP
 Agent가 외부 Issue Tracker 정보를 읽어야 합니다. MCP를 사용할 때 확인해야 할 Data Scope, Tool Permission, Credential, Logging 항목을 작성하세요.
 
-### E020-07 — Sub-Agent
+### E020-07 — Sub-에이전트 (Sub-Agent, S)
 큰 작업을 `Test 분석`, `보안 검토`, `문서화`로 분리한다고 가정합니다. Sub-Agent 위임의 장점과 위험을 각각 2개씩 적으세요.
 
-### E020-08 — Code Review
+### E020-08 — 코드 리뷰 (Code Review, CR)
 Copilot Code Review가 PR에서 제안을 했습니다. 사람이 반드시 별도로 검토해야 할 항목을 5개 작성하세요.
 
-### E020-09 — Instructions / Prompt Files
+### E020-09 — 지침 / 프롬프트 파일 (Instructions / Prompt Files, IPF)
 다음을 분류하세요.
 
 - 모든 Python 코드는 type hint를 사용한다.

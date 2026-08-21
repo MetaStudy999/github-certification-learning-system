@@ -1,10 +1,10 @@
-# Lab 110 — Guardrails & Accountability
+# 실습 (Lab, LAB) 110 — 가드레일과 책임성 (Guardrails & Accountability, GA)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Agent의 자율성을 제한·검증하고 사람이 책임 있게 감독할 수 있는 구조를 설계합니다.
 
-## Guardrail Layers
+## 가드레일 계층 (Guardrail Layers, GL)
 
 ```text
 Input constraints
@@ -16,7 +16,7 @@ Input constraints
 → Audit / Evidence
 ```
 
-## Practice
+## 실습 (Practice, PRAC)
 
 다음 Scenario에 필요한 Guardrail을 정의합니다.
 
@@ -26,7 +26,7 @@ Input constraints
 4. 다중 Agent 검토
 5. 평가 기준 미달 결과
 
-## Accountability Checklist
+## 책임성 점검표 (Accountability Checklist, AC)
 
 - [ ] 누가 Agent를 호출했는가?
 - [ ] 어떤 입력과 정책이 적용되었는가?

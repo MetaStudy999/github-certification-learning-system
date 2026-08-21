@@ -20,7 +20,7 @@
 - [ ] 다른 유사 기능과의 차이 설명
 - [ ] 보안·권한·운영 영향 설명
 
-## Failure Handling
+## 실패 처리 (Failure Handling, FH)
 
 ```text
 FAIL

@@ -1,10 +1,10 @@
-# Lab 120 — Copilot Code Review / Organization Policy
+# 실습 (Lab, LAB) 120 — Copilot 코드 리뷰 / 조직 정책 (Copilot Code Review / Organization Policy, CCROP)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Copilot을 개인 개발 보조 도구로만 보지 않고, **Code Review와 Organization-wide Governance** 관점에서 이해합니다.
 
-## Concept
+## 개념 (Concept, CPT)
 
 ```text
 Developer
@@ -50,7 +50,7 @@ Never approve only because AI says PASS.
 
 Instructions File을 사용할 수 있는 환경이라면 어떤 지침을 넣을지 초안을 작성합니다.
 
-## Practice 3 — Organization Policy Scenario
+## 실습 (Practice, PRAC) 3 — 조직 정책 시나리오 (Organization Policy Scenario, OPS)
 
 가상의 조직 `ACME-AI`를 가정합니다.
 
@@ -71,7 +71,7 @@ Instructions File을 사용할 수 있는 환경이라면 어떤 지침을 넣�
 | 구독 자동 관리 | REST API |
 | Review 기준 일관성 | Instructions / Review Standards |
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 다음 주장에 반박하세요.
 
@@ -79,7 +79,7 @@ Instructions File을 사용할 수 있는 환경이라면 어떤 지침을 넣�
 
 최소 5개의 이유를 작성하고 **AI Review와 Human Accountability**의 역할을 구분합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Code Review와 단순 Chat의 목적 차이를 설명 가능
 - [ ] AI Review가 최종 승인 권한을 대체하지 않는 이유 설명

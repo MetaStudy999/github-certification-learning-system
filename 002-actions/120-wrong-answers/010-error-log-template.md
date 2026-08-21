@@ -1,4 +1,4 @@
-# 010 Error Log Template — GH-200
+# 010 오류 Log Template — GH-200 (010 Error Log Template — GH-200, ELTGH-200)
 
 문제 하나를 다음 형식으로 기록합니다.
 
@@ -23,7 +23,7 @@ Related Lab:
 Final status: OPEN / FIXED
 ```
 
-## Error Code
+## 오류 코드 (Error Code, EC)
 
 - `CONCEPT` — 개념 부족
 - `YAML` — YAML 구조·문법 혼동

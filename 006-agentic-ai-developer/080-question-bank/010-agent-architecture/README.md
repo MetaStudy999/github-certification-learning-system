@@ -1,4 +1,4 @@
-# QBank 010 — Agent Architecture
+# 문제은행 (Question Bank, QB) 010 — 에이전트 아키텍처 (Agent Architecture, AA)
 
 ## Q001–Q010
 
@@ -13,7 +13,7 @@
 **Q009.** Out-of-scope 정의가 필요한 이유는? A Agent 행동 경계를 명확히 하기 위해 B Tool 수를 늘리기 위해 C 로그를 지우기 위해 D 평가를 없애기 위해  
 **Q010.** 좋은 Agent Architecture의 특징은? A 목표·경계·평가·감독이 명확 B 자율성만 최대화 C 모든 Tool 허용 D 사람 검토 제거
 
-## Answers
+## 정답 (Answers, ANS)
 
 001 A · 002 B · 003 A · 004 A · 005 A · 006 A · 007 A · 008 A · 009 A · 010 A
 

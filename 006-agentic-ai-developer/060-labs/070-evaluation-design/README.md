@@ -1,10 +1,10 @@
-# Lab 070 — Evaluation Design
+# 실습 (Lab, LAB) 070 — 평가 설계 (Evaluation Design, ED)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Agent 결과를 감으로 판단하지 않고 명시적인 Evaluation 기준으로 평가합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 다음 평가표를 설계합니다.
 
@@ -25,7 +25,7 @@ Agent 결과를 감으로 판단하지 않고 명시적인 Evaluation 기준으�
 - 충돌하는 요구사항
 - 중단 또는 Escalation이 필요한 Scenario
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] 성공률 하나만으로 평가하지 않는 이유 설명
 - [ ] 평가 Dataset과 실제 운영 Monitoring 차이 설명

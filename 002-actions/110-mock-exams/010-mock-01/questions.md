@@ -1,4 +1,4 @@
-# Mock Exam 01 — Questions
+# Mock 시험 01 — 질문 (Mock Exam 01 — Questions, MEQ)
 
 > 자체 제작 40문항입니다. 정답은 `answers.md`에서 확인합니다.
 

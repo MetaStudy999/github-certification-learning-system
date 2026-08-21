@@ -1,6 +1,6 @@
 <div align="center">
 
-# GitHub Certification Learning System
+# GitHub Certification 학습 시스템 (GitHub Certification Learning System, GCLS)
 
 ### GitHub 자격증 6종 통합 학습 · 실습 · 시험 · Evidence · Portfolio 시스템
 
@@ -119,7 +119,7 @@ Week 6  Agentic AI Developer
 |---:|---|---|---|
 | **900** | Glossary | 6개 과정 통합 용어·약어·교차 개념 | [열기](./900-glossary/) |
 | **910** | 문제은행 (Question Bank, QB) | **600문항** 통합 문제은행 Index | [열기](./910-question-bank/) |
-| **920** | Wrong Answers | Error Code·+1일/+7일 Retry 관리 | [열기](./920-wrong-answers/) |
+| **920** | 오답 관리 (Wrong Answers, WA) | Error Code·+1일/+7일 Retry 관리 | [열기](./920-wrong-answers/) |
 | **930** | 모의고사 (Mock Exams, ME) | **18회 / 720문항** Mock·Exam Gate | [열기](./930-mock-exams/) |
 | **940** | 실습 (Labs, LAB) | 과정별 Lab·Challenge·Verify 표준 | [열기](./940-labs/) |
 | **950** | 진행 현황 (Progress, PRG) | Master Dashboard·Fast Track·시험 계획 | [열기](./950-progress/) |

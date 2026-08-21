@@ -1,4 +1,4 @@
-# GH-500 Exam Evidence Template
+# GH-500 시험 Evidence Template (GH-500 Exam Evidence Template, GH-500EET)
 
 ```text
 Exam: GH-500 GitHub Advanced Security

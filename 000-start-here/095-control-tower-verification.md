@@ -4,13 +4,13 @@
 **Scope:** `900–980` Shared Learning Control Tower  
 **Result:** **PASS**
 
-## Shared Systems
+## 공통 시스템 (Shared Systems, SHS)
 
 | 코드 | 시스템 | 핵심 기능 | 상태 |
 |---:|---|---|---|
 | 900 | Glossary | 과정별 용어 Map / Acronym / Review | PASS |
 | 910 | 문제은행 (Question Bank, QB) | 6개 과정 600문항 Index / 작성 표준 | PASS |
-| 920 | Wrong Answers | 공통 Error Code / +1일·+7일 Retry | PASS |
+| 920 | 오답 관리 (Wrong Answers, WA) | 공통 Error Code / +1일·+7일 Retry | PASS |
 | 930 | 모의고사 (Mock Exams, ME) | 18회 / 720문항 / Exam Gate | PASS |
 | 940 | 실습 (Labs, LAB) | 통합 Lab Index / 작성·Verify 표준 | PASS |
 | 950 | 진행 현황 (Progress, PRG) | Master Dashboard / Fast Track / Exam Plan | PASS |
@@ -18,7 +18,7 @@
 | 970 | Certificates | 실제 Result / Credential 기록 정책 | PASS |
 | 980 | Portfolio | 과정별 Project / Evidence / Final Capstone | PASS |
 
-## Integrated Content Scale
+## 통합 콘텐츠 규모 (Integrated Content Scale, ICS)
 
 ```text
 Question Bank
@@ -31,7 +31,7 @@ Total original exam-style learning content
 600 + 720 = 1,320 questions
 ```
 
-## Control Flow Verification
+## 제어 흐름 검증 (Control Flow Verification, CFV)
 
 ```text
 900 Glossary
@@ -51,7 +51,7 @@ Total original exam-style learning content
 980 Portfolio / Final Capstone
 ```
 
-## PASS Criteria
+## 통과 기준 (PASS Criteria, PC)
 
 - [x] 6개 과정 용어로 이동 가능한 통합 Glossary 존재
 - [x] 600문항 Question Bank 통합 Index 존재
@@ -65,7 +65,7 @@ Total original exam-style learning content
 - [x] 6개 대표 프로젝트를 Final Capstone으로 연결
 - [x] `CONTENT-READY`와 `EXAM-READY`의 의미 분리
 
-## Exam Readiness Policy
+## 시험 준비도 정책 (Exam Readiness Policy, ERP)
 
 Minimum Gate와 Conservative Gate를 분리합니다.
 
@@ -81,7 +81,7 @@ Mock 02 85%+
 Final Mock 90%+
 ```
 
-## Next Phase
+## 다음 단계 (Next Phase, NP)
 
 통합 Repository 구축은 완료되었습니다. 다음 단계부터는 콘텐츠를 임의로 완료 처리하지 않고 **실제 학습 결과만 기록**합니다.
 

@@ -1,8 +1,8 @@
-# Lab 070 — GitHub Projects
+# 실습 (Lab, LAB) 070 — GitHub 프로젝트 (GitHub Projects, GP)
 
 > **Views · Fields · Filters · Issue/PR 연결**
 
-## 000. Quick Start
+## 000. 빠른 시작 (Quick Start, QS)
 
 GitHub Projects는 Issue와 Pull Request를 업무 보드처럼 정리하고, 필드·보기·필터를 사용해 진행 상태를 추적하는 기능입니다.
 

@@ -1,4 +1,4 @@
-# Final Mock — Questions
+# Final Mock — 질문 (Final Mock — Questions, FMQ)
 
 > 자체 제작 40문항입니다. 목표는 90% 이상입니다.
 

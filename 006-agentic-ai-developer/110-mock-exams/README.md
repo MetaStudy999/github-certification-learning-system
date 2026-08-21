@@ -12,11 +12,11 @@
 
 Question Bank 100문제와 합치면 GH-600 자체 제작 시험형 문제는 **총 220문항**입니다.
 
-## Domain Balance
+## 영역 Balance (Domain Balance, DB)
 
 현재 6개 Domain 비중을 반영하고 특히 Tool/Environment, Evaluation, Multi-Agent, Guardrails Scenario를 균형 있게 구성합니다.
 
-## Flow
+## 흐름 (Flow, FL)
 
 ```text
 Mock 01
@@ -35,7 +35,7 @@ Mock 01
 - 최종 모의고사 (Final Mock, FM): 90% 이상 권장
 - 최근 오답 재시험: 90% 이상
 
-## Rules
+## 규칙 (Rules, R)
 
 - 문제를 먼저 푼 뒤 별도 Answers 문서를 확인합니다.
 - 정답률뿐 아니라 Error Code와 설계 판단 근거를 기록합니다.

@@ -38,7 +38,7 @@ CODEOWNERS   → Review 책임
 SECURITY     → 취약점 신고 정책
 ```
 
-## 3. GitHub Flow
+## 3. GitHub 플로 (GitHub Flow, GF)
 
 ```text
 Issue
@@ -76,7 +76,7 @@ Wiki       → Repository 지식 문서
 Gist       → 작은 코드·메모 공유
 ```
 
-## 6. Security / Administration
+## 6. 보안 / 관리 (Security / Administration, SA)
 
 반드시 구분:
 
@@ -87,7 +87,7 @@ Gist       → 작은 코드·메모 공유
 - Role / Permission
 - Enterprise Managed Users, EMU
 
-## 7. Community
+## 7. 커뮤니티 (Community, C)
 
 - Open Source
 - InnerSource

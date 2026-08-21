@@ -1,4 +1,4 @@
-# 060 Troubleshooting Exercises
+# 060 문제 해결 (Troubleshooting, T) — 연습문제 (Exercises, EXR)
 
 ## 목표
 

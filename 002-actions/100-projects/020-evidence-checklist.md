@@ -1,12 +1,12 @@
-# 020 Evidence Checklist — CI/CD Automation Project
+# 020 Evidence 점검표 — CI/CD 자동화 프로젝트 (020 Evidence Checklist — CI/CD Automation Project, ECCICDAP)
 
-## Repository Evidence
+## 저장소 Evidence (Repository Evidence, RE)
 
 - [ ] Project Repository URL
 - [ ] `.github/workflows/` 구조
 - [ ] README의 Workflow 설명
 
-## Workflow Evidence
+## 워크플로 Evidence (Workflow Evidence, WE)
 
 - [ ] Push 실행 성공 URL
 - [ ] Pull Request 실행 성공 URL
@@ -14,13 +14,13 @@
 - [ ] Artifact 생성 확인
 - [ ] Cache Hit/Miss 관찰 기록
 
-## Reuse Evidence
+## 재사용 Evidence (Reuse Evidence, RE)
 
 - [ ] Reusable Workflow 또는 Composite Action 사용 위치
 - [ ] 선택 이유
 - [ ] Input/Output 또는 Secret 전달 방식 설명
 
-## Security Evidence
+## 보안 Evidence (Security Evidence, SE)
 
 - [ ] `permissions` 설정 확인
 - [ ] Secret 평문 저장 없음
@@ -28,7 +28,7 @@
 - [ ] OIDC 구조 설명 또는 설계도
 - [ ] Self-hosted Runner 사용 시 접근 범위 설명
 
-## Troubleshooting Evidence
+## 문제 해결 Evidence (Troubleshooting Evidence, TE)
 
 ```text
 Failure scenario:

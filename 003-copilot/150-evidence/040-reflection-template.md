@@ -48,7 +48,7 @@ Assertion I improved:
 Result:
 ```
 
-## 6. Responsible AI / Privacy
+## 6. 책임 있는 AI / 개인정보 보호 (Responsible AI / Privacy, RAIP)
 
 ```text
 Most important risk:
@@ -58,7 +58,7 @@ Secret/PII handling lesson:
 Human accountability lesson:
 ```
 
-## 7. Agent / MCP
+## 7. 에이전트 / MCP (Agent / MCP, AMCP)
 
 ```text
 What Agent Mode is good for:

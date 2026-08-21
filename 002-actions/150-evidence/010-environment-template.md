@@ -1,4 +1,4 @@
-# 010 Environment Evidence Template
+# 010 환경 Evidence Template (010 Environment Evidence Template, EET)
 
 ```text
 Date:
@@ -12,7 +12,7 @@ Runner types used:
 Notes:
 ```
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Workflow 파일을 생성할 수 있음
 - [ ] Repository Actions 탭을 확인할 수 있음

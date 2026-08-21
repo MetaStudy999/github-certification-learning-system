@@ -1,4 +1,4 @@
-# 020 Contexts & Expressions Exercises
+# 020 컨텍스트와 표현식 (Contexts & Expressions, CE) — 연습문제 (Exercises, EXR)
 
 ## 목표
 

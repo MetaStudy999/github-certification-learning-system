@@ -10,7 +10,7 @@
 4. 틀린 문제는 [`../920-wrong-answers/`](../920-wrong-answers/)로 보냅니다.
 5. [`090-exam-readiness-policy.md`](./090-exam-readiness-policy.md) 기준으로 EXAM-READY 여부를 판단합니다.
 
-## Current Scale
+## 현재 규모 (Current Scale, CS)
 
 각 과정은 `Mock 01 + Mock 02 + Final Mock`, 각 40문항으로 구성되어 있습니다.
 
@@ -20,7 +20,7 @@
 
 Question Bank 600문항과 합치면 현재 Repository의 자체 제작 시험형 콘텐츠는 **총 1,320문항**입니다.
 
-## Standard Flow
+## Standard 흐름 (Standard Flow, SF)
 
 ```text
 QBank Gate
@@ -43,7 +43,7 @@ QBank Gate
 
 > 보수적 최종 판정에서는 **Mock 01 → Mock 02 → Final Mock의 세 결과가 모두 85% 이상**이고 Final Mock이 90% 이상인 상태를 권장합니다.
 
-## Course Mock Links
+## 과정 Mock Links (Course Mock Links, CML)
 
 | 코드 | 과정 | Mock |
 |---:|---|---|

@@ -1,10 +1,10 @@
 # Lab 090 — GitHub 액션 (GitHub Actions, GHACT / GH-200) Governance
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Enterprise 관리자 관점에서 **Workflow/Action 재사용, Organization Policy, Secret Scope**를 설계합니다.
 
-## Concept
+## 개념 (Concept, CPT)
 
 ```text
 Enterprise Standards
@@ -20,7 +20,7 @@ Runner / Secret / Network
 Audit / Usage
 ```
 
-## Practice 1 — Reuse Strategy
+## 실습 (Practice, PRAC) 1 — 재사용 전략 (Reuse Strategy, RS)
 
 여러 Repository가 동일한 Build/Test/Deploy 패턴을 사용한다고 가정합니다.
 
@@ -40,7 +40,7 @@ Reusable Workflow 중앙 관리
 - Versioning
 - 변경 영향
 
-## Practice 2 — Actions Policy
+## 실습 (Practice, PRAC) 2 — 액션 정책 (Actions Policy, AP)
 
 가상 Organization 정책을 설계합니다.
 
@@ -53,7 +53,7 @@ Who can change policy:
 Audit method:
 ```
 
-## Practice 3 — Secret Scope
+## 실습 (Practice, PRAC) 3 — 비밀 범위 (Secret Scope, SS)
 
 다음 Secret을 어디에 두는 것이 적절한지 판단합니다.
 
@@ -69,7 +69,7 @@ Organization Secret
 Third-party Vault
 ```
 
-## Practice 4 — Least Privilege
+## 실습 (Practice, PRAC) 4 — 최소 권한 (Least Privilege, LP)
 
 Workflow가 필요로 하는 권한만 주도록 다음을 작성합니다.
 
@@ -81,11 +81,11 @@ Required environment:
 Unneeded permissions removed:
 ```
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `공통 Workflow를 중앙화하면 보안 검토가 필요 없어지는가?`를 설명하세요.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Reusable Workflow의 Enterprise 장점 설명
 - [ ] Actions Policy 목적 설명

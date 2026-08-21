@@ -1,4 +1,4 @@
-# Secure SDLC Project — Evidence Checklist
+# 보안 SDLC 프로젝트 — Evidence 점검표 (Secure SDLC Project — Evidence Checklist, SSDLCPEC)
 
 - [ ] 프로젝트 목표와 학습용 Repository 범위
 - [ ] Security Suite 아키텍처 다이어그램

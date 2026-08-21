@@ -1,6 +1,6 @@
-# Lab 030 — Branch Workflow
+# 실습 (Lab, LAB) 030 — 브랜치 워크플로 (Branch Workflow, BW)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Branch를 만들어 작업을 분리하고 Merge하는 기본 흐름을 익힙니다.
 
@@ -39,7 +39,7 @@ git switch main
 
 `README.md`를 확인해 `feature/profile`의 변경이 아직 `main`에 없는 것을 확인합니다.
 
-## Practice 5 — Merge
+## 실습 (Practice, PRAC) 5 — 병합 (Merge, M)
 
 ```bash
 git merge feature/profile
@@ -71,7 +71,7 @@ main
 
 Branch는 Repository를 통째로 복사하는 것이 아니라 **같은 Repository 안에서 독립적인 변경 흐름을 만드는 기능**입니다.
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 자료 없이 다음을 수행합니다.
 
@@ -82,7 +82,7 @@ Branch는 Repository를 통째로 복사하는 것이 아니라 **같은 Reposit
 5. Merge
 6. 작업 Branch 삭제
 
-## Verify
+## 검증 (Verify, VER)
 
 ```bash
 git status
@@ -96,7 +96,7 @@ git log --oneline --graph --decorate --all -10
 - Merge는 어떤 문제를 해결하는가?
 - 왜 `main`에서 모든 작업을 직접 하지 않는가?
 
-## Next Step
+## 다음 단계 (Next Step, NS)
 
 다음 실습에서는 이 Local Branch 흐름을 GitHub의 **Issue → Pull Request → Review → Merge** 협업 흐름으로 확장합니다.
 

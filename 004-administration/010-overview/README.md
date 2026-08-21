@@ -28,7 +28,7 @@
 - Access Audit
 - Policies / Rulesets / Roles
 
-## 2. Enterprise Environment
+## 2. 엔터프라이즈 환경 (Enterprise Environment, EE)
 
 - Admin이 해결할 문제 vs GitHub Support가 필요한 문제
 - Support Bundle / Diagnostics
@@ -39,7 +39,7 @@
 - GHES
 - Licensing / Billing / Consumption
 
-## 3. Secure Software Development and Compliance
+## 3. 보안 Software 개발 and Compliance (Secure Software Development and Compliance, SSDC)
 
 현재 가장 높은 비중입니다.
 
@@ -80,7 +80,7 @@
 - License Optimization
 - Resource / Cost Optimization
 
-## Enterprise Admin Thinking Model
+## 엔터프라이즈 관리 Thinking 모델 (Enterprise Admin Thinking Model, EATM)
 
 ```text
 Requirement
@@ -96,7 +96,7 @@ Requirement
 
 시험에서는 특정 기능의 존재 여부보다 **어떤 관리 문제에 어떤 Enterprise 기능과 정책을 적용하는가**가 중요합니다.
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 핵심 학습 | 결과물 |
 |---:|---|---|
@@ -108,7 +108,7 @@ Requirement
 | 6 | Audit / Usage / Cost + QBank | Weakness Report |
 | 7 | Mock / Final Review | Exam Gate |
 
-## Version Rule
+## 버전 규칙 (Version Rule, VR)
 
 - 시험 시작 전 Microsoft Learn GH-100 Study Guide의 `Skills measured as of`를 확인합니다.
 - 2026년 7월 이전 자료는 **현재 범위와 대조한 뒤** 사용합니다.

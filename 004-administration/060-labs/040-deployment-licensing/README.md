@@ -1,10 +1,10 @@
-# Lab 040 — Deployment / Licensing
+# 실습 (Lab, LAB) 040 — 배포 / 라이선싱 (Deployment / Licensing, DL)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 현재 GH-100에서 명시하는 주요 Enterprise 배포 Scenario를 비교하고 적합한 모델을 선택합니다.
 
-## Deployment Models
+## 배포 모델 (Deployment Models, DM)
 
 ```text
 A. GHEC + EMU
@@ -13,7 +13,7 @@ C. GHEC + Personal Accounts
 D. GHES
 ```
 
-## Practice — Decision Matrix
+## 실습 (Practice, PRAC) — 의사결정 매트릭스 (Decision Matrix, DM)
 
 | 기준 | GHEC + EMU | GHEC + Data Residency + EMU | GHEC + Personal | GHES |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ D. GHES
 
 어떤 모델을 우선 검토할지 작성합니다.
 
-## Scenario 2 — Data Location
+## 시나리오 (Scenario, SCN) 2 — 데이터 위치 (Data Location, DL)
 
 요구사항:
 
@@ -45,7 +45,7 @@ D. GHES
 
 어떤 모델이 후보인지 설명합니다.
 
-## Scenario 3 — Server Control
+## 시나리오 (Scenario, SCN) 3 — 서버 제어 (Server Control, SC)
 
 요구사항:
 
@@ -54,7 +54,7 @@ D. GHES
 
 GHES가 주는 통제와 운영 책임을 함께 기록합니다.
 
-## Licensing / Billing
+## 라이선싱 / 청구 (Licensing / Billing, LB)
 
 다음 항목을 별도로 추적합니다.
 
@@ -66,11 +66,11 @@ Runner / storage / product consumption
 Inactive / underused licenses
 ```
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `GHES는 내부망이므로 운영 부담이 없다`라는 주장에 반박하세요.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] 4개 Deployment Scenario 구분
 - [ ] Identity와 Deployment 관계 설명

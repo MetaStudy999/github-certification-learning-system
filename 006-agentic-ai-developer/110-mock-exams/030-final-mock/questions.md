@@ -1,4 +1,4 @@
-# GH-600 Final Mock — Questions
+# GH-600 Final Mock — 질문 (GH-600 Final Mock — Questions, GH-600FMQ)
 
 > 자체 제작 40문항. 목표 점수 **90%+**.
 

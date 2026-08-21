@@ -1,4 +1,4 @@
-# QBank 050 — Memory / State / Execution
+# 문제은행 (Question Bank, QB) 050 — 메모리 / 상태 / 실행 (Memory / State / Execution, MSE)
 
 ## Q041–Q050
 
@@ -13,7 +13,7 @@
 **Q049.** 실행 기록이 Accountability에 중요한 이유는? A 무엇이 언제 발생했는지 추적 가능 B 자율성만 증가 C 로그를 숨김 D 평가 제거  
 **Q050.** 안정적인 실행 관리의 조합은? A State + Checkpoint + Retry policy + Evaluation B Tool only C Memory only D Prompt only
 
-## Answers
+## 정답 (Answers, ANS)
 
 041 A · 042 A · 043 A · 044 A · 045 A · 046 A · 047 A · 048 A · 049 A · 050 A
 

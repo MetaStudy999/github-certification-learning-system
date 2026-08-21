@@ -20,7 +20,7 @@
 - 시험 화면 캡처에 포함된 민감정보
 - 실제 시험 문제 또는 기억에 의존한 복원문제
 
-## Upload Checklist
+## Upload 점검표 (Upload Checklist, UC)
 
 - [ ] 이미지에 개인정보가 없는가?
 - [ ] QR/Barcode에 비공개 정보가 포함되지 않았는가?

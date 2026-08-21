@@ -1,4 +1,4 @@
-# GH-100 Mock Exam 01 — Questions
+# GH-100 Mock 시험 01 — 질문 (GH-100 Mock Exam 01 — Questions, GH-100MEQ)
 
 > 제한시간 권장: 60분 / 40문항
 

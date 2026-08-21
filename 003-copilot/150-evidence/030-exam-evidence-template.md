@@ -1,4 +1,4 @@
-# 030 Exam Evidence Template — GH-300
+# 030 시험 Evidence Template — GH-300 (030 Exam Evidence Template — GH-300, EETGH-300)
 
 실제 시험 문항은 기록하지 않습니다.
 

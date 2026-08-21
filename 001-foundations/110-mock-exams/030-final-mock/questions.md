@@ -1,4 +1,4 @@
-# Final Mock — Questions
+# Final Mock — 질문 (Final Mock — Questions, FMQ)
 
 > GH-900 학습목표 기반 자체 제작 최종 모의고사입니다. 실제 시험 문항을 복제하지 않습니다.
 

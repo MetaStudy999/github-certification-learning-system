@@ -1,4 +1,4 @@
-# Secure SDLC Integration Project — Rubric
+# 보안 SDLC 통합 프로젝트 — Rubric (Secure SDLC Integration Project — Rubric, SSDLCIPR)
 
 | 평가 영역 | 배점 | PASS 기준 |
 |---|---:|---|

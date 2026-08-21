@@ -26,7 +26,7 @@ GH-300은 제품 기능 암기 시험이 아니라 **AI를 책임감 있게 사�
 | 5 | Improve developer productivity with GitHub Copilot | 10–15% |
 | 6 | Configure privacy, content exclusions, and safeguards | 10–15% |
 
-## 1. Responsible AI
+## 1. 책임 있는 AI (Responsible AI, RAI)
 
 반드시 설명할 수 있어야 합니다.
 
@@ -69,7 +69,7 @@ Organization
 └── Subscription Management / REST API
 ```
 
-## 3. Data and Architecture
+## 3. 데이터 and 아키텍처 (Data and Architecture, DA)
 
 다음 흐름을 설명할 수 있어야 합니다.
 
@@ -91,7 +91,7 @@ Post-processing / matching checks
 Suggestion to developer
 ```
 
-## 4. Prompt Engineering and Context Crafting
+## 4. 프롬프트 엔지니어링 and 컨텍스트 Crafting (Prompt Engineering and Context Crafting, PECC)
 
 - Goal / Context / Constraints / Output / Verification
 - Zero-shot / Few-shot
@@ -99,7 +99,7 @@ Suggestion to developer
 - Relevant Context 선택
 - Prompt Process Flow
 
-## 5. Developer Productivity
+## 5. 개발자 Productivity (Developer Productivity, DP)
 
 - Code generation
 - Refactoring
@@ -113,7 +113,7 @@ Suggestion to developer
 - Security improvement
 - Performance optimization
 
-## 6. Privacy / Exclusion / Safeguard
+## 6. 개인정보 보호 / Exclusion / Safeguard (Privacy / Exclusion / Safeguard, PES)
 
 - Content Exclusion 구성과 한계
 - Editor Settings
@@ -121,7 +121,7 @@ Suggestion to developer
 - Suggestions matching public code filtering
 - Suggestion / Exclusion Troubleshooting
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 핵심 목표 | 결과물 |
 |---:|---|---|
@@ -143,7 +143,7 @@ Suggestion to developer
 6. Testing에서 Copilot이 도울 수 있는 것과 사람이 책임져야 하는 것은 무엇인가?
 7. Content Exclusion은 무엇을 보장하고 무엇을 보장하지 않는가?
 
-## Version Rule
+## 버전 규칙 (Version Rule, VR)
 
 이 과정은 **Microsoft Learn GH-300 Study Guide의 2026-08-07 적용 범위**를 기준으로 합니다. 시험 전날 최신 Study Guide의 `Skills measured`와 `Change log`를 다시 확인합니다.
 

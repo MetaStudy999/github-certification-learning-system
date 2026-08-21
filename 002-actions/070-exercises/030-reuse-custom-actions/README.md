@@ -1,4 +1,4 @@
-# 030 Reuse & Custom Actions Exercises
+# 030 재사용 와 사용자 정의 액션 (Reuse & Custom Actions, RCA) — 연습문제 (Exercises, EXR)
 
 ## 목표
 

@@ -1,4 +1,4 @@
-# GH-500 Confusion Matrix
+# GH-500 Confusion 매트릭스 (GH-500 Confusion Matrix, GH-500CM)
 
 | A | B | 핵심 차이 |
 |---|---|---|

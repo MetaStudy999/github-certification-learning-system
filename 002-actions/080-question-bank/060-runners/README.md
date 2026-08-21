@@ -1,4 +1,4 @@
-# 060 Runners — Q051–Q060
+# 060 러너 — Q051–Q060 (060 Runners — Q051–Q060, RQ051Q060)
 
 ## Q051
 GitHub-hosted Runner의 특징으로 가장 적절한 것은?

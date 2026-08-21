@@ -6,7 +6,7 @@
 
 각 Exercise는 **기능 이름 → 선택 이유 → 대안이 덜 적절한 이유 → 관련 Lab** 순서로 답합니다.
 
-## Exercise Areas
+## 연습문제 영역 (Exercise Areas, EA)
 
 | 코드 | 영역 | 핵심 과제 |
 |---:|---|---|
@@ -17,7 +17,7 @@
 | 050 | [Security & Optimization](./050-security-optimization/README.md) | Permission, Secret, OIDC, Pinning, Cache |
 | 060 | [Troubleshooting](./060-troubleshooting/README.md) | Log 분석, 실패 원인, 재실행 전략 |
 
-## Recommended Order
+## Recommended 순서 (Recommended Order, RO)
 
 ```text
 010 Workflow Authoring

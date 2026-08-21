@@ -9,7 +9,7 @@
 | 005 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | NOT STARTED |
 | 006 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | NOT STARTED |
 
-## Evidence Source
+## Evidence 소스 (Evidence Source, ES)
 
 각 과정의 Evidence는 다음 경로를 기준으로 합니다.
 

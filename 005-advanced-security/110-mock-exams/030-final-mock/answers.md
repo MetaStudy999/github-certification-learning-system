@@ -1,4 +1,4 @@
-# GH-500 Final Mock — Answers
+# GH-500 Final Mock — 정답 (GH-500 Final Mock — Answers, GH-500FMA)
 
 | Q | Ans | Q | Ans | Q | Ans | Q | Ans |
 |---:|:---:|---:|:---:|---:|:---:|---:|:---:|

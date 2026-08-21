@@ -1,6 +1,6 @@
-# 020 Exam Readiness Gate — GH-300
+# 020 시험 Readiness Gate — GH-300 (020 Exam Readiness Gate — GH-300, ERGGH-300)
 
-## Gate A — Official Scope
+## Gate A — Official 범위 (Gate A — Official Scope, GAOS)
 
 - [ ] Microsoft Learn GH-300 Study Guide 열기
 - [ ] `Skills measured as of` 날짜 확인
@@ -63,7 +63,7 @@
 - [ ] 반복 Critical Error 0개
 - [ ] STALE Error 0개
 
-## Final Decision
+## Final 의사결정 (Final Decision, FD)
 
 ```text
 Gate A PASS

@@ -1,4 +1,4 @@
-# 010 Exercise — Git & GitHub Basics
+# 010 연습문제 (Exercise, EXR) — Git 와 GitHub 기초 (Git & GitHub Basics, GGB)
 
 ## 목표
 

@@ -1,4 +1,4 @@
-# 010 Project Rubric — AI-Assisted Development Project
+# 010 프로젝트 Rubric — AI-보조 개발 프로젝트 (010 Project Rubric — AI-Assisted Development Project, PRADP)
 
 총점: **100점**
 
@@ -54,7 +54,7 @@
 | Documentation이 실제 코드와 불일치 | -5 |
 | Privacy / Responsible AI Review 없음 | -10 |
 
-## Self-Review
+## Self-리뷰 (Self-Review, S)
 
 ```text
 Score:

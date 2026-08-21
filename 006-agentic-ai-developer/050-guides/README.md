@@ -13,7 +13,7 @@
 → 어디서 사람이 개입할 것인가?
 ```
 
-## Agent Design Card
+## 에이전트 설계 카드 (Agent Design Card, ADC)
 
 ```text
 Goal:

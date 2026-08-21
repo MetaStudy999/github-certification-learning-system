@@ -54,13 +54,13 @@ https://learn.microsoft.com/en-us/credentials/certifications/github-administrati
 
 > 언어는 GitHub Learn 표시와 차이가 있을 수 있으므로 실제 예약 화면을 최종 확인합니다.
 
-## 030 — GitHub Enterprise Docs
+## 030 — GitHub 엔터프라이즈 Docs (030 — GitHub Enterprise Docs, GED)
 
-### GitHub Enterprise Cloud
+### GitHub 엔터프라이즈 Cloud (GitHub Enterprise Cloud, GEC)
 
 https://docs.github.com/en/enterprise-cloud@latest/admin
 
-### GitHub Enterprise Server
+### GitHub 엔터프라이즈 서버 (GitHub Enterprise Server, GES)
 
 https://docs.github.com/en/enterprise-server@latest/admin
 
@@ -79,7 +79,7 @@ https://docs.github.com/en/enterprise-server@latest/admin
 - Billing / License / Usage
 - GitHub Support / Diagnostics
 
-## 040 — Official Learning
+## 040 — Official 학습 (040 — Official Learning, OL)
 
 Microsoft Learn의 GitHub Administration Part 1/2 학습 경로를 공식 Study Guide의 Study Resources에서 연결하고 있습니다.
 
@@ -93,7 +93,7 @@ Module
 → QBank 연결
 ```
 
-## Official Source Record Template
+## Official 소스 Record Template (Official Source Record Template, OSRT)
 
 ```text
 Official URL:
@@ -108,7 +108,7 @@ Change noticed:
 Next check:
 ```
 
-## Stale Content Rule
+## Stale 콘텐츠 규칙 (Stale Content Rule, SCR)
 
 다음 자료는 특히 주의합니다.
 

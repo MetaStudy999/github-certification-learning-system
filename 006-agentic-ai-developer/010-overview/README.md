@@ -15,7 +15,7 @@
 
 GH-600은 단순 Prompt 작성 시험이 아니라 **Agent가 SDLC에서 어떻게 안전하고 검증 가능하게 작동하도록 설계·감독하는가**를 평가합니다.
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 학습 목표 |
 |---:|---|

@@ -1,10 +1,10 @@
-# Lab 110 — Enterprise Rollout & Automation
+# 실습 (Lab, LAB) 110 — 엔터프라이즈 도입과 자동화 (Enterprise Rollout & Automation, ERA)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 GitHub Security Suites를 다수 Organization/Repository에 일관되게 배포하고 자동화하는 운영 방식을 설계합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 1. Pilot Organization을 선정해 단계적 Rollout 계획을 작성합니다.
 2. Default Configuration과 Repository별 예외의 관계를 설계합니다.
@@ -12,7 +12,7 @@ GitHub Security Suites를 다수 Organization/Repository에 일관되게 배포�
 4. GHEC와 GHES 간 Feature Availability 차이를 확인하는 절차를 작성합니다.
 5. Rollout Success Metric을 `Coverage / Alert Volume / Remediation Time / Bypass Rate` 등으로 설계합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Enterprise-scale Rollout 흐름 설명 가능
 - [ ] Default Configuration과 Exception 설명 가능

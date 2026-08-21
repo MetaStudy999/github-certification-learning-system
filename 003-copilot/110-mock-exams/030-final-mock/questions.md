@@ -1,4 +1,4 @@
-# GH-300 Final Mock — Questions
+# GH-300 Final Mock — 질문 (GH-300 Final Mock — Questions, GH-300FMQ)
 
 **40문항 / 자체 제작 / 최종 Gate용**  
 목표: **90% 이상 권장**. 정답은 마지막에 [`answers.md`](./answers.md)에서 확인합니다.

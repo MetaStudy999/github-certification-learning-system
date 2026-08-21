@@ -3,7 +3,7 @@
 **Verification date:** 2026-08-21  
 **Course:** GH-300 GitHub Copilot
 
-## 1. Official Scope Baseline
+## 1. Official 범위 Baseline (Official Scope Baseline, OSB)
 
 - [x] Microsoft Learn GH-300 Study Guide 확인
 - [x] `Skills measured as of 2026-08-07` 기준 반영
@@ -11,7 +11,7 @@
 - [x] 이전 7개 Domain 비중을 현재 시험 기준으로 사용하지 않도록 수정
 - [x] GitHub Learn과 Microsoft Learn의 표시 차이가 있을 경우 Microsoft Learn 최신 Study Guide 우선 원칙 기록
 
-## 2. Standard Course Structure
+## 2. Standard 과정 Structure (Standard Course Structure, SCS)
 
 - [x] 010 Overview
 - [x] 020 Terms
@@ -29,7 +29,7 @@
 - [x] 140 Resources
 - [x] 150 Evidence
 
-## 3. Current-Feature Coverage
+## 3. 현재-기능 Coverage (Current-Feature Coverage, CC)
 
 - [x] IDE / Inline Suggestion / Chat
 - [x] Copilot Edits
@@ -74,7 +74,7 @@
 
 **총 수행형 Exercise: 60개**
 
-## 6. Question Bank
+## 6. 질문 Bank (Question Bank, QB)
 
 - [x] Q001–Q010 Responsible AI
 - [x] Q011–Q020 IDE / CLI
@@ -103,7 +103,7 @@ Question Bank 100
 = 자체 학습 문제 총 220문제
 ```
 
-## 8. Review / Project / Evidence
+## 8. 리뷰 / 프로젝트 / Evidence (Review / Project / Evidence, RPE)
 
 - [x] Final Checklist
 - [x] Confusion Matrix
@@ -118,7 +118,7 @@ Question Bank 100
 - [x] Score Log
 - [x] Prompt / Lab / Exam / Reflection Evidence Templates
 
-## 9. Content Status Decision
+## 9. 콘텐츠 상태 의사결정 (Content Status Decision, CSD)
 
 ```text
 Course content structure: PASS
@@ -141,7 +141,7 @@ Progress / Evidence: PASS
 
 > `CONTENT-READY`는 학습 자료가 준비되었다는 뜻입니다. 사용자의 실제 GH-300 학습·실습·점수 Gate를 통과했다는 뜻이 아닙니다.
 
-## 10. Maintenance Rule
+## 10. 유지관리 규칙 (Maintenance Rule, MR)
 
 다음 경우 `MAINTENANCE` 또는 재검증으로 전환합니다.
 

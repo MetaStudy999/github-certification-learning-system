@@ -1,4 +1,4 @@
-# 030 Agent & Advanced Features — Q021–Q030
+# 030 에이전트 와 고급 기능 — Q021–Q030 (030 Agent & Advanced Features — Q021–Q030, AAFQ021Q030)
 
 > Skill Area: **Use GitHub Copilot features**
 

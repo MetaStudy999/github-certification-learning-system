@@ -122,7 +122,7 @@ D. 실습과 공식 문서를 모두 생략
 **A** — 이 Repository의 Exam Readiness Gate에 해당하는 통합 준비 방식입니다.
 </details>
 
-## 100-Question Gate
+## 100-질문 Gate (100-Question Gate, QG)
 
 - [ ] Q001–Q100 1회 완료
 - [ ] 80/100 이상

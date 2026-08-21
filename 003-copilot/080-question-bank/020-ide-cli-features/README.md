@@ -1,4 +1,4 @@
-# 020 IDE & CLI Features — Q011–Q020
+# 020 IDE 와 CLI 기능 — Q011–Q020 (020 IDE & CLI Features — Q011–Q020, IDECLIFQ011Q)
 
 > Skill Area: **Use GitHub Copilot features**
 

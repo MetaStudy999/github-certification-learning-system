@@ -2,7 +2,7 @@
 
 > 실제 시험 문항을 복제하지 않습니다. **July 2026 GH-100 Skills Measured**를 기반으로 Enterprise Scenario를 직접 설계·판단합니다.
 
-## Exercise Areas
+## 연습문제 영역 (Exercise Areas, EA)
 
 | 코드 | 영역 | 수행형 과제 |
 |---:|---|---:|

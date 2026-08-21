@@ -1,6 +1,6 @@
 # 100 Projects — Foundations 통합 프로젝트
 
-## Project 001 — GitHub Collaboration Mini Project
+## 프로젝트 001 — GitHub 협업 Mini 프로젝트 (Project 001 — GitHub Collaboration Mini Project, PGCMP)
 
 ### 목표
 
@@ -39,7 +39,7 @@ Issue
 → Issue Close
 ```
 
-## Phase 1 — Repository Bootstrap
+## 단계 (Phase, PH) 1 — 저장소 Bootstrap (Repository Bootstrap, RB)
 
 - [ ] Repository 생성
 - [ ] README 작성
@@ -48,7 +48,7 @@ Issue
 - [ ] SECURITY 작성
 - [ ] CODEOWNERS 목적 확인
 
-## Phase 2 — Issue Driven Work
+## 단계 (Phase, PH) 2 — 이슈 Driven Work (Issue Driven Work, IDW)
 
 예시 Issue:
 
@@ -64,7 +64,7 @@ Goal:
 - [ ] Label 적용
 - [ ] Assignee 지정
 
-## Phase 3 — Branch & Commit
+## 단계 (Phase, PH) 3 — 브랜치 와 커밋 (Branch & Commit, BC)
 
 예시 Branch:
 
@@ -76,7 +76,7 @@ feature/add-glossary
 - [ ] 최소 2개의 의미 있는 Commit 작성
 - [ ] Remote Push
 
-## Phase 4 — Pull Request
+## 단계 (Phase, PH) 4 — 풀 리퀘스트 (Pull Request, PR)
 
 PR 본문에는 다음을 적습니다.
 
@@ -92,7 +92,7 @@ Linked issue
 - [ ] Review 수행
 - [ ] Merge
 
-## Phase 5 — Project Management
+## 단계 (Phase, PH) 5 — 프로젝트 Management (Project Management, PM)
 
 - [ ] GitHub Projects에서 Item 추적
 - [ ] Status Field 사용

@@ -1,4 +1,4 @@
-# GH-300 Mock 02 — Questions
+# GH-300 Mock 02 — 질문 (GH-300 Mock 02 — Questions, GH-300MQ)
 
 **40문항 / 자체 제작 / 응시 Gate용**  
 정답은 마지막에 [`answers.md`](./answers.md)에서 확인합니다.

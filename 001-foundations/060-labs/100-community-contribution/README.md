@@ -1,8 +1,8 @@
-# Lab 100 — Community Contribution
+# 실습 (Lab, LAB) 100 — 커뮤니티 기여 (Community Contribution, CC)
 
 > **Fork → Clone → Branch → Commit → Push → Pull Request**
 
-## 000. Quick Start
+## 000. 빠른 시작 (Quick Start, QS)
 
 이 Lab에서는 다른 사람의 Repository에 직접 Push 권한이 없더라도 Fork를 이용해 변경을 제안하는 오픈소스 기여 흐름을 이해합니다.
 
@@ -41,7 +41,7 @@ Original Repository (upstream)
       Original Repository
 ```
 
-### Fork vs Clone
+### Fork와 Clone 비교 (Fork vs Clone, FC)
 
 | 구분 | Fork | Clone |
 |---|---|---|

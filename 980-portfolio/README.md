@@ -9,7 +9,7 @@
 3. 각 과정의 `100-projects/`와 `150-evidence/`를 연결합니다.
 4. 6개 과정을 통합한 [`090-final-capstone.md`](./090-final-capstone.md)를 최종 목표로 사용합니다.
 
-## Cumulative Capability Flow
+## Cumulative Capability 흐름 (Cumulative Capability Flow, CCF)
 
 ```text
 001 Foundations

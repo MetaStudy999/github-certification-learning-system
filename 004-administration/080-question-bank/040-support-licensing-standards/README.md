@@ -1,4 +1,4 @@
-# 040 Support, Licensing, Standards — Q031–Q040
+# 040 Support, Licensing, 표준 — Q031–Q040 (040 Support, Licensing, Standards — Q031–Q040, SLSQ031Q040)
 
 ## Q031
 Enterprise Support에 문의하기 전 가장 적절한 준비는?

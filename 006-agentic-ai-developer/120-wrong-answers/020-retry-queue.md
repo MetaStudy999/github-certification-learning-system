@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | Example | Tool Use | TOOL | ⬜ | ⬜ | ⬜ | OPEN |
 
-## Status
+## 상태 (Status, S)
 
 - `OPEN` — 복습 전
 - `REVIEWED` — 원리 재학습 완료

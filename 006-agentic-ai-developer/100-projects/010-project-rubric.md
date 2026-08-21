@@ -1,4 +1,4 @@
-# Agentic SDLC Design Project — Rubric
+# Agentic SDLC 설계 프로젝트 — Rubric (Agentic SDLC Design Project — Rubric, ASDLCDPR)
 
 | 영역 | 배점 | 평가 기준 |
 |---|---:|---|

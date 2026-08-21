@@ -1,4 +1,4 @@
-# 010 Responsible AI — Q001–Q010
+# 010 책임 있는 AI — Q001–Q010 (010 Responsible AI — Q001–Q010, RAIQ001Q010)
 
 > Skill Area: **Use GitHub Copilot responsibly**
 

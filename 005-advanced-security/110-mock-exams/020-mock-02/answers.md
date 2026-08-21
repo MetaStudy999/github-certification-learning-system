@@ -1,4 +1,4 @@
-# GH-500 Mock Exam 02 — Answers
+# GH-500 Mock 시험 02 — 정답 (GH-500 Mock Exam 02 — Answers, GH-500MEA)
 
 | Q | Ans | Q | Ans | Q | Ans | Q | Ans |
 |---:|:---:|---:|:---:|---:|:---:|---:|:---:|
@@ -13,7 +13,7 @@
 | 9 | A | 19 | A | 29 | A | 39 | A |
 | 10 | A | 20 | B | 30 | A | 40 | A |
 
-## Domain Review
+## 영역 리뷰 (Domain Review, DR)
 
 - 1–8: Security Suites / Secret Protection
 - 9–16: Supply Chain Security

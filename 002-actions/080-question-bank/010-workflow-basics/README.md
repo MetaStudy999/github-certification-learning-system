@@ -1,4 +1,4 @@
-# 010 Workflow Basics — Q001–Q010
+# 010 워크플로 기초 — Q001–Q010 (010 Workflow Basics — Q001–Q010, WBQ001Q010)
 
 ## Q001
 GitHub Actions에서 자동화 전체 흐름을 정의하는 단위는?

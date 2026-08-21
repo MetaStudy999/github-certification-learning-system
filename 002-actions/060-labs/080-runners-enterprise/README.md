@@ -1,10 +1,10 @@
-# Lab 080 — Runners & Enterprise
+# 실습 (Lab, LAB) 080 — 러너와 엔터프라이즈 (Runners & Enterprise, RE)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 GitHub-hosted Runner와 Self-hosted Runner의 차이와 Enterprise 운영 관점을 이해합니다.
 
-## Compare
+## 비교 (Compare, CMP)
 
 | 항목 | GitHub-hosted | Self-hosted |
 |---|---|---|
@@ -14,7 +14,7 @@ GitHub-hosted Runner와 Self-hosted Runner의 차이와 Enterprise 운영 관점
 | 네트워크 | 표준 Cloud 환경 | 내부망 연계 가능 |
 | 책임 | 상대적으로 적음 | 보안·업데이트 책임 증가 |
 
-## Enterprise Topics
+## 엔터프라이즈 주제 (Enterprise Topics, ET)
 
 - Runner Group
 - Repository / Organization 접근 범위
@@ -23,7 +23,7 @@ GitHub-hosted Runner와 Self-hosted Runner의 차이와 Enterprise 운영 관점
 - Runner Label
 - Scale set / autoscaling 개념
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Self-hosted Runner를 선택해야 하는 대표 이유를 설명한다.
 - [ ] Self-hosted Runner의 보안 책임을 설명한다.

@@ -1,4 +1,4 @@
-# GH-100 Final Mock — Questions
+# GH-100 Final Mock — 질문 (GH-100 Final Mock — Questions, GH-100FMQ)
 
 > 제한시간 권장: 60분 / 40문항. 실제 시험 직전 최종 Gate용입니다.
 

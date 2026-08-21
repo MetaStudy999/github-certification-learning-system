@@ -1,4 +1,4 @@
-# QBank 100 — Mixed Readiness Gate
+# 문제은행 (Question Bank, QB) 100 — Mixed Readiness Gate
 
 ## Q091–Q100
 
@@ -13,7 +13,7 @@
 **Q099.** Secure SDLC의 가장 적절한 흐름은? A. Prevent → Detect → Triage → Remediate → Verify → Improve B. Ignore → Delete C. Merge → Forget D. Fork → Star  
 **Q100.** GH-500 시험 준비 완료에 가장 가까운 상태는? A. 공식 범위 이해 + Labs + QBank + Mock + 오답 재검증 B. 용어만 암기 C. 실제 시험문제 수집 D. 문서 제목만 읽음
 
-## Answers
+## 정답 (Answers, ANS)
 
 091 A · 092 A · 093 A · 094 A · 095 A · 096 A · 097 A · 098 A · 099 A · 100 A
 

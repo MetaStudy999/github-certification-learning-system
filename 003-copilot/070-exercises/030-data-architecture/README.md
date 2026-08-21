@@ -19,10 +19,10 @@ Filtering / Proxy
 Suggestion Display
 ```
 
-### E030-02 — Context Gathering
+### E030-02 — 컨텍스트 Gathering (Context Gathering, CG)
 IDE에서 Copilot이 유용한 응답을 만들기 위해 참고할 수 있는 Context의 예를 5개 작성하고, 불필요한 Context가 왜 문제가 될 수 있는지 설명하세요.
 
-### E030-03 — Prompt Building
+### E030-03 — 프롬프트 Building (Prompt Building, PB)
 `사용자가 입력한 문장 = 모델에 전달되는 전체 Prompt`라고 단정하면 왜 부정확한지 설명하세요.
 
 ### E030-04 — Proxy / Filtering
@@ -31,10 +31,10 @@ Prompt 또는 Response가 서비스 계층에서 Filtering을 거칠 수 있는 
 ### E030-05 — Post-processing
 LLM이 Response를 생성한 직후 곧바로 정답으로 확정되지 않는 이유를 적고 Post-processing의 목적을 설명하세요.
 
-### E030-06 — Matching Public Code
+### E030-06 — Matching Public 코드 (Matching Public Code, MPC)
 공개 코드와 일치하는 제안을 다루는 Safeguard가 왜 필요한지 작성하세요.
 
-### E030-07 — Context Window
+### E030-07 — 컨텍스트 Window (Context Window, CW)
 Context Window가 제한되어 있을 때 지나치게 많은 파일을 제공하는 것이 왜 도움이 되지 않을 수 있는지 설명하세요.
 
 ### E030-08 — LLM Limitations
@@ -46,7 +46,7 @@ Context Window가 제한되어 있을 때 지나치게 많은 파일을 제공�
 - Pattern bias
 - Weak calculation/reasoning reliability
 
-### E030-09 — Data Handling
+### E030-09 — 데이터 처리 (Data Handling, DH)
 개인용/조직용 Plan이나 기능에 따라 데이터 처리 정책이 달라질 수 있습니다. 시험 직전 어떤 공식 자료를 확인해야 하는지 기록하세요.
 
 ### E030-10 — Architecture 설명

@@ -1,6 +1,6 @@
 # 100 Projects — GitHub 고급 보안 (GitHub Advanced Security, GHAS / GH-500) 통합 프로젝트
 
-## Project 001 — Secure SDLC Integration Project
+## 프로젝트 001 — 보안 SDLC 통합 프로젝트 (Project 001 — Secure SDLC Integration Project, PSSDLCIP)
 
 ### 목표
 
@@ -32,7 +32,7 @@ Code
 - [ ] Organization / Enterprise Rollout 정책
 - [ ] Evidence / Verification
 
-## Project Files
+## 프로젝트 파일 (Project Files, PF)
 
 - [`010-project-rubric.md`](./010-project-rubric.md)
 - [`020-evidence-checklist.md`](./020-evidence-checklist.md)

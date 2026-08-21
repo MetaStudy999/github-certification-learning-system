@@ -1,4 +1,4 @@
-# 020 Workflow Evidence Template
+# 020 워크플로 Evidence Template (020 Workflow Evidence Template, WET)
 
 ```text
 Date:
@@ -20,7 +20,7 @@ What I learned:
 Next action:
 ```
 
-## Security Check
+## 보안 Check (Security Check, SC)
 
 - [ ] Secret 값이 기록되지 않음
 - [ ] Token 권한이 필요 이상으로 넓지 않음

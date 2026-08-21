@@ -1,6 +1,6 @@
 # 100 Projects — GitHub 에이전틱 AI 개발자 (GitHub Agentic AI Developer, GHAI / GH-600) 통합 프로젝트
 
-## Project 001 — Agentic SDLC Design Project
+## 프로젝트 001 — Agentic SDLC 설계 프로젝트 (Project 001 — Agentic SDLC Design Project, PASDLCDP)
 
 ### 목표
 
@@ -19,7 +19,7 @@ Requirement
 → Human Review
 ```
 
-## Required Evidence
+## 필수 증빙 (Required Evidence, RE)
 
 - [ ] Agent Design Card
 - [ ] Plan Artifact

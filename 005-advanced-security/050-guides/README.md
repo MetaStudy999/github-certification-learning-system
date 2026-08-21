@@ -13,15 +13,15 @@
 
 ## 3개 핵심 Suite를 먼저 구분
 
-### Secret Protection
+### 비밀 보호 (Secret Protection, SP)
 
 Credential·Token·Key가 코드에 노출되는 위험을 다룹니다.
 
-### Supply Chain Security
+### 공급망 보안 (Supply Chain Security, SCS)
 
 Dependency와 Package를 통해 들어오는 취약성·라이선스·구성요소 위험을 다룹니다.
 
-### Code Security
+### 코드 보안 (Code Security, CS)
 
 Source Code 자체의 취약한 Data Flow와 Pattern을 분석합니다.
 

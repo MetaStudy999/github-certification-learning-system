@@ -1,4 +1,4 @@
-# QBank 070 — Error Analysis / Tuning
+# 문제은행 (Question Bank, QB) 070 — 오류 분석 / 조정 (Error Analysis / Tuning, EAT)
 
 ## Q061–Q070
 
@@ -13,7 +13,7 @@
 **Q069.** Error Taxonomy의 장점은? A 반복 실패 패턴을 체계적으로 개선 B 모든 오류 제거 보장 C Tool 자동 추가 D Memory 삭제  
 **Q070.** Tuning 완료의 증거는? A 동일 기준 재평가에서 개선 확인 B 설정 변경만 C 로그 삭제 D Agent 이름 변경
 
-## Answers
+## 정답 (Answers, ANS)
 
 061 A · 062 A · 063 A · 064 A · 065 A · 066 A · 067 A · 068 A · 069 A · 070 A
 

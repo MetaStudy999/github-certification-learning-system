@@ -1,4 +1,4 @@
-# 020 Confusion Matrix — GH-300
+# 020 Confusion 매트릭스 — GH-300 (020 Confusion Matrix — GH-300, CMGH-300)
 
 시험 직전에는 정의를 따로 외우기보다 **서로 비슷한 기능의 선택 기준**을 비교합니다.
 

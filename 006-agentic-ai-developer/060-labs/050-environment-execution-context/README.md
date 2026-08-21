@@ -1,10 +1,10 @@
-# Lab 050 — Environment & Execution Context
+# 실습 (Lab, LAB) 050 — 환경과 실행 컨텍스트 (Environment & Execution Context, EEC)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Agent가 어떤 환경과 Scope에서 작동하는지 명시적으로 설계합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 아래 3개 Context를 비교합니다.
 
@@ -21,7 +21,7 @@ Agent가 어떤 환경과 Scope에서 작동하는지 명시적으로 설계합�
 - 결과를 어떤 Artifact로 남길 것인가?
 - 환경별 제약이 다를 때 Agent는 어떻게 중단·Escalate해야 하는가?
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Execution Context와 Tool Permission을 구분 가능
 - [ ] Repository/Branch/CI Scope 차이 설명 가능

@@ -1,4 +1,4 @@
-# GH-600 Mock Exam 01 — Questions
+# GH-600 Mock 시험 01 — 질문 (GH-600 Mock Exam 01 — Questions, GH-600MEQ)
 
 > 자체 제작 40문항. 실제 시험문제를 복제하지 않습니다.
 

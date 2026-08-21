@@ -1,4 +1,4 @@
-# 040 Runners & Enterprise Exercises
+# 040 러너와 엔터프라이즈 (Runners & Enterprise, RE) — 연습문제 (Exercises, EXR)
 
 ## 목표
 

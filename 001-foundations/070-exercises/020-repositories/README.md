@@ -1,4 +1,4 @@
-# 020 Exercise — Repositories
+# 020 연습문제 (Exercise, EXR) — 저장소 (Repositories, R)
 
 ## 목표
 
@@ -17,7 +17,7 @@ Repository 생성·복제·문서화·공개 범위와 Fork/Clone의 차이를 �
 9. 보안 취약점을 공개 Issue가 아니라 정해진 신고 절차로 제보하도록 안내하려면 어떤 문서가 필요하나요?
 10. 특정 디렉터리 변경 시 Review 책임자를 지정하는 데 사용할 수 있는 파일은 무엇인가요?
 
-## Scenario
+## 시나리오 (Scenario, SCN)
 
 다음 상황에 적합한 선택을 적으세요.
 

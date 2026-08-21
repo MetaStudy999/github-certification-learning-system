@@ -2,7 +2,7 @@
 
 시험 직전 새로운 범위를 추가하지 않고, 이미 학습한 내용을 빠르게 확인합니다.
 
-## A. Domain Recall
+## A. 영역 Recall (Domain Recall, DR)
 
 - [ ] 7개 Domain을 순서대로 말할 수 있다.
 - [ ] 가장 비중이 큰 Git/GitHub Basics 영역을 설명할 수 있다.
@@ -22,7 +22,7 @@
 - [ ] Copilot vs Actions
 - [ ] Open Source vs InnerSource
 
-## C. GitHub Flow
+## C. GitHub 플로 (GitHub Flow, GF)
 
 자료 없이 다음 순서를 설명합니다.
 
@@ -44,7 +44,7 @@ Issue → Branch → Commit → Push → Pull Request → Review/Checks → Merg
 
 각 파일의 목적을 10초 안에 설명합니다.
 
-## E. Modern Development
+## E. 현대적 개발 (Modern Development, MD)
 
 - [ ] Actions = Workflow 자동화
 - [ ] Copilot = AI 개발 보조
@@ -52,7 +52,7 @@ Issue → Branch → Commit → Push → Pull Request → Review/Checks → Merg
 - [ ] Projects = 작업 관리
 - [ ] Pages = 정적 사이트
 
-## F. Security / Administration
+## F. 보안 / 관리 (Security / Administration, SA)
 
 - [ ] 2FA / Passkey
 - [ ] Repository Visibility
@@ -61,7 +61,7 @@ Issue → Branch → Commit → Push → Pull Request → Review/Checks → Merg
 - [ ] Role / Permission
 - [ ] Enterprise Managed Users (EMU)
 
-## G. Community
+## G. 커뮤니티 (Community, C)
 
 - [ ] Fork
 - [ ] Open Source
@@ -70,7 +70,7 @@ Issue → Branch → Commit → Push → Pull Request → Review/Checks → Merg
 - [ ] Marketplace
 - [ ] Star / Watch / Follow
 
-## H. Exam Gate
+## H. 시험 Gate (Exam Gate, EG)
 
 - [ ] Question Bank 50문제 80% 이상
 - [ ] Mock 01 완료

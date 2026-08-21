@@ -1,4 +1,4 @@
-# GH-600 Final Mock — Answers
+# GH-600 Final Mock — 정답 (GH-600 Final Mock — Answers, GH-600FMA)
 
 | Q | Ans | Q | Ans | Q | Ans | Q | Ans |
 |---:|:---:|---:|:---:|---:|:---:|---:|:---:|

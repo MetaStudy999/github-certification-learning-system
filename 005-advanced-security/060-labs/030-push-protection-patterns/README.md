@@ -1,10 +1,10 @@
-# Lab 030 — Push Protection & Custom Patterns
+# 실습 (Lab, LAB) 030 — 푸시 보호와 사용자 정의 패턴 (Push Protection & Custom Patterns, PPCP)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Secret이 Repository에 들어오기 전에 차단하는 Prevention-first 흐름을 이해합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 1. Push Protection의 동작 시점을 설명합니다.
 2. 학습용 비유효 Pattern으로 차단 시나리오를 설계합니다.
@@ -12,7 +12,7 @@ Secret이 Repository에 들어오기 전에 차단하는 Prevention-first 흐름
 4. 조직 고유 Credential 형식에 Custom Secret Pattern이 필요한 이유를 설명합니다.
 5. False Positive를 줄이면서 탐지 범위를 유지하는 방법을 정리합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Push Protection과 Secret Alert 차이 설명 가능
 - [ ] Bypass Governance 설명 가능

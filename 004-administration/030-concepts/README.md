@@ -1,6 +1,6 @@
 # 030 Concepts — GitHub 관리 (GitHub Administration, GHADM / GH-100) 핵심 개념
 
-## 1. Enterprise Hierarchy
+## 1. 엔터프라이즈 Hierarchy (Enterprise Hierarchy, EH)
 
 ```text
 Enterprise
@@ -16,7 +16,7 @@ User / App / Workflow
 
 관리자는 각 계층에서 **누가, 무엇에, 어떤 권한으로, 어떤 정책 아래 접근하는지**를 설계합니다.
 
-## 2. Authentication vs Authorization
+## 2. Authentication 비교 Authorization (Authentication vs Authorization, AA)
 
 ```text
 Authentication (AuthN)
@@ -33,7 +33,7 @@ SAML SSO → 기업 Identity로 인증
 Role / Permission → Repository에서 가능한 작업 결정
 ```
 
-## 3. SAML / SCIM / Team Sync
+## 3. SAML / SCIM / 팀 Sync (SAML / SCIM / Team Sync, SAMLSCIMTS)
 
 | 기능 | 중심 질문 | 목적 |
 |---|---|---|
@@ -43,9 +43,9 @@ Role / Permission → Repository에서 가능한 작업 결정
 
 같은 Identity 영역이지만 해결하는 문제가 다릅니다.
 
-## 4. EMU vs Personal Accounts
+## 4. EMU 비교 Personal Accounts (EMU vs Personal Accounts, EMUPA)
 
-### Enterprise Managed Users
+### 엔터프라이즈 Managed Users (Enterprise Managed Users, EMU)
 
 ```text
 Enterprise / IdP 중심
@@ -63,7 +63,7 @@ Enterprise / IdP 중심
 
 배포 모델 선택은 Identity 전략과 연결됩니다.
 
-## 5. Deployment Decision
+## 5. 배포 의사결정 (Deployment Decision, DD)
 
 ```text
 Cloud 운영 선호?
@@ -77,7 +77,7 @@ Cloud 운영 선호?
 
 실제 선택은 Security, Compliance, Network, Operations, Data Location, Identity 요구사항을 종합합니다.
 
-## 6. Policy vs Ruleset
+## 6. 정책 비교 Ruleset (Policy vs Ruleset, PR)
 
 ```text
 Policy
@@ -89,7 +89,7 @@ Ruleset
 
 정책은 Governance 방향을, Ruleset은 구체적인 Repository 규칙 집행을 담당한다고 이해하면 쉽습니다.
 
-## 7. Secure Software Development
+## 7. 보안 Software 개발 (Secure Software Development, SSD)
 
 ```text
 Governance Policy
@@ -117,7 +117,7 @@ Audit / Reporting / Compliance
 
 관리자는 `어떤 Integration을 허용할 것인가?`, `어떤 권한이 필요한가?`, `정책으로 승인/거부해야 하는가?`를 판단합니다.
 
-## 9. Enterprise Actions Governance
+## 9. 엔터프라이즈 액션 거버넌스 (Enterprise Actions Governance, EAG)
 
 ```text
 Workflow Reuse
@@ -135,7 +135,7 @@ Monitoring / Troubleshooting
 
 Self-hosted Runner는 내부 Network 접근에 유리할 수 있지만 **OS Patch, Isolation, Credential, Capacity, Monitoring 책임**이 조직에 생깁니다.
 
-## 10. Admin vs GitHub Support
+## 10. 관리 비교 GitHub 지원 (Admin vs GitHub Support, AGS)
 
 ### Admin이 먼저 처리
 

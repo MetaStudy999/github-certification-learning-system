@@ -1,4 +1,4 @@
-# 080 Testing / Security / Performance — Q071–Q080
+# 080 테스트 / 보안 / Performance — Q071–Q080 (080 Testing / Security / Performance — Q071–Q080, TSPQ071Q080)
 
 > Skill Area: **Improve developer productivity with GitHub Copilot**
 

@@ -2,7 +2,7 @@
 
 Foundations 프로젝트를 `CLEAR`로 판정하려면 결과물이 재현 가능하게 남아 있어야 합니다.
 
-## Repository Evidence
+## 저장소 Evidence (Repository Evidence, RE)
 
 - [ ] Repository URL
 - [ ] README.md
@@ -11,7 +11,7 @@ Foundations 프로젝트를 `CLEAR`로 판정하려면 결과물이 재현 가�
 - [ ] SECURITY.md
 - [ ] `.github/CODEOWNERS`
 
-## Collaboration Evidence
+## 협업 Evidence (Collaboration Evidence, CE)
 
 - [ ] Issue URL
 - [ ] Label 적용 화면 또는 기록
@@ -23,7 +23,7 @@ Foundations 프로젝트를 `CLEAR`로 판정하려면 결과물이 재현 가�
 - [ ] Merge 기록
 - [ ] 연결 Issue Close 확인
 
-## Project Evidence
+## 프로젝트 Evidence (Project Evidence, PE)
 
 - [ ] GitHub Projects Item
 - [ ] Status Field 사용

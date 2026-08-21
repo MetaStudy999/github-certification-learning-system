@@ -1,4 +1,4 @@
-# 040 Exercise — Modern Development & Projects
+# 040 연습문제 (Exercise, EXR) — 현대적 개발 와 프로젝트 (Modern Development & Projects, MDP)
 
 ## 목표
 
@@ -22,7 +22,7 @@ GitHub Actions, Copilot, Codespaces, Projects의 목적을 구분하고 상황�
    - Cloud 개발환경
    - 작업 진행률 관리
 
-## Scenario
+## 시나리오 (Scenario, SCN)
 
 > 신규 팀원이 프로젝트에 참여합니다. 개발환경 설정 시간을 줄이고, PR이 올라오면 자동으로 Test하며, 전체 작업 진행률을 한 화면에서 보고 싶습니다.
 

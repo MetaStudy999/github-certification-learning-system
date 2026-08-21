@@ -1,4 +1,4 @@
-# QBank 070 — CodeQL / SARIF / Setup
+# 문제은행 (Question Bank, QB) 070 — CodeQL / SARIF / 설정 (CodeQL / SARIF / Setup, CSARIFS)
 
 ## Q061–Q070
 
@@ -13,7 +13,7 @@
 **Q069.** 정적 분석이 모든 보안 문제를 보장해서 찾는다고 볼 수 있는가? A. 아니다, 한계와 보완 통제가 있다 B. 항상 100% 찾는다 C. Secret만 찾는다 D. 의존성만 찾는다  
 **Q070.** CodeQL 학습에서 가장 중요한 시험 관점은? A. Setup 선택·Alert 해석·운영 통합 B. Query 이름만 암기 C. 실제 취약점 악용 D. 모든 설정 우회
 
-## Answers
+## 정답 (Answers, ANS)
 
 061 A · 062 A · 063 A · 064 A · 065 A · 066 A · 067 A · 068 A · 069 A · 070 A
 

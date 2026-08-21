@@ -1,4 +1,4 @@
-# 030 Exercise — Collaboration
+# 030 연습문제 (Exercise, EXR) — 협업 (Collaboration, C)
 
 ## 목표
 
@@ -27,7 +27,7 @@ Branch
 Push
 ```
 
-## Scenario
+## 시나리오 (Scenario, SCN)
 
 > README의 Quick Start가 잘못되어 수정이 필요합니다. `main`에 직접 Push하지 않고 동료 검토를 거쳐 반영하려고 합니다.
 
@@ -41,7 +41,7 @@ Push
 - Review
 - Merge
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 실습 Repository에서 실제로 Issue 하나를 만들고, Branch에서 문서 한 줄을 수정한 후 PR을 생성해 Merge까지 수행합니다.
 

@@ -1,4 +1,4 @@
-# QBank 050 — Dependency Review / SBOM
+# 문제은행 (Question Bank, QB) 050 — 의존성 리뷰 / SBOM (Dependency Review / SBOM, DRSBOM)
 
 ## Q041–Q050
 
@@ -13,7 +13,7 @@
 **Q049.** SBOM을 규정 준수에 활용하려면 무엇이 중요한가? A. 최신성·정확성·추적 가능성 B. 글꼴 C. Repository 색상 D. 브랜치 수  
 **Q050.** 의존성 위험 관리의 완료 상태에 가장 가까운 것은? A. 수정 후 테스트와 영향 검증까지 완료 B. Alert만 닫음 C. Issue 생성만 D. 담당자 지정만
 
-## Answers
+## 정답 (Answers, ANS)
 
 041 A · 042 A · 043 A · 044 A · 045 A · 046 A · 047 A · 048 A · 049 A · 050 A
 

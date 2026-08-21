@@ -1,4 +1,4 @@
-# 050 Security & Optimization Exercises
+# 050 보안 와 최적화 (Security & Optimization, SO) — 연습문제 (Exercises, EXR)
 
 ## 목표
 

@@ -1,4 +1,4 @@
-# GH-600 Mock Exam 02 — Questions
+# GH-600 Mock 시험 02 — 질문 (GH-600 Mock Exam 02 — Questions, GH-600MEQ)
 
 > 자체 제작 Scenario 40문항.
 

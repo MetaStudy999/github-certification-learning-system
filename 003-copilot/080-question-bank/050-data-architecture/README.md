@@ -1,4 +1,4 @@
-# 050 Data & Architecture — Q041–Q050
+# 050 데이터 와 아키텍처 — Q041–Q050 (050 Data & Architecture — Q041–Q050, DAQ041Q050)
 
 > Skill Area: **Understand GitHub Copilot data and architecture**
 

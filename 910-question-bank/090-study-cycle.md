@@ -1,6 +1,6 @@
 # 090 Study Cycle — QBank에서 Mock까지
 
-## Standard Flow
+## Standard 흐름 (Standard Flow, SF)
 
 ```text
 100문제 1회차

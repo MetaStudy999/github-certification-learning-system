@@ -1,4 +1,4 @@
-# 030 Troubleshooting Evidence Template
+# 030 문제 해결 Evidence Template (030 Troubleshooting Evidence Template, TET)
 
 ```text
 Date:
@@ -17,7 +17,7 @@ Related Lab:
 Related official docs:
 ```
 
-## Diagnostic Order
+## Diagnostic 순서 (Diagnostic Order, DO)
 
 ```text
 Trigger

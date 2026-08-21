@@ -70,7 +70,7 @@ A. 용어 암기만 완료  B. 5개 Skill Area를 Scenario로 설명하고 Lab/Q
 
 **정답: B** — 개념·실습·판단·검증을 함께 요구합니다.
 
-## 100-Question Gate
+## 100-질문 Gate (100-Question Gate, QG)
 
 - [ ] 1회차 80/100 이상
 - [ ] 2회차 85/100 이상

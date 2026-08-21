@@ -4,7 +4,7 @@
 
 시험 범위와 기능 동작은 항상 공식 자료를 우선합니다.
 
-## Primary Sources
+## 주요 출처 (Primary Sources, PS)
 
 1. GitHub Actions Certification  
    https://learn.microsoft.com/en-us/credentials/certifications/github-actions/

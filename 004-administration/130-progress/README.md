@@ -1,13 +1,13 @@
 # 130 Progress — GH-100 진행률 Dashboard
 
-## Status
+## 상태 (Status, S)
 
 - 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
 - 학습 상태 (Learning Status, LS): **PLANNED**
 
 > 콘텐츠 구축 상태와 실제 개인 학습 상태를 분리합니다. `CONTENT-READY`는 자료 준비 완료를 뜻하며 실제 시험 준비 완료를 뜻하지 않습니다.
 
-## Learning Status Flow
+## 학습 상태 흐름 (Learning Status Flow, LSF)
 
 ```text
 PLANNED
@@ -20,7 +20,7 @@ PLANNED
 → CLEAR
 ```
 
-## Skill Area Progress
+## Skill 영역 Progress (Skill Area Progress, SAP)
 
 | Skill Area | Weight | Theory | Lab | QBank | Review | Status |
 |---|---:|---|---|---|---|---|
@@ -30,7 +30,7 @@ PLANNED
 | Manage GitHub Actions | 20–25% | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 | Monitor and optimize GitHub usage | 10–15% | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 목표 | 완료 | 점수/메모 |
 |---:|---|---|---|
@@ -42,7 +42,7 @@ PLANNED
 | 6 | Audit / Usage / Cost + QBank + Mock 01 | ⬜ | |
 | 7 | Mock 02 + Final Mock + Final Review | ⬜ | |
 
-## Exam Readiness Metrics
+## 시험 Readiness Metrics (Exam Readiness Metrics, ERM)
 
 | 지표 | 목표 | 현재 |
 |---|---:|---:|
@@ -63,7 +63,7 @@ PLANNED
 - [`020-readiness-gate.md`](./020-readiness-gate.md)
 - [`030-score-log.md`](./030-score-log.md)
 
-## Content Build Summary
+## 콘텐츠 Build Summary (Content Build Summary, CBS)
 
 - Labs: **12개**
 - Exercises: **50개**
@@ -75,7 +75,7 @@ PLANNED
 - Wrong Answer / Retry System: 완료
 - Evidence Templates: 완료
 
-## PASSED vs CLEAR
+## PASSED 비교 CLEAR (PASSED vs CLEAR, PASSEDCLEAR)
 
 `PASSED`: GH-100 시험 합격
 

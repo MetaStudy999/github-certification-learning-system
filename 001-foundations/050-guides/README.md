@@ -119,7 +119,7 @@ PR에서 할 수 있는 일:
 
 > 개발자가 코드를 이해·작성·수정하는 과정을 AI로 보조
 
-### GitHub Codespaces
+### GitHub 코드스페이스 (GitHub Codespaces, GC)
 
 > 개발환경을 클라우드에서 빠르게 준비하고 재현
 

@@ -1,4 +1,4 @@
-# Mock Exam 02 — Answer Key
+# Mock 시험 02 — 정답 Key (Mock Exam 02 — Answer Key, MEAK)
 
 | Q | Answer | 핵심 이유 |
 |---:|:---:|---|

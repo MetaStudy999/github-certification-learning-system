@@ -22,7 +22,7 @@ English Full Name (Acronym) — 한국어 뜻
 - Software Development Life Cycle (SDLC) — 소프트웨어 개발 생명주기
 - Model Context Protocol (MCP) — 모델 컨텍스트 프로토콜
 
-## Course Term Sources
+## 과정 Term 출처 (Course Term Sources, CTS)
 
 | 코드 | 과정 | 상세 용어 |
 |---:|---|---|

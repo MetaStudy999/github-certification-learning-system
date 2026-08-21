@@ -1,14 +1,14 @@
-# Lab 120 — End-to-End Agentic SDLC Design
+# 실습 (Lab, LAB) 120 — 엔드투엔드 에이전틱 SDLC 설계 (End-to-End Agentic SDLC Design, EASDLCD)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 GH-600의 6개 Domain을 하나의 안전한 문서 기반 Agentic SDLC 설계로 통합합니다.
 
-## Scenario
+## 시나리오 (Scenario, SCN)
 
 `Issue를 입력으로 받아 변경 제안과 검증 결과를 준비하는 학습용 Agent System`을 설계합니다.
 
-## Required Design
+## 필수 설계 (Required Design, RD)
 
 ```text
 1. Goal / Inputs / Success Criteria
@@ -25,7 +25,7 @@ GH-600의 6개 Domain을 하나의 안전한 문서 기반 Agentic SDLC 설계�
 12. Evidence / Reflection
 ```
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] 6개 시험 Domain이 모두 연결됨
 - [ ] 계획과 실행이 분리됨

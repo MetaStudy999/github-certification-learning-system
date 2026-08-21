@@ -1,4 +1,4 @@
-# GH-100 Final Mock — Answers
+# GH-100 Final Mock — 정답 (GH-100 Final Mock — Answers, GH-100FMA)
 
 | Q | 답 | 핵심 이유 |
 |---:|:---:|---|

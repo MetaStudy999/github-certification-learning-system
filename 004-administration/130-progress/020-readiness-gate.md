@@ -1,4 +1,4 @@
-# GH-100 Exam Readiness Gate
+# GH-100 시험 Readiness Gate (GH-100 Exam Readiness Gate, GH-100ERG)
 
 ## Gate A — Coverage
 
@@ -13,7 +13,7 @@
 - [ ] Identity / Security / Actions / Audit Scenario 설명 가능
 - [ ] Enterprise Blueprint 80점 이상
 
-## Gate C — Questions
+## Gate C — 질문 (Gate C — Questions, GCQ)
 
 - [ ] QBank 1회차 80% 이상
 - [ ] QBank 2회차 85% 이상
@@ -32,7 +32,7 @@
 5. OIDC / Secret / Vault
 6. Audit Log / Usage / License / Cost Optimization
 
-## Decision
+## 의사결정 (Decision, D)
 
 ```text
 모든 필수 Gate PASS

@@ -1,4 +1,4 @@
-# GH-500 Security Operations Evidence
+# GH-500 보안 운영 Evidence (GH-500 Security Operations Evidence, GH-500SOE)
 
 ```text
 Date:

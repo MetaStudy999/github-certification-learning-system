@@ -1,6 +1,6 @@
 # 140 Resources — GH-600 추가 학습자료
 
-## Official First
+## Official 첫 (Official First, OF)
 
 1. Microsoft Learn GH-600 Study Guide
 2. Microsoft Learn Agentic AI Developer Certification
@@ -8,7 +8,7 @@
 4. GitHub Learn Agentic AI Developer
 5. GitHub Docs — Copilot / Agent 관련 최신 기능 문서
 
-## Resource Rule
+## Resource 규칙 (Resource Rule, RR)
 
 추가 자료는 다음 조건을 만족할 때 사용합니다.
 

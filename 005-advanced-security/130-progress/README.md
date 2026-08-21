@@ -1,13 +1,13 @@
 # 130 Progress — GH-500 진행률 Dashboard
 
-## Status
+## 상태 (Status, S)
 
 - 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
 - 학습 상태 (Learning Status, LS): **PLANNED**
 
 > 콘텐츠 구축 상태와 실제 개인 학습 상태는 다릅니다. `CONTENT-READY`는 학습 자료가 준비되었다는 뜻이며 실제 시험 준비 완료를 의미하지 않습니다.
 
-## Learning Status Flow
+## 학습 상태 흐름 (Learning Status Flow, LSF)
 
 ```text
 PLANNED
@@ -20,7 +20,7 @@ PLANNED
 → CLEAR
 ```
 
-## Domain Progress
+## 영역 Progress (Domain Progress, DP)
 
 | Domain | Weight | Theory | Lab | QBank | Review | Status |
 |---|---:|---|---|---|---|---|
@@ -31,13 +31,13 @@ PLANNED
 | Security Operations | 15–20% | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 | Security Suites Administration | 10–15% | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 
-## Tracking Files
+## Tracking 파일 (Tracking Files, TF)
 
 - [`010-daily-tracker.md`](./010-daily-tracker.md)
 - [`020-readiness-gate.md`](./020-readiness-gate.md)
 - [`030-score-log.md`](./030-score-log.md)
 
-## Exam Readiness Metrics
+## 시험 Readiness Metrics (Exam Readiness Metrics, ERM)
 
 | 지표 | 목표 | 현재 |
 |---|---:|---:|
@@ -52,7 +52,7 @@ PLANNED
 | 오답 재시험 | 90%+ | - |
 | Secure SDLC Project | 80점+ | - |
 
-## PASSED vs CLEAR
+## PASSED 비교 CLEAR (PASSED vs CLEAR, PASSEDCLEAR)
 
 `PASSED`: GH-500 자격시험 합격
 

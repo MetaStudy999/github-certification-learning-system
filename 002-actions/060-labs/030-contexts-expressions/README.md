@@ -1,10 +1,10 @@
-# Lab 030 — Contexts & Expressions
+# 실습 (Lab, LAB) 030 — 컨텍스트와 표현식 (Contexts & Expressions, CE)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Context와 Expression을 사용해 실행 정보를 읽고 조건부 Step을 작성합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 ```yaml
 name: context-demo
@@ -30,14 +30,14 @@ jobs:
         run: echo "Running on main"
 ```
 
-## Learn
+## 학습 포인트 (Learn, LRN)
 
 - `github`, `runner`, `env`, `vars`, `secrets`, `inputs`, `matrix`, `needs`, `steps`
 - `${{ }}` Expression
 - Workflow parse 시점과 Runtime 값의 차이
 - Secret을 Log에 직접 노출하지 않는 원칙
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Repository와 Ref 값이 출력된다.
 - [ ] Branch 조건에 따라 Step 실행 여부가 달라진다.

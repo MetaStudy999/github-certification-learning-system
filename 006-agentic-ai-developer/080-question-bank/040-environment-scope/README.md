@@ -1,4 +1,4 @@
-# QBank 040 — Environment / Scope
+# 문제은행 (Question Bank, QB) 040 — 환경 / 범위 (Environment / Scope, ES)
 
 ## Q031–Q040
 
@@ -13,7 +13,7 @@
 **Q039.** Scope와 Permission의 관계는? A 어디에서 무엇을 할 수 있는지 함께 제한 B 서로 무관 C Scope가 Memory D Permission이 Eval  
 **Q040.** 환경 상호작용 설계의 핵심은? A Context + Scope + Constraint + Verification B Tool 수 최대화 C 권한 최대화 D 사람 제거
 
-## Answers
+## 정답 (Answers, ANS)
 
 031 A · 032 A · 033 A · 034 A · 035 A · 036 A · 037 A · 038 A · 039 A · 040 A
 

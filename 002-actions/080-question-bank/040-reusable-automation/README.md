@@ -1,4 +1,4 @@
-# 040 Reusable Automation — Q031–Q040
+# 040 재사용 자동화 — Q031–Q040 (040 Reusable Automation — Q031–Q040, RAQ031Q040)
 
 ## Q031
 여러 Repository에서 공통 CI Job 구조를 재사용하려면 가장 적절한 기능은?

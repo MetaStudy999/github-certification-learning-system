@@ -14,7 +14,7 @@
 
 각 회차는 `questions.md`와 `answers.md`를 분리했습니다.
 
-## Domain Balance
+## 영역 Balance (Domain Balance, DB)
 
 | Domain | 권장 문항 수(40문항 기준) |
 |---|---:|

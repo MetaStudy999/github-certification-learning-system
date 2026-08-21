@@ -10,7 +10,7 @@ Environment:
 Goal:
 ```
 
-## Actions Performed
+## 액션 Performed (Actions Performed, AP)
 
 ```text
 Commands / GitHub actions:
@@ -38,7 +38,7 @@ Commit URL:
 Project URL:
 ```
 
-## Learning Note
+## 학습 참고 (Learning Note, LN)
 
 ```text
 One-sentence concept:

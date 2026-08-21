@@ -18,7 +18,7 @@
 - [ ] Clone / Fork / Fetch / Pull 차이를 실습 또는 설명으로 검증
 - [ ] README / LICENSE / CONTRIBUTING / SECURITY / CODEOWNERS 역할 설명
 
-## Gate C — Questions
+## Gate C — 질문 (Gate C — Questions, GCQ)
 
 - [ ] Q001–Q100 1회차 80% 이상
 - [ ] Q001–Q100 2회차 85% 이상

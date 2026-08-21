@@ -1,10 +1,10 @@
-# Lab 100 — Failure & Conflict Handling
+# 실습 (Lab, LAB) 100 — 실패와 충돌 처리 (Failure & Conflict Handling, FCH)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 실패를 무한 재시도하지 않고 중단·재시도·복구·Escalation 조건을 설계합니다.
 
-## Decision Table
+## 의사결정 표 (Decision Table, DT)
 
 | Situation | Retry | Resume | Stop | Escalate |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ Required evidence:
 Safe final state:
 ```
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Retry와 Resume 구분
 - [ ] 무한 Loop 방지 조건

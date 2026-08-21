@@ -1,10 +1,10 @@
-# Lab 050 — Support / Standards / Diagnostics
+# 실습 (Lab, LAB) 050 — 지원 / 표준 / 진단 (Support / Standards / Diagnostics, SSD)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 문제를 **Enterprise Admin이 해결할 범위**와 **GitHub Support로 Escalate할 범위**로 나누고, Support Bundle과 Diagnostics의 역할을 이해합니다.
 
-## Practice 1 — Triage
+## 실습 (Practice, PRAC) 1 — 분류 (Triage, T)
 
 다음 상황을 `ADMIN`, `SUPPORT`, `INVESTIGATE FIRST`로 분류하세요.
 
@@ -15,7 +15,7 @@
 5. GitHub.com 서비스 자체 이상이 의심됨
 6. Branching/Review 표준이 조직마다 달라 혼란 발생
 
-## Practice 2 — Admin Triage Flow
+## 실습 (Practice, PRAC) 2 — 관리 분류 흐름 (Admin Triage Flow, ATF)
 
 ```text
 Symptom
@@ -31,7 +31,7 @@ Symptom
 
 각 단계에 실제 확인할 항목을 적으세요.
 
-## Practice 3 — Developer Process Standards
+## 실습 (Practice, PRAC) 3 — 개발자 프로세스 표준 (Developer Process Standards, DPS)
 
 가상의 회사 표준을 정의합니다.
 
@@ -53,11 +53,11 @@ Enterprise Admin은 개발 방식을 직접 코딩하기보다 **조직 전체�
 - 공식 Support 절차와 보안 요구사항을 따릅니다.
 - 불필요하게 수집·공유하지 않습니다.
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `모든 문제는 GitHub Support에 보내는 것이 가장 안전하다`라는 주장과 `관리자가 모든 문제를 직접 해결해야 한다`라는 주장이 둘 다 잘못될 수 있는 이유를 설명하세요.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Admin vs Support 책임 경계 설명
 - [ ] 기본 Triage 순서 설명

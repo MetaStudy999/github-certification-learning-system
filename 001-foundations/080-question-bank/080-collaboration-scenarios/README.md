@@ -1,4 +1,4 @@
-# 080 Collaboration Scenarios — Q071–Q080
+# 080 협업 Scenarios — Q071–Q080 (080 Collaboration Scenarios — Q071–Q080, CSQ071Q080)
 
 > GH-900 학습목표 기반 자체 제작 문제입니다.
 

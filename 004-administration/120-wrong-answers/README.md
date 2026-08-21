@@ -1,6 +1,6 @@
 # 120 Wrong Answers — GH-100 오답 시스템
 
-## Error Codes
+## 오류 Codes (Error Codes, EC)
 
 | 코드 | 의미 |
 |---|---|

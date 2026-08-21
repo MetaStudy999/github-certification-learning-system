@@ -1,4 +1,4 @@
-# GH-300 Mock 01 — Questions
+# GH-300 Mock 01 — 질문 (GH-300 Mock 01 — Questions, GH-300MQ)
 
 **40문항 / 자체 제작 / 진단용**  
 정답은 모든 문제를 푼 뒤 [`answers.md`](./answers.md)에서 확인합니다.

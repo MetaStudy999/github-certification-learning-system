@@ -1,4 +1,4 @@
-# 050 Exercise — Security, Administration & Community
+# 050 연습문제 (Exercise, EXR) — Security, 관리 와 커뮤니티 (Security, Administration & Community, SAC)
 
 ## 목표
 
@@ -23,7 +23,7 @@
 
 위험을 2가지 적고 개선 방안을 제안하세요.
 
-## Scenario B — Community
+## 시나리오 (Scenario, SCN) B — 커뮤니티 (Community, C)
 
 > 회사 내부 여러 팀이 하나의 공통 Library에 기여하지만 소스는 외부에 공개하지 않습니다. 대신 Issue, PR, Review 등 오픈소스 방식으로 협업합니다.
 

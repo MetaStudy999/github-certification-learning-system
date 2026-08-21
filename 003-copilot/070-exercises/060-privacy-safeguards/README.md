@@ -15,7 +15,7 @@ Content Exclusion을 설정했으니 Secret Management가 필요 없다는 주�
 ### E060-03 — 적용 범위 확인
 특정 파일이 제외되었다고 기대했지만 Copilot 응답에 관련 정보가 나타났습니다. 어떤 설정 범위·경로·Editor 지원·적용 지연 가능성을 확인할지 Checklist를 만드세요.
 
-### E060-04 — Public Code Matching
+### E060-04 — Public 코드 Matching (Public Code Matching, PCM)
 공개 코드와 일치하는 Suggestion을 필터링하는 기능의 목적과, 이것만으로 라이선스 검토가 완전히 끝나지 않는 이유를 설명하세요.
 
 ### E060-05 — Output Ownership
@@ -38,10 +38,10 @@ Extension / sign-in
 ### E060-07 — Prompt에 Secret 포함
 API Key를 Prompt에 넣어 디버깅하려는 동료에게 더 안전한 대안을 제안하세요.
 
-### E060-08 — Organization Policy
+### E060-08 — 조직 정책 (Organization Policy, OP)
 조직에서 특정 Copilot 기능을 제한해야 하는 이유를 Security, Compliance, Cost, Data Governance 관점에서 작성하세요.
 
-### E060-09 — Privacy vs Security
+### E060-09 — 개인정보 보호 비교 보안 (Privacy vs Security, PS)
 `Privacy`와 `Security`를 각각 한 문장으로 정의하고 Copilot 사용 예시를 하나씩 연결하세요.
 
 ### E060-10 — Safeguard Defense in Depth

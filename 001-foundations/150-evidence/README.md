@@ -37,7 +37,7 @@ Result    결과가 무엇인가
 
 가능하면 Repository, Issue, Pull Request, Commit 등 **재현 가능한 GitHub URL**을 함께 남깁니다.
 
-## GitHub Flow Evidence
+## GitHub 흐름 Evidence (GitHub Flow Evidence, GFE)
 
 ```text
 Repository:

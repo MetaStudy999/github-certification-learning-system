@@ -1,10 +1,10 @@
-# Lab 040 — MCP Concepts & Governance
+# 실습 (Lab, LAB) 040 — MCP 개념과 거버넌스 (MCP Concepts & Governance, MCPCG)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 MCP(Model Context Protocol)를 Agent와 외부 도구·데이터의 연결 표준으로 이해하고 Governance 관점에서 판단합니다.
 
-## Practice
+## 실습 (Practice, PRAC)
 
 다음 항목을 문서로 설계합니다.
 
@@ -28,7 +28,7 @@ Failure behavior:
 | Allow List | 어떤 연결을 허용할 것인가? |
 | Permission | 허용된 연결에서 무엇까지 가능한가? |
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] MCP와 일반 Tool 개념 차이 설명
 - [ ] 신뢰 경계와 허용 목록의 목적 설명

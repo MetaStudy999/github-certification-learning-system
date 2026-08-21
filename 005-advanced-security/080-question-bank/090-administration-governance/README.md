@@ -1,4 +1,4 @@
-# QBank 090 — Security Suites Administration / Governance
+# 문제은행 (Question Bank, QB) 090 — 보안 제품군 관리 / 거버넌스 (Security Suites Administration / Governance, SSAG)
 
 ## Q081–Q090
 
@@ -13,7 +13,7 @@
 **Q089.** 조직 보안 성숙도를 높이는 데 가장 적절한 접근은? A. 표준화 → 측정 → 개선 B. 일회성 설정 후 방치 C. 모든 정책 제거 D. Alert 숨김  
 **Q090.** Governance의 핵심 질문은? A. 누가 어떤 범위에서 어떤 변경을 왜 할 수 있는가 B. Star 수는 얼마인가 C. Wiki 페이지 수는 얼마인가 D. Fork 수는 얼마인가
 
-## Answers
+## 정답 (Answers, ANS)
 
 081 A · 082 A · 083 A · 084 A · 085 A · 086 A · 087 A · 088 A · 089 A · 090 A
 

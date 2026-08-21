@@ -15,7 +15,7 @@
 | Mock 02 | /40 |  |  |  |  |
 | 최종 모의고사 (Final Mock, FM) | /40 |  |  |  |  |
 
-## Wrong Answer Retry
+## Wrong 정답 Retry (Wrong Answer Retry, WAR)
 
 | 날짜 | 대상 | 정답/전체 | 정답률 | 반복 오류 코드 | 결과 |
 |---|---|---:|---:|---|---|

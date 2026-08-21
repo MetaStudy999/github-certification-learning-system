@@ -1,20 +1,20 @@
-# Lab 070 — Custom Actions
+# 실습 (Lab, LAB) 070 — 사용자 정의 액션 (Custom Actions, CA)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 GitHub Action의 세 가지 대표 구현 방식을 구분합니다.
 
-## Types
+## 유형 (Types, TYP)
 
 - JavaScript Action
 - Docker Container Action
 - Composite Action
 
-## Core Files
+## 핵심 파일 (Core Files, CF)
 
 일반적으로 `action.yml` 또는 `action.yaml` 메타데이터 파일에서 Action 이름, 입력값, 실행 방식을 정의합니다.
 
-## Compare
+## 비교 (Compare, CMP)
 
 | 유형 | 장점 | 고려사항 |
 |---|---|---|
@@ -22,7 +22,7 @@ GitHub Action의 세 가지 대표 구현 방식을 구분합니다.
 | Docker | 실행환경 일관성 | Container 시작 비용, Linux 중심 |
 | Composite | 여러 Shell/Action Step 재사용 | 복잡한 로직에는 한계 |
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] `action.yml`의 목적을 설명한다.
 - [ ] Input / Output 개념을 설명한다.

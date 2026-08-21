@@ -10,7 +10,7 @@
 | 020 | [Mock 02](./020-mock-02/) | 40 | 응시 Gate / 85%+ |
 | 030 | [Final Mock](./030-final-mock/) | 40 | 최종 / 90%+ 권장 |
 
-## Current Skill Balance
+## 현재 Skill Balance (Current Skill Balance, CSB)
 
 40문항 기준 권장 근사 배분입니다. 실제 시험 문항 배분과 동일하다고 보장하지 않습니다.
 
@@ -24,7 +24,7 @@
 | Privacy / Safeguards | 10–15% | 6 |
 | **합계** |  | **40** |
 
-## Flow
+## 흐름 (Flow, FL)
 
 ```text
 Question Bank 100
@@ -55,7 +55,7 @@ Exam Readiness Gate
 
 **공통 응시 기준:** 최근 Mock **2회 연속 85% 이상**, 오답 재시험 **90% 이상**.
 
-## Rules
+## 규칙 (Rules, R)
 
 1. `questions.md`를 먼저 풉니다.
 2. 모든 문항에 답한 뒤 `answers.md`를 엽니다.

@@ -1,4 +1,4 @@
-# GH-600 Exam Readiness Gate
+# GH-600 시험 Readiness Gate (GH-600 Exam Readiness Gate, GH-600ERG)
 
 ## Mandatory
 
@@ -18,7 +18,7 @@
 - [ ] Agentic SDLC Design Project 80점+
 - [ ] Confusion Matrix를 자료 없이 설명
 
-## Decision
+## 의사결정 (Decision, D)
 
 ```text
 Mandatory 충족

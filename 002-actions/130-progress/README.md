@@ -1,19 +1,19 @@
 # 130 Progress — GH-200 진행률 Dashboard
 
-## Status
+## 상태 (Status, S)
 
 - 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
 - 학습 상태 (Learning Status, LS): **PLANNED**
 
 > `CONTENT-READY`는 학습 자료 구축이 완료되었다는 뜻이며, 실제 학습 완료를 의미하지 않습니다.
 
-## Progress Files
+## Progress 파일 (Progress Files, PF)
 
 - [010 Daily Tracker](./010-daily-tracker.md)
 - [020 Readiness Gate](./020-readiness-gate.md)
 - [030 Score Log](./030-score-log.md)
 
-## Domain Progress
+## 영역 Progress (Domain Progress, DP)
 
 | Domain | Theory | Lab | Questions | Review | Status |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | 6 | Troubleshooting + Question Bank | ⬜ | |
 | 7 | Mock + Final Review | ⬜ | |
 
-## Exam Readiness
+## 시험 Readiness (Exam Readiness, ER)
 
 - [ ] 공식 Study Guide 최신 확인
 - [ ] Lab 010–100 중 핵심 80% 이상 완료
@@ -46,7 +46,7 @@
 - [ ] Final Mock 90% 이상 권장
 - [ ] 오답 재시험 90% 이상
 
-## Status Flow
+## 상태 흐름 (Status Flow, SF)
 
 `PLANNED → READY → LEARNING → PRACTICING → REVIEWING → EXAM-READY → PASSED → CLEAR`
 

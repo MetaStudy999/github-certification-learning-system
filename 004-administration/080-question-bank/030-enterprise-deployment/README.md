@@ -1,4 +1,4 @@
-# 030 Enterprise Deployment — Q021–Q030
+# 030 엔터프라이즈 배포 — Q021–Q030 (030 Enterprise Deployment — Q021–Q030, EDQ021Q030)
 
 ## Q021
 GitHub Enterprise Cloud와 GitHub Enterprise Server의 가장 큰 운영 차이는?

@@ -1,9 +1,9 @@
-# 090 Content Verification — GH-600
+# 090 콘텐츠 검증 — GH-600 (090 Content Verification — GH-600, CVGH-600)
 
 **Verification Target:** `006-agentic-ai-developer`  
 **Purpose:** 학습 콘텐츠 구축 상태와 실제 개인 학습 상태를 분리해 검증합니다.
 
-## Structure Verification
+## Structure 검증 (Structure Verification, SV)
 
 - [x] 010 Overview
 - [x] 020 Terms
@@ -21,7 +21,7 @@
 - [x] 140 Resources
 - [x] 150 Evidence
 
-## Content Verification
+## 콘텐츠 검증 (Content Verification, CV)
 
 | 항목 | 구축 상태 |
 |---|---|
@@ -37,7 +37,7 @@
 | 실제 시험문항/Brain Dump 미사용 원칙 | PASS |
 | 운영 권한 확대·안전 통제 우회 실습 배제 | PASS |
 
-## Status Decision
+## 상태 의사결정 (Status Decision, SD)
 
 ```text
 Content Status  = CONTENT-READY
@@ -48,7 +48,7 @@ Learning Status = PLANNED
 
 실제 시험 응시 상태는 `130-progress/`의 Exam Readiness Gate를 통과한 뒤에만 `EXAM-READY`로 변경합니다.
 
-## Maintenance Rule
+## 유지관리 규칙 (Maintenance Rule, MR)
 
 GH-600은 비교적 빠르게 변하는 Agentic AI 영역을 다루므로 다음 시점에 공식 자료를 다시 검증합니다.
 

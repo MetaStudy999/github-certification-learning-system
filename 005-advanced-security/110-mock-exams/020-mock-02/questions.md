@@ -1,4 +1,4 @@
-# GH-500 Mock Exam 02 — Questions
+# GH-500 Mock 시험 02 — 질문 (GH-500 Mock Exam 02 — Questions, GH-500MEQ)
 
 > 자체 제작 40문항. Scenario 중심입니다.
 

@@ -1,13 +1,13 @@
 # 140 Resources — GH-500 추가 학습자료
 
-## Official First
+## Official 첫 (Official First, OF)
 
 1. Microsoft Learn — GH-500 Study Guide
 2. Microsoft Learn — GitHub Advanced Security Certification
 3. GitHub Learn — GitHub Advanced Security Certification
 4. GitHub Docs — Code Security
 
-## Resource Rule
+## Resource 규칙 (Resource Rule, RR)
 
 추가 자료는 다음 조건을 만족할 때만 사용합니다.
 

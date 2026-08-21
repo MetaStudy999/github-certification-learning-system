@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |  |  |  |  |  | OPEN |
 
-## Priority Rule
+## Priority 규칙 (Priority Rule, PR)
 
 1. 같은 개념을 2회 이상 틀린 문제
 2. Workflow / Enterprise 고비중 Domain
@@ -23,7 +23,7 @@
 | RETRY-7 | +7일 재시험 완료 |
 | FIXED | 두 재시험 통과 |
 
-## Exam Gate
+## 시험 Gate (Exam Gate, EG)
 
 시험 전 `OPEN` 상태의 고위험 오답을 남기지 않습니다.
 

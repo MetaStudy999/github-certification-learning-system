@@ -14,7 +14,7 @@
 | 6 | Q001–Q100 + Mock 01 | ⬜ |  |  |  |  |
 | 7 | Mock 02 + Final Mock + Review | ⬜ |  |  |  |  |
 
-## Daily Note Template
+## Daily 참고 Template (Daily Note Template, DNT)
 
 ```text
 Date:

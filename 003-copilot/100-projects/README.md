@@ -1,6 +1,6 @@
 # 100 Projects — GitHub 코파일럿 (GitHub Copilot, GHCOP / GH-300) 통합 프로젝트
 
-## Project 001 — AI-Assisted Development Project
+## 프로젝트 001 — AI-보조 개발 프로젝트 (Project 001 — AI-Assisted Development Project, PADP)
 
 ### 목표
 
@@ -38,14 +38,14 @@ Requirement
 → Final Verification
 ```
 
-## Phase 1 — Requirement
+## 단계 (Phase, PH) 1 — Requirement
 
 - [ ] 기능 요구사항 작성
 - [ ] Non-functional Requirement 2개 이상
 - [ ] 입력·출력·Error Case 정의
 - [ ] 완료 기준(Definition of Done) 작성
 
-## Phase 2 — Prompt / Context
+## 단계 (Phase, PH) 2 — 프롬프트 / 컨텍스트 (Prompt / Context, PC)
 
 Prompt를 최소 5개 기록합니다.
 
@@ -67,7 +67,7 @@ Reason:
 - [ ] 불필요 Context를 줄인 사례
 - [ ] Instructions 또는 Prompt File 초안
 
-## Phase 3 — Implementation
+## 단계 (Phase, PH) 3 — Implementation
 
 - [ ] Copilot Suggestion 또는 Chat을 사용
 - [ ] Copilot Edits 또는 다중 파일 편집 Scenario 기록
@@ -75,7 +75,7 @@ Reason:
 - [ ] Agent 권한·Tool 범위를 기록
 - [ ] AI Output을 그대로 사용하지 않고 Review
 
-## Phase 4 — Testing
+## 단계 (Phase, PH) 4 — 테스트 (Testing, T)
 
 - [ ] Unit Test
 - [ ] Edge Case
@@ -84,7 +84,7 @@ Reason:
 - [ ] Assertion 품질 확인
 - [ ] AI가 누락한 Test를 사람이 최소 1개 추가
 
-## Phase 5 — Debugging
+## 단계 (Phase, PH) 5 — 디버깅 (Debugging, D)
 
 - [ ] 의도적 또는 실제 실패 사례 1개 기록
 - [ ] Error Message / Stack Trace를 Context로 제공
@@ -92,14 +92,14 @@ Reason:
 - [ ] 실제 Root Cause 검증
 - [ ] 수정 후 Test 성공 확인
 
-## Phase 6 — Refactoring
+## 단계 (Phase, PH) 6 — 리팩터링 (Refactoring, R)
 
 - [ ] Refactoring 전 코드 저장
 - [ ] Public Behavior 유지 Constraint
 - [ ] Refactoring 후 Test
 - [ ] Readability / Maintainability 개선 설명
 
-## Phase 7 — Documentation / Review
+## 단계 (Phase, PH) 7 — 문서화 / 리뷰 (Documentation / Review, DR)
 
 - [ ] README 초안 작성
 - [ ] AI가 작성한 문서와 실제 동작 비교
@@ -107,7 +107,7 @@ Reason:
 - [ ] AI Review Finding 중 Accept / Reject 사례 기록
 - [ ] Human Review 결론 작성
 
-## Phase 8 — 2026 Feature Extension
+## 단계 (Phase, PH) 8 — 2026 기능 Extension (2026 Feature Extension, FE)
 
 환경에서 사용 가능한 범위에 따라 다음을 실습하거나 설계합니다.
 
@@ -120,7 +120,7 @@ Reason:
 - [ ] Spark 적용 가능성 설명
 - [ ] Organization Policy / Audit Log Scenario 설명
 
-## Phase 9 — Responsible AI / Privacy
+## 단계 (Phase, PH) 9 — 책임 있는 AI / 개인정보 보호 (Responsible AI / Privacy, RAIP)
 
 - [ ] Secret / Token을 Prompt에 넣지 않음
 - [ ] Privacy 영향 검토
@@ -129,7 +129,7 @@ Reason:
 - [ ] 라이선스·정책 확인 필요성 기록
 - [ ] AI Output의 한계와 Human Accountability 회고
 
-## Required Evidence
+## 필수 증빙 (Required Evidence, RE)
 
 - [ ] 요구사항 문서
 - [ ] Prompt 5개 이상

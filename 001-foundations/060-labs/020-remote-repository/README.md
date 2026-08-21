@@ -1,6 +1,6 @@
-# Lab 020 — Remote Repository
+# 실습 (Lab, LAB) 020 — 원격 저장소 (Remote Repository, RR)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Local Repository와 GitHub Remote Repository의 관계를 이해하고 `remote`, `push`, `fetch`, `pull`을 구분합니다.
 
@@ -46,7 +46,7 @@ git branch --show-current
 git branch -M main
 ```
 
-## Practice 3 — Push
+## 실습 (Practice, PRAC) 3 — 푸시 (Push, P)
 
 ```bash
 git push -u origin main
@@ -88,7 +88,7 @@ git clone https://github.com/YOUR_ID/github-foundations-lab.git
 
 `clone`은 기존 Remote Repository의 작업 복사본을 처음 만들 때 주로 사용합니다.
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 1. GitHub 웹에서 `remote-note.md`를 생성하고 Commit
 2. Local에서 `git fetch origin` 실행
@@ -96,7 +96,7 @@ git clone https://github.com/YOUR_ID/github-foundations-lab.git
 4. `git pull origin main` 실행
 5. `remote-note.md`가 Local에 나타나는지 확인
 
-## Verify
+## 검증 (Verify, VER)
 
 ```bash
 git remote -v

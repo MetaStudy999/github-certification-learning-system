@@ -4,7 +4,7 @@
 
 용어는 **영문 원문 → 약어 → 한국어 뜻 → 한 문장 설명** 순서로 학습합니다.
 
-## A. Git / Version Control
+## A. Git / 버전 제어 (Git / Version Control, GVC)
 
 | 용어 | 한국어 | 한 문장 설명 |
 |---|---|---|
@@ -23,7 +23,7 @@
 | Fetch | 페치 | Remote 변경 정보를 가져오되 자동 병합하지 않는 작업 |
 | Tag | 태그 | 특정 Commit에 버전명 등 고정 표식을 붙이는 기능 |
 
-## B. GitHub Repository
+## B. GitHub 저장소 (GitHub Repository, GR)
 
 | 용어 | 한국어 | 한 문장 설명 |
 |---|---|---|
@@ -37,7 +37,7 @@
 | Branch Protection | 브랜치 보호 | 중요한 Branch의 변경·병합 조건을 강제하는 규칙 |
 | Ruleset | 규칙 집합 | Branch나 Tag에 적용할 정책을 중앙에서 정의하는 기능 |
 
-## C. Collaboration
+## C. 협업 (Collaboration, C)
 
 | 용어 | 한국어 | 한 문장 설명 |
 |---|---|---|
@@ -52,7 +52,7 @@
 | Notification | 알림 | 관심 Repository와 협업 활동의 업데이트 전달 기능 |
 | Fork | 포크 | 다른 Repository를 자신의 계정 공간으로 복제해 독립 개발하는 방식 |
 
-## D. GitHub Products / Modern Development
+## D. GitHub 제품 / 현대적 개발 (GitHub Products / Modern Development, GPMD)
 
 | 용어 | 한국어 | 한 문장 설명 |
 |---|---|---|
@@ -66,7 +66,7 @@
 | GitHub Gist | 깃허브 기스트 | 코드 조각·메모를 간단히 공유하는 기능 |
 | GitHub Wiki | 깃허브 위키 | Repository별 장문 문서 공간 |
 
-## E. Account / Security / Administration
+## E. 계정 / 보안 / 관리 (Account / Security / Administration, ASA)
 
 | 용어 | 한국어 | 한 문장 설명 |
 |---|---|---|
@@ -80,7 +80,7 @@
 | Passkey | 패스키 | 공개키 암호 기반의 비밀번호 대체 인증 방식 |
 | Enterprise Managed Users, EMU | 엔터프라이즈 관리 사용자 | 기업이 사용자 계정 생명주기를 중앙 관리하는 방식 |
 
-## F. Community / Open Source
+## F. 커뮤니티 / 오픈 소스 (Community / Open Source, COS)
 
 | 용어 | 한국어 | 한 문장 설명 |
 |---|---|---|

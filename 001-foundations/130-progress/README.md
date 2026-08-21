@@ -9,7 +9,7 @@
 3. [`030-score-log.md`](./030-score-log.md)에 문제은행과 Mock 점수를 누적합니다.
 4. 실제 학습을 시작하기 전 상태는 `READY`로 유지합니다.
 
-## Status
+## 상태 (Status, S)
 
 ### 콘텐츠 상태 (Content Status, CS)
 
@@ -29,7 +29,7 @@ READY
 → CLEAR
 ```
 
-## Domain Progress
+## 영역 Progress (Domain Progress, DP)
 
 | Domain | Theory | Lab | Questions | Review | Status |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@ READY
 | 6 | Question Bank + Mock 1 | ⬜ | |
 | 7 | Mock 2 + Final Review | ⬜ | |
 
-## Exam Readiness Metrics
+## 시험 Readiness Metrics (Exam Readiness Metrics, ERM)
 
 | 지표 | 목표 | 현재 |
 |---|---:|---:|

@@ -1,10 +1,10 @@
-# Lab 060 — Security Policies / Rulesets
+# 실습 (Lab, LAB) 060 — 보안 정책 / 규칙 집합 (Security Policies / Rulesets, SPR)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Enterprise/Organization Policy와 Repository Ruleset을 사용해 **Governance 요구사항을 구체적인 통제로 변환**합니다.
 
-## Concept
+## 개념 (Concept, CPT)
 
 ```text
 Business / Compliance Requirement
@@ -18,7 +18,7 @@ Developer Workflow
 Audit / Report
 ```
 
-## Practice — Policy Map
+## 실습 (Practice, PRAC) — 정책 맵 (Policy Map, PM)
 
 가상 요구사항:
 
@@ -38,7 +38,7 @@ Audit / Report
 | Security posture | | | |
 | App governance | | | |
 
-## Practice — Ruleset Design
+## 실습 (Practice, PRAC) — Ruleset 설계 (Ruleset Design, RD)
 
 예시:
 
@@ -54,18 +54,18 @@ Rules:
 
 실제 Production Repository에 임의 적용하지 말고 Sandbox/설계 문서로 수행합니다.
 
-## Data Protection Questions
+## 데이터 보호 질문 (Data Protection Questions, DPQ)
 
 - 누가 민감 Repository를 볼 수 있는가?
 - 어떤 Audit Evidence가 필요한가?
 - 어떤 Branch/Tag 변경을 막아야 하는가?
 - 어떤 Security Feature를 중앙 활성화해야 하는가?
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `Policy`와 `Ruleset`을 동일한 것으로 설명하면 왜 부정확한지 예시와 함께 작성하세요.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Enterprise / Org Policy 목적 설명
 - [ ] Ruleset 목적 설명

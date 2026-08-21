@@ -1,4 +1,4 @@
-# 050 Custom Actions — Q041–Q050
+# 050 사용자 정의 액션 — Q041–Q050 (050 Custom Actions — Q041–Q050, CAQ041Q050)
 
 ## Q041
 Custom Action의 입력·출력·실행 방식을 정의하는 Metadata 파일은?

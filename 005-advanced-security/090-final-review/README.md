@@ -1,6 +1,6 @@
 # 090 Final Review — GH-500 시험 직전 복습
 
-## Final Review Files
+## Final 리뷰 파일 (Final Review Files, FRF)
 
 - [`010-final-checklist.md`](./010-final-checklist.md)
 - [`020-confusion-matrix.md`](./020-confusion-matrix.md)
@@ -19,7 +19,7 @@
 | Security Overview | Security Campaign | 상태 관찰 vs 목표형 Remediation |
 | Dismissal | Remediation | 근거 기반 상태 처리 vs 실제 위험 수정 |
 
-## Exam Gate
+## 시험 Gate (Exam Gate, EG)
 
 - [ ] July 2026의 6개 Domain 설명 가능
 - [ ] Secret / Supply Chain / Code Security 구분 가능

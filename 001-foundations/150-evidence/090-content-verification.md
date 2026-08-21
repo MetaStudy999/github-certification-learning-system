@@ -24,7 +24,7 @@
 - [x] 140-resources
 - [x] 150-evidence
 
-## 2. Learning Content Verification
+## 2. 학습 콘텐츠 검증 (Learning Content Verification, LCV)
 
 - [x] 시험 Overview와 Domain 구조 존재
 - [x] 핵심 용어와 한영 병기 구조 존재
@@ -41,7 +41,7 @@
 - [x] Progress / Readiness Gate / Score Log 존재
 - [x] Evidence Template와 Reflection 존재
 
-## 3. Numbering Policy Verification
+## 3. Numbering 정책 검증 (Numbering Policy Verification, NPV)
 
 - [x] 최상위 과정 코드: `001`
 - [x] 내부 주요 학습 영역: 3자리 증가 방식 사용
@@ -49,7 +49,7 @@
 - [x] Question Bank Set: 010–100
 - [x] Progress / Evidence 하위 문서도 3자리 코드 사용
 
-## 4. Quick Start Policy
+## 4. Quick Start 정책 (Quick Start Policy, QSP)
 
 주요 진입점은 다음 순서로 연결합니다.
 
@@ -71,7 +71,7 @@
 → Evidence
 ```
 
-## 5. Status Interpretation
+## 5. 상태 Interpretation (Status Interpretation, SI)
 
 `CONTENT-READY`는 **학습 콘텐츠가 준비되었다는 뜻**입니다.
 
@@ -88,7 +88,7 @@ READY → LEARNING → PRACTICING → REVIEWING → EXAM-READY → PASSED → CL
 
 입니다.
 
-## 6. Next Action
+## 6. 다음 액션 (Next Action, NA)
 
 1. 실제 7일 Fast Track 학습 시작
 2. 동시에 `002-actions` 콘텐츠 구축 시작

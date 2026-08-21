@@ -18,7 +18,7 @@ Copilot 제품 기능은 빠르게 바뀌므로 **시험 범위 문서와 제품
    → 학습경로·Practice Exam 보조 활용
 ```
 
-## Primary Sources
+## 주요 출처 (Primary Sources, PS)
 
 ### 010 — 시험 범위 1차 기준
 
@@ -53,7 +53,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/
 - Pricing
 - Scheduling
 
-### 030 — GitHub Learn
+### 030 — GitHub 학습 (030 — GitHub Learn, GL)
 
 **GitHub Learn — GitHub Copilot Certification**  
 https://learn.github.com/certification/COPILOT
@@ -96,7 +96,7 @@ Change noticed:
 Next check date:
 ```
 
-## Change Watch
+## 변경 감시 (Change Watch, CW)
 
 시험 전 다음을 확인합니다.
 
@@ -107,7 +107,7 @@ Next check date:
 | 시험 7일 전 | Study Guide Change Log |
 | 시험 전날 | 제품 기능 이름·정책·Preview/GA 변화 |
 
-## Exam-Day Rule
+## 시험 당일 규칙 (Exam-Day Rule, EDR)
 
 Copilot 기능·Plan·CLI·Agent 기능·데이터 처리 정책은 변경될 수 있으므로 **기억한 오래된 기능표보다 최신 공식 문서를 우선**합니다.
 

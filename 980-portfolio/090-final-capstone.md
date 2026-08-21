@@ -1,10 +1,10 @@
-# 090 Final Capstone — AI-Native Secure Software Development Platform
+# 090 Final Capstone — AI-Native 보안 Software 개발 Platform (090 Final Capstone — AI-Native Secure Software Development Platform, FCASSDP)
 
 ## 목표
 
 6개 GitHub 자격증에서 학습한 역량을 하나의 재현 가능한 개발 플랫폼 설계로 통합합니다.
 
-## Target Architecture
+## Target 아키텍처 (Target Architecture, TA)
 
 ```text
 Issue / Requirement
@@ -29,7 +29,7 @@ Agentic AI
 Audit / Evidence / Portfolio
 ```
 
-## Capstone Deliverables
+## Capstone 산출물 (Capstone Deliverables, CD)
 
 - [ ] Architecture Diagram
 - [ ] Repository / Collaboration Model
@@ -43,7 +43,7 @@ Audit / Evidence / Portfolio
 - [ ] Audit / Evidence / Incident Response Notes
 - [ ] Final Reflection
 
-## Evaluation — 100 Points
+## 평가 — 100 Points (Evaluation — 100 Points, EP)
 
 | 영역 | 배점 |
 |---|---:|

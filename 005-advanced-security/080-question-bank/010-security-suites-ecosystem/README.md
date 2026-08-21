@@ -1,4 +1,4 @@
-# QBank 010 — Security Suites / Ecosystem
+# 문제은행 (Question Bank, QB) 010 — 보안 제품군 / Ecosystem (Security Suites / Ecosystem, SSE)
 
 ## Q001–Q010
 
@@ -32,7 +32,7 @@ A. 자격증명 노출 vs 코드 취약점  B. 둘은 동일  C. 저장소 생�
 **Q010.** GitHub Security 기능 학습에서 가장 적절한 접근은?  
 A. Risk → Feature → Response를 연결  B. 메뉴 이름만 암기  C. 실제 Secret 사용  D. 모든 경고를 우회
 
-## Answers
+## 정답 (Answers, ANS)
 
 | Q | 정답 | 핵심 이유 |
 |---:|:---:|---|

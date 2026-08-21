@@ -1,4 +1,4 @@
-# 040 Organization & Feature Governance — Q031–Q040
+# 040 조직 와 기능 거버넌스 — Q031–Q040 (040 Organization & Feature Governance — Q031–Q040, OFGQ031Q040)
 
 > Skill Area: **Use GitHub Copilot features**
 

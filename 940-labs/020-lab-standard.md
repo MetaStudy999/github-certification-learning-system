@@ -17,7 +17,7 @@
 ## 010. Reflection — 회고
 ```
 
-## Verify Standard
+## 검증 Standard (Verify Standard, VS)
 
 Verify는 단순히 `명령이 실행됐다`가 아니라 다음 세 가지를 확인합니다.
 
@@ -41,7 +41,7 @@ Troubleshooting:
 What I learned:
 ```
 
-## Beginner Rule
+## Beginner 규칙 (Beginner Rule, BR)
 
 입문자 문서는 명령어만 나열하지 않고 `왜 하는가 → 무엇을 하는가 → 실행 → 결과 확인 → 실패 시 복구` 순으로 설명합니다.
 

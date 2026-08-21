@@ -1,4 +1,4 @@
-# 010 Error Log Template — GH-300
+# 010 오류 Log Template — GH-300 (010 Error Log Template — GH-300, ELTGH-300)
 
 복사해서 문제별로 사용합니다.
 

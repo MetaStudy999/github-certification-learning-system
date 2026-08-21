@@ -41,7 +41,7 @@ EXAM-READY 판단
 | 75–84% | REVIEW | 약점 Domain 재학습 |
 | <75% | NOT READY | Terms/Concepts/Labs 재수행 |
 
-## Exam Gate
+## 시험 Gate (Exam Gate, EG)
 
 최소 권장 기준:
 

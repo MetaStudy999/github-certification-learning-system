@@ -1,10 +1,10 @@
-# Lab 110 — Copilot CLI / Agent Mode / MCP
+# 실습 (Lab, LAB) 110 — Copilot CLI / 에이전트 모드 / MCP (Copilot CLI / Agent Mode / MCP, CCLIAMMCP)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 GitHub Copilot의 **CLI**, **Agent Mode**, **MCP**를 서로 다른 목적의 기능으로 구분하고, Agentic Development Workflow를 안전하게 설계합니다.
 
-## Concept
+## 개념 (Concept, CPT)
 
 ```text
 CLI
@@ -57,7 +57,7 @@ Constraints:
 
 Agent가 실제로 사용할 수 없는 기능이 있는 환경이라면 **실행 대신 계획과 권한 경계를 설계**합니다.
 
-## Practice 3 — MCP Trust Boundary
+## 실습 (Practice, PRAC) 3 — MCP Trust Boundary
 
 MCP Server를 연결한다고 가정하고 다음을 표로 작성합니다.
 
@@ -71,13 +71,13 @@ MCP Server를 연결한다고 가정하고 다음을 표로 작성합니다.
 | Logging | 어떤 행동을 추적할 수 있는가? |
 | Failure | 잘못된 Tool 호출 시 영향은? |
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `Chat만으로 충분한 작업`과 `Agent Mode가 더 적합한 작업`을 각각 3개 작성하세요.
 
 그리고 Agent Mode가 항상 더 좋은 선택이 아닌 이유를 설명합니다.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] CLI / Agent Mode / MCP를 각각 한 문장으로 설명 가능
 - [ ] Agent Mode와 Chat의 차이를 설명 가능

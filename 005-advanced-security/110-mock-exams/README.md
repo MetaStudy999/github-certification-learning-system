@@ -10,7 +10,7 @@
 
 **총 120문항**이며 Question Bank 100문제와 합쳐 **총 220개 자체 제작 문제**를 사용합니다.
 
-## Answer Files
+## 정답 파일 (Answer Files, AF)
 
 - [Mock 01 Answers](./010-mock-01/answers.md)
 - [Mock 02 Answers](./020-mock-02/answers.md)
@@ -18,11 +18,11 @@
 
 정답 파일은 문제를 모두 푼 뒤 확인합니다.
 
-## Domain Balance
+## 영역 Balance (Domain Balance, DB)
 
 July 2026의 6개 Domain을 기준으로 Security Suites, Secret Protection, Supply Chain Security, Code Security, Security Operations, Administration을 섞어 구성합니다.
 
-## Flow
+## 흐름 (Flow, FL)
 
 ```text
 Mock 01

@@ -1,4 +1,4 @@
-# QBank 080 — Security Operations
+# 문제은행 (Question Bank, QB) 080 — 보안 운영 (Security Operations, SO)
 
 ## Q071–Q080
 
@@ -13,7 +13,7 @@
 **Q079.** Security Operations 지표로 의미 있는 것은? A. MTTR·Open Risk·Prevention 효과 B. Star 수 C. Fork 수 D. README 길이  
 **Q080.** 운영 프로세스의 이상적인 순서는? A. Detect → Prioritize → Assign → Remediate → Verify → Learn B. Delete → Ignore C. Fork → Clone D. Star → Watch
 
-## Answers
+## 정답 (Answers, ANS)
 
 071 A · 072 A · 073 A · 074 A · 075 A · 076 A · 077 A · 078 A · 079 A · 080 A
 

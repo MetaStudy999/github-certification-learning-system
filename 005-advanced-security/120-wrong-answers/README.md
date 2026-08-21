@@ -1,6 +1,6 @@
 # 120 Wrong Answers — GH-500 오답 시스템
 
-## Error Codes
+## 오류 Codes (Error Codes, EC)
 
 | 코드 | 의미 |
 |---|---|
@@ -13,7 +13,7 @@
 | ADMIN | Policy / Role / Scope / Rollout 오류 |
 | READING | 문제 조건 해석 실패 |
 
-## Files
+## 파일 (Files, F)
 
 - [`010-error-log-template.md`](./010-error-log-template.md) — 오답 1건 분석
 - [`020-retry-queue.md`](./020-retry-queue.md) — +1일 / +7일 재시험 관리

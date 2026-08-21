@@ -1,4 +1,4 @@
-# 010 Environment Evidence Template
+# 010 환경 Evidence Template (010 Environment Evidence Template, EET)
 
 ## 기본 정보
 

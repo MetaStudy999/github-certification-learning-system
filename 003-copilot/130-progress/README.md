@@ -1,13 +1,13 @@
 # 130 Progress — GH-300 진행률 Dashboard
 
-## Status
+## 상태 (Status, S)
 
 - 콘텐츠 상태 (Content Status, CS): **CONTENT-READY**
 - 학습 상태 (Learning Status, LS): **PLANNED**
 
 > 콘텐츠 구축 상태와 실제 학습 상태를 분리합니다. 문서가 완성되어도 실제로 공부하지 않았다면 Learning Status는 `PLANNED` 또는 `READY`입니다.
 
-## Learning Status Flow
+## 학습 상태 흐름 (Learning Status Flow, LSF)
 
 ```text
 PLANNED
@@ -20,7 +20,7 @@ PLANNED
 → CLEAR
 ```
 
-## Skill Area Progress — 2026-08-07
+## Skill 영역 Progress — 2026-08-07 (Skill Area Progress — 2026-08-07, SAP)
 
 | Skill Area | Weight | Theory | Lab | QBank | Review | Status |
 |---|---:|---|---|---|---|---|
@@ -31,7 +31,7 @@ PLANNED
 | Improve developer productivity | 10–15% | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 | Configure privacy, exclusions, safeguards | 10–15% | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 
-## 7-Day Fast Track
+## 7일 단기 집중 과정 (7-Day Fast Track, 7DFT)
 
 | Day | 목표 | 완료 | 점수/메모 |
 |---:|---|---|---|
@@ -45,7 +45,7 @@ PLANNED
 
 상세 기록: [`010-daily-tracker.md`](./010-daily-tracker.md)
 
-## Exam Readiness Metrics
+## 시험 Readiness Metrics (Exam Readiness Metrics, ERM)
 
 | 지표 | 목표 | 현재 |
 |---|---:|---:|
@@ -63,7 +63,7 @@ PLANNED
 
 점수 기록: [`030-score-log.md`](./030-score-log.md)
 
-## Content Gate vs Exam Gate
+## 콘텐츠 Gate 비교 시험 Gate (Content Gate vs Exam Gate, CGEG)
 
 ```text
 CONTENT-READY
@@ -75,7 +75,7 @@ EXAM-READY
 
 두 상태를 절대 같은 의미로 사용하지 않습니다.
 
-## PASSED vs CLEAR
+## PASSED 비교 CLEAR (PASSED vs CLEAR, PASSEDCLEAR)
 
 `PASSED`:
 

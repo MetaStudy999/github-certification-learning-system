@@ -1,4 +1,4 @@
-# 090 Audit, Usage, Cost — Q081–Q090
+# 090 Audit, Usage, 비용 — Q081–Q090 (090 Audit, Usage, Cost — Q081–Q090, AUCQ081Q090)
 
 ## Q081
 "누가 Organization 설정을 변경했는가"를 조사하는 데 가장 적절한 자료는?

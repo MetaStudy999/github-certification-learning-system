@@ -1,6 +1,6 @@
 # 140 Resources — GH-300 추가 학습자료
 
-## Quick Start — Official First
+## Quick Start — Official 첫 (Quick Start — Official First, QSOF)
 
 우선순위를 다음처럼 둡니다.
 
@@ -53,7 +53,7 @@ https://learn.github.com/certification/COPILOT
 
 Practice Exam과 학습 경로를 보조로 사용합니다.
 
-## Current Version Note
+## 현재 버전 참고 (Current Version Note, CVN)
 
 이 Repository의 GH-300 학습 기준:
 
@@ -63,7 +63,7 @@ Microsoft Learn Skills measured as of 2026-08-07
 
 GitHub Learn 페이지가 이전 7개 Domain Outline을 표시하는 시점이 있을 수 있으므로 **시험 범위 판정은 Microsoft Learn 최신 Study Guide를 우선**합니다.
 
-## Topic Resource Map
+## 주제 Resource 맵 (Topic Resource Map, TRM)
 
 | Topic | 우선 자료 | 연결 |
 |---|---|---|
@@ -77,7 +77,7 @@ GitHub Learn 페이지가 이전 7개 Domain Outline을 표시하는 시점이 �
 | Testing / Productivity | GitHub Docs / Learn modules | Exercise 050 |
 | Privacy / Exclusions | GitHub Docs | Exercise 060 |
 
-## Secondary Resources Rule
+## Secondary Resources 규칙 (Secondary Resources Rule, SRR)
 
 추가 자료는 다음 조건을 만족할 때만 사용합니다.
 

@@ -2,7 +2,7 @@
 
 > 실제 시험 문제나 Brain Dump를 사용하지 않고 공식 Domain을 기준으로 자체 제작합니다.
 
-## 100-Question Structure
+## 100-질문 Structure (100-Question Structure, QS)
 
 | Set | 영역 | 문제번호 | 문항 |
 |---:|---|---|---:|
@@ -19,7 +19,7 @@
 
 **총 100문제 구축 완료**
 
-## Question Cycle
+## 질문 Cycle (Question Cycle, QC)
 
 ```text
 Scenario
@@ -38,7 +38,7 @@ Scenario
 - 2회차: 85/100 이상
 - 최근 오답 재시험: 90% 이상
 
-## Study Rule
+## Study 규칙 (Study Rule, SR)
 
 - 자율성이 가장 높은 선택지가 항상 정답이라고 가정하지 않습니다.
 - 최소 권한(Least Privilege), Scope, Checkpoint, Evaluation, Human Oversight를 함께 판단합니다.

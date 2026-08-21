@@ -1,4 +1,4 @@
-# 070 Developer Productivity — Q061–Q070
+# 070 개발자 Productivity — Q061–Q070 (070 Developer Productivity — Q061–Q070, DPQ061Q070)
 
 > Skill Area: **Improve developer productivity with GitHub Copilot**
 

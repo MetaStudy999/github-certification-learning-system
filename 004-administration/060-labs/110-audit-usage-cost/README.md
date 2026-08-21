@@ -1,10 +1,10 @@
-# Lab 110 — Audit / Usage / Cost Optimization
+# 실습 (Lab, LAB) 110 — 감사 / 사용량 / 비용 최적화 (Audit / Usage / Cost Optimization, AUCO)
 
-## Objective
+## 목표 (Objective, OBJ)
 
 Audit Log, API Usage, Adoption, Metered Usage, License Consumption을 분석해 **운영 가시성과 비용 최적화**로 연결합니다.
 
-## Concept
+## 개념 (Concept, CPT)
 
 ```text
 Audit / API / Usage Data
@@ -20,7 +20,7 @@ Policy / Capacity / License Decision
 Cost / Performance Optimization
 ```
 
-## Practice 1 — Audit Questions
+## 실습 (Practice, PRAC) 1 — 감사 질문 (Audit Questions, AQ)
 
 다음 사건이 발생했다고 가정합니다.
 
@@ -37,7 +37,7 @@ Source / actor context?
 Related changes?
 ```
 
-## Practice 2 — API Usage
+## 실습 (Practice, PRAC) 2 — API 사용량 (API Usage, APIU)
 
 Integration의 API 사용량이 급증합니다.
 
@@ -49,7 +49,7 @@ Integration의 API 사용량이 급증합니다.
 - Rate Limit 위험은?
 - Cache/Webhook/Backoff 개선이 가능한가?
 
-## Practice 3 — Adoption
+## 실습 (Practice, PRAC) 3 — 도입 (Adoption, A)
 
 가상 Report:
 
@@ -67,7 +67,7 @@ Integration의 API 사용량이 급증합니다.
 - Technical blocker
 - License assignment
 
-## Practice 4 — Cost Optimization
+## 실습 (Practice, PRAC) 4 — 비용 최적화 (Cost Optimization, CO)
 
 ```text
 Usage report
@@ -78,11 +78,11 @@ Usage report
 → Measure again
 ```
 
-## Challenge
+## 도전 과제 (Challenge, CHL)
 
 `비용 최적화 = 라이선스 수를 최대한 줄이는 것`이라는 주장에 반박하세요.
 
-## Verify
+## 검증 (Verify, VER)
 
 - [ ] Audit Log와 Diagnostics 차이 설명
 - [ ] API Usage 분석 질문 작성

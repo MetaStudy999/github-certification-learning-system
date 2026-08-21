@@ -1,4 +1,4 @@
-# Mock Exam 01 — Questions
+# Mock 시험 01 — 질문 (Mock Exam 01 — Questions, MEQ)
 
 > GH-900 학습목표 기반 자체 제작 문항입니다. 실제 시험 문항을 복제하지 않습니다.
 
@@ -6,7 +6,7 @@
 **권장 시간:** 60분  
 **목표:** 34/40 이상(85%)
 
-## Questions
+## 질문 (Questions, Q)
 
 ### Q01
 Git의 가장 핵심적인 목적은?

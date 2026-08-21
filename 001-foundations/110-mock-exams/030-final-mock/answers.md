@@ -1,4 +1,4 @@
-# Final Mock — Answer Key
+# Final Mock — 정답 Key (Final Mock — Answer Key, FMAK)
 
 | Q | Answer | 핵심 이유 |
 |---:|:---:|---|

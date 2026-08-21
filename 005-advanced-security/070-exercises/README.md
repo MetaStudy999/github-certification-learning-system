@@ -2,7 +2,7 @@
 
 > 실제 시험 문항을 복제하지 않습니다. **July 2026 GH-500 Skills Measured**를 기준으로 Risk와 GitHub Security 기능을 연결하는 수행형 과제입니다.
 
-## Exercise Areas
+## 연습문제 영역 (Exercise Areas, EA)
 
 | 코드 | 영역 | 과제 수 |
 |---:|---|---:|

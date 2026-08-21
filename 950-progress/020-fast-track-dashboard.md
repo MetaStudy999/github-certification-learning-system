@@ -11,7 +11,7 @@
 | 5 | 005 | Advanced Security | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 | 6 | 006 | Agentic AI Developer | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 
-## Weekly Decision
+## Weekly 의사결정 (Weekly Decision, WD)
 
 ```text
 주차 시작
@@ -24,7 +24,7 @@
    └─ NO  → 다음 주로 억지 진행하지 않고 Buffer 사용
 ```
 
-## Buffer Rule
+## Buffer 규칙 (Buffer Rule, BR)
 
 6주는 목표 기간이지 품질을 희생하는 강제 일정이 아닙니다. Gate를 통과하지 못한 과정은 1–2주의 Buffer를 사용하고, 점수 기준을 낮추지 않습니다.
 
