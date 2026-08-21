@@ -6,6 +6,13 @@
 
 GitHub Foundations에서 학습한 Repository·Issue·Branch·Pull Request·Review·Documentation을 하나의 작은 프로젝트에서 연결합니다.
 
+## Quick Start
+
+1. 아래 Phase 1~6을 순서대로 수행합니다.
+2. [`010-project-rubric.md`](./010-project-rubric.md)로 100점 기준 평가를 진행합니다.
+3. [`020-evidence-checklist.md`](./020-evidence-checklist.md)로 결과물을 정리합니다.
+4. 80점 이상이면 PASS, 90점 이상 + Evidence 완료 시 CLEAR 후보입니다.
+
 ## 결과물
 
 아래 항목이 모두 존재하는 Repository를 만듭니다.
@@ -98,26 +105,26 @@ Foundations에서는 깊은 구현보다 각 기능의 목적을 구분합니다
 - [ ] Actions 탭의 역할 설명
 - [ ] Copilot의 역할 설명
 - [ ] Codespaces의 역할 설명
+- [ ] Branch Protection/Ruleset의 목적 설명
 
-## 평가 기준
+## 평가
 
-| 영역 | 배점 |
-|---|---:|
-| Repository 구성 | 20 |
-| 문서 | 20 |
-| Issue/Branch 흐름 | 20 |
-| PR/Review/Merge | 20 |
-| 설명 가능성 | 20 |
-| 합계 | 100 |
+상세 평가는 [`010-project-rubric.md`](./010-project-rubric.md)를 사용합니다.
 
-**80점 이상:** PASS  
-**90점 이상 + Evidence 정리:** CLEAR 후보
+| 점수 | 판정 |
+|---:|---|
+| 90–100 + Evidence | CLEAR 후보 |
+| 80–89 | PASS |
+| 70–79 | 보완 후 재평가 |
+| <70 | 관련 Lab 재수행 |
 
 ## 최종 설명 과제
 
 프로젝트 완료 후 다음 질문에 5분 이내로 답합니다.
 
 > “이 Repository에서 GitHub Flow가 어떻게 동작했으며, 각 GitHub 기능이 어떤 문제를 해결했는가?”
+
+증거자료는 [`../150-evidence/`](../150-evidence/)에 정리합니다.
 
 ---
 
