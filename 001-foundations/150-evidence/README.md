@@ -1,8 +1,14 @@
 # 150 Evidence — 학습·실습 증거 기록
 
-## 목적
+> 자격증 합격 여부뿐 아니라 **무엇을 직접 수행했고, 검증했고, 설명할 수 있는지**를 재현 가능한 형태로 남깁니다.
 
-자격증 합격 여부뿐 아니라 **무엇을 직접 수행했고 설명할 수 있는지** 남깁니다.
+## Quick Start
+
+1. [`010-environment-template.md`](./010-environment-template.md) — 실습 환경 기록
+2. [`020-lab-evidence-template.md`](./020-lab-evidence-template.md) — Lab 수행 증거
+3. [`030-exam-evidence-template.md`](./030-exam-evidence-template.md) — 시험 결과 기록
+4. [`040-reflection-template.md`](./040-reflection-template.md) — 최종 회고와 다음 과정 연결
+5. [`090-content-verification.md`](./090-content-verification.md) — Foundations 콘텐츠 구축 검증 기록
 
 ## Evidence 종류
 
@@ -16,27 +22,22 @@
 | 060 | Practice Scores | 문제은행 점수 |
 | 070 | Mock Scores | 모의고사 결과 |
 | 080 | Exam | 응시일·결과 |
-| 090 | Reflection | 최종 회고·다음 과정 연결 |
+| 090 | Reflection / Verification | 회고·콘텐츠 검증 |
 
-## Lab Evidence Template
+## Evidence 품질 기준
+
+좋은 Evidence는 다음 네 가지를 만족합니다.
 
 ```text
-Date:
-Lab:
-Environment:
-Goal:
-Commands / Actions performed:
-Result:
-Verification:
-Related GitHub URL:
-What I learned:
-What I confused:
-Next review date:
+What      무엇을 했는가
+Why       왜 했는가
+Verify    어떻게 검증했는가
+Result    결과가 무엇인가
 ```
 
-## GitHub Flow Evidence
+가능하면 Repository, Issue, Pull Request, Commit 등 **재현 가능한 GitHub URL**을 함께 남깁니다.
 
-가능하면 다음 링크를 함께 남깁니다.
+## GitHub Flow Evidence
 
 ```text
 Repository:
@@ -48,37 +49,27 @@ Merge commit:
 Project item:
 ```
 
-## Exam Evidence
+## 보안·시험 기록 원칙
 
-시험 관련 민감 정보나 실제 시험 문제는 기록하지 않습니다.
-
-기록 가능한 범위 예시:
-
-```text
-Exam: GH-900
-Exam date:
-Result: PASS / FAIL
-Score: (공개 가능한 경우 본인 기록)
-Strong domains:
-Weak domains:
-Next action:
-```
+- 실제 시험 문제를 기록하거나 재현하지 않습니다.
+- 토큰, 비밀번호, Secret 등 민감정보를 저장하지 않습니다.
+- 화면 캡처에 개인정보나 자격증 식별정보가 포함되면 공개 여부를 확인합니다.
+- 시험 결과는 공개 가능한 정보만 기록합니다.
 
 ## CLEAR Evidence
 
 Foundations를 `CLEAR`로 변경하기 전 확인합니다.
 
-- [ ] Git 기본 Lab 수행 기록
-- [ ] Remote / Branch Lab 수행 기록
+- [ ] 환경 기록
+- [ ] Git 기본 / Remote / Branch Lab 기록
 - [ ] GitHub Flow 프로젝트 링크
-- [ ] 문제은행 결과
-- [ ] Mock 결과
-- [ ] 자격증 합격 기록
+- [ ] Repository Documentation 결과
+- [ ] 문제은행 Q001–Q100 점수
+- [ ] Mock 01 / 02 / Final 결과
+- [ ] GH-900 합격 기록
 - [ ] 최종 회고
 
 ## 다음 과정으로 전달할 지식
-
-Foundations에서 다음 과정으로 반드시 가져갑니다.
 
 ```text
 Repository / Branch / PR
@@ -96,4 +87,4 @@ Organization / Permission 기초
 
 ---
 
-[← 140 Resources](../140-resources/README.md) · [Foundations 홈](../README.md)
+[← 140 Resources](../140-resources/README.md) · [Environment Template →](./010-environment-template.md) · [Foundations 홈](../README.md)
