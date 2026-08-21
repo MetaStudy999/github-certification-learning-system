@@ -5,10 +5,11 @@ GitHub 공식 자격증 6종을 **기초 → 자동화 → AI 활용 → 운영 
 ## Quick Start
 
 1. [`000-start-here/`](./000-start-here/)에서 전체 학습 방법과 6주 Fast Track을 확인합니다.
-2. 장기 학습 구조는 `001 → 002 → 003 → 004 → 005 → 006` 순으로 사용합니다.
-3. 단기 취득 시에는 Fast Track 순서를 별도로 적용할 수 있습니다.
-4. 각 과정에서 **용어 → 개념 → 공식 문서 → 실습 → 문제풀이 → 모의고사 → 오답복습 → Evidence** 순으로 진행합니다.
-5. 모의고사 최근 2회 연속 85% 이상을 기본 시험 응시 Gate로 사용합니다.
+2. [`000-start-here/090-system-verification.md`](./000-start-here/090-system-verification.md)에서 6개 과정의 콘텐츠 구축 검증 결과를 확인합니다.
+3. 장기 학습 구조는 `001 → 002 → 003 → 004 → 005 → 006` 순으로 사용합니다.
+4. 단기 취득 시에는 Fast Track 순서를 별도로 적용할 수 있습니다.
+5. 각 과정에서 **용어 → 개념 → 공식 문서 → 실습 → 문제풀이 → 모의고사 → 오답복습 → Evidence** 순으로 진행합니다.
+6. 실제 학습자의 Exam Readiness Gate 통과 여부는 각 과정의 `130-progress/`에서 관리합니다.
 
 ## Certification Roadmap
 
@@ -19,7 +20,7 @@ GitHub 공식 자격증 6종을 **기초 → 자동화 → AI 활용 → 운영 
 | 003 | [GitHub Copilot](./003-copilot/) | GH-300 | **CONTENT-READY** | PLANNED |
 | 004 | [GitHub Administration](./004-administration/) | GH-100 | **CONTENT-READY** | PLANNED |
 | 005 | [GitHub Advanced Security](./005-advanced-security/) | GH-500 | **CONTENT-READY** | PLANNED |
-| 006 | [GitHub Agentic AI Developer](./006-agentic-ai-developer/) | GH-600 | **BUILDING** | PLANNED |
+| 006 | [GitHub Agentic AI Developer](./006-agentic-ai-developer/) | GH-600 | **CONTENT-READY** | PLANNED |
 
 > 장기 학습 순서: **Foundations → Actions → Copilot → Administration → Advanced Security → Agentic AI Developer**
 
@@ -50,6 +51,8 @@ PLANNED
 → PASSED
 → CLEAR
 ```
+
+`CONTENT-READY`는 학습 자료 구축 완료를 의미하며 `EXAM-READY`를 의미하지 않습니다.
 
 ## Learning Cycle
 
@@ -126,15 +129,16 @@ github-certification-learning-system/
 
 ## Exam Readiness Gate
 
-권장 응시 기준:
+각 과정의 세부 기준이 우선이며, 통합 권장 기준은 다음과 같습니다.
 
 - 공식 학습 자료: 100%
 - 필수 용어: 90% 이상
 - 실습: 80% 이상
 - 문제은행: 2회차 85% 이상 권장
-- 모의고사: 최근 2회 연속 85% 이상
+- Mock Exam: 85% 이상 반복 달성
 - Final Mock: 90% 이상 권장
 - 최근 오답 재시험: 90% 이상
+- 과정별 대표 프로젝트: 80점 이상 권장
 
 ## 6-Week Fast Track
 
@@ -157,6 +161,17 @@ github-certification-learning-system/
 - 실습 증거와 프로젝트 산출물은 재현 가능하도록 기록합니다.
 - 빠르게 바뀌는 GitHub 기능은 응시 직전 공식 Study Guide를 다시 검증합니다.
 
----
+## Current Phase
 
-**Current Phase:** `001–005 = CONTENT-READY` / `006 Agentic AI Developer = BUILDING`
+```text
+001 Foundations          CONTENT-READY / READY
+002 Actions              CONTENT-READY / PLANNED
+003 Copilot              CONTENT-READY / PLANNED
+004 Administration       CONTENT-READY / PLANNED
+005 Advanced Security    CONTENT-READY / PLANNED
+006 Agentic AI Developer CONTENT-READY / PLANNED
+```
+
+**Repository Content Phase: COMPLETE**
+
+다음 Phase는 `001 Foundations`부터 실제 학습을 시작하고 Progress / Score / Evidence를 누적하는 것입니다.
