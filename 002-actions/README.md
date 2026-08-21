@@ -18,8 +18,10 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **BUILDING** | 1차 콘텐츠 구축 진행 중 |
-| Learning Status | **PLANNED** | Foundations 이후 학습 예정 |
+| Content Status | **CONTENT-READY** | 이론·실습·문제·Mock·Evidence 구조 구축 완료 |
+| Learning Status | **PLANNED** | 실제 학습 시작 전 |
+
+> `CONTENT-READY`와 실제 시험 준비 상태는 다릅니다. 실제 상태는 `130-progress/020-readiness-gate.md` 기준으로 판단합니다.
 
 ## Exam Snapshot
 
@@ -44,7 +46,7 @@
 | 4. Manage GitHub Actions for the Enterprise | 20–25% |
 | 5. Secure and Optimize Automation | 10–15% |
 
-> GitHub Actions 시험은 2026년에 목표가 크게 개정되었으므로 응시 직전 최신 공식 Study Guide를 다시 확인합니다.
+> 시험 범위는 변경될 수 있으므로 응시 직전 최신 공식 Study Guide를 다시 확인합니다.
 
 ## 핵심 구조
 
@@ -63,6 +65,21 @@ Action / run command
       ↓
 Artifact / Deployment / Result
 ```
+
+## Content Inventory
+
+| 구성 | 현재 콘텐츠 |
+|---|---:|
+| Labs | 10개 — 010~100 |
+| Exercise | 6개 영역 / 60개 수행형 과제 |
+| Question Bank | Q001–Q100 |
+| Mock Exam | 3회 × 40문항 = 120문항 |
+| 자체 문제 총량 | **220문항** |
+| Final Review | Checklist / Confusion Matrix / Exam Strategy |
+| Project | CI/CD Automation Integration Project |
+| Wrong Answers | Error Log + Retry Queue |
+| Progress | Daily Tracker + Readiness Gate + Score Log |
+| Evidence | Environment / Workflow / Troubleshooting / Exam Reflection |
 
 ## 핵심 학습 영역
 
@@ -116,6 +133,18 @@ Artifact / Deployment / Result
 | 6 | Troubleshooting + Question Bank + Mock 01 |
 | 7 | Mock 02 + Final Review + Exam Gate |
 
+## Exam Readiness Gate
+
+- [ ] 공식 Study Guide 최신 확인
+- [ ] Lab 핵심 80% 이상 완료
+- [ ] Exercise 6개 영역 80% 이상 설명
+- [ ] Question Bank 1회차 80% 이상
+- [ ] Question Bank 2회차 85% 이상
+- [ ] Mock 최근 2회 연속 85% 이상
+- [ ] Final Mock 90% 이상 권장
+- [ ] 최근 오답 재시험 90% 이상
+- [ ] CI/CD Project 80점 이상
+
 ## 대표 프로젝트
 
 **GitHub Actions CI/CD Automation Project**
@@ -131,12 +160,14 @@ Matrix
       ↓
 Artifact
       ↓
-Security controls
+Reusable Automation
       ↓
-Deployment gate
+Security Controls
+      ↓
+Deployment Gate
 ```
 
-Python 애플리케이션을 대상으로 Build → Test → Artifact → 선택적 Deploy 흐름을 구성하고, 보안·권한·재사용성까지 확인합니다.
+Python 애플리케이션을 대상으로 Build → Test → Artifact → 선택적 Deploy 흐름을 구성하고, 보안·권한·재사용성·Troubleshooting까지 확인합니다.
 
 ## Official Baseline
 
