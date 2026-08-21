@@ -62,7 +62,7 @@ https://learn.github.com/certification/COPILOT
 
 > 주의: GitHub Learn 페이지가 일정 기간 이전 시험 Outline을 표시할 수 있으므로 **시험 범위 자체는 Microsoft Learn 최신 Study Guide를 우선**합니다.
 
-### 040 — GitHub Docs
+### 040 — GitHub 문서 (— GitHub Docs, GD)
 
 **GitHub Docs — GitHub Copilot**  
 https://docs.github.com/en/copilot

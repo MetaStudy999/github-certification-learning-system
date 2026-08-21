@@ -1,4 +1,4 @@
-# 100 Mixed Gate — Q091–Q100
+# 100 혼합 통과 기준 — Q091–Q100 (Mixed Gate — Q091–Q100, MGQ091Q100)
 
 ## Q091
 여러 Repository에서 같은 CI Job 구조를 공유하면서 중앙에서 업데이트하고 싶다. 가장 적절한 것은?

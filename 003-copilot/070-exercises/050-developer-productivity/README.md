@@ -18,16 +18,16 @@ Copilot을 Code Generation에만 한정하지 않고 **Refactoring, Documentatio
 ### E050-04 — 문서화 (Documentation, D)
 함수 Docstring 또는 README 초안을 Copilot에 요청한 뒤, 실제 코드와 다른 설명이 있는지 검증하는 절차를 적으세요.
 
-### E050-05 — Legacy Modernization
+### E050-05 — 레거시 현대화 (Legacy Modernization, LM)
 오래된 Library 사용 코드를 현대화할 때 확인해야 할 호환성·Test·Deprecation 항목을 5개 작성하세요.
 
-### E050-06 — Unit Test
+### E050-06 — 단위 테스트 (Unit Test, UT)
 Copilot이 만든 Unit Test에서 `Happy Path`만 있는 경우 추가해야 할 Edge Case 5개를 설계하세요.
 
 ### E050-07 — 통합 Test (Integration Test, IT)
 Unit Test와 Integration Test의 목적 차이를 설명하고 Copilot에 각각 어떤 Context를 제공할지 적으세요.
 
-### E050-08 — Assertion Quality
+### E050-08 — 단언문 품질 (Assertion Quality, AQ)
 다음 Test가 단순히 `에러가 안 난다`만 확인한다고 가정합니다. 더 강한 Assertion이 필요한 이유를 설명하세요.
 
 ### E050-09 — 보안 Suggestion (Security Suggestion, SS)

@@ -47,7 +47,7 @@
 - [x] Testing / Security / Performance
 - [x] Content Exclusion / Public Code Matching Safeguard
 
-## 4. Labs
+## 4. 실습 (Labs, L)
 
 현재 Lab Roadmap:
 
@@ -89,7 +89,7 @@
 
 **총 자체 Question Bank: 100문제**
 
-## 7. Mock Exams
+## 7. 모의고사 Exams (Mock Exams, ME)
 
 - [x] Mock 01 — 40문제 + Answer Key
 - [x] Mock 02 — 40문제 + Answer Key

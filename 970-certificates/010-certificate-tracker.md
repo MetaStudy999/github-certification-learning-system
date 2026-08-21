@@ -9,7 +9,7 @@
 | 005 | GH-500 | - | - | - | - | - | - |
 | 006 | GH-600 | - | - | - | - | - | - |
 
-## Result Values
+## 결과 값 (Result Values, RV)
 
 ```text
 SCHEDULED
@@ -21,7 +21,7 @@ RETAKE-PLANNED
 
 실제 결과가 확인된 뒤에만 값을 기록합니다.
 
-## After Passing
+## 합격 후 절차 (After Passing, AP)
 
 ```text
 PASSED

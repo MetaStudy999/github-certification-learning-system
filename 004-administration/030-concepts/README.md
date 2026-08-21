@@ -53,7 +53,7 @@ Enterprise / IdP 중심
 → 조직 업무용 Identity 통제 강화
 ```
 
-### Personal Accounts
+### 개인 계정 (Personal Accounts, PA)
 
 ```text
 개인이 소유한 GitHub 계정
@@ -107,7 +107,7 @@ Audit / Reporting / Compliance
 
 관리자는 보안 기능을 직접 사용하는 개발자 관점뿐 아니라 **활성화, 범위, Policy, 대응, 보고** 관점에서 봅니다.
 
-## 8. PAT / GitHub App / OAuth App
+## 8. PAT / GitHub 앱 / OAuth 앱 (PAT / GitHub App / OAuth App, PATGAOA)
 
 | 수단 | 중심 | 관리 관점 |
 |---|---|---|
@@ -153,7 +153,7 @@ Self-hosted Runner는 내부 Network 접근에 유리할 수 있지만 **OS Patc
 
 핵심은 **무조건 Support로 보내거나 무조건 Admin이 해결하려 하지 않는 것**입니다.
 
-## 11. Monitor → Optimize
+## 11. 모니터링 → 최적화 (Monitor → Optimize, MO)
 
 ```text
 Audit / API / Usage Data

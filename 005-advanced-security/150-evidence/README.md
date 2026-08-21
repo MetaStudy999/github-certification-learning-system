@@ -14,7 +14,7 @@
 | 080 | Project | Secure SDLC Integration |
 | 090 | Exam / Reflection | GH-500 결과와 회고 |
 
-## Templates
+## 템플릿 (Templates, TPL)
 
 - [`010-lab-evidence-template.md`](./010-lab-evidence-template.md)
 - [`020-security-operations-template.md`](./020-security-operations-template.md)

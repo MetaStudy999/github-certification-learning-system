@@ -33,7 +33,7 @@ QBank Gate
 → Exam Readiness Gate
 ```
 
-## Recommended Gate
+## 권장 통과 기준 (Recommended Gate, RG)
 
 - Mock 01: 85% 이상
 - Mock 02: 85% 이상

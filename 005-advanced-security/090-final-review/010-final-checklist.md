@@ -15,7 +15,7 @@
 - [ ] Security Overview / Prioritization / Campaign / Remediation
 - [ ] Policy / Role / Exception / Default Configuration / Automation
 
-## Score Gate
+## 점수 통과 기준 (Score Gate, SG)
 
 - [ ] QBank 1회차 80%+
 - [ ] QBank 2회차 85%+

@@ -133,7 +133,7 @@ CLEAR
 
 **READY → LEARNING → PRACTICING → REVIEWING → EXAM-READY → PASSED → CLEAR**
 
-## Official Baseline
+## 공식 기준선 (Official Baseline, OB)
 
 - Microsoft Learn — GitHub Foundations Certification  
   https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/

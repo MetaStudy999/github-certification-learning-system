@@ -31,7 +31,7 @@ git config --global user.email
 - [ ] 기본 Branch 이름 확인
 - [ ] 실습용 Repository와 실제 중요한 Repository를 구분
 
-## Notes
+## 메모 (Notes, NTS)
 
 ```text
 Environment issues:

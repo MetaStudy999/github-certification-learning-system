@@ -21,7 +21,7 @@
 - 25–30: Security Operations
 - 31–40: Administration / Mixed
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 - **34/40 이상:** 85% Gate 통과
 - **36/40 이상:** 90% 수준

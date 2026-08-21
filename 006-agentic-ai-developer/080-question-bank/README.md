@@ -32,7 +32,7 @@ Scenario
 → Retry
 ```
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 - 1회차: 80/100 이상
 - 2회차: 85/100 이상
@@ -46,7 +46,7 @@ Scenario
 - MCP는 단순한 Tool 자체가 아니라 모델과 외부 시스템의 Context/Tool 연결 표준 관점에서 이해합니다.
 - 문제는 실제 시험 문항을 복원하지 않고 공식 학습 목표를 기반으로 자체 제작합니다.
 
-## Sets
+## 세트 (Sets, SET)
 
 [`010`](./010-agent-architecture/) · [`020`](./020-planning-sdlc/) · [`030`](./030-tools-mcp/) · [`040`](./040-environment-scope/) · [`050`](./050-memory-state/) · [`060`](./060-evaluation/) · [`070`](./070-error-analysis-tuning/) · [`080`](./080-multi-agent/) · [`090`](./090-guardrails-accountability/) · [`100`](./100-mixed-gate/)
 

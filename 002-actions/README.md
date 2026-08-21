@@ -169,7 +169,7 @@ Deployment Gate
 
 Python 애플리케이션을 대상으로 Build → Test → Artifact → 선택적 Deploy 흐름을 구성하고, 보안·권한·재사용성·Troubleshooting까지 확인합니다.
 
-## Official Baseline
+## 공식 기준선 (Official Baseline, OB)
 
 - Microsoft Learn — GitHub Actions Certification  
   https://learn.microsoft.com/en-us/credentials/certifications/github-actions/

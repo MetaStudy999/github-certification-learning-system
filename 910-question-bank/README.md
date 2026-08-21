@@ -37,7 +37,7 @@ Scenario / Question
 → Retry
 ```
 
-## Common Gate
+## 공통 통과 기준 (Common Gate, CG)
 
 | 단계 | 기준 |
 |---|---:|
@@ -53,7 +53,7 @@ Scenario / Question
 - 기능이 빠르게 변하는 항목은 공식 Study Guide와 Docs로 재검증합니다.
 - 보안 설정 약화, 실제 Secret 사용, 운영 환경의 위험한 변경을 학습 정답으로 요구하지 않습니다.
 
-## Supporting Docs
+## 지원 문서 (Supporting Docs, SD)
 
 - [`010-question-bank-index.md`](./010-question-bank-index.md) — 6개 과정 문제은행 바로가기
 - [`020-question-design-standard.md`](./020-question-design-standard.md) — 자체 문제 작성 표준

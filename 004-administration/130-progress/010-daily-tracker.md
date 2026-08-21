@@ -1,4 +1,4 @@
-# GH-100 7-Day Daily Tracker
+# GH-100 7-일차 일일 추적 (7-Day Daily Tracker, DDT)
 
 | Day | Study | Lab | Questions | Score | Weakness | Done |
 |---:|---|---|---|---:|---|---|
@@ -10,7 +10,7 @@
 | 6 | Audit / Usage / Cost | 110 + QBank | Q081–Q100 + Mock 01 |  |  | ⬜ |
 | 7 | Final Review | 120 Blueprint | Mock 02 + Final |  |  | ⬜ |
 
-## Daily Log
+## 일일 기록 (Daily Log, DL)
 
 ```text
 Date:

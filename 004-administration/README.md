@@ -189,7 +189,7 @@ Operational Runbook
 - [ ] Final Mock 90% 이상 권장
 - [ ] 최근 오답 재시험 90% 이상
 
-## Official Baseline
+## 공식 기준선 (Official Baseline, OB)
 
 - Microsoft Learn — Study guide for Exam GH-100  
   https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-100

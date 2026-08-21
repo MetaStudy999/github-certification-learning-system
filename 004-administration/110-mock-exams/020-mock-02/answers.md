@@ -43,7 +43,7 @@
 | 39 | A | 통제된 Change Management 순서 |
 | 40 | A | 실습 + QBank + Mock + 오답 Gate가 종합 기준 |
 
-## Score Gate
+## 점수 통과 기준 (Score Gate, SG)
 
 - 34/40 이상: 85% 이상 — 통과
 - 36/40 이상: 90% 이상 — 우수

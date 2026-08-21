@@ -1,4 +1,4 @@
-# GH-100 Score Log
+# GH-100 점수 기록 (Score Log, SL)
 
 ## 문제은행 (Question Bank, QB)
 
@@ -15,7 +15,7 @@
 | Mock 02 | /40 |  |  | ⬜ |  |
 | 최종 모의고사 (Final Mock, FM) | /40 |  |  | ⬜ |  |
 
-## Retry
+## 재도전 (Retry, R)
 
 | Date | Questions | Correct | Percent | Status |
 |---|---:|---:|---:|---|
@@ -27,7 +27,7 @@
 |---|---:|---|---|
 | Enterprise Administration Blueprint | /100 | ⬜ | PLANNED |
 
-## EXAM-READY Check
+## EXAM-READY 점검 (EXAM-READY Check, EC)
 
 - [ ] QBank 2회차 ≥ 85%
 - [ ] 최근 Mock 2회 ≥ 85%

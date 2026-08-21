@@ -4,14 +4,14 @@
 
 시험 날짜가 왔다고 자동으로 응시하지 않습니다. 아래 Gate를 통과했을 때 `EXAM-READY`로 변경합니다.
 
-## Gate A — Knowledge
+## 통과 기준 (Gate, GATE) A — 지식 (Knowledge, K)
 
 - [ ] 공식 Study Guide 최신 범위를 확인했다.
 - [ ] 7개 Domain의 목적을 설명할 수 있다.
 - [ ] 핵심 용어 90% 이상 설명 가능하다.
 - [ ] Confusion Matrix의 유사 개념을 구분할 수 있다.
 
-## Gate B — Hands-on
+## 통과 기준 (Gate, GATE) B — 실습 (Hands-on, H)
 
 - [ ] Lab 010–100 중 핵심 Lab 80% 이상 완료
 - [ ] Issue → Branch → PR → Review → Merge 흐름 수행

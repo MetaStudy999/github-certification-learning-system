@@ -1,6 +1,6 @@
 # 110 Mock Exams — GH-500 모의고사
 
-## Mock Set
+## 모의고사 세트 (Mock Set, MS)
 
 | 코드 | 시험 | 문항 | 목표 |
 |---:|---|---:|---:|
@@ -34,7 +34,7 @@ Mock 01
 → Exam Readiness Gate
 ```
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 - 최근 2회 연속 **85% 이상**
 - Final Mock **90% 이상 권장**

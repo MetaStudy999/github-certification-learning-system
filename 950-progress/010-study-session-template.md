@@ -39,7 +39,7 @@ Next Start Point:
 Learning Status After Session:
 ```
 
-## Session Close Gate
+## 세션 종료 통과 기준 (Session Close Gate, SCG)
 
 - [ ] 오늘 목표 달성 여부를 기록했다.
 - [ ] 점수는 실제 결과만 적었다.

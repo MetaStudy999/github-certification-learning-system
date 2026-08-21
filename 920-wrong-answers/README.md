@@ -27,7 +27,7 @@
 
 각 과정의 전문 Error Code는 과정별 `120-wrong-answers/`에서 추가합니다.
 
-## Standard Retry Cycle
+## 표준 재도전 주기 (Standard Retry Cycle, SRC)
 
 ```text
 Wrong Answer

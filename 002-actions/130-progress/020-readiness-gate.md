@@ -1,6 +1,6 @@
-# 020 Readiness Gate — GH-200
+# 020 준비도 통과 기준 (Readiness Gate, RG) — GH-200
 
-## Gate A — Knowledge
+## 통과 기준 (Gate, GATE) A — 지식 (Knowledge, K)
 
 - [ ] 공식 Study Guide 최신 범위 확인
 - [ ] 5개 Domain을 설명 가능
@@ -18,7 +18,7 @@
 - [ ] Question Bank 2회차 ≥ 85/100
 - [ ] 오답 재시험 ≥ 90%
 
-## Gate D — Mock
+## 통과 기준 (Gate, GATE) D — 모의고사 (Mock, M)
 
 - [ ] Mock 01 ≥ 85%
 - [ ] Mock 02 ≥ 85%

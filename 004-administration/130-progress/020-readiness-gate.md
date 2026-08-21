@@ -1,13 +1,13 @@
 # GH-100 시험 Readiness Gate (GH-100 Exam Readiness Gate, GH-100ERG)
 
-## Gate A — Coverage
+## 통과 기준 (Gate, GATE) A — 범위 충족 (Coverage, C)
 
 - [ ] 최신 공식 Study Guide 확인
 - [ ] 5개 Skill Area 전체 학습
 - [ ] 필수 용어 90% 이상 설명 가능
 - [ ] Enterprise / Organization / Repository Scope 구분 가능
 
-## Gate B — Hands-on
+## 통과 기준 (Gate, GATE) B — 실습 (Hands-on, H)
 
 - [ ] 핵심 Lab 80% 이상 수행
 - [ ] Identity / Security / Actions / Audit Scenario 설명 가능
@@ -21,7 +21,7 @@
 - [ ] Final Mock 90% 이상 권장
 - [ ] 오답 재시험 90% 이상
 
-## Gate D — Explainability
+## 통과 기준 (Gate, GATE) D — 설명 가능성 (Explainability, E)
 
 자료 없이 다음을 설명할 수 있어야 합니다.
 

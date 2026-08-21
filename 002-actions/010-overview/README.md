@@ -4,7 +4,7 @@
 
 GH-200은 단순 YAML 문법 시험이 아니라 **Workflow 설계·사용·문제해결·Action 개발·Enterprise 운영·보안 최적화**를 함께 평가합니다.
 
-## 5 Domains
+## 5개 영역 (5 Domains, 5D)
 
 | Domain | 비중 | 핵심 질문 |
 |---|---:|---|

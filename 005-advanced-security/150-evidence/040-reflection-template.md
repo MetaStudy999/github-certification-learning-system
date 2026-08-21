@@ -1,4 +1,4 @@
-# GH-500 Final Reflection Template
+# GH-500 최종 회고 템플릿 (Final Reflection Template, FRT)
 
 ## 1. 가장 중요했던 개념 5개
 

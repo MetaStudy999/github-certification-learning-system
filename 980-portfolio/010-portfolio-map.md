@@ -18,7 +18,7 @@
 - [005 Advanced Security Project](../005-advanced-security/100-projects/)
 - [006 Agentic AI Developer Project](../006-agentic-ai-developer/100-projects/)
 
-## Portfolio Narrative
+## 포트폴리오 서사 (Portfolio Narrative, PN)
 
 6개 프로젝트를 별개 결과물로만 두지 않고 다음 이야기로 연결합니다.
 

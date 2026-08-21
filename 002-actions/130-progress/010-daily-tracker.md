@@ -1,4 +1,4 @@
-# 010 Daily Tracker — GH-200
+# 010 일일 추적 (Daily Tracker, DT) — GH-200
 
 | Day | Theory | Lab | 연습문제 (Exercises, EXR) | Questions | Score | Status |
 |---:|---|---|---|---|---:|---|
@@ -10,7 +10,7 @@
 | 6 | Troubleshooting | Lab 100 | 060 | Q081–Q100 |  | ⬜ |
 | 7 | Final Review / Mock | 약점 Lab | 전체 | Mock 01/02 |  | ⬜ |
 
-## Daily Log
+## 일일 기록 (Daily Log, DL)
 
 ```text
 Date:

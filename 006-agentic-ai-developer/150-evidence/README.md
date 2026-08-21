@@ -14,7 +14,7 @@
 | 080 | Scores | QBank / Mock / Retry |
 | 090 | Project / Exam | Project / Credential / Reflection |
 
-## Templates
+## 템플릿 (Templates, TPL)
 
 - [`010-design-evidence-template.md`](./010-design-evidence-template.md) — Agent Architecture / Tool / State / Guardrail 설계 기록
 - [`020-evaluation-evidence-template.md`](./020-evaluation-evidence-template.md) — Evaluation / Error Analysis 기록
@@ -22,7 +22,7 @@
 - [`040-reflection-template.md`](./040-reflection-template.md) — 최종 학습 회고
 - [`090-content-verification.md`](./090-content-verification.md) — Repository 콘텐츠 구축 검증
 
-## General Evidence Template
+## 공통 증빙 템플릿 (General Evidence Template, GET)
 
 ```text
 Date:

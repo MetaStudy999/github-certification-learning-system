@@ -27,7 +27,7 @@ AI가 왜 특정 구현을 선택했는지 설명하도록 요구하는 것이 �
 ### E010-07 — Human 책임성 (Human Accountability, HA)
 `Copilot이 추천했기 때문에 책임은 AI에게 있다`는 주장에 반박하는 문장 3개를 작성하세요.
 
-### E010-08 — Risk Mitigation
+### E010-08 — 위험 완화 (Risk Mitigation, RM)
 다음 위험별 완화책을 1개 이상 연결하세요.
 
 | Risk | Mitigation |
@@ -38,7 +38,7 @@ AI가 왜 특정 구현을 선택했는지 설명하도록 요구하는 것이 �
 | Bias | |
 | Outdated information | |
 
-### E010-09 — Accept / Modify / Reject
+### E010-09 — 수락 / 수정 / 거부 (Accept / Modify / Reject, AMR)
 Copilot 제안을 각각 `Accept`, `Modify`, `Reject`해야 할 예시를 하나씩 작성하고 판단 근거를 설명하세요.
 
 ### E010-10 — 책임 있는 AI 점검표 (Responsible AI Checklist, RAIC)

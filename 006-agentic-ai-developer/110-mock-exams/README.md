@@ -1,6 +1,6 @@
 # 110 Mock Exams — GH-600 모의고사
 
-## Built Set
+## 구축 세트 (Built Set, BS)
 
 | 코드 | 시험 | 문항 | 목표 |
 |---:|---|---:|---:|
@@ -28,7 +28,7 @@ Mock 01
 → Exam Gate
 ```
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 - Mock 01: 85% 이상 목표
 - Mock 02: 85% 이상 목표

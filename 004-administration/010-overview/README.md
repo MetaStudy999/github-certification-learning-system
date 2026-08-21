@@ -4,7 +4,7 @@
 
 2026년 7월 GH-100은 크게 개정되었습니다. 이 과정은 오래된 관리자 기능 목록이 아니라 **현재 5개 Skill Area**를 기준으로 학습합니다.
 
-## Skills Measured — July 2026
+## 측정 기술 (Skills Measured, SM) — July 2026
 
 | # | Skill Area | 비중 |
 |---:|---|---:|
@@ -14,7 +14,7 @@
 | 4 | Manage GitHub Actions | 20–25% |
 | 5 | Monitor and optimize GitHub usage | 10–15% |
 
-## 1. Identities and Access
+## 1. 식별과 접근 (Identities and Access, IA)
 
 반드시 이해할 내용:
 
@@ -70,7 +70,7 @@
 - Organization / Repository Secrets
 - Third-party Vaults
 
-## 5. Monitor and Optimize
+## 5. 모니터링과 최적화 (Monitor and Optimize, MO)
 
 - Audit Logs
 - API Usage

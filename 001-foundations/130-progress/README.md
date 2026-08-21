@@ -41,7 +41,7 @@ READY
 | 6. Privacy/Security/Admin | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 | 7. Community | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 
-## 7-Day Fast Track Tracker
+## 7-일차 Fast Track 추적 (7-Day Fast Track Tracker, DFTT)
 
 | Day | 목표 | 완료 | 점수/메모 |
 |---:|---|---|---|

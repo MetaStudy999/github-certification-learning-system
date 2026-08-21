@@ -89,7 +89,7 @@ Project + Mock + Evidence
 └── 150-evidence/
 ```
 
-## Assessment Volume
+## 평가 규모 (Assessment Volume, AV)
 
 ```text
 Exercises       50
@@ -138,7 +138,7 @@ Repository
 - [ ] 최근 오답 재시험 90% 이상
 - [ ] Secure SDLC Project 80점 이상 권장
 
-## Official Baseline
+## 공식 기준선 (Official Baseline, OB)
 
 - Microsoft Learn — Study guide for Exam GH-500  
   https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-500

@@ -1,6 +1,6 @@
 # 020 Lab Standard — 공통 실습 작성 표준
 
-## Recommended Structure
+## 권장 구조 (Recommended Structure, RS)
 
 ```text
 # Lab Title
@@ -25,7 +25,7 @@ Verify는 단순히 `명령이 실행됐다`가 아니라 다음 세 가지를 �
 2. **Observation** — 실제 결과를 확인
 3. **Decision** — PASS/FAIL 및 다음 행동 결정
 
-## Evidence Minimum
+## 최소 증빙 기준 (Evidence Minimum, EM)
 
 ```text
 Date:

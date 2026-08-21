@@ -45,7 +45,7 @@
 | 39 | A | 기본 환경→Policy/Exclusion 순 Troubleshoot |
 | 40 | A | 여러 보호 계층 결합 = Defense in Depth |
 
-## Score
+## 점수 (Score, SCR)
 
 ```text
 Correct:

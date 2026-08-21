@@ -1,4 +1,4 @@
-# GH-500 Score Log
+# GH-500 점수 기록 (Score Log, SL)
 
 | Date | Type | Set / Exam | Score | Percent | Weak Domain | Next Action |
 |---|---|---|---:|---:|---|---|
@@ -9,7 +9,7 @@
 | | Mock | 최종 모의고사 (Final Mock, FM) | /40 | | | |
 | | Retry | Wrong answers | | | | |
 
-## Thresholds
+## 기준값 (Thresholds, THR)
 
 - QBank 1차: 80%+
 - QBank 2차: 85%+

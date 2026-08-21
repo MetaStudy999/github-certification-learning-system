@@ -1,4 +1,4 @@
-# 030 Score Log — GH-300
+# 030 점수 기록 (Score Log, SL) — GH-300
 
 ## 문제은행 (Question Bank, QB)
 
@@ -35,7 +35,7 @@
 | Developer Productivity |  |  |  |
 | Privacy / Safeguards |  |  |  |
 
-## Trend
+## 추세 (Trend, TRD)
 
 ```text
 Attempt 1:

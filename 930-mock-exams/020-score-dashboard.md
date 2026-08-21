@@ -30,7 +30,7 @@ NOT STARTED
 
 보수적 `EXAM-READY` 판정은 세 번의 Mock이 모두 85% 이상이고 Final Mock이 90% 이상인 상태를 권장합니다.
 
-## Session Log Template
+## 세션 기록 템플릿 (Session Log Template, SLT)
 
 ```text
 Date:

@@ -85,11 +85,11 @@ Final decision:
 
 ## PASSED 비교 CLEAR (PASSED vs CLEAR, PASSEDCLEAR)
 
-### PASSED
+### 합격 상태 (PASSED, PS)
 
 - GH-300 시험 합격
 
-### CLEAR
+### 완전 완료 상태 (CLEAR, CLR)
 
 - [ ] GH-300 PASS
 - [ ] 핵심 Lab 80% 이상 완료

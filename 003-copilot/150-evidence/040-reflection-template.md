@@ -1,6 +1,6 @@
-# 040 Reflection Template — GH-300
+# 040 회고 템플릿 (Reflection Template, RT) — GH-300
 
-## 1. What changed in my understanding?
+## 1. 내 이해에서 무엇이 달라졌는가? (What changed in my understanding?, CU)
 
 ```text
 Before:
@@ -85,6 +85,6 @@ Most frequent error code:
 006 Agentic AI Developer로 가져갈 것:
 ```
 
-## 10. One-Sentence Summary
+## 10. 한 문장 요약 (One-Sentence Summary, OS)
 
 > GitHub Copilot을 책임감 있고 검증 가능하게 사용하는 핵심을 한 문장으로 작성합니다.

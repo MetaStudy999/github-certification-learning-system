@@ -45,7 +45,7 @@
 | 39 | A | Filter는 법적·정책 검토를 대체하지 않음 |
 | 40 | A | 최신 범위 + 점수 + 오답 학습이 Gate |
 
-## Score
+## 점수 (Score, SCR)
 
 ```text
 Correct:

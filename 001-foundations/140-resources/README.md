@@ -21,7 +21,7 @@
 - GitHub Certifications  
   https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications
 
-## GitHub Docs
+## GitHub 문서 (GitHub Docs, GHD)
 
 - Get Started  
   https://docs.github.com/en/get-started

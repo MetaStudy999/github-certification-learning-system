@@ -2,7 +2,7 @@
 
 > 실제 GH-300 문항을 복제하지 않습니다. 최신 공식 Skill Area를 참고해 **독립 제작한 40문항 모의고사 3회**를 사용합니다.
 
-## Mock Structure
+## 모의고사 구조 (Mock Structure, MS)
 
 | 코드 | 시험 | 문항 | 목표 |
 |---:|---|---:|---:|
@@ -44,7 +44,7 @@ Final Mock
 Exam Readiness Gate
 ```
 
-## Score Gate
+## 점수 통과 기준 (Score Gate, SG)
 
 | 점수 | 판정 | 행동 |
 |---:|---|---|

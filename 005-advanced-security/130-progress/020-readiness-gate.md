@@ -1,6 +1,6 @@
 # GH-500 시험 Readiness Gate (GH-500 Exam Readiness Gate, GH-500ERG)
 
-## Mandatory
+## 필수 (Mandatory, MND)
 
 - [ ] 최신 Microsoft Learn GH-500 Study Guide 확인
 - [ ] 6개 Domain과 비중 설명 가능
@@ -12,7 +12,7 @@
 - [ ] 최근 Mock 2회 연속 85% 이상
 - [ ] 최근 오답 재시험 90% 이상
 
-## Strongly Recommended
+## 강력 권장 (Strongly Recommended, SR)
 
 - [ ] Final Mock 90% 이상
 - [ ] Secure SDLC Project 80점 이상

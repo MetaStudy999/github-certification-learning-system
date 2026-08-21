@@ -23,7 +23,7 @@
 | 4. Manage GitHub Actions for the Enterprise | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 | 5. Secure and Optimize Automation | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
 
-## 7-Day Tracker
+## 7-일차 추적 (7-Day Tracker, DT)
 
 | Day | 목표 | 완료 | 점수/메모 |
 |---:|---|---|---|

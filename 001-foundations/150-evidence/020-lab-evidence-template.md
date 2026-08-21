@@ -1,6 +1,6 @@
-# 020 Lab Evidence Template
+# 020 실습 증빙 템플릿 (Lab Evidence Template, LET)
 
-## Lab Record
+## 실습 기록 (Lab Record, LR)
 
 ```text
 Date:
@@ -28,7 +28,7 @@ PASS / FAIL:
 How verified:
 ```
 
-## GitHub References
+## GitHub 참고자료 (GitHub References, GHR)
 
 ```text
 Repository URL:

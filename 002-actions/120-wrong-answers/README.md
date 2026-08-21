@@ -20,7 +20,7 @@
 | TROUBLE | Log·실패 원인 분석 오류 |
 | READING | 문제 조건 해석 실패 |
 
-## Retry Cycle
+## 재도전 주기 (Retry Cycle, RC)
 
 ```text
 오답
@@ -33,7 +33,7 @@
 → FIXED
 ```
 
-## Priority
+## 우선순위 (Priority, PRI)
 
 1. 같은 개념 2회 이상 오류
 2. Workflow / Enterprise 고비중 Domain

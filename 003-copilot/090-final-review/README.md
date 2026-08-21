@@ -13,7 +13,7 @@
 → Final Gate
 ```
 
-## 2026-08-07 Skills Measured
+## 2026-08-07 측정 기술 (2026-08-07 Skills Measured, SM)
 
 | Skill Area | 비중 |
 |---|---:|

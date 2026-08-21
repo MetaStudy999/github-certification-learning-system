@@ -18,10 +18,10 @@ Content Exclusion을 설정했으니 Secret Management가 필요 없다는 주�
 ### E060-04 — Public 코드 Matching (Public Code Matching, PCM)
 공개 코드와 일치하는 Suggestion을 필터링하는 기능의 목적과, 이것만으로 라이선스 검토가 완전히 끝나지 않는 이유를 설명하세요.
 
-### E060-05 — Output Ownership
+### E060-05 — 출력물 소유권 (Output Ownership, OO)
 AI Output을 사용하기 전에 조직의 법무·라이선스·정책 기준을 확인해야 하는 이유를 작성하세요.
 
-### E060-06 — Suggestions Not Showing
+### E060-06 — 제안이 표시되지 않음 (Suggestions Not Showing, SNS)
 Editor에서 Copilot Suggestion이 보이지 않을 때 확인할 순서를 작성하세요.
 
 예시 범주:
@@ -44,7 +44,7 @@ API Key를 Prompt에 넣어 디버깅하려는 동료에게 더 안전한 대안
 ### E060-09 — 개인정보 보호 비교 보안 (Privacy vs Security, PS)
 `Privacy`와 `Security`를 각각 한 문장으로 정의하고 Copilot 사용 예시를 하나씩 연결하세요.
 
-### E060-10 — Safeguard Defense in Depth
+### E060-10 — 다층 방어 안전장치 (Safeguard Defense in Depth, SDD)
 다음 보호 계층을 하나의 Defense-in-Depth 흐름으로 설명하세요.
 
 ```text

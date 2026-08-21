@@ -11,16 +11,16 @@
 3. IdP 로그인 성공
 4. Team Role 결정
 
-## E010-03 — SAML SSO
+## E010-03 — SAML 기반 싱글 사인온 (SAML Single Sign-On, SAML SSO)
 여러 SaaS에서 기업 IdP 인증을 사용하려 합니다. SAML SSO가 해결하는 문제와 해결하지 않는 문제를 각각 3개 적으세요.
 
-## E010-04 — SCIM
+## E010-04 — 도메인 간 ID 관리 시스템 (System for Cross-domain Identity Management, SCIM)
 입사·이동·퇴사에 따른 계정 Provisioning/Deprovisioning 흐름을 6단계로 설계하세요.
 
 ## E010-05 — 팀 동기화 (Team Synchronization, TS)
 IdP의 `backend-team` 그룹과 GitHub Team을 연결할 때 Team Sync가 SCIM과 다른 이유를 설명하세요.
 
-## E010-06 — 2FA
+## E010-06 — 2단계 인증 (Two-Factor Authentication, 2FA)
 SSO가 이미 있는데도 2FA 요구사항을 별도로 검토할 수 있는 이유를 설명하세요.
 
 ## E010-07 — Access 매트릭스 (Access Matrix, AM)

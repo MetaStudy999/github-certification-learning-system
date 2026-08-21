@@ -45,7 +45,7 @@
 | 39 | A | Privacy Control과 Secure Engineering을 결합 |
 | 40 | A | 최신 범위 + 반복 점수 + 오답 Gate가 적절 |
 
-## Score
+## 점수 (Score, SCR)
 
 ```text
 Correct:
@@ -61,7 +61,7 @@ Weakest skill area:
 | 30–33 | 75–82.5% | REVIEW |
 | 0–29 | <75% | NOT READY |
 
-## Final Gate
+## 최종 통과 기준 (Final Gate, FG)
 
 - [ ] Mock 02 85% 이상
 - [ ] Final Mock 90% 이상 권장

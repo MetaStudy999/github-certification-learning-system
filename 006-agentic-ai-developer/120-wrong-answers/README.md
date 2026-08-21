@@ -14,7 +14,7 @@
 | GUARD | Guardrail / Accountability 오류 |
 | READING | Scenario 조건 해석 오류 |
 
-## Retry Cycle
+## 재도전 주기 (Retry Cycle, RC)
 
 ```text
 오답
@@ -27,7 +27,7 @@
 → +7일 Retry
 ```
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 시험 전 최근 오답 재시험 **90% 이상**을 목표로 합니다.
 

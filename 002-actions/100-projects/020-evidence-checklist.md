@@ -40,7 +40,7 @@ Successful run URL:
 What I learned:
 ```
 
-## Final Evidence
+## 최종 증빙 (Final Evidence, FE)
 
 - [ ] Project Rubric 80점 이상
 - [ ] 핵심 Workflow Run 성공

@@ -37,7 +37,7 @@ Retry Date
 | L4 | Scope·권한·보안·운영 조건이 결합된 Scenario |
 | L5 | 여러 대안 중 최선의 설계·운영 선택 판단 |
 
-## Quality Gate
+## 품질 통과 기준 (Quality Gate, QG)
 
 문제를 추가하기 전에 다음을 확인합니다.
 

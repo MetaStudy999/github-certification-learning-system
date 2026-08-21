@@ -1,4 +1,4 @@
-# 100 Mixed Gate — Q091–Q100
+# 100 혼합 통과 기준 — Q091–Q100 (Mixed Gate — Q091–Q100, MGQ091Q100)
 
 ## Q091
 회사가 IdP 기반 사용자 Lifecycle 자동화와 SSO를 모두 원한다. 가장 적절한 조합은?

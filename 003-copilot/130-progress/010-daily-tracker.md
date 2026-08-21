@@ -1,4 +1,4 @@
-# 010 Daily Tracker — GH-300 7-Day Fast Track
+# 010 일일 추적 (Daily Tracker, DT) — GH-300 7-Day Fast Track
 
 ## Day 1 — 책임 있는 AI + 기초 기능 (Day 1 — Responsible AI + Basic Features, DRAIBF)
 
@@ -88,7 +88,7 @@ Top confusion:
 Next action:
 ```
 
-## Day 6 — QBank + Mock 01
+## 6일차 (Day 6, D6) — QBank + 모의고사 01 (QBank + Mock 01, QM)
 
 - [ ] Q091–Q100
 - [ ] QBank 100문제 1회차
@@ -105,7 +105,7 @@ Weak skill:
 Retry queue:
 ```
 
-## Day 7 — Mock 02 + Final
+## 7일차 (Day 7, D7) — 모의고사 02 + 최종 (Mock 02 + Final, MF)
 
 - [ ] +1일 오답 Retry
 - [ ] Mock 02

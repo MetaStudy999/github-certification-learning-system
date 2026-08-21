@@ -15,7 +15,7 @@ Topics to reinforce:
 
 > 실제 시험 문항, 기억에 의존한 시험 문제 재작성, 비공개 시험 내용은 기록하지 않습니다.
 
-## Reflection
+## 회고 (Reflection, RFL)
 
 ```text
 What I can now build:

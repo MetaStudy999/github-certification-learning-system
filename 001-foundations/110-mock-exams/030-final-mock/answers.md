@@ -43,7 +43,7 @@
 | 39 | A | Actions=자동화, Copilot=AI 보조, Codespaces=Cloud IDE입니다. |
 | 40 | A | 시험 직전에는 새 범위보다 최근 오답과 비교 개념 복습이 효율적입니다. |
 
-## Final Gate
+## 최종 통과 기준 (Final Gate, FG)
 
 - **36–40 (90%+)**: EXAM-READY
 - **34–35 (85–89%)**: 오답 재시험 후 EXAM-READY 판단

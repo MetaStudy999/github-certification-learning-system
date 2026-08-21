@@ -1,6 +1,6 @@
 # 020 프로젝트 Evidence 점검표 — GH-300 (020 Project Evidence Checklist — GH-300, PECGH-300)
 
-## 1. Requirement
+## 1. 요구사항 (Requirement, R)
 
 - [ ] `requirements.md` 또는 동등한 요구사항 기록
 - [ ] Functional Requirement
@@ -33,7 +33,7 @@
 - [ ] 사람이 직접 추가한 Test 1개 이상
 - [ ] Test 결과
 
-## 5. Debug / Refactor
+## 5. 디버그 / 리팩터 (Debug / Refactor, DR)
 
 - [ ] 실패 증상
 - [ ] AI 가설
@@ -66,7 +66,7 @@
 - [ ] Public Code Matching Safeguard 이해
 - [ ] Human Accountability 기록
 
-## 8. Final Evidence
+## 8. 최종 증빙 (Final Evidence, FE)
 
 ```text
 Repository URL:
@@ -79,7 +79,7 @@ Project score:
 Reflection:
 ```
 
-## CLEAR Gate
+## CLEAR 통과 기준 (CLEAR Gate, CLEARG)
 
 - [ ] Project Rubric 90점 이상
 - [ ] 필수 Evidence 완비

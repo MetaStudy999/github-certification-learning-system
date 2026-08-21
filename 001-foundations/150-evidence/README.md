@@ -56,7 +56,7 @@ Project item:
 - 화면 캡처에 개인정보나 자격증 식별정보가 포함되면 공개 여부를 확인합니다.
 - 시험 결과는 공개 가능한 정보만 기록합니다.
 
-## CLEAR Evidence
+## CLEAR 증빙 (CLEAR Evidence, CE)
 
 Foundations를 `CLEAR`로 변경하기 전 확인합니다.
 

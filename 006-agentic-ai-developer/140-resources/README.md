@@ -18,7 +18,7 @@
 - 기능 이름보다 설계 원칙을 설명
 - 실제 시험 유출문제나 Brain Dump가 아님
 
-## Record Template
+## 기록 템플릿 (Record Template, RT)
 
 ```text
 Title:

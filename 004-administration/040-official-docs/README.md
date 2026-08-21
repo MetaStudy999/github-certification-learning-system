@@ -39,7 +39,7 @@ Skills measured as of July 2026
 
 공식 Change Log에는 **2026년 7월 시험이 크게 변경**되었다고 명시되어 있습니다.
 
-## 020 — Certification Page
+## 020 — Certification 페이지 (— Certification Page, CP)
 
 **Microsoft Learn — GitHub Administration**  
 https://learn.microsoft.com/en-us/credentials/certifications/github-administration/

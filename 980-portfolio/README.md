@@ -34,7 +34,7 @@ Final Capstone
 AI-Native Secure Software Development Platform
 ```
 
-## Portfolio Unit
+## 포트폴리오 단위 (Portfolio Unit, PU)
 
 각 과정은 다음 묶음을 하나의 포트폴리오 단위로 봅니다.
 

@@ -25,10 +25,10 @@ IDE에서 Copilot이 유용한 응답을 만들기 위해 참고할 수 있는 C
 ### E030-03 — 프롬프트 Building (Prompt Building, PB)
 `사용자가 입력한 문장 = 모델에 전달되는 전체 Prompt`라고 단정하면 왜 부정확한지 설명하세요.
 
-### E030-04 — Proxy / Filtering
+### E030-04 — 프록시 / 필터링 (Proxy / Filtering, PF)
 Prompt 또는 Response가 서비스 계층에서 Filtering을 거칠 수 있는 이유를 안전·정책·공개 코드 일치 관점에서 설명하세요.
 
-### E030-05 — Post-processing
+### E030-05 — 후처리 (Post-processing, P)
 LLM이 Response를 생성한 직후 곧바로 정답으로 확정되지 않는 이유를 적고 Post-processing의 목적을 설명하세요.
 
 ### E030-06 — Matching Public 코드 (Matching Public Code, MPC)
@@ -37,7 +37,7 @@ LLM이 Response를 생성한 직후 곧바로 정답으로 확정되지 않는 �
 ### E030-07 — 컨텍스트 Window (Context Window, CW)
 Context Window가 제한되어 있을 때 지나치게 많은 파일을 제공하는 것이 왜 도움이 되지 않을 수 있는지 설명하세요.
 
-### E030-08 — LLM Limitations
+### E030-08 — 대규모 언어 모델 한계 (LLM Limitations, LLML)
 다음 각각에 대해 실제 개발 시 나타날 수 있는 예시를 하나씩 작성하세요.
 
 - Hallucination

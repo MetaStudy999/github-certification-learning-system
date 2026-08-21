@@ -16,7 +16,7 @@ OPEN
 → CLOSED
 ```
 
-## Close Gate
+## 종료 통과 기준 (Close Gate, CG)
 
 다음 조건을 모두 만족하면 오답을 `CLOSED`로 변경합니다.
 

@@ -160,7 +160,7 @@ Human Review / Evidence
 - [ ] 최근 오답 재시험 90% 이상
 - [ ] Agentic SDLC Design Project 80점 이상
 
-## Official Baseline
+## 공식 기준선 (Official Baseline, OB)
 
 - Microsoft Learn — GitHub Certified: Agentic AI Developer  
   https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/

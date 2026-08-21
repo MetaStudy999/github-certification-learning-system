@@ -1,6 +1,6 @@
 # 090 Verification Standard — 실습 검증 기준
 
-## Lab PASS
+## 실습 통과 (Lab PASS, LP)
 
 다음 항목을 모두 만족할 때 Lab을 `PASS`로 기록합니다.
 
@@ -11,7 +11,7 @@
 - [ ] 실패 시 최소 한 가지 Troubleshooting 경로를 확인했다.
 - [ ] Evidence를 남겼다.
 
-## Lab CLEAR
+## 실습 완전 완료 (Lab CLEAR, LC)
 
 `PASS`에 더해 다음을 만족하면 `CLEAR` 후보로 봅니다.
 

@@ -21,7 +21,7 @@
 - 가능한 경우 Screenshot보다 **재현 가능한 설정 설명과 URL/Log ID**를 함께 남깁니다.
 - 개인정보나 조직의 민감 운영정보는 공개 Repository에 기록하지 않습니다.
 
-## Templates
+## 템플릿 (Templates, TPL)
 
 - [`010-lab-evidence-template.md`](./010-lab-evidence-template.md)
 - [`020-policy-evidence-template.md`](./020-policy-evidence-template.md)

@@ -18,7 +18,7 @@
 - [x] 140 Resources
 - [x] 150 Evidence
 
-## Volume
+## 규모 (Volume, VOL)
 
 ```text
 Question Bank  100
@@ -27,7 +27,7 @@ Mock Exams     120
 Total          220 self-authored questions
 ```
 
-## Baseline
+## 기준선 (Baseline, BL)
 
 - Primary exam scope: Microsoft Learn GH-500 Study Guide
 - Skills measured: July 2026

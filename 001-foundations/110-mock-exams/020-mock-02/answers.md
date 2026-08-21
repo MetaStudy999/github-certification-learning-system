@@ -43,7 +43,7 @@
 | 39 | A | 기능별 Branch로 독립 개발할 수 있습니다. |
 | 40 | A | 작은 Branch→PR→Review→Merge가 GitHub Flow의 핵심 패턴입니다. |
 
-## Scoring
+## 채점 (Scoring, SCR)
 
 - 36–40: EXAM-READY 수준
 - 34–35: READY — Final Mock 전에 오답만 보강

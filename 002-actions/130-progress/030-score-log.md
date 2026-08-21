@@ -1,4 +1,4 @@
-# 030 Score Log — GH-200
+# 030 점수 기록 (Score Log, SL) — GH-200
 
 ## 문제은행 (Question Bank, QB)
 

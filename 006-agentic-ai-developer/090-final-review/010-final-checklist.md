@@ -16,7 +16,7 @@
 - [ ] Multi-Agent / Delegation / Handoff / Conflict
 - [ ] Guardrail / Least Privilege / HITL / HOTL / Accountability
 
-## Score Gate
+## 점수 통과 기준 (Score Gate, SG)
 
 - [ ] QBank 1회차 80%+
 - [ ] QBank 2회차 85%+

@@ -31,11 +31,11 @@ Authorization
 Organization / Repository Access
 ```
 
-### SAML SSO
+### SAML 기반 싱글 사인온 (SAML Single Sign-On, SAML SSO)
 
 `이 사람이 회사 구성원이 맞는가?`에 가까운 문제를 해결합니다.
 
-### SCIM
+### 도메인 간 ID 관리 시스템 (System for Cross-domain Identity Management, SCIM)
 
 `입사·이동·퇴사에 맞춰 GitHub 계정을 어떻게 생성·회수할 것인가?`에 가깝습니다.
 

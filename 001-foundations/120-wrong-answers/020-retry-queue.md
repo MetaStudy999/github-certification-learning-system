@@ -2,7 +2,7 @@
 
 오답을 다시 풀 시점을 관리합니다.
 
-## Queue
+## 대기열 (Queue, QUE)
 
 | Priority | Question ID | Domain | Error Code | +1 Day | +7 Days | Status |
 |---|---|---|---|---|---|---|
@@ -12,20 +12,20 @@
 
 ## Priority 규칙
 
-### HIGH
+### 높음 (HIGH, H)
 - 같은 개념을 2회 이상 틀림
 - Git/GitHub Basics 고비중 영역 반복 오류
 - Mock 02 또는 Final Mock에서 틀림
 
-### MEDIUM
+### 중간 (MEDIUM, M)
 - Compare 또는 Scenario 유형 1회 오류
 - 실습을 다시 하면 해결 가능한 오류
 
-### LOW
+### 낮음 (LOW, L)
 - 단순 기억 실수
 - 바로 수정되고 재발하지 않은 오류
 
-## Retry Gate
+## 재도전 통과 기준 (Retry Gate, RG)
 
 ```text
 오답 등록

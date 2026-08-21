@@ -21,7 +21,7 @@
 | 090 | [Troubleshooting](./090-troubleshooting/README.md) | Q081–Q090 | Logs, Conditions, Permissions |
 | 100 | [Mixed Gate](./100-mixed-gate/README.md) | Q091–Q100 | 전 범위 Scenario |
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 - 1회차: **80/100 이상**
 - 2회차: **85/100 이상**

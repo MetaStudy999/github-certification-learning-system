@@ -1,4 +1,4 @@
-# 040 Reflection Template — GH-600
+# 040 회고 템플릿 (Reflection Template, RT) — GH-600
 
 ## 학습 회고
 
@@ -20,11 +20,11 @@ Learning status after:
 10. 다음 30일 복습 계획:
 ```
 
-## One-Sentence Summary
+## 한 문장 요약 (One-Sentence Summary, OS)
 
 > Agentic AI 시스템은 단순히 자율성을 높이는 것이 아니라 **명확한 성공 기준, 최소 권한, 검증 가능한 상태, 평가, Guardrail, 인간의 책임 있는 감독**을 함께 설계해야 한다.
 
-## CLEAR Reflection Gate
+## CLEAR 회고 통과 기준 (CLEAR Reflection Gate, CLEARRG)
 
 - [ ] 6개 Domain을 내 말로 설명할 수 있음
 - [ ] 단일 Agent와 Multi-Agent 선택 근거를 설명할 수 있음

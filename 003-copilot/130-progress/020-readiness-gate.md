@@ -46,7 +46,7 @@
 
 **PASS 조건:** 2회차 85% 이상
 
-## Gate E — Mock
+## 통과 기준 (Gate, GATE) E — 모의고사 (Mock, M)
 
 | Mock | 목표 | 결과 |
 |---|---:|---:|
@@ -78,7 +78,7 @@ EXAM-READY
 
 하나라도 실패하면 `EXAM-READY`로 변경하지 않습니다.
 
-## Result
+## 결과 (Result, RST)
 
 ```text
 Date:

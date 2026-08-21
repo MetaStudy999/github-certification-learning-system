@@ -43,7 +43,7 @@
 | 39 | A | Copilot=AI 보조, Actions=Workflow 자동화입니다. |
 | 40 | B | Feature Branch와 PR/Review가 `main` 안정성 유지에 적합합니다. |
 
-## Scoring
+## 채점 (Scoring, SCR)
 
 - 36–40: EXAM-READY 수준
 - 34–35: READY — 오답만 보강

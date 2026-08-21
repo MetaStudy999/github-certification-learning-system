@@ -32,7 +32,7 @@
 | 090 | [Privacy & Safeguards](./090-privacy-safeguards/) | Q081–Q090 | Exclusion / Public Code / Troubleshooting |
 | 100 | [Mixed Exam Gate](./100-mixed-gate/) | Q091–Q100 | 전 범위 Scenario |
 
-## Skill Balance
+## 기술 균형 (Skill Balance, SB)
 
 현재 공식 비중을 참고하되 100문제를 정확한 실제 시험 배분으로 간주하지 않습니다.
 
@@ -45,7 +45,7 @@
 | Developer Productivity | 10–15% | 070–080 연결 |
 | Privacy / Safeguards | 10–15% | 090 + Mixed |
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 | 회차 | 목표 |
 |---|---:|

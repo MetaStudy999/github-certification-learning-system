@@ -1,4 +1,4 @@
-# 080 Runners, Network, Credentials — Q071–Q080
+# 080 러너, 네트워크, 자격 증명 — Q071–Q080 (Runners, Network, Credentials — Q071–Q080, RNCQ071Q080)
 
 ## Q071
 내부망 Database에 접근해야 하는 Workflow에 가장 현실적인 Runner 선택은?

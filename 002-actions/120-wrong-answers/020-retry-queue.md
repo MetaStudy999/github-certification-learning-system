@@ -1,6 +1,6 @@
-# 020 Retry Queue — GH-200
+# 020 재도전 대기열 (Retry Queue, RQ) — GH-200
 
-## Active Queue
+## 활성 대기열 (Active Queue, AQ)
 
 | ID | Domain | Error Code | +1 Day | +7 Day | Status |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 4. Troubleshooting `FIRST` 판단 오류
 5. 단순 Memory/YAML 실수
 
-## Retry Result
+## 재도전 결과 (Retry Result, RR)
 
 | 상태 | 의미 |
 |---|---|

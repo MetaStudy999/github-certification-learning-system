@@ -16,7 +16,7 @@
 | COST | License / Metered Product / Optimization 오류 |
 | READING | 문제 조건·BEST/FIRST 해석 오류 |
 
-## Retry Cycle
+## 재도전 주기 (Retry Cycle, RC)
 
 ```text
 오답
@@ -30,7 +30,7 @@
 → +7일 재시험
 ```
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 최근 오답 재시험 **90% 이상**을 시험 응시 기준으로 사용합니다.
 

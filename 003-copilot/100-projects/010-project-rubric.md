@@ -26,13 +26,13 @@
 - Test와 Human Review가 충분
 - Privacy/Security/Responsible AI Evidence가 있음
 
-### 80–89 — PASS
+### 80–89 — 통과 (PASS, P)
 
 - 핵심 Workflow는 완료
 - 일부 Evidence 또는 고급 기능 실습이 부족할 수 있음
 - 부족 영역을 보완하면 CLEAR 가능
 
-### 70–79 — REVIEW
+### 70–79 — 재검토 (REVIEW, R)
 
 - 기능 구현은 되었지만 Prompt/Context, Test, Review 또는 Evidence 중 핵심 축이 약함
 - 해당 Lab을 다시 수행

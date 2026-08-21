@@ -1,4 +1,4 @@
-# GH-100 Retry Queue
+# GH-100 재도전 대기열 (Retry Queue, RQ)
 
 | ID | Source | Skill Area | Error Code | +1 Day | +7 Day | Status |
 |---|---|---|---|---|---|---|

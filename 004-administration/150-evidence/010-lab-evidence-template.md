@@ -1,4 +1,4 @@
-# GH-100 Lab Evidence Template
+# GH-100 실습 증빙 템플릿 (Lab Evidence Template, LET)
 
 ```text
 Date:

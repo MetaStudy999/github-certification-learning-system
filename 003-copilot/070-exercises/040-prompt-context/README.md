@@ -34,7 +34,7 @@ Prompt를 명확하게 작성하고, 필요한 Context를 선택하며, Zero-sho
 ### E040-05 — Few-shot의 역효과
 잘못된 예시나 오래된 예시를 제공하면 어떤 문제가 생길 수 있는지 설명하세요.
 
-### E040-06 — Chat History
+### E040-06 — 채팅 기록 (Chat History, CH)
 이전 대화가 현재 질문에 잘못된 가정을 남길 수 있습니다. Context를 Reset/Clarify해야 할 상황을 2개 작성하세요.
 
 ### E040-07 — Verification을 Prompt에 포함

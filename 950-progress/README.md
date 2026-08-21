@@ -12,7 +12,7 @@
 6. [`030-exam-plan.md`](./030-exam-plan.md)에 실제 시험 예약일을 기록합니다.
 7. [`090-status-policy.md`](./090-status-policy.md)의 상태 정의를 기준으로 변경합니다.
 
-## Master Dashboard
+## 통합 대시보드 (Master Dashboard, MD)
 
 | 코드 | 자격증 | Content | Study | Lab | QBank | Mock | Exam | 학습 상태 (Learning Status, LS) |
 |---:|---|---|---|---|---|---|---|---|

@@ -14,7 +14,7 @@ Result: PASS / FAIL
 Score: (공개 가능한 경우)
 ```
 
-## Preparation Snapshot
+## 준비 현황 요약 (Preparation Snapshot, PS)
 
 ```text
 Question Bank score:

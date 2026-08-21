@@ -191,7 +191,7 @@ Pull Request URL 또는 학습 결과:
 배운 점:
 ```
 
-## 070. Foundations Labs Completion Gate
+## 070. Foundations 실습 완료 통과 기준 (Foundations Labs Completion Gate, FLCG)
 
 Lab 010~100을 마쳤다면 다음을 확인합니다.
 

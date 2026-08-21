@@ -1,4 +1,4 @@
-# 020 Lab Evidence Template — GH-300
+# 020 실습 증빙 템플릿 (Lab Evidence Template, LET) — GH-300
 
 ```text
 Evidence ID:

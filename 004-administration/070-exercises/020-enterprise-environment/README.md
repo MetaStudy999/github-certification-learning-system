@@ -9,7 +9,7 @@ Cloud를 사용하면서 기업이 업무 계정 수명주기를 통제하려는
 ## E020-03 — 데이터 Residency (Data Residency, DR)
 특정 지역의 데이터 저장 요구사항이 있는 Cloud 조직에서 추가 확인할 항목을 Identity, Compliance, Operations 관점에서 작성하세요.
 
-## E020-04 — GHES Responsibility
+## E020-04 — GHES 책임 범위 (GHES Responsibility, GHESR)
 GHES를 선택했을 때 조직이 맡게 되는 Infrastructure, Upgrade, Backup, Monitoring, Network 책임을 설명하세요.
 
 ## E020-05 — 관리와 지원 비교 (Admin vs Support, AS)
@@ -25,7 +25,7 @@ Support Bundle의 목적, 생성 시점, 취급 시 주의할 민감정보 위�
 ## E020-07 — 개발자 표준 (Developer Standards, DS)
 Branching, PR Review, Required Check, Release의 조직 표준 초안을 작성하세요.
 
-## E020-08 — License Consumption
+## E020-08 — 라이선스 사용량 (License Consumption, LC)
 License Entitlement와 실제 Consumption의 차이를 설명하고 과다 할당을 찾는 방법을 작성하세요.
 
 ## E020-09 — 청구 시나리오 (Billing Scenario, BS)

@@ -53,7 +53,7 @@ Related lab:
 +7 day retry:
 ```
 
-## Retry Cycle
+## 재도전 주기 (Retry Cycle, RC)
 
 ```text
 오답 발생

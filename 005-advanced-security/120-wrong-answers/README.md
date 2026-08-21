@@ -18,7 +18,7 @@
 - [`010-error-log-template.md`](./010-error-log-template.md) — 오답 1건 분석
 - [`020-retry-queue.md`](./020-retry-queue.md) — +1일 / +7일 재시험 관리
 
-## Retry Cycle
+## 재도전 주기 (Retry Cycle, RC)
 
 ```text
 오답
@@ -33,7 +33,7 @@
 → CLOSED
 ```
 
-## Gate
+## 통과 기준 (Gate, GATE)
 
 시험 전 최근 오답 재시험 **90% 이상**을 목표로 합니다.
 

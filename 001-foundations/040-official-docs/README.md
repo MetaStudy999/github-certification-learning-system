@@ -6,7 +6,7 @@ GitHub Foundations는 **공식 Study Guide를 시험 범위의 기준선(Baselin
 
 ## 1. 최우선 공식 자료
 
-### A. GH-900 Study Guide
+### A. GH-900 학습 가이드 (GH-900 Study Guide, GH-900SG)
 
 - Microsoft Learn — Study guide for Exam GH-900: GitHub Foundations
 - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-900

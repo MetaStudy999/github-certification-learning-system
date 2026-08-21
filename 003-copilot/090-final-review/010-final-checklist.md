@@ -1,6 +1,6 @@
 # 010 Final 점검표 — GH-300 (010 Final Checklist — GH-300, FCGH-300)
 
-## 1. Official Baseline
+## 1. 공식 기준선 (Official Baseline, OB)
 
 - [ ] Microsoft Learn GH-300 Study Guide를 열었다.
 - [ ] `Skills measured as of` 날짜를 확인했다.
@@ -79,7 +79,7 @@ Input / Context
 - [ ] Suggestion이 안 보일 때 Troubleshooting 순서
 - [ ] Exclusion이 기대대로 작동하지 않을 때 Troubleshooting 순서
 
-## 8. Score Gate
+## 8. 점수 통과 기준 (Score Gate, SG)
 
 | 지표 | 목표 | 결과 |
 |---|---:|---:|

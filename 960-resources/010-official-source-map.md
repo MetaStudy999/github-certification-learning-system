@@ -9,7 +9,7 @@
 | 005 | GH-500 | Microsoft Learn / GitHub Learn Advanced Security | [`140-resources`](../005-advanced-security/140-resources/) |
 | 006 | GH-600 | Microsoft Learn / GitHub Learn Agentic AI Developer | [`140-resources`](../006-agentic-ai-developer/140-resources/) |
 
-## Common Official Entry Points
+## 공통 공식 진입점 (Common Official Entry Points, COEP)
 
 - GitHub Credentials: https://learn.github.com/credentials
 - GitHub Learning Catalog: https://learn.github.com/learning

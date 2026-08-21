@@ -4,7 +4,7 @@
 **Target:** `001-foundations/`  
 **Result:** **CONTENT-READY**
 
-## 1. Top-Level Structure
+## 1. 최상위 구조 (Top-Level Structure, TLS)
 
 다음 3자리 디렉터리가 존재하는지 확인합니다.
 
