@@ -8,7 +8,7 @@ GitHub 공식 자격증 6종을 **기초 → 자동화 → AI 활용 → 운영 
 2. 장기 학습 구조는 `001 → 002 → 003 → 004 → 005 → 006` 순으로 사용합니다.
 3. 단기 취득 시에는 Fast Track 순서를 별도로 적용할 수 있습니다.
 4. 각 과정에서 **용어 → 개념 → 공식 문서 → 실습 → 문제풀이 → 모의고사 → 오답복습 → Evidence** 순으로 진행합니다.
-5. 모의고사 2회 연속 85% 이상을 시험 응시 권장 기준으로 사용합니다.
+5. 모의고사 최근 2회 연속 85% 이상을 기본 시험 응시 Gate로 사용합니다.
 
 ## Certification Roadmap
 
@@ -18,8 +18,8 @@ GitHub 공식 자격증 6종을 **기초 → 자동화 → AI 활용 → 운영 
 | 002 | [GitHub Actions](./002-actions/) | GH-200 | **CONTENT-READY** | PLANNED |
 | 003 | [GitHub Copilot](./003-copilot/) | GH-300 | **CONTENT-READY** | PLANNED |
 | 004 | [GitHub Administration](./004-administration/) | GH-100 | **CONTENT-READY** | PLANNED |
-| 005 | [GitHub Advanced Security](./005-advanced-security/) | GH-500 | **BUILDING** | PLANNED |
-| 006 | [GitHub Agentic AI Developer](./006-agentic-ai-developer/) | GH-600 | BOOTSTRAPPED | PLANNED |
+| 005 | [GitHub Advanced Security](./005-advanced-security/) | GH-500 | **CONTENT-READY** | PLANNED |
+| 006 | [GitHub Agentic AI Developer](./006-agentic-ai-developer/) | GH-600 | **BUILDING** | PLANNED |
 
 > 장기 학습 순서: **Foundations → Actions → Copilot → Administration → Advanced Security → Agentic AI Developer**
 
@@ -104,6 +104,8 @@ github-certification-learning-system/
 
 ## Standard Internal Course Structure
 
+각 과정은 다음 동일한 구조를 기본으로 합니다.
+
 ```text
 010 Overview
 020 Terms
@@ -153,8 +155,8 @@ github-certification-learning-system/
 - 실제 시험 유출문제나 Brain Dump를 사용하지 않습니다.
 - 시험 합격(`PASSED`)과 실제 학습 완료(`CLEAR`)를 구분합니다.
 - 실습 증거와 프로젝트 산출물은 재현 가능하도록 기록합니다.
-- 빠르게 바뀌는 GitHub 기능은 응시 전 공식 Study Guide를 다시 검증합니다.
+- 빠르게 바뀌는 GitHub 기능은 응시 직전 공식 Study Guide를 다시 검증합니다.
 
 ---
 
-**Current Phase:** `001 Foundations = CONTENT-READY` / `002 Actions = CONTENT-READY` / `003 Copilot = CONTENT-READY` / `004 Administration = CONTENT-READY` / `005 Advanced Security = BUILDING`
+**Current Phase:** `001–005 = CONTENT-READY` / `006 Agentic AI Developer = BUILDING`
