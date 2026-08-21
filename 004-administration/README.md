@@ -18,7 +18,7 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **BUILDING** | 2026-07 개정 범위를 기준으로 콘텐츠 구축 중 |
+| Content Status | **CONTENT-READY** | 최신 범위 기반 1차 학습·실습·문제·Mock 체계 구축 완료 |
 | Learning Status | **PLANNED** | 실제 학습 시작 전 |
 
 ## Exam Snapshot
@@ -123,6 +123,21 @@ GitHub Enterprise Server (GHES)
 └── 150-evidence/
 ```
 
+## Content Build Summary
+
+| 항목 | 구축 상태 |
+|---|---:|
+| Labs | 12개 |
+| Exercises | 50개 |
+| Question Bank | 100문제 |
+| Mock Exams | 3회 × 40문항 |
+| 자체 문제 총계 | **220문항** |
+| Final Review | 완료 |
+| Enterprise Blueprint | 완료 |
+| Wrong Answer / Retry | 완료 |
+| Progress / Gate | 완료 |
+| Evidence | 완료 |
+
 ## 7-Day Fast Track
 
 | Day | 핵심 목표 |
@@ -138,8 +153,6 @@ GitHub Enterprise Server (GHES)
 ## 대표 프로젝트
 
 **Enterprise Administration Blueprint**
-
-가상의 기업을 대상으로 다음을 설계합니다.
 
 ```text
 Business / Compliance Requirements
