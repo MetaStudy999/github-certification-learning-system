@@ -1,134 +1,212 @@
+<div align="center">
+
 # GitHub Certification Learning System
 
-GitHub 공식 자격증 6종을 **기초 → 자동화 → AI 활용 → 운영 → 보안 → Agentic AI** 흐름으로 학습하고, 시험 준비·실습·점수·자격증·포트폴리오를 하나의 Repository에서 관리하는 통합 학습 시스템입니다.
+### GitHub 자격증 6종 통합 학습 · 실습 · 시험 · Evidence · Portfolio 시스템
+
+**기초 → 자동화 → AI 활용 → 운영 → 보안 → Agentic AI**
+
+![Courses](https://img.shields.io/badge/Certification%20Courses-6%2F6%20CONTENT--READY-2ea44f?style=flat-square)
+![Question Bank](https://img.shields.io/badge/Question%20Bank-600%20Questions-0969da?style=flat-square)
+![Mock](https://img.shields.io/badge/Mock%20Exams-18%20Sets%20%7C%20720%20Questions-8250df?style=flat-square)
+![Total](https://img.shields.io/badge/Exam--style%20Content-1%2C320%20Questions-f97316?style=flat-square)
+![Verification](https://img.shields.io/badge/System%20Verification-PASS-2ea44f?style=flat-square)
+
+[**Start Here**](./000-start-here/) · [**Master Dashboard**](./950-progress/) · [**6-Week Fast Track**](./950-progress/020-fast-track-dashboard.md) · [**Question Bank**](./910-question-bank/) · [**Mock Exams**](./930-mock-exams/) · [**Portfolio**](./980-portfolio/)
+
+</div>
+
+---
+
+## 현재 시스템 상태
+
+> **Repository Content & Control Tower Phase: COMPLETE**  
+> 콘텐츠 구축 완료와 실제 학습 완료는 구분합니다. 현재 실제 학습 시작점은 **001 GitHub Foundations — READY**입니다.
+
+| 영역 | 상태 | 의미 |
+|---|---|---|
+| Certification Content | **6 / 6 CONTENT-READY** | 001–006 학습 콘텐츠 구축 완료 |
+| Shared Control Tower | **COMPLETE** | 900–980 통합 운영 영역 구축 완료 |
+| System Verification | **PASS** | 과정 구조와 Control Tower 검증 완료 |
+| Actual Learning | **READY** | Foundations부터 실제 학습 시작 가능 |
 
 ## Quick Start
 
-1. [`000-start-here/`](./000-start-here/)에서 전체 학습 방법과 6주 Fast Track을 확인합니다.
-2. [`950-progress/`](./950-progress/)에서 Master Learning Dashboard를 확인합니다.
-3. 장기 학습은 `001 → 002 → 003 → 004 → 005 → 006` 순으로 진행합니다.
-4. 단기 취득 시에는 `001 → 003 → 002 → 004 → 005 → 006` Fast Track을 적용할 수 있습니다.
-5. 각 과정에서 **용어 → 개념 → 공식 문서 → 실습 → 문제풀이 → 오답 → 모의고사 → Evidence** 순으로 진행합니다.
-6. `CONTENT-READY`와 실제 `EXAM-READY`를 구분합니다.
-
-## Certification Roadmap
-
-| 코드 | 자격증 | 시험 코드 | Content Status | Learning Status |
-|---:|---|---|---|---|
-| 001 | [GitHub Foundations](./001-foundations/) | GH-900 | **CONTENT-READY** | READY |
-| 002 | [GitHub Actions](./002-actions/) | GH-200 | **CONTENT-READY** | PLANNED |
-| 003 | [GitHub Copilot](./003-copilot/) | GH-300 | **CONTENT-READY** | PLANNED |
-| 004 | [GitHub Administration](./004-administration/) | GH-100 | **CONTENT-READY** | PLANNED |
-| 005 | [GitHub Advanced Security](./005-advanced-security/) | GH-500 | **CONTENT-READY** | PLANNED |
-| 006 | [GitHub Agentic AI Developer](./006-agentic-ai-developer/) | GH-600 | **CONTENT-READY** | PLANNED |
-
-> 장기 역량 순서: **Foundations → Actions → Copilot → Administration → Advanced Security → Agentic AI Developer**
-
-> 6주 Fast Track: **Foundations → Copilot → Actions → Administration → Advanced Security → Agentic AI Developer**
-
-## System Control Tower
-
-| 코드 | 공통 시스템 | 역할 |
+| 단계 | 바로가기 | 수행 내용 |
 |---:|---|---|
-| 900 | [Glossary](./900-glossary/) | 6개 과정 통합 용어·약어·교차 개념 |
-| 910 | [Question Bank](./910-question-bank/) | 600문항 통합 문제은행 Index |
-| 920 | [Wrong Answers](./920-wrong-answers/) | Error Code·Retry 통합 관리 |
-| 930 | [Mock Exams](./930-mock-exams/) | 720문항 Mock·Exam Gate |
-| 940 | [Labs](./940-labs/) | 과정별 Lab·Verify 표준 |
-| 950 | [Progress](./950-progress/) | Master Dashboard·Fast Track·시험 계획 |
-| 960 | [Resources](./960-resources/) | 공식 자료·최신성 검증 |
-| 970 | [Certificates](./970-certificates/) | 실제 자격 취득·Credential 기록 |
-| 980 | [Portfolio](./980-portfolio/) | 6개 과정 누적 프로젝트·Capstone |
+| 001 | [Start Here](./000-start-here/) | 전체 구조·학습 원칙·검증 상태 확인 |
+| 002 | [Master Progress](./950-progress/) | 현재 학습 상태와 다음 행동 확인 |
+| 003 | [Foundations](./001-foundations/) | 첫 실제 학습 과정 시작 |
+| 004 | [Question Bank](./910-question-bank/) | 6개 과정 문제은행 통합 탐색 |
+| 005 | [Mock Exams](./930-mock-exams/) | 모의고사와 Exam Gate 관리 |
+| 006 | [Portfolio](./980-portfolio/) | 과정별 Evidence와 최종 Capstone 연결 |
+
+```text
+실제 학습 시작
+001 Foundations
+      ↓
+Terms / Concepts / Official Docs
+      ↓
+Labs / Exercises
+      ↓
+Question Bank
+      ↓
+Wrong Answer / Retry
+      ↓
+Mock Exams
+      ↓
+Exam Readiness Gate
+      ↓
+PASSED
+      ↓
+Project / Evidence
+      ↓
+CLEAR
+```
+
+---
+
+# Certification Roadmap
+
+| 코드 | 자격증 | 시험 | Content | Learning | 바로가기 |
+|---:|---|---|---|---|---|
+| **001** | GitHub Foundations | GH-900 | ✅ CONTENT-READY | **READY** | [과정 시작](./001-foundations/) |
+| **002** | GitHub Actions | GH-200 | ✅ CONTENT-READY | PLANNED | [과정 보기](./002-actions/) |
+| **003** | GitHub Copilot | GH-300 | ✅ CONTENT-READY | PLANNED | [과정 보기](./003-copilot/) |
+| **004** | GitHub Administration | GH-100 | ✅ CONTENT-READY | PLANNED | [과정 보기](./004-administration/) |
+| **005** | GitHub Advanced Security | GH-500 | ✅ CONTENT-READY | PLANNED | [과정 보기](./005-advanced-security/) |
+| **006** | GitHub Agentic AI Developer | GH-600 | ✅ CONTENT-READY | PLANNED | [과정 보기](./006-agentic-ai-developer/) |
+
+### 장기 역량 순서
+
+```text
+001 Foundations
+      ↓
+002 Actions
+      ↓
+003 Copilot
+      ↓
+004 Administration
+      ↓
+005 Advanced Security
+      ↓
+006 Agentic AI Developer
+```
+
+### 6주 Fast Track
+
+```text
+Week 1  Foundations
+   ↓
+Week 2  Copilot
+   ↓
+Week 3  Actions
+   ↓
+Week 4  Administration
+   ↓
+Week 5  Advanced Security
+   ↓
+Week 6  Agentic AI Developer
+```
+
+[Fast Track Dashboard →](./950-progress/020-fast-track-dashboard.md)
+
+---
+
+# System Control Tower
+
+| 코드 | 시스템 | 핵심 역할 | 바로가기 |
+|---:|---|---|---|
+| **900** | Glossary | 6개 과정 통합 용어·약어·교차 개념 | [열기](./900-glossary/) |
+| **910** | Question Bank | **600문항** 통합 문제은행 Index | [열기](./910-question-bank/) |
+| **920** | Wrong Answers | Error Code·+1일/+7일 Retry 관리 | [열기](./920-wrong-answers/) |
+| **930** | Mock Exams | **18회 / 720문항** Mock·Exam Gate | [열기](./930-mock-exams/) |
+| **940** | Labs | 과정별 Lab·Challenge·Verify 표준 | [열기](./940-labs/) |
+| **950** | Progress | Master Dashboard·Fast Track·시험 계획 | [열기](./950-progress/) |
+| **960** | Resources | 공식 자료·Source Map·Freshness 관리 | [열기](./960-resources/) |
+| **970** | Certificates | 실제 시험 결과·Credential 기록 | [열기](./970-certificates/) |
+| **980** | Portfolio | 과정별 프로젝트·Evidence·Final Capstone | [열기](./980-portfolio/) |
 
 ## Current Learning Content Scale
 
 | 유형 | 현재 규모 |
 |---|---:|
-| Certification Courses | 6 |
+| Certification Courses | **6** |
 | Question Bank | **600문항** |
-| Mock Exams | **18회** |
+| Mock Exam Sets | **18회** |
 | Mock Questions | **720문항** |
-| 자체 시험형 콘텐츠 | **1,320문항** |
-| Course Projects | 6 + Final Capstone |
+| 자체 시험형 학습 콘텐츠 | **1,320문항** |
+| Course Projects | **6개** |
+| Final Capstone | **1개** |
 
-> 문제는 모두 학습용 자체 제작이며 실제 시험 유출문제·복원문제·Brain Dump를 사용하지 않습니다.
+> 모든 문제는 학습용 자체 제작 콘텐츠이며 실제 시험 유출문제·복원문제·Brain Dump를 사용하지 않습니다.
 
-## Content Status vs Learning Status
+---
 
-### Content Status
+# Status Model
+
+## Content Status
 
 ```text
 BOOTSTRAPPED
-→ BUILDING
-→ CONTENT-READY
-→ MAINTENANCE
+      ↓
+BUILDING
+      ↓
+CONTENT-READY
+      ↓
+MAINTENANCE
 ```
 
-### Learning Status
+## Learning Status
 
 ```text
 PLANNED
-→ READY
-→ LEARNING
-→ PRACTICING
-→ REVIEWING
-→ EXAM-READY
-→ PASSED
-→ CLEAR
+   ↓
+READY
+   ↓
+LEARNING
+   ↓
+PRACTICING
+   ↓
+REVIEWING
+   ↓
+EXAM-READY
+   ↓
+PASSED
+   ↓
+CLEAR
 ```
 
-`CONTENT-READY`는 학습 자료 구축 완료를 의미하고, `EXAM-READY`는 실제 학습자가 점수와 실습 Gate를 통과했다는 의미입니다.
+| 상태 | 의미 |
+|---|---|
+| `CONTENT-READY` | Repository의 학습 자료 구축 완료 |
+| `EXAM-READY` | 실제 학습자가 준비도 Gate 통과 |
+| `PASSED` | 실제 자격시험 합격 |
+| `CLEAR` | 시험 + 핵심 Lab + Project + Evidence 완료 |
 
-## Learning Cycle
+---
 
-```text
-시험 범위 확인
-   ↓
-필수 용어 / 개념
-   ↓
-공식 문서
-   ↓
-Labs / Exercises
-   ↓
-Question Bank
-   ↓
-Wrong Answer / Retry
-   ↓
-Mock Exams
-   ↓
-Exam Readiness Gate
-   ↓
-시험
-   ↓
-Project / Evidence
-   ↓
-PASSED → CLEAR
-```
+# Learning Architecture
 
-## Repository Structure
-
-```text
-github-certification-learning-system/
-├── 000-start-here/
-├── 001-foundations/
-├── 002-actions/
-├── 003-copilot/
-├── 004-administration/
-├── 005-advanced-security/
-├── 006-agentic-ai-developer/
-├── 900-glossary/
-├── 910-question-bank/
-├── 920-wrong-answers/
-├── 930-mock-exams/
-├── 940-labs/
-├── 950-progress/
-├── 960-resources/
-├── 970-certificates/
-├── 980-portfolio/
-└── 990-archive/
+```mermaid
+flowchart TD
+    A[시험 범위 확인] --> B[필수 용어 / 핵심 개념]
+    B --> C[공식 문서]
+    C --> D[Labs / Exercises]
+    D --> E[Question Bank]
+    E --> F[Wrong Answer / Retry]
+    F --> G[Mock Exams]
+    G --> H{Exam Readiness Gate}
+    H -->|미통과| B
+    H -->|통과| I[Certification Exam]
+    I --> J[PASSED]
+    J --> K[Project / Evidence]
+    K --> L[CLEAR]
 ```
 
 ## Standard Internal Course Structure
+
+각 자격증은 동일한 **3자리 번호 구조**를 사용합니다.
 
 ```text
 010 Overview
@@ -148,48 +226,92 @@ github-certification-learning-system/
 150 Evidence
 ```
 
-## Exam Readiness Gate
+---
 
-각 과정의 세부 기준이 우선이며 통합 기준은 다음과 같습니다.
+# Exam Readiness Gate
 
-- 공식 Study Guide 최신 범위 확인: 100%
-- 핵심 용어 설명: 90% 이상
-- 핵심 실습: 80% 이상
-- Question Bank 2회차: 85% 이상
-- 최근 오답 Retry: 90% 이상
-- Minimum Mock Gate: 최근 2회 연속 85% 이상
-- **Conservative Gate 권장:** Mock 01·Mock 02·Final Mock 모두 85% 이상 + Final Mock 90% 이상
-- 대표 프로젝트: 80점 이상 권장
+각 과정의 `130-progress/` 세부 기준이 최우선입니다. 통합 기준은 다음과 같습니다.
 
-상세 정책: [`930-mock-exams/090-exam-readiness-policy.md`](./930-mock-exams/090-exam-readiness-policy.md)
+| 항목 | 기준 |
+|---|---:|
+| 공식 Study Guide 최신 범위 확인 | 100% |
+| 핵심 용어 설명 | 90%+ |
+| 핵심 실습 | 80%+ |
+| Question Bank 2회차 | 85%+ |
+| 최근 오답 Retry | 90%+ |
+| Minimum Mock Gate | 최근 2회 85%+ |
+| Conservative Gate | Mock 01·02·Final 모두 85%+ |
+| Final Mock 권장 | 90%+ |
+| 대표 Project | 80점+ 권장 |
 
-## 6-Week Fast Track
+[Exam Readiness Policy →](./930-mock-exams/090-exam-readiness-policy.md)
 
-| 주차 | 목표 자격증 |
-|---:|---|
-| Week 1 | GitHub Foundations |
-| Week 2 | GitHub Copilot |
-| Week 3 | GitHub Actions |
-| Week 4 | GitHub Administration |
-| Week 5 | GitHub Advanced Security |
-| Week 6 | GitHub Agentic AI Developer |
+---
 
-통합 추적: [`950-progress/020-fast-track-dashboard.md`](./950-progress/020-fast-track-dashboard.md)
+# Repository Map
 
-## 운영 원칙
+```text
+github-certification-learning-system/
+│
+├── 000-start-here/              시작·Roadmap·Verification
+│
+├── 001-foundations/             GH-900
+├── 002-actions/                 GH-200
+├── 003-copilot/                 GH-300
+├── 004-administration/          GH-100
+├── 005-advanced-security/       GH-500
+├── 006-agentic-ai-developer/    GH-600
+│
+├── 900-glossary/                통합 용어집
+├── 910-question-bank/           통합 문제은행
+├── 920-wrong-answers/           통합 오답·Retry
+├── 930-mock-exams/              통합 Mock·Gate
+├── 940-labs/                    통합 Lab Index
+├── 950-progress/                Master Dashboard
+├── 960-resources/               공식 자료 Index
+├── 970-certificates/            자격증 취득 기록
+├── 980-portfolio/               Portfolio / Capstone
+└── 990-archive/                 Archive
+```
 
-- 모든 주요 디렉터리와 문서는 3자리 번호 체계를 사용합니다.
-- 핵심 기술 용어는 영어 원문과 한국어 뜻을 함께 표기합니다.
-- 공식 문서는 복제하지 않고 링크·핵심 요약·시험 포인트·연결 실습을 기록합니다.
-- 실제 시험 유출문제나 Brain Dump를 사용하지 않습니다.
-- 시험 합격(`PASSED`)과 실제 학습 완료(`CLEAR`)를 구분합니다.
-- 실습 증거와 프로젝트 산출물은 재현 가능하도록 기록합니다.
-- 빠르게 바뀌는 GitHub 기능은 학습 시작·시험 예약·응시 직전에 공식 Study Guide를 다시 검증합니다.
+---
 
-## Verification
+# Portfolio Growth Path
 
-- 6개 과정 콘텐츠 검증: [`000-start-here/090-system-verification.md`](./000-start-here/090-system-verification.md)
-- 통합 Control Tower 검증: [`000-start-here/095-control-tower-verification.md`](./000-start-here/095-control-tower-verification.md)
+```mermaid
+flowchart LR
+    A[Foundations<br/>Repository & Collaboration]
+    --> B[Actions<br/>CI/CD Automation]
+    --> C[Copilot<br/>AI-Assisted Development]
+    --> D[Administration<br/>Enterprise Governance]
+    --> E[Advanced Security<br/>Secure SDLC]
+    --> F[Agentic AI<br/>Agent · MCP · Evaluation · Guardrails]
+    --> G[Final Capstone<br/>AI-Native Secure Software Development Platform]
+```
+
+[Portfolio Map →](./980-portfolio/010-portfolio-map.md) · [Evidence Matrix →](./980-portfolio/020-evidence-matrix.md) · [Final Capstone →](./980-portfolio/090-final-capstone.md)
+
+---
+
+# 운영 원칙
+
+- 모든 주요 디렉터리와 문서는 **3자리 번호 체계**를 사용합니다.
+- 핵심 기술 용어는 **English Full Name + 한국어 뜻**을 함께 표기합니다.
+- 공식 문서는 복제하지 않고 **링크 + 핵심 요약 + 시험 포인트 + 관련 Lab**을 관리합니다.
+- 실제 시험 유출문제·복원문제·Brain Dump를 사용하지 않습니다.
+- `PASSED`와 `CLEAR`를 구분합니다.
+- 실제 학습 결과가 없는 항목을 임의로 완료 처리하지 않습니다.
+- Lab과 Project는 재현 가능한 Evidence를 남깁니다.
+- GitHub 기능 및 시험 범위는 **학습 시작 → 예약 전 → 응시 직전**에 공식 Study Guide로 재검증합니다.
+
+---
+
+# Verification
+
+| 검증 | 결과 | 문서 |
+|---|---|---|
+| 001–006 Course Content | **PASS** | [System Verification](./000-start-here/090-system-verification.md) |
+| 900–980 Control Tower | **PASS** | [Control Tower Verification](./000-start-here/095-control-tower-verification.md) |
 
 ## Current Phase
 
@@ -200,8 +322,14 @@ Repository System Verification PASS
 
 NEXT
 → 001 Foundations 실제 학습 시작
-→ Progress / Score / Evidence 누적
+→ Study Session / Score / Evidence 기록
 → GH-900 Exam Readiness Gate
 ```
 
-**Repository Content & Control Tower Phase: COMPLETE**
+<div align="center">
+
+### Next: [001 GitHub Foundations 시작 →](./001-foundations/)
+
+[Start Here](./000-start-here/) · [Progress](./950-progress/) · [Fast Track](./950-progress/020-fast-track-dashboard.md) · [Portfolio](./980-portfolio/)
+
+</div>
