@@ -14,30 +14,20 @@
 | 080 | Project | Secure SDLC Integration |
 | 090 | Exam / Reflection | GH-500 결과와 회고 |
 
-## Evidence Template
+## Templates
 
-```text
-Date:
-Lab / Project:
-Domain:
-Risk:
-GitHub feature:
-Configuration / Action:
-Expected result:
-Actual result:
-Verification:
-Alert / Run / Repository URL:
-Remediation:
-Security notes:
-What I learned:
-```
+- [`010-lab-evidence-template.md`](./010-lab-evidence-template.md)
+- [`020-security-operations-template.md`](./020-security-operations-template.md)
+- [`030-exam-evidence-template.md`](./030-exam-evidence-template.md)
+- [`040-reflection-template.md`](./040-reflection-template.md)
+- [`090-content-verification.md`](./090-content-verification.md)
 
 ## 안전 원칙
 
 - 실제 Secret, Token, Password를 기록하지 않습니다.
-- 취약 코드 샘플은 격리된 학습용 Repository에서만 사용합니다.
-- 공개 Repository에 조직의 실제 보안정보를 기록하지 않습니다.
-- 실제 시험 문항을 Evidence로 남기지 않습니다.
+- 공개 Repository에 조직의 실제 비공개 보안정보를 기록하지 않습니다.
+- 학습용 환경과 Production 환경을 명확히 구분합니다.
+- 실제 시험 문항·복원 문제를 Evidence로 남기지 않습니다.
 
 ## CLEAR 기준
 
