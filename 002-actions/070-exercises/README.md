@@ -1,27 +1,48 @@
 # 070 Exercises — 수행형 연습
 
-> 단순 YAML 암기가 아니라 상황에 맞는 Actions 기능을 선택하고 설명하는 연습입니다.
+> 단순 YAML 암기가 아니라 상황에 맞는 GitHub Actions 기능을 선택하고 설명하는 연습입니다.
+
+## Quick Start
+
+각 Exercise는 **기능 이름 → 선택 이유 → 대안이 덜 적절한 이유 → 관련 Lab** 순서로 답합니다.
 
 ## Exercise Areas
 
-| 코드 | 영역 | 예시 과제 |
+| 코드 | 영역 | 핵심 과제 |
 |---:|---|---|
-| 010 | Workflow | Event와 Job 구조 설계 |
-| 020 | Context | Expression과 조건문 판단 |
-| 030 | Reuse | Reusable Workflow vs Composite Action |
-| 040 | Runner | GitHub-hosted vs Self-hosted 선택 |
-| 050 | Security | Permission, Secret, OIDC 시나리오 |
-| 060 | Troubleshooting | 실패 Log 분석 |
+| 010 | [Workflow Authoring](./010-workflow-authoring/README.md) | Event, Job, Step, Dependency |
+| 020 | [Contexts & Expressions](./020-contexts-expressions/README.md) | Context, Expression, Conditional |
+| 030 | [Reuse & Custom Actions](./030-reuse-custom-actions/README.md) | Reusable Workflow, Composite, JS/Docker Action |
+| 040 | [Runners & Enterprise](./040-runners-enterprise/README.md) | GitHub-hosted, Self-hosted, Runner Group |
+| 050 | [Security & Optimization](./050-security-optimization/README.md) | Permission, Secret, OIDC, Pinning, Cache |
+| 060 | [Troubleshooting](./060-troubleshooting/README.md) | Log 분석, 실패 원인, 재실행 전략 |
 
-## Starter Exercises
+## Recommended Order
 
-1. Push와 PR에서만 Test가 실행되는 Workflow 구조를 설명하세요.
-2. Python 3.11/3.12 × Ubuntu/Windows Matrix의 Job 개수를 계산하세요.
-3. Build 결과를 다음 Job에 전달할 때 Cache와 Artifact 중 무엇을 쓸지 설명하세요.
-4. 회사 공통 CI를 여러 Repository에서 사용하려면 Reusable Workflow와 Composite Action 중 무엇이 적합한지 판단하세요.
-5. 내부망 DB에 접근해야 할 때 Self-hosted Runner를 고려하는 이유와 보안 책임을 설명하세요.
-6. Cloud 배포에서 장기 Access Key 대신 OIDC를 고려하는 이유를 설명하세요.
+```text
+010 Workflow Authoring
+  ↓
+020 Contexts & Expressions
+  ↓
+030 Reuse & Custom Actions
+  ↓
+040 Runners & Enterprise
+  ↓
+050 Security & Optimization
+  ↓
+060 Troubleshooting
+  ↓
+080 Question Bank
+```
 
 ## 완료 기준
 
-답에 반드시 **기능 이름 + 선택 이유 + 대안이 덜 적절한 이유**를 포함합니다.
+- [ ] 6개 영역을 모두 수행
+- [ ] 각 답에 선택 이유를 기술
+- [ ] 비교형 문제에서 대안의 한계까지 설명
+- [ ] 틀린 Exercise는 관련 Lab을 다시 수행
+- [ ] 최소 80% 이상을 자료 없이 설명
+
+---
+
+[← 060 Labs](../060-labs/README.md) · [다음: 080 Question Bank →](../080-question-bank/README.md)
