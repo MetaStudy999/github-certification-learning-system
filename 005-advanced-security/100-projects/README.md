@@ -8,7 +8,7 @@
 
 ```text
 Code
-→ Push Protection
+→ Secret Prevention / Detection
 → Pull Request
 → Dependency Review
 → CodeQL / Code Security
@@ -16,37 +16,33 @@ Code
 → Security Overview
 → Triage / Campaign
 → Remediation
-→ Enterprise Policy
+→ Organization / Enterprise Governance
 ```
 
 ## 필수 요구사항
 
 - [ ] Secret Protection 설계
-- [ ] Push Protection / Bypass 정책
+- [ ] Push Protection / Exception Governance 설명
 - [ ] Dependency Graph / Dependabot Alert
-- [ ] Dependency Review
-- [ ] SBOM 활용 설명
-- [ ] CodeQL Default 또는 Advanced Setup
+- [ ] Dependency Review / SBOM
+- [ ] CodeQL Default 또는 Advanced Setup 선택 근거
 - [ ] SARIF 역할 설명
 - [ ] Alert Triage / Dismissal 정책
 - [ ] Security Campaign 설계
 - [ ] Organization / Enterprise Rollout 정책
+- [ ] Evidence / Verification
 
-## 평가 기준
+## Project Files
 
-| 영역 | 배점 |
-|---|---:|
-| Secure SDLC Architecture | 15 |
-| Secret Protection | 15 |
-| Supply Chain Security | 15 |
-| Code Security | 20 |
-| Security Operations | 15 |
-| Administration / Governance | 10 |
-| Evidence / Explainability | 10 |
-| **합계** | **100** |
+- [`010-project-rubric.md`](./010-project-rubric.md)
+- [`020-evidence-checklist.md`](./020-evidence-checklist.md)
 
-**80점 이상:** PASS  
-**90점 이상 + Evidence:** CLEAR 후보
+## 판정
+
+- **80점 이상:** PASS
+- **90점 이상 + Evidence:** CLEAR 후보
+
+> 실제 운영 보안 통제를 학습 목적으로 약화시키지 않고 학습용 Repository와 고수준 설계 중심으로 수행합니다.
 
 ---
 [← 090 Final Review](../090-final-review/README.md) · [다음: 110 Mock Exams →](../110-mock-exams/README.md)
