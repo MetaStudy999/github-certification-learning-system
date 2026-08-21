@@ -7,19 +7,23 @@
 
 ## Quick Start
 
-1. `010-overview/`에서 6개 시험 Domain을 확인합니다.
-2. `020-terms/`에서 Agent, Tool, MCP, Memory, State, Evaluation, Guardrail 등 핵심 용어를 익힙니다.
-3. `030-concepts/`에서 Planning, Execution, Evaluation, Human Oversight의 관계를 이해합니다.
-4. `040-official-docs/`의 Microsoft Learn GH-600 Study Guide와 GitHub Learn을 기준 자료로 사용합니다.
-5. `060-labs/`에서는 안전한 Sandbox와 문서 기반 Scenario로 핵심 개념을 연습합니다.
-6. Exercises → Question Bank → Mock → Wrong Answers → Evidence 순으로 준비합니다.
+1. [`010-overview/`](./010-overview/)에서 6개 시험 Domain을 확인합니다.
+2. [`020-terms/`](./020-terms/)에서 Agent, Tool, MCP, Memory, State, Evaluation, Guardrail 등 핵심 용어를 익힙니다.
+3. [`030-concepts/`](./030-concepts/)에서 Planning, Execution, Evaluation, Human Oversight의 관계를 이해합니다.
+4. [`040-official-docs/`](./040-official-docs/)의 Microsoft Learn GH-600 Study Guide와 GitHub Learn을 기준 자료로 사용합니다.
+5. [`060-labs/`](./060-labs/)에서 안전한 Sandbox와 문서 기반 Scenario로 핵심 개념을 연습합니다.
+6. [`070-exercises/`](./070-exercises/) → [`080-question-bank/`](./080-question-bank/) → [`110-mock-exams/`](./110-mock-exams/) → [`120-wrong-answers/`](./120-wrong-answers/) 순으로 시험 준비를 진행합니다.
+7. [`130-progress/`](./130-progress/)의 Exam Readiness Gate를 통과한 뒤 실제 응시 상태를 `EXAM-READY`로 변경합니다.
+8. [`150-evidence/`](./150-evidence/)에서 설계·평가·시험·회고 Evidence를 관리합니다.
 
 ## Status
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **BUILDING** | 현재 GH-600 시험 범위 기반 콘텐츠 구축 중 |
+| Content Status | **CONTENT-READY** | GH-600 학습·실습·문제·Mock·Evidence 구축 완료 |
 | Learning Status | **PLANNED** | 실제 학습 시작 전 |
+
+> 콘텐츠 구축 검증: [`150-evidence/090-content-verification.md`](./150-evidence/090-content-verification.md)
 
 ## Exam Snapshot
 
@@ -33,7 +37,7 @@
 | 현재 Microsoft Learn 기준 응시료 | USD 165 (지역별 차이 가능) |
 | 자격 유효기간 | 24개월 |
 
-> GitHub Learn은 현재 자격증 이름에 `(beta)`를 표시하는 반면 Microsoft Learn 자격증 페이지는 `GitHub Certified: Agentic AI Developer`로 표시합니다. 실제 예약·점수 처리 상태는 시험 예약 화면을 최종 기준으로 확인합니다.
+> GitHub Learn은 자격증 이름이나 beta 상태 표기가 Microsoft Learn과 일시적으로 다를 수 있습니다. 실제 예약·점수 처리 상태는 시험 예약 시점의 공식 화면을 최종 기준으로 확인합니다.
 
 ## Current Exam Domains
 
@@ -76,6 +80,21 @@ Requirement
 - Human-in-the-loop / Human Oversight
 - Inspectable Artifacts / Auditability
 
+## Built Learning Assets
+
+| 영역 | 구축 결과 |
+|---|---:|
+| Labs | 12개 |
+| Exercises | 60개 |
+| Question Bank | 100문제 |
+| Mock Exams | 3회 × 40문제 = 120문제 |
+| 자체 시험형 문제 | **총 220문제** |
+| Final Review | 완료 |
+| Agentic SDLC Design Project | 완료 |
+| Wrong Answer / Retry | 완료 |
+| Progress / Exam Gate | 완료 |
+| Evidence Templates | 완료 |
+
 ## Directory Map
 
 ```text
@@ -103,14 +122,43 @@ Requirement
 
 Agent가 개발 Workflow에 참여하는 상황을 가정해 다음을 문서 기반으로 설계합니다.
 
-- 입력과 성공 기준
-- 계획과 실행의 분리
-- 필요한 도구와 최소 권한
-- 상태와 실행 기록
-- 평가 기준
-- 다중 Agent가 필요한 조건
-- Guardrail과 Human Review
-- 실패 시 중단·복구·책임 추적 원칙
+```text
+Requirement / Issue
+        ↓
+Architecture / Success Criteria
+        ↓
+Structured Plan
+        ↓
+Review Gate
+        ↓
+Controlled Tool / MCP Design
+        ↓
+State / Checkpoint
+        ↓
+Evaluation / Error Analysis
+        ↓
+Optional Multi-Agent Coordination
+        ↓
+Guardrails / Accountability
+        ↓
+Human Review / Evidence
+```
+
+## Exam Readiness Gate
+
+- [ ] 최신 공식 GH-600 Study Guide 확인
+- [ ] 6개 Domain과 비중 설명 가능
+- [ ] Planning / Execution / Tool / MCP / Scope를 구분 가능
+- [ ] Memory / State / Checkpoint / Resume를 설명 가능
+- [ ] Evaluation과 Error Analysis를 설계 가능
+- [ ] Single Agent와 Multi-Agent 선택 근거 설명 가능
+- [ ] Guardrail / Accountability / Human Oversight 설명 가능
+- [ ] Labs 80% 이상
+- [ ] Question Bank 2회차 85% 이상
+- [ ] Mock 01 / Mock 02 각각 85% 이상
+- [ ] Final Mock 90% 이상 권장
+- [ ] 최근 오답 재시험 90% 이상
+- [ ] Agentic SDLC Design Project 80점 이상
 
 ## Official Baseline
 
