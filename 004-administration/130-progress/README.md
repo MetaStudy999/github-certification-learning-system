@@ -2,10 +2,10 @@
 
 ## Status
 
-- Content Status: **BUILDING**
+- Content Status: **CONTENT-READY**
 - Learning Status: **PLANNED**
 
-> 콘텐츠 구축 상태와 실제 개인 학습 상태를 분리합니다.
+> 콘텐츠 구축 상태와 실제 개인 학습 상태를 분리합니다. `CONTENT-READY`는 자료 준비 완료를 뜻하며 실제 시험 준비 완료를 뜻하지 않습니다.
 
 ## Learning Status Flow
 
@@ -62,6 +62,18 @@ PLANNED
 - [`010-daily-tracker.md`](./010-daily-tracker.md)
 - [`020-readiness-gate.md`](./020-readiness-gate.md)
 - [`030-score-log.md`](./030-score-log.md)
+
+## Content Build Summary
+
+- Labs: **12개**
+- Exercises: **50개**
+- Question Bank: **100문제**
+- Mock Exams: **3회 × 40문항 = 120문항**
+- 자체 문제 총계: **220문항**
+- Final Review: 완료
+- Enterprise Administration Blueprint: 완료
+- Wrong Answer / Retry System: 완료
+- Evidence Templates: 완료
 
 ## PASSED vs CLEAR
 
