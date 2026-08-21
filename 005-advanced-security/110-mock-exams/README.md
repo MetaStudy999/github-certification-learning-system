@@ -1,38 +1,46 @@
 # 110 Mock Exams — GH-500 모의고사
 
-## 계획
-
-자체 제작 Mock 3회를 사용합니다.
+## Mock Set
 
 | 코드 | 시험 | 문항 | 목표 |
 |---:|---|---:|---:|
-| 010 | Mock 01 | 40 | 85%+ |
-| 020 | Mock 02 | 40 | 85%+ |
-| 030 | Final Mock | 40 | 90%+ 권장 |
+| 010 | [Mock 01](./010-mock-01/questions.md) | 40 | 85%+ |
+| 020 | [Mock 02](./020-mock-02/questions.md) | 40 | 85%+ |
+| 030 | [Final Mock](./030-final-mock/questions.md) | 40 | 90%+ 권장 |
+
+**총 120문항**이며 Question Bank 100문제와 합쳐 **총 220개 자체 제작 문제**를 사용합니다.
+
+## Answer Files
+
+- [Mock 01 Answers](./010-mock-01/answers.md)
+- [Mock 02 Answers](./020-mock-02/answers.md)
+- [Final Mock Answers](./030-final-mock/answers.md)
+
+정답 파일은 문제를 모두 푼 뒤 확인합니다.
 
 ## Domain Balance
 
-6개 Domain의 현재 비중을 참고해 Secret Protection, Supply Chain, Code Security, Security Operations, Administration을 균형 있게 구성합니다.
+July 2026의 6개 Domain을 기준으로 Security Suites, Secret Protection, Supply Chain Security, Code Security, Security Operations, Administration을 섞어 구성합니다.
 
 ## Flow
 
 ```text
 Mock 01
 → 오답 분류
-→ 약점 Lab
+→ 약점 Lab / QBank
 → Mock 02
 → 오답 재시험
 → Final Mock
-→ Exam Gate
+→ Exam Readiness Gate
 ```
 
 ## Gate
 
-- 최근 2회 연속 85% 이상
-- Final Mock 90% 이상 권장
-- 오답 재시험 90% 이상
+- 최근 2회 연속 **85% 이상**
+- Final Mock **90% 이상 권장**
+- 최근 오답 재시험 **90% 이상**
 
-> Mock 문제는 자체 제작하며 실제 시험 문제를 복제하지 않습니다.
+> 실제 시험 문제·복원 문제·Brain Dump는 포함하지 않습니다.
 
 ---
-[← 100 Projects](../100-projects/README.md) · [다음: 120 Wrong Answers →](../120-wrong-answers/README.md)
+[← 100 Projects](../100-projects/README.md) · [Mock 01 시작](./010-mock-01/questions.md) · [다음: 120 Wrong Answers →](../120-wrong-answers/README.md)
