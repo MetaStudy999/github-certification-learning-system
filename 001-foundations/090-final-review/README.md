@@ -2,7 +2,13 @@
 
 ## Quick Start
 
-시험 직전에는 새로운 내용을 크게 늘리지 않습니다. **헷갈리는 비교 + 오답 + 공식 Domain** 중심으로 압축합니다.
+시험 직전에는 새로운 내용을 크게 늘리지 않습니다. **헷갈리는 비교 + 최근 오답 + 공식 Domain** 중심으로 압축합니다.
+
+추가 자료:
+
+- [`010-final-checklist.md`](./010-final-checklist.md) — 최종 점검표
+- [`020-confusion-matrix.md`](./020-confusion-matrix.md) — 헷갈리는 개념 비교
+- [`030-exam-day-strategy.md`](./030-exam-day-strategy.md) — 시험 당일 전략
 
 ## 1. 10분 핵심 비교
 
@@ -19,6 +25,8 @@
 | Actions | Codespaces | 자동화 vs 개발환경 |
 | Copilot | Actions | AI 개발 보조 vs Workflow 자동화 |
 | Open Source | InnerSource | 공개 협업 vs 조직 내부 오픈소스 방식 |
+
+더 많은 비교는 [`020-confusion-matrix.md`](./020-confusion-matrix.md)를 사용합니다.
 
 ## 2. Repository 파일 5종
 
@@ -92,10 +100,11 @@ Gist       → 작은 코드·메모 공유
 ## 8. 시험 직전 Gate
 
 - [ ] Domain 7개를 순서와 비중까지 확인했다.
-- [ ] 10개 비교 항목을 자료 없이 설명한다.
+- [ ] 핵심 비교 항목을 자료 없이 설명한다.
 - [ ] GitHub Flow를 직접 설명한다.
 - [ ] Repository 핵심 파일 5종을 구분한다.
 - [ ] Mock Exam 최근 2회가 85% 이상이다.
+- [ ] Final Mock 90% 이상을 권장한다.
 - [ ] 최근 오답 재시험이 90% 이상이다.
 - [ ] 공식 Study Guide 변경사항을 다시 확인했다.
 
@@ -106,6 +115,8 @@ Gist       → 작은 코드·메모 공유
 3. 익숙한 단어 하나만 보고 답을 고르지 않습니다.
 4. 비슷한 기능은 목적을 기준으로 비교합니다.
 5. 모르는 문제에 오래 머무르지 않고 전체 시간을 관리합니다.
+
+상세 전략은 [`030-exam-day-strategy.md`](./030-exam-day-strategy.md)를 확인합니다.
 
 ---
 
