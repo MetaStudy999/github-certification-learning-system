@@ -1,5 +1,17 @@
 # 150 Evidence — GH-200 학습·실습 증거
 
+## Quick Start
+
+실습과 시험 결과를 단순 체크가 아니라 **재현 가능한 Evidence**로 남깁니다.
+
+## Evidence Files
+
+- [010 Environment Template](./010-environment-template.md)
+- [020 Workflow Evidence Template](./020-workflow-evidence-template.md)
+- [030 Troubleshooting Evidence Template](./030-troubleshooting-evidence-template.md)
+- [040 Exam & Reflection Template](./040-exam-reflection-template.md)
+- [090 Content Verification](./090-content-verification.md)
+
 ## 기록 대상
 
 | 코드 | Evidence | 예시 |
@@ -13,35 +25,6 @@
 | 070 | Troubleshooting | 실패 → 원인 → 수정 → 성공 |
 | 080 | Scores | Question Bank / Mock |
 | 090 | Exam / Reflection | GH-200 결과와 회고 |
-
-## Workflow Evidence Template
-
-```text
-Date:
-Lab:
-Repository:
-Workflow file:
-Workflow run URL:
-Event:
-Runner:
-Expected result:
-Actual result:
-Verification:
-What I learned:
-Security notes:
-```
-
-## Troubleshooting Evidence
-
-```text
-Failure symptom:
-Failed job / step:
-Log clue:
-Root cause:
-Fix:
-Successful run URL:
-Prevention:
-```
 
 ## 보안 원칙
 
@@ -59,3 +42,7 @@ Prevention:
 - [ ] Troubleshooting Evidence
 - [ ] Question / Mock 기록
 - [ ] 최종 Reflection
+
+---
+
+[← 140 Resources](../140-resources/README.md) · [Actions 홈](../README.md)
