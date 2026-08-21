@@ -1,26 +1,29 @@
 # GitHub Certification Learning System
 
-GitHub 공식 자격증 6종을 **기초 → AI 활용 → 자동화 → 운영 → 보안 → Agentic AI** 흐름으로 학습하고, 시험 준비와 실습 결과를 하나의 저장소에서 관리하기 위한 통합 학습 시스템입니다.
+GitHub 공식 자격증 6종을 **기초 → 자동화 → AI 활용 → 운영 → 보안 → Agentic AI** 흐름으로 학습하고, 시험 준비와 실습 결과를 하나의 저장소에서 관리하기 위한 통합 학습 시스템입니다.
 
 ## Quick Start
 
 1. `000-start-here/`에서 전체 학습 방법과 6주 Fast Track을 확인합니다.
-2. `001-foundations/`부터 순서대로 학습합니다.
-3. 각 과정에서 **용어 → 개념 → 공식 문서 → 실습 → 문제풀이 → 모의고사 → 오답복습** 순으로 진행합니다.
-4. 모의고사 2회 연속 85% 이상을 시험 응시 권장 기준으로 사용합니다.
+2. 장기 학습 구조는 `001 → 002 → 003 → 004 → 005 → 006` 순으로 사용합니다.
+3. 단기 취득 시에는 Fast Track 순서를 별도로 적용할 수 있습니다.
+4. 각 과정에서 **용어 → 개념 → 공식 문서 → 실습 → 문제풀이 → 모의고사 → 오답복습** 순으로 진행합니다.
+5. 모의고사 2회 연속 85% 이상을 시험 응시 권장 기준으로 사용합니다.
 
 ## Certification Roadmap
 
-| 코드 | 자격증 | 시험 코드 | 권장 순서 | 상태 |
+| 코드 | 자격증 | 시험 코드 | 장기 학습 순서 | 상태 |
 |---:|---|---|---:|---|
 | 001 | GitHub Foundations | GH-900 | 1 | READY |
-| 002 | GitHub Copilot | GH-300 | 2 | PLANNED |
-| 003 | GitHub Actions | GH-200 | 3 | PLANNED |
+| 002 | GitHub Actions | GH-200 | 2 | PLANNED |
+| 003 | GitHub Copilot | GH-300 | 3 | PLANNED |
 | 004 | GitHub Administration | GH-100 | 4 | PLANNED |
 | 005 | GitHub Advanced Security | GH-500 | 5 | PLANNED |
 | 006 | GitHub Agentic AI Developer | GH-600 | 6 | PLANNED |
 
-> Fast Track 순서: **Foundations → Copilot → Actions → Administration → Advanced Security → Agentic AI Developer**
+> 장기 학습 순서: **Foundations → Actions → Copilot → Administration → Advanced Security → Agentic AI Developer**
+
+> 6주 Fast Track 순서: **Foundations → Copilot → Actions → Administration → Advanced Security → Agentic AI Developer**
 
 ## Learning Cycle
 
@@ -54,8 +57,8 @@ CLEAR
 github-certification-learning-system/
 ├── 000-start-here/
 ├── 001-foundations/
-├── 002-copilot/
-├── 003-actions/
+├── 002-actions/
+├── 003-copilot/
 ├── 004-administration/
 ├── 005-advanced-security/
 ├── 006-agentic-ai-developer/
