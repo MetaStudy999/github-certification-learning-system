@@ -5,20 +5,20 @@
 
 ## Quick Start
 
-1. `010-overview/`에서 GH-300 시험 영역을 확인합니다.
-2. `020-terms/`에서 Generative AI, LLM, Prompt, Context 등 핵심 용어를 학습합니다.
-3. `030-concepts/`에서 Copilot의 작동 방식과 개발 Workflow를 연결합니다.
-4. `040-official-docs/`를 공식 기준 자료로 사용합니다.
-5. `060-labs/`에서 Chat, Completion, Prompt, Test, Refactoring, Privacy를 직접 실습합니다.
-6. `070-exercises/`와 `080-question-bank/`로 Scenario 판단력을 강화합니다.
-7. `110-mock-exams/`과 `120-wrong-answers/`로 시험 준비도를 검증합니다.
-8. `130-progress/`와 `150-evidence/`에서 실제 학습 결과를 별도로 관리합니다.
+1. [`010-overview/`](./010-overview/)에서 **2026-08-07 적용 시험 범위**를 먼저 확인합니다.
+2. [`020-terms/`](./020-terms/)에서 Generative AI, LLM, Prompt, Context, Agent Mode, MCP, CLI 등 핵심 용어를 학습합니다.
+3. [`030-concepts/`](./030-concepts/)에서 Copilot의 데이터 흐름, Prompt/Context, Human Review 구조를 연결합니다.
+4. [`040-official-docs/`](./040-official-docs/)의 Microsoft Learn Study Guide를 시험 범위의 1차 기준으로 사용합니다.
+5. [`060-labs/`](./060-labs/)에서 IDE, CLI, Agent Mode, MCP, Testing, Code Review, Privacy를 직접 실습합니다.
+6. [`070-exercises/`](./070-exercises/)와 [`080-question-bank/`](./080-question-bank/)로 Scenario 판단력을 강화합니다.
+7. [`110-mock-exams/`](./110-mock-exams/)과 [`120-wrong-answers/`](./120-wrong-answers/)로 시험 준비도를 검증합니다.
+8. [`130-progress/`](./130-progress/)와 [`150-evidence/`](./150-evidence/)에서 실제 학습 결과를 별도로 관리합니다.
 
 ## Status
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **BUILDING** | 콘텐츠 구축 진행 중 |
+| Content Status | **BUILDING** | 2026-08 개정 범위 반영 및 문제·Mock 구축 중 |
 | Learning Status | **PLANNED** | 실제 학습 시작 전 |
 
 ## Exam Snapshot
@@ -28,39 +28,60 @@
 | 자격증 | GitHub Copilot |
 | 시험 | GH-300 |
 | 수준 | Intermediate (중급) |
-| 기준 응시료 | USD 99 (지역에 따라 달라질 수 있음) |
-| 현재 학습 기준 | 2026-08-21 |
+| 시험 시간 | 100분 |
+| 응시 언어 | English, Portuguese, Spanish, Korean, Japanese |
+| 기준 응시료 | USD 99 (지역별 가격이 다를 수 있음) |
+| 자격 유효기간 | 24개월 |
+| 현재 학습 기준 | **Skills measured as of 2026-08-07** |
 
-## Current Exam Domains
+## Current Skills Measured — 2026-08-07
 
-| Domain | 시험 비중 |
+Microsoft Learn의 현재 GH-300 Study Guide 기준입니다.
+
+| Skill Area | 시험 비중 |
 |---|---:|
-| Responsible AI | 7% |
-| GitHub Copilot plans and features | 31% |
-| How GitHub Copilot works and handles data | 15% |
-| Prompt crafting and prompt engineering | 9% |
-| Developer use cases for AI | 14% |
-| Testing with GitHub Copilot | 9% |
-| Privacy fundamentals and context exclusions | 15% |
+| 1. Use GitHub Copilot responsibly | 15–20% |
+| 2. Use GitHub Copilot features | 25–30% |
+| 3. Understand GitHub Copilot data and architecture | 10–15% |
+| 4. Apply prompt engineering and context crafting | 10–15% |
+| 5. Improve developer productivity with GitHub Copilot | 10–15% |
+| 6. Configure privacy, content exclusions, and safeguards | 10–15% |
 
-> 시험 범위와 제품 기능은 변경될 수 있으므로 응시 직전 최신 공식 Study Guide를 다시 확인합니다.
+> **중요:** GitHub Learn의 자격증 페이지가 이전 7개 Domain 비중을 표시하는 시점이 있을 수 있습니다. 이 Repository에서는 **Microsoft Learn의 최신 GH-300 Study Guide(2026-08-07 적용)**를 시험 범위 기준으로 사용하고, GitHub Learn은 보조 자료로 교차 확인합니다.
+
+## 2026 개정에서 반드시 포함할 기능
+
+- Copilot in the IDE / Inline Suggestions / Chat
+- **GitHub Copilot CLI**
+- **Agent Mode / Agent Sessions / Sub-Agents**
+- **Copilot Edits**
+- **MCP (Model Context Protocol)**
+- Copilot Code Review / Pull Request Summaries
+- Spaces / Spark
+- Instructions files / Prompt files
+- Organization-wide Policy / Audit Log / Subscription Management
+- Data Flow / Prompt Building / Proxy Filtering / Post-processing
+- Zero-shot / Few-shot / Context Crafting
+- Code Generation / Refactoring / Documentation / Testing
+- Security / Performance Suggestions
+- Content Exclusions / Public Code Matching Filter / Troubleshooting
 
 ## 핵심 구조
 
 ```text
 Developer Intent
       ↓
-Prompt + Context
+Prompt + Context + Instructions
       ↓
-GitHub Copilot
+Copilot (IDE / CLI / Agent)
       ↓
-Suggestion / Chat Response
+Suggestion / Edit / Agent Action
       ↓
 Human Review
       ↓
 Code / Test / Refactor / Documentation
       ↓
-Verify + Security + Privacy
+Run / Test / Security / Privacy Verification
 ```
 
 ## Directory Map
@@ -84,6 +105,18 @@ Verify + Security + Privacy
 └── 150-evidence/
 ```
 
+## 7-Day Fast Track
+
+| Day | 핵심 목표 |
+|---:|---|
+| 1 | Responsible AI + Copilot IDE/Chat/CLI 기본 |
+| 2 | Agent Mode / Edits / MCP / Code Review / Spaces / Spark |
+| 3 | Data Flow / Architecture / LLM Limitations |
+| 4 | Prompt Engineering / Context Crafting / Instructions / Prompt Files |
+| 5 | Productivity / Testing / Security / Privacy / Exclusions |
+| 6 | Exercises + Question Bank + 약점 Lab + Mock 01 |
+| 7 | Mock 02 + Final Review + Exam Readiness Gate |
+
 ## 대표 프로젝트
 
 **AI-Assisted Development Project**
@@ -91,9 +124,9 @@ Verify + Security + Privacy
 ```text
 Requirements
    ↓
-Prompt / Context
+Prompt / Context / Instructions
    ↓
-Implementation
+Implementation or Agent Task
    ↓
 Test Generation
    ↓
@@ -101,17 +134,34 @@ Debugging
    ↓
 Refactoring
    ↓
-Documentation
+Code Review / Documentation
    ↓
 Human Review / Verification
+   ↓
+Privacy / Security Check
 ```
+
+## Exam Readiness Gate
+
+- [ ] 최신 Microsoft Learn GH-300 Study Guide 확인
+- [ ] 6개 Skill Area를 비중과 함께 설명 가능
+- [ ] IDE / CLI / Agent Mode / MCP의 역할을 구분 가능
+- [ ] Prompt와 Context를 설계하고 결과를 검증 가능
+- [ ] Data Flow와 LLM/Copilot 한계를 설명 가능
+- [ ] Responsible AI / Privacy / Content Exclusion / Safeguard 설명 가능
+- [ ] Question Bank 2회차 85% 이상
+- [ ] Mock Exam 최근 2회 연속 85% 이상
+- [ ] Final Mock 90% 이상 권장
+- [ ] 최근 오답 재시험 90% 이상
 
 ## Official Baseline
 
-- GitHub Learn — GitHub Copilot Certification  
-  https://learn.github.com/certification/COPILOT
+- Microsoft Learn — Study guide for Exam GH-300  
+  https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-300
 - Microsoft Learn — GitHub Copilot Certification  
   https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/
+- GitHub Learn — GitHub Copilot Certification  
+  https://learn.github.com/certification/COPILOT
 - GitHub Docs — GitHub Copilot  
   https://docs.github.com/en/copilot
 
