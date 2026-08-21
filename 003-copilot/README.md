@@ -18,8 +18,10 @@
 
 | 구분 | 상태 | 의미 |
 |---|---|---|
-| Content Status | **BUILDING** | 2026-08 개정 범위 반영 및 문제·Mock 구축 중 |
+| Content Status | **CONTENT-READY** | 2026-08 개정 범위·Lab·100문제·Mock·Evidence 구축 완료 |
 | Learning Status | **PLANNED** | 실제 학습 시작 전 |
+
+콘텐츠 구축 검증: [`150-evidence/090-content-verification.md`](./150-evidence/090-content-verification.md)
 
 ## Exam Snapshot
 
@@ -105,6 +107,18 @@ Run / Test / Security / Privacy Verification
 └── 150-evidence/
 ```
 
+## Content Snapshot
+
+```text
+Labs               13개
+Exercises           60개
+Question Bank       100문제
+Mock Exams          3회 × 40 = 120문제
+자체 문제 총계      220문제
+Final Review        Checklist + Confusion Matrix + Exam Strategy
+Project             AI-Assisted Development Project + Rubric + Evidence
+```
+
 ## 7-Day Fast Track
 
 | Day | 핵심 목표 |
@@ -115,7 +129,7 @@ Run / Test / Security / Privacy Verification
 | 4 | Prompt Engineering / Context Crafting / Instructions / Prompt Files |
 | 5 | Productivity / Testing / Security / Privacy / Exclusions |
 | 6 | Exercises + Question Bank + 약점 Lab + Mock 01 |
-| 7 | Mock 02 + Final Review + Exam Readiness Gate |
+| 7 | Mock 02 + Final Mock + Final Review + Exam Readiness Gate |
 
 ## 대표 프로젝트
 
