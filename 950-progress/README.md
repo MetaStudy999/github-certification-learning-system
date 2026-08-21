@@ -1,22 +1,73 @@
-# 950 Progress — 학습 진행률
+# 950 Progress — Master Learning Dashboard
 
-## 전체 Dashboard
+6개 GitHub 자격증의 **Content Status와 실제 Learning Status를 분리**하여 관리하는 통합 Control Tower입니다.
 
-| 코드 | 자격증 | Study | Lab | Questions | Mock | Exam | Status |
-|---:|---|---|---|---|---|---|---|
-| 001 | GitHub Foundations | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | READY |
-| 002 | GitHub Actions | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
-| 003 | GitHub Copilot | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
-| 004 | GitHub Administration | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
-| 005 | GitHub Advanced Security | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
-| 006 | GitHub Agentic AI Developer | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+## Quick Start
 
-## 상태 체계
+1. 이 Dashboard에서 전체 상태를 확인합니다.
+2. 실제 학습을 시작한 과정만 `Learning Status`를 변경합니다.
+3. 상세 점수와 일일 기록은 각 과정의 `130-progress/`에서 관리합니다.
+4. [`020-fast-track-dashboard.md`](./020-fast-track-dashboard.md)에서 6주 Fast Track을 추적합니다.
+5. [`030-exam-plan.md`](./030-exam-plan.md)에 실제 시험 예약일을 기록합니다.
+6. [`090-status-policy.md`](./090-status-policy.md)의 상태 정의를 기준으로 변경합니다.
 
-`PLANNED → READY → LEARNING → PRACTICING → REVIEWING → EXAM-READY → PASSED → CLEAR`
+## Master Dashboard
+
+| 코드 | 자격증 | Content | Study | Lab | QBank | Mock | Exam | Learning Status |
+|---:|---|---|---|---|---|---|---|---|
+| 001 | GitHub Foundations | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | READY |
+| 002 | GitHub Actions | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 003 | GitHub Copilot | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 004 | GitHub Administration | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 005 | GitHub Advanced Security | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+| 006 | GitHub Agentic AI Developer | **CONTENT-READY** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | PLANNED |
+
+## Course Progress Links
+
+| 코드 | 상세 Progress |
+|---:|---|
+| 001 | [`Foundations`](../001-foundations/130-progress/) |
+| 002 | [`Actions`](../002-actions/130-progress/) |
+| 003 | [`Copilot`](../003-copilot/130-progress/) |
+| 004 | [`Administration`](../004-administration/130-progress/) |
+| 005 | [`Advanced Security`](../005-advanced-security/130-progress/) |
+| 006 | [`Agentic AI Developer`](../006-agentic-ai-developer/130-progress/) |
+
+## Learning Status Flow
+
+```text
+PLANNED
+→ READY
+→ LEARNING
+→ PRACTICING
+→ REVIEWING
+→ EXAM-READY
+→ PASSED
+→ CLEAR
+```
+
+## 핵심 구분
+
+```text
+CONTENT-READY
+= Repository의 학습 콘텐츠 구축 완료
+
+EXAM-READY
+= 실제 학습자의 시험 준비도 Gate 통과
+
+PASSED
+= 자격시험 합격
+
+CLEAR
+= 시험 + 핵심 실습 + 프로젝트 + Evidence 완료
+```
 
 ## 기록 원칙
 
-- 매 학습 세션 종료 시 현재 Domain과 다음 시작점을 기록합니다.
-- 점수는 모의고사별로 누적 기록합니다.
-- PASSED 이후에도 실습과 프로젝트가 미완료면 CLEAR로 변경하지 않습니다.
+- 학습하지 않은 항목을 완료 처리하지 않습니다.
+- 점수는 실제 결과만 기록합니다.
+- 시험 예약일·응시일·합격 여부는 확정된 정보만 기록합니다.
+- `PASSED` 이후에도 프로젝트/Evidence가 미완료면 `CLEAR`로 변경하지 않습니다.
+
+---
+[통합 README](../README.md)
