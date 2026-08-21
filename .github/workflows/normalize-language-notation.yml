@@ -1,0 +1,53 @@
+name: 한글·영어·약어 표기 정규화 (Language Notation Normalization, LNN)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/normalize-language-notation.yml'
+      - 'scripts/normalize-language-notation.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: language-notation-normalization
+  cancel-in-progress: false
+
+jobs:
+  normalize:
+    name: 문서 표기 정규화 (Normalize Documentation, ND)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃 (Checkout Repository, CO)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python 설정 (Setup Python, PY)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 표기 정규화 실행 (Run Normalizer, RN)
+        run: python scripts/normalize-language-notation.py
+
+      - name: 변경 검증 (Validate Changes, VC)
+        run: git diff --check
+
+      - name: 변경사항 커밋 (Commit Changes, CC)
+        shell: bash
+        run: |
+          if git diff --quiet && git diff --cached --quiet && [ -z "$(git status --porcelain)" ]; then
+            echo "No documentation changes required."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "docs: normalize Korean-English-abbreviation notation"
+          git push origin HEAD:main
